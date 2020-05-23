@@ -1,0 +1,2251 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:24:27] filterscripts = ""  (string)
+[03:24:27] 
+[03:24:27] Server Plugins
+[03:24:27] --------------
+[03:24:27]  Loading plugin: crashdetect.dll
+[03:24:31]   CrashDetect v4.15.1 is OK.
+[03:24:31]   Loaded.
+[03:24:31]  Loading plugin: streamer.dll
+[03:24:32] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[03:24:32]   Loaded.
+[03:24:32]  Loading plugin: mysql.dll
+[03:24:34]  >> plugin.mysql: R41-2 successfully loaded.
+[03:24:34]   Loaded.
+[03:24:34]  Loading plugin: Encrypt.dll
+[03:24:35] 
+
+[03:24:35] ______________________________________
+
+[03:24:35]  Encrypt Plugin v0.1 loaded
+[03:24:35] ______________________________________
+
+[03:24:35]  By: Fro (c) Copyright <TBG> 2009-2010
+[03:24:35] ______________________________________
+
+[03:24:35]   Loaded.
+[03:24:35]  Loaded 4 plugins.
+
+[03:24:35] 
+[03:24:35] Ban list
+[03:24:35] --------
+[03:24:35]  Loaded: samp.ban
+[03:24:35] 
+[03:24:35] I couldn't load any gamemode scripts. Please verify your server.cfg
+[03:24:35] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:37:12] filterscripts = ""  (string)
+[03:37:12] 
+[03:37:12] Server Plugins
+[03:37:12] --------------
+[03:37:12]  Loading plugin: crashdetect.dll
+[03:37:12]   CrashDetect v4.15.1 is OK.
+[03:37:12]   Loaded.
+[03:37:12]  Loading plugin: streamer.dll
+[03:37:12] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[03:37:12]   Loaded.
+[03:37:12]  Loading plugin: mysql.dll
+[03:37:13]  >> plugin.mysql: R41-2 successfully loaded.
+[03:37:13]   Loaded.
+[03:37:13]  Loading plugin: Encrypt.dll
+[03:37:14] 
+
+[03:37:14] ______________________________________
+
+[03:37:14]  Encrypt Plugin v0.1 loaded
+[03:37:14] ______________________________________
+
+[03:37:14]  By: Fro (c) Copyright <TBG> 2009-2010
+[03:37:14] ______________________________________
+
+[03:37:14]   Loaded.
+[03:37:14]  Loaded 4 plugins.
+
+[03:37:14] 
+[03:37:14] Ban list
+[03:37:14] --------
+[03:37:14]  Loaded: samp.ban
+[03:37:14] 
+[03:37:14] 
+[03:37:14] Filterscripts
+[03:37:14] ---------------
+[03:37:14]   Loaded 0 filterscripts.
+
+[03:37:14] GameMode LVRP
+[03:37:14] ---------------
+[03:37:14] [MYSQL] Connexion en cours ...
+[03:37:16] [MYSQL] Connexion perdu, reconnexion en cours ...
+[03:37:16] [MYSQL] Impossible de se reconnecter, arret du serveur
+[03:37:16] Informations
+[03:37:16] --------------
+[03:37:16] Gamemode pour SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
+[03:37:16] - Developped by Dark_Rider29 (Samp Forum)
+[03:37:16] - Mapped by Lurtz59
+[03:37:16]  
+[03:37:16] Logs
+[03:37:16] ------
+[03:37:16] Number of vehicle models: 0
+[03:37:16] --- Server Shutting Down.
+[03:37:16] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+[03:37:16] plugin.mysql: Unloading plugin...
+[03:37:17] plugin.mysql: Plugin unloaded.
+[03:37:17] 
+
+[03:37:17] ______________________________________
+
+[03:37:17]  Encrypt Plugin v0.1 unloaded
+[03:37:17] ______________________________________
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:39:52] filterscripts = ""  (string)
+[03:39:52] 
+[03:39:52] Server Plugins
+[03:39:52] --------------
+[03:39:52]  Loading plugin: crashdetect.dll
+[03:39:52]   CrashDetect v4.15.1 is OK.
+[03:39:52]   Loaded.
+[03:39:52]  Loading plugin: streamer.dll
+[03:39:52] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[03:39:52]   Loaded.
+[03:39:52]  Loading plugin: mysql.dll
+[03:39:52]  >> plugin.mysql: R41-2 successfully loaded.
+[03:39:52]   Loaded.
+[03:39:52]  Loading plugin: Encrypt.dll
+[03:39:52] 
+
+[03:39:52] ______________________________________
+
+[03:39:52]  Encrypt Plugin v0.1 loaded
+[03:39:52] ______________________________________
+
+[03:39:52]  By: Fro (c) Copyright <TBG> 2009-2010
+[03:39:52] ______________________________________
+
+[03:39:52]   Loaded.
+[03:39:52]  Loaded 4 plugins.
+
+[03:39:52] 
+[03:39:52] Ban list
+[03:39:52] --------
+[03:39:52]  Loaded: samp.ban
+[03:39:52] 
+[03:39:52] 
+[03:39:52] Filterscripts
+[03:39:52] ---------------
+[03:39:52]   Loaded 0 filterscripts.
+
+[03:39:52] GameMode LVRP
+[03:39:52] ---------------
+[03:39:52] [MYSQL] Connexion en cours ...
+[03:39:52] [MYSQL] Connexion reussie
+[03:39:52]  
+[03:39:52] [STREAMER] Chargement du streamer ..
+[03:39:52] [STREAMER] Streamer chargé
+[03:39:52]  
+[03:39:52] [SETTINGS] Chargement des paramètres ..
+[03:39:52] [SETTINGS] AntiCheat : 1 - Inscription IG : 1 - Beta : 0 - Bots : 1
+[03:39:52]  
+[03:39:52] [INIT] Chargement des variables depuis le bdd ..
+[03:39:53]     .. FBI chargé.
+[03:39:53]     .. listes models changées
+[03:39:54]   Filterscript 'mapping.amx' loaded.
+[03:39:54] Informations
+[03:39:54] --------------
+[03:39:54] Gamemode pour SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
+[03:39:54] - Developped by Dark_Rider29 (Samp Forum)
+[03:39:54] - Mapped by Lurtz59
+[03:39:54]  
+[03:39:54] Logs
+[03:39:54] ------
+[03:39:54] Number of vehicle models: 0
+[03:39:55]     .. UniqueBizz chargé(s).
+[03:39:55]     .. 0 mobilier(s) chargé(s)
+[03:39:55]     .. 0 bizz chargé(s)
+[03:39:55]     .. 0 radar(s) chargé(s)
+[03:39:55]     ... 0 Amendes police chargée(s).
+[03:39:55]     .. 0 maison(s) chargée(s)
+[03:39:55]     .. 0 plant(s) de weed chargé(s).
+[03:40:14]     .. 0 garage(s) chargé(s)
+[03:40:14]     .. 0 atm(s) chargé(s)
+[03:40:14]     .. 0 grosse(s) poubelle(s) chargée(s)
+[03:40:15]     .. 0 cabine(s) telephonique(s) chargée(s)
+[03:40:15]     .. 0 faction(s) illégale(s) chargée(s).
+[03:40:15]     .. 0 GPS chargé(s).
+[03:40:15]     .. 0 Arret(s) de bus chargé(s)
+[03:40:16]     .. spawn chargés.
+[03:40:16]     .. 0 distributeur(s) chargé(s)
+[03:40:16]     .. 0 zone(s) anti-DM chargée(s).
+[03:40:16]     .. 0 petite(s) poubelle(s) chargée(s)
+[03:40:16]     .. 0 carte(s) chargée(s)
+[03:40:16]     .. 0 panneau(x) chargé(s)
+[03:40:16]     .. 0 interieur(s) chargé(s).
+[03:41:22] [connection] incoming connection: 127.0.0.1:63076 id: 0
+[03:41:22] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[03:44:08] [part] Jasin_Refiku has left the server (0:2)
+[03:44:20] [connection] incoming connection: 127.0.0.1:49266 id: 0
+[03:44:21] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[04:00:31] [Reboot] Step 1 ...
+[04:00:31] [Reboot] Step 1 ... Done
+[04:00:36] [Reboot] Step 2 ...
+[04:00:42] [Reboot ]Radars / Objets / Texts / Timers / 3DTexts / Actors / Pickups ont été supprimé
+[04:00:43]   Filterscript 'mapping.amx' unloaded.
+[04:00:43] [Reboot] Step 2 ... Done
+[04:00:50] GameMode LVRP
+[04:00:50] ---------------
+[04:00:50] [MYSQL] Connexion en cours ...
+[04:00:50] [MYSQL] Connexion reussie
+[04:00:50]  
+[04:00:50] [STREAMER] Chargement du streamer ..
+[04:00:50] [STREAMER] Streamer chargé
+[04:00:50]  
+[04:00:50] [SETTINGS] Chargement des paramètres ..
+[04:00:51] [SETTINGS] AntiCheat : 1 - Inscription IG : 1 - Beta : 0 - Bots : 1
+[04:00:51]  
+[04:00:51] [INIT] Chargement des variables depuis le bdd ..
+[04:00:53]     .. FBI chargé.
+[04:00:53]     .. listes models changées
+[04:00:54]   Filterscript 'mapping.amx' loaded.
+[04:00:54] Informations
+[04:00:54] --------------
+[04:00:54] Gamemode pour SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
+[04:00:54] - Developped by Dark_Rider29 (Samp Forum)
+[04:00:54] - Mapped by Lurtz59
+[04:00:54]  
+[04:00:54] Logs
+[04:00:54] ------
+[04:00:54] Number of vehicle models: 0
+[04:00:54]     .. 0 bizz chargé(s)
+[04:01:05]     .. UniqueBizz chargé(s).
+[04:01:05]     .. 0 mobilier(s) chargé(s)
+[04:01:05]     .. 0 maison(s) chargée(s)
+[04:01:05]     .. 0 radar(s) chargé(s)
+[04:02:21]     ... 0 Amendes police chargée(s).
+[04:02:22]     .. 0 plant(s) de weed chargé(s).
+[04:02:23]     .. 0 garage(s) chargé(s)
+[04:02:23]     .. 0 atm(s) chargé(s)
+[04:02:23]     .. 0 grosse(s) poubelle(s) chargée(s)
+[04:02:23]     .. 0 cabine(s) telephonique(s) chargée(s)
+[04:02:23]     .. 0 GPS chargé(s).
+[04:02:23]     .. 0 faction(s) illégale(s) chargée(s).
+[04:02:23]     .. spawn chargés.
+[04:02:23]     .. 0 Arret(s) de bus chargé(s)
+[04:02:23]     .. 0 distributeur(s) chargé(s)
+[04:02:23]     .. 0 zone(s) anti-DM chargée(s).
+[04:02:23]     .. 0 petite(s) poubelle(s) chargée(s)
+[04:02:23]     .. 0 carte(s) chargée(s)
+[04:02:23]     .. 0 panneau(x) chargé(s)
+[04:02:23]     .. 0 interieur(s) chargé(s).
+[04:02:23] [part] Jasin_Refiku has left the server (0:0)
+[04:09:58] [connection] incoming connection: 127.0.0.1:60221 id: 0
+[04:09:58] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[04:14:25] [Login] Jasin_Refiku c'est logué.
+[04:14:47] Jasin_Refiku[0] /aide
+[04:14:48] [chat] [Jasin_Refiku]: .
+[04:14:48] Jasin_Refiku[0] /help
+[04:15:15] Jasin_Refiku[0] /acheter
+[04:15:17] [chat] [Jasin_Refiku]: .
+[04:15:23] Jasin_Refiku[0] /policiers
+[04:15:27] Jasin_Refiku[0] /comeback
+[04:15:32] Jasin_Refiku[0] /marche
+[04:17:50] Jasin_Refiku[0] /stats
+[04:17:58] [chat] [Jasin_Refiku]: test
+[04:18:07] Jasin_Refiku[0] /aide
+[04:18:09] [chat] [Jasin_Refiku]: .
+[04:18:16] Jasin_Refiku[0] /aide
+[04:21:39] [part] Jasin_Refiku has left the server (0:1)
+[04:21:42] [connection] incoming connection: 127.0.0.1:56686 id: 0
+[04:21:43] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[04:21:55] [Login] Jasin_Refiku c'est logué.
+[04:22:02] Jasin_Refiku[0] /aide
+[04:22:02] [chat] [Jasin_Refiku]: .
+[04:23:04] [chat] [Jasin_Refiku]: .
+[04:23:06] [part] Jasin_Refiku has left the server (0:1)
+[04:28:52] [connection] incoming connection: 127.0.0.1:55457 id: 0
+[04:28:52] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[04:29:06] [Login] Jasin_Refiku c'est logué.
+[04:29:11] Jasin_Refiku[0] /aide
+[04:29:15] Jasin_Refiku[0] /aaide
+[04:29:17] Jasin_Refiku[0] /a
+[04:38:38] Jasin_Refiku[0] /adminlevel
+[04:38:42] Jasin_Refiku[0] /ao
+[04:38:44] Jasin_Refiku[0] /ao test
+[04:38:46] Jasin_Refiku[0] /a
+[04:38:49] Jasin_Refiku[0] /aaida
+[04:38:52] Jasin_Refiku[0] /ahelp
+[04:38:54] Jasin_Refiku[0] /aide
+[04:38:59] Jasin_Refiku[0] /aaide
+[04:39:01] Jasin_Refiku[0] /aa
+[04:39:02] Jasin_Refiku[0] /aa .
+[04:39:04] Jasin_Refiku[0] /v .
+[04:39:12] Jasin_Refiku[0] /ac
+[04:39:14] Jasin_Refiku[0] /ac test
+[04:39:19] Jasin_Refiku[0] /a
+[04:39:32] Jasin_Refiku[0] /a 
+[04:39:36] Jasin_Refiku[0] /a adminlevel
+[04:39:39] Jasin_Refiku[0] /a adminlevel 0 7
+[04:39:46] Jasin_Refiku[0] /a dao
+[04:39:48] [chat] [Jasin_Refiku]: .
+[04:39:51] Jasin_Refiku[0] /a argent
+[04:39:54] Jasin_Refiku[0] /a jackpot
+[04:39:56] Jasin_Refiku[0] /a jackpot 5
+[04:40:02] Jasin_Refiku[0] /a lotto
+[04:40:05] Jasin_Refiku[0] /a lotto
+[04:40:06] Jasin_Refiku[0] /a lotto
+[04:40:08] Jasin_Refiku[0] /a jackpot 5
+[04:40:10] Jasin_Refiku[0] /a lotto
+[04:40:23] Jasin_Refiku[0] /a chargerfs
+[04:40:24] Jasin_Refiku[0] /a chargerfs mapping
+[04:40:24]   Filterscript 'mapping.amx' load failed.
+[04:40:25] [chat] [Jasin_Refiku]: .
+[04:40:26] Jasin_Refiku[0] /goto
+[04:40:29] Jasin_Refiku[0] /sendto
+[04:40:30] Jasin_Refiku[0] /go
+[04:40:32] Jasin_Refiku[0] /tp
+[04:40:33] Jasin_Refiku[0] /a tp
+[04:40:35] Jasin_Refiku[0] /a tp ls
+[04:40:52] Jasin_Refiku[0] /a tp ls
+[04:41:05] Jasin_Refiku[0] /a recup
+[04:41:18] Jasin_Refiku[0] /a faim
+[04:41:20] Jasin_Refiku[0] /a info
+[04:41:22] Jasin_Refiku[0] /a info 0
+[04:41:34] Jasin_Refiku[0] /a donner
+[04:41:37] Jasin_Refiku[0] /a donner argent
+[04:41:42] Jasin_Refiku[0] /a donner permis
+[04:41:45] Jasin_Refiku[0] /a donner permis 0 navigation
+[04:41:54] Jasin_Refiku[0] /a donner permis 0 
+[04:41:57] Jasin_Refiku[0] /a donner permis
+[04:42:00] Jasin_Refiku[0] /a donner permis arme 0
+[04:42:03] Jasin_Refiku[0] /a donner permis navigation 0
+[04:42:15] Jasin_Refiku[0] /aaide
+[04:42:17] Jasin_Refiku[0] /a
+[04:42:25] Jasin_Refiku[0] /a chargerfs
+[04:42:26] Jasin_Refiku[0] /a chargerfs mapping
+[04:42:26]   Filterscript 'mapping.amx' load failed.
+[04:42:28] Jasin_Refiku[0] /a chargerfs Mapping
+[04:42:29]   Filterscript 'Mapping.amx' loaded.
+[04:42:40] Jasin_Refiku[0] /a faim
+[04:42:45] Jasin_Refiku[0] /a creer
+[04:42:51] Jasin_Refiku[0] /a creer faction
+[04:43:05] Jasin_Refiku[0] /a faction edit
+[04:43:08] Jasin_Refiku[0] /a faction
+[04:43:14] Jasin_Refiku[0] /a edit
+[04:43:18] Jasin_Refiku[0] /a creer 
+[04:43:21] Jasin_Refiku[0] /a creer  arret
+[04:43:30] Jasin_Refiku[0] /a faction
+[04:43:33] Jasin_Refiku[0] /a creer faction
+[04:43:46] Jasin_Refiku[0] /a faction edit
+[04:43:48] Jasin_Refiku[0] /a edit
+[04:43:50] Jasin_Refiku[0] /a edit faction
+[04:43:57] Jasin_Refiku[0] /a leader
+[04:43:59] Jasin_Refiku[0] /a leader 0
+[04:44:03] Jasin_Refiku[0] /aide
+[04:44:09] Jasin_Refiku[0] /p
+[04:44:13] Jasin_Refiku[0] /p vrang
+[04:44:15] Jasin_Refiku[0] /p gestion
+[04:44:38] Jasin_Refiku[0] /p gestion
+[04:44:39] Jasin_Refiku[0] /p gestion
+[04:44:40] Jasin_Refiku[0] /p gestion
+[04:44:48] Jasin_Refiku[0] /policiers
+[04:45:00] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat Arme
+[04:45:03] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat Arme
+[04:45:11] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat Arme
+[04:45:22] Jasin_Refiku[0] /setstat
+[04:45:24] Jasin_Refiku[0] /a edit
+[04:45:29] Jasin_Refiku[0] /aaide
+[04:45:30] Jasin_Refiku[0] /a
+[04:45:36] Jasin_Refiku[0] /a recup
+[04:45:37] Jasin_Refiku[0] /a suprimer
+[04:45:42] Jasin_Refiku[0] /a supprimer
+[04:45:48] Jasin_Refiku[0] /a supprimer gps
+[04:45:50] Jasin_Refiku[0] /a supprimer gps
+[04:46:03] Jasin_Refiku[0] /a edit
+[04:46:04] Jasin_Refiku[0] /a payday
+[04:46:13] Jasin_Refiku[0] /stats
+[04:46:31] Jasin_Refiku[0] /a edit faction
+[04:46:38] Jasin_Refiku[0] /p
+[04:46:42] Jasin_Refiku[0] /p civil
+[04:46:47] Jasin_Refiku[0] /p civil 240
+[04:46:51] Jasin_Refiku[0] /p civil 240
+[04:46:56] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat Arme
+[04:47:00] Jasin_Refiku[0] /a
+[04:47:04] Jasin_Refiku[0] /a donner
+[04:47:08] Jasin_Refiku[0] /a donner 0 level
+[04:47:11] Jasin_Refiku[0] /a donner level
+[04:47:13] Jasin_Refiku[0] /a donner level 0 500
+[04:47:37] Jasin_Refiku[0] /a reprimand
+[04:47:43] Jasin_Refiku[0] /a chargerfs mapping
+[04:47:43]   Filterscript 'mapping.amx' load failed.
+[04:47:45] Jasin_Refiku[0] /a reboot
+[04:47:45] [Reboot] Step 1 ...
+[04:47:45] [Reboot] Step 1 ... Done
+[04:47:50] [Reboot] Step 2 ...
+[04:47:52] [Reboot ]Radars / Objets / Texts / Timers / 3DTexts / Actors / Pickups ont été supprimé
+[04:47:52]   Filterscript 'mapping.amx' unloaded.
+[04:47:52] [Reboot] Step 2 ... Done
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:49:00] 
+[04:49:00] Server Plugins
+[04:49:00] --------------
+[04:49:00]  Loading plugin: crashdetect.dll
+[04:49:01]   CrashDetect v4.15.1 is OK.
+[04:49:01]   Loaded.
+[04:49:01]  Loading plugin: streamer.dll
+[04:49:01] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[04:49:01]   Loaded.
+[04:49:01]  Loading plugin: mysql.dll
+[04:49:02]  >> plugin.mysql: R41-2 successfully loaded.
+[04:49:02]   Loaded.
+[04:49:02]  Loading plugin: Encrypt.dll
+[04:49:02] 
+
+[04:49:02] ______________________________________
+
+[04:49:02]  Encrypt Plugin v0.1 loaded
+[04:49:02] ______________________________________
+
+[04:49:02]  By: Fro (c) Copyright <TBG> 2009-2010
+[04:49:02] ______________________________________
+
+[04:49:02]   Loaded.
+[04:49:02]  Loaded 4 plugins.
+
+[04:49:02] 
+[04:49:02] Ban list
+[04:49:02] --------
+[04:49:02]  Loaded: samp.ban
+[04:49:02] 
+[04:49:02] 
+[04:49:02] Filterscripts
+[04:49:02] ---------------
+[04:49:02]   Loading filterscript 'mapping.amx'...
+[04:49:02]   Loaded 1 filterscripts.
+
+[04:49:02] GameMode LVRP
+[04:49:02] ---------------
+[04:49:02] [MYSQL] Connexion en cours ...
+[04:49:04] [MYSQL] Connexion reussie
+[04:49:04]  
+[04:49:04] [STREAMER] Chargement du streamer ..
+[04:49:04] [STREAMER] Streamer chargé
+[04:49:04]  
+[04:49:04] [SETTINGS] Chargement des paramètres ..
+[04:49:04] [SETTINGS] AntiCheat : 1 - Inscription IG : 1 - Beta : 0 - Bots : 1
+[04:49:04]  
+[04:49:04] [INIT] Chargement des variables depuis le bdd ..
+[04:49:06]     .. FBI chargé.
+[04:49:06]     .. listes models changées
+[04:49:06]   Filterscript 'mapping.amx' load failed.
+[04:49:06] Informations
+[04:49:06] --------------
+[04:49:06] Gamemode pour SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
+[04:49:06] - Developped by Dark_Rider29 (Samp Forum)
+[04:49:06] - Mapped by Lurtz59
+[04:49:06]  
+[04:49:06] Logs
+[04:49:06] ------
+[04:49:06] Number of vehicle models: 0
+[04:49:18]     .. UniqueBizz chargé(s).
+[04:49:18]     .. 0 bizz chargé(s)
+[04:49:18]     .. 0 mobilier(s) chargé(s)
+[04:49:18]     .. 0 maison(s) chargée(s)
+[04:49:18]     .. 0 radar(s) chargé(s)
+[04:49:45] Kicking 127.0.0.1 because they didn't logon to the game.
+[04:50:31] Kicking 127.0.0.1 because they didn't logon to the game.
+[04:50:41]     ... 0 Amendes police chargée(s).
+[04:50:48]     .. 0 plant(s) de weed chargé(s).
+[04:50:49]     .. 1 faction(s) illégale(s) chargée(s).
+[04:50:49]     .. 0 Arret(s) de bus chargé(s)
+[04:50:49]     .. 0 garage(s) chargé(s)
+[04:50:49]     .. 0 distributeur(s) chargé(s)
+[04:50:49]     .. 0 atm(s) chargé(s)
+[04:50:49] [connection] incoming connection: 127.0.0.1:49374 id: 0
+[04:50:49] (1) Invalid client connecting from 127.0.0.1
+[04:50:49] [connection] incoming connection: 127.0.0.1:49375 id: 0
+[04:50:49] Invalid client connecting from 127.0.0.1
+[04:50:50]     .. 0 petite(s) poubelle(s) chargée(s)
+[04:50:50]     .. 0 grosse(s) poubelle(s) chargée(s)
+[04:50:50]     .. 0 cabine(s) telephonique(s) chargée(s)
+[04:50:50]     .. 0 carte(s) chargée(s)
+[04:50:50]     .. 0 panneau(x) chargé(s)
+[04:50:51]     .. 0 GPS chargé(s).
+[04:50:51]     .. 0 interieur(s) chargé(s).
+[04:50:52]     .. spawn chargés.
+[04:50:52]     .. 0 zone(s) anti-DM chargée(s).
+[04:51:22] [connection] incoming connection: 127.0.0.1:57291 id: 0
+[04:51:22] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[04:51:39] [Login] Jasin_Refiku c'est logué.
+[04:51:49] [chat] [Jasin_Refiku]: .
+[04:52:24] Jasin_Refiku[0] /p
+[04:52:27] Jasin_Refiku[0] /p gestion
+[04:53:13] Jasin_Refiku[0] /p gestion
+[04:53:17] Jasin_Refiku[0] /p gestion
+[04:53:23] Jasin_Refiku[0] /a tp
+[04:53:31] [chat] [Jasin_Refiku]: .
+[04:54:10] Jasin_Refiku[0] /p
+[04:54:13] Jasin_Refiku[0] /p swat
+[04:54:28] Jasin_Refiku[0] /p gyro
+[04:54:33] Jasin_Refiku[0] /p gestion
+[04:54:37] Jasin_Refiku[0] /p gestion
+[04:54:40] Jasin_Refiku[0] /p gestion
+[04:54:41] Jasin_Refiku[0] /p gestion
+[04:55:13] Jasin_Refiku[0] /p gestion
+[04:55:17] Jasin_Refiku[0] /p gestion
+[04:55:24] Jasin_Refiku[0] /p gestion
+[04:55:34] Jasin_Refiku[0] /p vidercasier
+[04:55:36] Jasin_Refiku[0] /p vidercasier 0
+[04:55:43] Jasin_Refiku[0] /p garer
+[04:55:45] Jasin_Refiku[0] /p ann test
+[04:55:48] Jasin_Refiku[0] /p annonce
+[04:55:50] Jasin_Refiku[0] /p annonce test
+[04:55:54] Jasin_Refiku[0] /p annonce awoo
+[04:56:07] Jasin_Refiku[0] /p ann .
+[04:56:09] Jasin_Refiku[0] /p ann test
+[04:56:47] Jasin_Refiku[0] /p
+[04:56:48] Jasin_Refiku[0] /heal
+[04:56:52] Jasin_Refiku[0] /p gav
+[04:56:58] Jasin_Refiku[0] /p garer
+[04:57:00] Jasin_Refiku[0] /p ann test
+[04:57:09] Jasin_Refiku[0] /p vidercasier
+[04:57:10] Jasin_Refiku[0] /p sabot
+[04:57:15] Jasin_Refiku[0] /p sabot mettre
+[04:57:18] Jasin_Refiku[0] /a cree
+[04:57:21] Jasin_Refiku[0] /a creer
+[04:57:25] Jasin_Refiku[0] /a creer voiture
+[04:57:30] Jasin_Refiku[0] /a creer voiture 596 0 0
+[04:57:35] Jasin_Refiku[0] /a creer voiture 596 0 0 1200
+[04:57:39] Jasin_Refiku[0] /mdc
+[04:57:49] Jasin_Refiku[0] /engine
+[04:57:52] Jasin_Refiku[0] /v engine
+[04:57:56] Jasin_Refiku[0] /v coffre
+[04:57:59] Jasin_Refiku[0] /v coffre ouvrir
+[04:58:04] Jasin_Refiku[0] /engine
+[04:58:08] Jasin_Refiku[0] /coffre
+[04:58:12] Jasin_Refiku[0] /v edit
+[04:58:15] Jasin_Refiku[0] /v id
+[04:58:21] Jasin_Refiku[0] /v ainfos
+[04:58:31] Jasin_Refiku[0] /buy
+[04:58:36] Jasin_Refiku[0] /a edit
+[04:58:38] Jasin_Refiku[0] /a edit vehicule
+[04:58:48] Old: 30 - New: 30
+[04:58:56] Jasin_Refiku[0] /v
+[04:58:59] Jasin_Refiku[0] /v coffre
+[04:59:02] Jasin_Refiku[0] /v coffre ouvrir
+[04:59:54] Jasin_Refiku[0] /v garer
+[04:59:55] Jasin_Refiku[0] /v
+[04:59:58] Jasin_Refiku[0] /v portes
+[05:00:14] Jasin_Refiku[0] /a edit 
+[05:00:16] Jasin_Refiku[0] /a edit vehicule
+[05:00:24] Jasin_Refiku[0] /a edit vehicule
+[05:00:34] [05:00:34]
+[05:00:34] » Annonce Météo « Profitez, de ce beau temps !
+[05:00:48] Jasin_Refiku[0] /v mdc
+[05:00:50] Jasin_Refiku[0] /p mdc
+[05:00:54] Jasin_Refiku[0] /p menotter
+[05:00:56] Jasin_Refiku[0] /p menotter 0
+[05:00:58] Jasin_Refiku[0] /p men 0
+[05:01:01] Jasin_Refiku[0] /p dem 0
+[05:01:06] Jasin_Refiku[0] /p demenotter
+[05:01:14] Jasin_Refiku[0] /p demenotter 0
+[05:01:21] Jasin_Refiku[0] /p droits
+[05:01:23] Jasin_Refiku[0] /p droits 0 test
+[05:01:29] Jasin_Refiku[0] /p forcer
+[05:01:32] Jasin_Refiku[0] /p forcer 0 3
+[05:01:35] Jasin_Refiku[0] /p
+[05:01:39] Jasin_Refiku[0] /p ba
+[05:01:49] Jasin_Refiku[0] /p badge
+[05:01:51] Jasin_Refiku[0] /p badge 0
+[05:01:54] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat DGUN
+[05:01:56] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat DGUN
+[05:01:58] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat DGUN
+[05:02:01] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat DGUN
+[05:02:17] Jasin_Refiku[0] /p herse
+[05:02:23] Jasin_Refiku[0] /p herse creer
+[05:02:27] Jasin_Refiku[0] /p herse creer
+[05:02:33] Jasin_Refiku[0] /p herse sup
+[05:02:39] Jasin_Refiku[0] /p herse eth
+[05:02:52] Jasin_Refiku[0] /p localiser
+[05:02:54] Jasin_Refiku[0] /p localiser 30
+[05:02:58] Jasin_Refiku[0] /p localiser 30
+[05:03:01] Jasin_Refiku[0] /p localiser 30
+[05:03:11] Jasin_Refiku[0] /p gav
+[05:03:13] [chat] [Jasin_Refiku]: p tda
+[05:03:14] Jasin_Refiku[0] /p
+[05:03:15] Jasin_Refiku[0] /p tda
+[05:03:21] Jasin_Refiku[0] /p gav
+[05:03:27] Jasin_Refiku[0] /p amende
+[05:03:29] Jasin_Refiku[0] /p amende 0
+[05:03:34] Jasin_Refiku[0] /p fouiller
+[05:03:35] Jasin_Refiku[0] /mdc
+[05:03:36] Jasin_Refiku[0] /p fouiller 0
+[05:03:39] Jasin_Refiku[0] /p casier
+[05:03:51] Jasin_Refiku[0] /p plaque
+[05:04:13] Jasin_Refiku[0] /elm
+[05:04:15] Jasin_Refiku[0] /aide
+[05:04:27] Jasin_Refiku[0] /four
+[05:04:28] Jasin_Refiku[0] /r .
+[05:04:33] Jasin_Refiku[0] /p unit
+[05:04:38] Jasin_Refiku[0] /a leader
+[05:04:39] Jasin_Refiku[0] /a leader 0
+[05:04:41] Jasin_Refiku[0] /a leader 0
+[05:04:44] Jasin_Refiku[0] /a faction
+[05:04:47] Jasin_Refiku[0] /a kick
+[05:04:54] Jasin_Refiku[0] /p
+[05:04:58] Jasin_Refiku[0] /p virer 0
+[05:05:02] Jasin_Refiku[0] /a factionkick
+[05:05:04] Jasin_Refiku[0] /a faction
+[05:05:11] Jasin_Refiku[0] /a leader
+[05:05:13] Jasin_Refiku[0] /a leader 0
+[05:05:15] Jasin_Refiku[0] /a leader 0
+[05:05:19] Jasin_Refiku[0] /aide
+[05:05:24] Jasin_Refiku[0] /faction
+[05:05:25] Jasin_Refiku[0] /four
+[05:05:28] Jasin_Refiku[0] /faction test
+[05:05:34] Jasin_Refiku[0] /f
+[05:05:36] Jasin_Refiku[0] /f .
+[05:05:36] Jasin_Refiku[0] /p
+[05:05:40] Jasin_Refiku[0] /aide
+[05:05:44] Jasin_Refiku[0] /aide
+[05:05:47] Jasin_Refiku[0] /forfait
+[05:05:56] Jasin_Refiku[0] /aide
+[05:06:01] Jasin_Refiku[0] /l2 .
+[05:06:03] Jasin_Refiku[0] /l1 .
+[05:06:06] Jasin_Refiku[0] /l1 Test
+[05:06:11] Jasin_Refiku[0] /l1
+[05:06:16] Jasin_Refiku[0] /l1 TEST 12312312
+[05:06:27] Jasin_Refiku[0] /aide
+[05:06:31] Jasin_Refiku[0] /faide
+[05:06:34] Jasin_Refiku[0] /factionaide
+[05:06:35] Jasin_Refiku[0] /aide
+[05:07:23] Jasin_Refiku[0] /mecano
+[05:07:25] Jasin_Refiku[0] /mecano rom
+[05:07:27] Jasin_Refiku[0] /setstat
+[05:07:29] Jasin_Refiku[0] /a setstat
+[05:07:31] Jasin_Refiku[0] /a stat
+[05:07:39] Jasin_Refiku[0] /a avertir
+[05:07:44] Jasin_Refiku[0] /a info 0
+[05:07:52] Jasin_Refiku[0] /a server
+[05:07:56] Jasin_Refiku[0] /a drop
+[05:08:00] Jasin_Refiku[0] /a creer
+[05:08:06] Jasin_Refiku[0] /a creer cabine
+[05:08:19] Jasin_Refiku[0] /call
+[05:08:28] Jasin_Refiku[0] /a creer gps
+[05:08:40] Jasin_Refiku[0] /a creer carte
+[05:08:54] Jasin_Refiku[0] /a creer distributeur
+[05:09:28] Jasin_Refiku[0] /aide
+[05:09:32] [part] Jasin_Refiku has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:18:48] 
+[17:18:48] Server Plugins
+[17:18:48] --------------
+[17:18:48]  Loading plugin: crashdetect.dll
+[17:18:48]   CrashDetect v4.15.1 is OK.
+[17:18:48]   Loaded.
+[17:18:48]  Loading plugin: streamer.dll
+[17:18:48] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[17:18:48]   Loaded.
+[17:18:48]  Loading plugin: mysql.dll
+[17:18:49]  >> plugin.mysql: R41-2 successfully loaded.
+[17:18:49]   Loaded.
+[17:18:49]  Loading plugin: Encrypt.dll
+[17:18:49] 
+
+[17:18:49] ______________________________________
+
+[17:18:49]  Encrypt Plugin v0.1 loaded
+[17:18:49] ______________________________________
+
+[17:18:49]  By: Fro (c) Copyright <TBG> 2009-2010
+[17:18:49] ______________________________________
+
+[17:18:49]   Loaded.
+[17:18:49]  Loaded 4 plugins.
+
+[17:18:49] 
+[17:18:49] Ban list
+[17:18:49] --------
+[17:18:49]  Loaded: samp.ban
+[17:18:49] 
+[17:18:49] 
+[17:18:49] Filterscripts
+[17:18:49] ---------------
+[17:18:49]   Loading filterscript 'mapping.amx'...
+[17:18:49]   Loaded 1 filterscripts.
+
+[17:18:49] GameMode LVRP
+[17:18:49] ---------------
+[17:18:49] [MYSQL] Connexion en cours ...
+[17:18:53] [MYSQL] Connexion reussie
+[17:18:53]  
+[17:18:53] [STREAMER] Loading du streamer ..
+[17:18:53] [STREAMER] Streamer charg
+[17:18:53]  
+[17:18:53] [SETTINGS] Loading des paramtres ..
+[17:18:54] [SETTINGS] AntiCheat : 1 - Inscription IG : 1 - Beta : 0 - Bots : 1
+[17:18:54]  
+[17:18:54] [INIT] Loading des variables depuis le bdd ..
+[17:18:57]     .. FBI charg.
+[17:18:58]     .. listes models changes
+[17:18:58]   Filterscript 'mapping.amx' load failed.
+[17:18:58] Informations
+[17:18:58] --------------
+[17:18:58] Gamemode for SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
+[17:18:58] - Developped by Dark_Rider29 (Samp Forum)
+[17:18:58] - Mapped by Lurtz59
+[17:18:58]  
+[17:18:58] Logs
+[17:18:58] ------
+[17:18:58] Number of vehicle models: 0
+[17:18:58]     .. 0 bizz charg(s)
+[17:19:12]     .. UniqueBizz charg(s).
+[17:19:12]     .. 0 mobilier(s) charg(s)
+[17:19:12]     .. 0 House(s) charge(s)
+[17:19:12]     .. 0 radar(s) charg(s)
+[17:21:29] Kicking 127.0.0.1 because they didn't logon to the game.
+[17:22:08] Kicking 127.0.0.1 because they didn't logon to the game.
+[17:22:08]     ... 1 Amendes police charge(s).
+[17:22:11]     .. 0 plant(s) de weed charg(s).
+[17:22:12]     .. 1 faction(s) illgale(s) charge(s).
+[17:22:12]     .. 0 garage(s) charg(s)
+[17:22:12]     .. 0 Arret(s) de bus charg(s)
+[17:22:13] [connection] incoming connection: 127.0.0.1:57405 id: 0
+[17:22:13] (1) Invalid client connecting from 127.0.0.1
+[17:22:13] [connection] incoming connection: 127.0.0.1:58377 id: 0
+[17:22:13] Invalid client connecting from 127.0.0.1
+[17:22:13]     .. 0 atm(s) charg(s)
+[17:22:13]     .. 1 distributeur(s) charg(s)
+[17:22:13]     .. 0 petite(s) poubelle(s) charge(s)
+[17:22:13]     .. 0 grosse(s) poubelle(s) charge(s)
+[17:22:14]     .. 1 cabine(s) telephonique(s) charge(s)
+[17:22:14]     .. 1 carte(s) charge(s)
+[17:22:14]     .. 1 GPS charg(s).
+[17:22:15]     .. 0 panneau(x) charg(s)
+[17:22:15]     .. spawn chargs.
+[17:22:15]     .. 0 interieur(s) charg(s).
+[17:22:16]     .. 0 zone(s) anti-DM charge(s).
+[17:22:52] [connection] incoming connection: 127.0.0.1:62406 id: 0
+[17:22:53] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[17:23:13] [Login] Jasin_Refiku c'est logu.
+[17:23:26] Jasin_Refiku[0] /a
+[17:23:26] [chat] [Jasin_Refiku]: .
+[17:23:29] Jasin_Refiku[0] /revive jasi
+[17:23:33] Jasin_Refiku[0] /a revive 
+[17:23:45] Jasin_Refiku[0] /a creer
+[17:23:55] Jasin_Refiku[0] /a creer carte
+[17:24:03] Jasin_Refiku[0] /a creer cabine
+[17:24:10] Jasin_Refiku[0] /a creer distributeur
+[17:24:37] Jasin_Refiku[0] /v
+[17:24:54] Jasin_Refiku[0] /a creer
+[17:25:13] Jasin_Refiku[0] /a creer house
+[17:25:27] Jasin_Refiku[0] /buy
+[17:25:28] Jasin_Refiku[0] /h
+[17:25:29] Jasin_Refiku[0] /house
+[17:25:31] Jasin_Refiku[0] /house buy
+[17:26:22] Jasin_Refiku[0] /a tp
+[17:26:26] Jasin_Refiku[0] /a tp house 1
+[17:26:30] [death] Jasin_Refiku died 255
+[17:26:35] [debug] Run time error 4: "Array index out of bounds"
+[17:26:35] [debug]  Accessing element at negative index -1
+[17:26:35] [debug] AMX backtrace:
+[17:26:35] [debug] #0 000496cc in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6913
+[17:26:35] [debug] #1 00050334 in public OnPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:7300
+[17:26:35] Jasin_Refiku[0] /a tp house 0
+[17:26:35] [chat] [Jasin_Refiku]: .
+[17:26:42] Jasin_Refiku[0] /h
+[17:26:43] Jasin_Refiku[0] /house
+[17:26:47] Jasin_Refiku[0] /house management
+[17:26:55] Jasin_Refiku[0] /h stash
+[17:26:57] Jasin_Refiku[0] /house stash
+[17:27:18] [debug] Run time error 4: "Array index out of bounds"
+[17:27:18] [debug]  Accessing element at negative index -1
+[17:27:18] [debug] AMX backtrace:
+[17:27:18] [debug] #0 00049da4 in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6937
+[17:27:18] [debug] #1 002180f4 in public timer_Decrement (i=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:36998
+[17:27:18] [debug] #2 00009304 in public timer_2s () at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:3581
+[17:27:35] Jasin_Refiku[0] /exit
+[17:27:40] Jasin_Refiku[0] /exit
+[17:27:48] Jasin_Refiku[0] /h buy
+[17:27:52] Jasin_Refiku[0] /house buy
+[17:28:02] Jasin_Refiku[0] /ma
+[17:28:07] Jasin_Refiku[0] /ma management
+[17:28:09] Jasin_Refiku[0] /ma management
+[17:28:24] Jasin_Refiku[0] /ma mob
+[17:28:28] Jasin_Refiku[0] /ma mobi
+[17:30:40] Jasin_Refiku[0] /a creer
+[17:30:41] Jasin_Refiku[0] /a creer biz
+[17:30:49] Jasin_Refiku[0] /a edit
+[17:30:50] Jasin_Refiku[0] /a edit biz
+[17:30:54] Jasin_Refiku[0] /a edit biz
+[17:31:01] Jasin_Refiku[0] /a edit biz
+[17:31:23] Jasin_Refiku[0] /a edit biz
+[17:31:34] Jasin_Refiku[0] /a edit biz
+[17:31:42] Jasin_Refiku[0] /a buy
+[17:31:44] Jasin_Refiku[0] /biz buy
+[17:31:49] Jasin_Refiku[0] /biz type
+[17:32:00] Jasin_Refiku[0] /buy
+[17:32:11] Jasin_Refiku[0] /biz management
+[17:32:32] Jasin_Refiku[0] /phone
+[17:32:44] Jasin_Refiku[0] /biz type
+[17:32:45] Jasin_Refiku[0] /biz type
+[17:32:48] Jasin_Refiku[0] /biz type
+[17:32:49] Jasin_Refiku[0] /biz type
+[17:32:50] Jasin_Refiku[0] /biz
+[17:32:53] Jasin_Refiku[0] /biz management
+[17:33:15] Jasin_Refiku[0] /a edit biz
+[17:33:32] Jasin_Refiku[0] /biz type
+[17:36:11] [part] Jasin_Refiku has left the server (0:1)
+[18:00:22] [18:00:22]
+[18:00:22]  Annonce Mto  The fog is rising. Drive carefully!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:53:00] 
+[19:53:00] Server Plugins
+[19:53:00] --------------
+[19:53:00]  Loading plugin: crashdetect.dll
+[19:53:00]   CrashDetect v4.15.1 is OK.
+[19:53:00]   Loaded.
+[19:53:00]  Loading plugin: streamer.dll
+[19:53:00] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[19:53:00]   Loaded.
+[19:53:00]  Loading plugin: mysql.dll
+[19:53:00]  >> plugin.mysql: R41-2 successfully loaded.
+[19:53:00]   Loaded.
+[19:53:00]  Loading plugin: Encrypt.dll
+[19:53:00] 
+
+[19:53:00] ______________________________________
+
+[19:53:00]  Encrypt Plugin v0.1 loaded
+[19:53:00] ______________________________________
+
+[19:53:00]  By: Fro (c) Copyright <TBG> 2009-2010
+[19:53:00] ______________________________________
+
+[19:53:00]   Loaded.
+[19:53:00]  Loaded 4 plugins.
+
+[19:53:01] 
+[19:53:01] Ban list
+[19:53:01] --------
+[19:53:01]  Loaded: samp.ban
+[19:53:01] 
+[19:53:01] 
+[19:53:01] Filterscripts
+[19:53:01] ---------------
+[19:53:01]   Loading filterscript 'mapping.amx'...
+[19:53:01]   Loaded 1 filterscripts.
+
+[19:53:01] GameMode LVRP
+[19:53:01] ---------------
+[19:53:01] [MYSQL] Sign in in progress ...
+[19:53:08] [MYSQL] Sign in reussie
+[19:53:08]  
+[19:53:08] [STREAMER] Loading of streamer ..
+[19:53:08] [STREAMER] Streamer loaded.
+[19:53:08]  
+[19:53:08] [SETTINGS] Loading the settings ..
+[19:53:09] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
+[19:53:09]  
+[19:53:09] [INIT] Loading variables from the database ..
+[19:53:10]     .. FBI loaded.
+[19:53:10]     .. list of models loaded.
+[19:53:10]   Filterscript 'mapping.amx' load failed.
+[19:53:10] Informations
+[19:53:10] --------------
+[19:53:10] Gamemode for SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
+[19:53:10] - Developped by Dark_Rider29 (Samp Forum)
+[19:53:10] - Mapped by Lurtz59
+[19:53:10]  
+[19:53:10] Logs
+[19:53:10] ------
+[19:53:10] Number of vehicle models: 0
+[19:53:11]     .. 1 businesses loaded.
+[19:53:24]     .. UniqueBizzs loaded.
+[19:53:24]     .. 0 furnitures loaded.
+[19:53:25]     .. 1 House(s) loaded.
+[19:53:25]     .. 0 radar(s) loaded.
+[19:55:55]     ... 1 police fines loaded.
+[19:55:58]     .. 0 loaded.
+[19:55:58]     .. 1 Illegal faction(s) saved.
+[19:55:58]     .. 0 garage(s) loaded.
+[19:55:58]     .. 0 bus stops loaded
+[19:55:58]     .. 0 atm(s) loaded.
+[19:55:58]     .. 0 gross trash can(s) loaded.
+[19:55:58]     .. 2 vending machine(s) loaded.
+[19:55:58]     .. 0 small trash can(s) loaded.
+[19:55:58]     .. 2 telephone cabins loaded.
+[19:55:59]     .. 1 GPS loaded..
+[19:55:59]     .. 2 map(s) loaded.
+[19:55:59]     .. 0 sign(s) loaded.
+[19:56:00]     .. spawns loaded.
+[19:56:00]     .. 0 interiors loaded.
+[19:56:00]     .. 0 Anti-DM zones loaded..
+[19:56:37] [connection] incoming connection: 127.0.0.1:51663 id: 0
+[19:56:38] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[19:57:13] [Login] Jasin_Refiku c'est logu.
+[19:58:15] Jasin_Refiku[0] /tpto
+[19:58:15] Jasin_Refiku[0] /a unfreeze
+[19:58:17] [chat] [Jasin_Refiku]: .
+[19:58:24] Jasin_Refiku[0] /tur
+[19:58:26] Jasin_Refiku[0] /aide
+[19:58:31] Jasin_Refiku[0] /spawn
+[20:43:16] [part] Jasin_Refiku has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:53:24] 
+[20:53:24] Server Plugins
+[20:53:24] --------------
+[20:53:24]  Loading plugin: crashdetect.dll
+[20:53:25]   CrashDetect v4.15.1 is OK.
+[20:53:25]   Loaded.
+[20:53:25]  Loading plugin: streamer.dll
+[20:53:25] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[20:53:25]   Loaded.
+[20:53:25]  Loading plugin: mysql.dll
+[20:53:26]  >> plugin.mysql: R41-2 successfully loaded.
+[20:53:26]   Loaded.
+[20:53:26]  Loading plugin: Encrypt.dll
+[20:53:26] 
+
+[20:53:26] ______________________________________
+
+[20:53:26]  Encrypt Plugin v0.1 loaded
+[20:53:26] ______________________________________
+
+[20:53:26]  By: Fro (c) Copyright <TBG> 2009-2010
+[20:53:26] ______________________________________
+
+[20:53:26]   Loaded.
+[20:53:26]  Loaded 4 plugins.
+
+[20:53:26] 
+[20:53:26] Ban list
+[20:53:26] --------
+[20:53:26]  Loaded: samp.ban
+[20:53:26] 
+[20:53:26] 
+[20:53:26] Filterscripts
+[20:53:26] ---------------
+[20:53:26]   Loading filterscript 'mapping.amx'...
+[20:53:27]   Loaded 1 filterscripts.
+
+[20:53:27] GameMode LVRP
+[20:53:27] ---------------
+[20:53:27] [MYSQL] Sign in in progress ...
+[20:53:31] [MYSQL] Sign in reussie
+[20:53:31]  
+[20:53:31] [STREAMER] Loading of streamer ..
+[20:53:31] [STREAMER] Streamer loaded.
+[20:53:31]  
+[20:53:31] [SETTINGS] Loading the settings ..
+[20:53:32] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
+[20:53:32]  
+[20:53:32] [INIT] Loading variables from the database ..
+[20:53:34]     .. FBI loaded.
+[20:53:34]     .. list of models loaded.
+[20:53:34]   Filterscript 'mapping.amx' load failed.
+[20:53:34] Informations
+[20:53:34] --------------
+[20:53:34] Gamemode for SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
+[20:53:34] - Developped by Dark_Rider29 (Samp Forum)
+[20:53:34] - Mapped by Lurtz59
+[20:53:34]  
+[20:53:34] Logs
+[20:53:34] ------
+[20:53:34] Number of vehicle models: 0
+[20:53:35]     .. 1 businesses loaded.
+[20:53:36]     .. 1 House(s) loaded.
+[20:53:48]     .. UniqueBizzs loaded.
+[20:53:48]     .. 0 furnitures loaded.
+[20:56:17]     .. 0 radar(s) loaded.
+[20:56:19]     ... 1 police fines loaded.
+[20:56:24]     .. 1 Illegal faction(s) saved.
+[20:56:24]     .. 0 loaded.
+[20:56:24]     .. 0 garage(s) loaded.
+[20:56:24]     .. 0 bus stops loaded
+[20:56:24]     .. 0 atm(s) loaded.
+[20:56:24]     .. 2 vending machine(s) loaded.
+[20:56:24]     .. 0 gross trash can(s) loaded.
+[20:56:24]     .. 0 small trash can(s) loaded.
+[20:56:24]     .. 2 telephone cabins loaded.
+[20:56:24]     .. 2 map(s) loaded.
+[20:56:25]     .. 1 GPS loaded..
+[20:56:25]     .. 0 sign(s) loaded.
+[20:56:26]     .. spawns loaded.
+[20:56:26]     .. 0 interiors loaded.
+[20:56:26]     .. 0 Anti-DM zones loaded..
+[20:56:55] [connection] incoming connection: 25.99.61.96:59879 id: 0
+[20:56:56] [join] Jasin_Refiku has joined the server (0:25.99.61.96)
+[20:57:33] [Login] Jasin_Refiku c'est logu.
+[20:57:47] [chat] [Jasin_Refiku]: .
+[20:57:53] Jasin_Refiku[0] /phone
+[20:57:54] [chat] [Jasin_Refiku]: .
+[20:57:56] Jasin_Refiku[0] /a
+[20:57:58] Jasin_Refiku[0] /a create
+[20:58:00] Jasin_Refiku[0] /a spawn
+[20:58:21] Jasin_Refiku[0] /a spawn
+[20:58:26] Jasin_Refiku[0] /a zone
+[20:58:29] Jasin_Refiku[0] /a zone
+[20:58:32] Jasin_Refiku[0] /a create zone
+[20:58:34] [chat] [Jasin_Refiku]: .
+[20:58:35] Jasin_Refiku[0] /a spawn
+[20:58:37] Jasin_Refiku[0] /a create
+[20:58:40] Jasin_Refiku[0] /a create zone
+[20:58:44] Jasin_Refiku[0] /a create dealership
+[20:58:49] Jasin_Refiku[0] /a create zona
+[20:58:57] Jasin_Refiku[0] /p
+[20:59:09] Jasin_Refiku[0] /revive 0
+[20:59:12] Jasin_Refiku[0] /a revive
+[20:59:13] Jasin_Refiku[0] /a revive 0
+[20:59:17] Jasin_Refiku[0] /accept death
+[20:59:17] [death] Jasin_Refiku died 255
+[20:59:44] Jasin_Refiku[0] /tp
+[20:59:45] Jasin_Refiku[0] /a tp
+[20:59:47] Jasin_Refiku[0] /a tp spawn
+[21:00:05] [death] Jasin_Refiku died 255
+[21:00:17] [debug] Run time error 4: "Array index out of bounds"
+[21:00:17] [debug]  Accessing element at negative index -1
+[21:00:17] [debug] AMX backtrace:
+[21:00:17] [debug] #0 000496cc in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6913
+[21:00:17] [debug] #1 00050334 in public OnPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:7300
+[21:00:50] [debug] Run time error 4: "Array index out of bounds"
+[21:00:50] [debug]  Accessing element at negative index -1
+[21:00:50] [debug] AMX backtrace:
+[21:00:50] [debug] #0 00049da4 in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6937
+[21:00:50] [debug] #1 002180f4 in public timer_Decrement (i=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:36998
+[21:00:50] [debug] #2 00009304 in public timer_2s () at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:3581
+[21:00:58] Jasin_Refiku[0] /a
+[21:01:15] Jasin_Refiku[0] /a nomserveur
+[21:01:17] Jasin_Refiku[0] /a nomserveur Test Server
+[21:01:39] Jasin_Refiku[0] /enter
+[21:01:58] Jasin_Refiku[0] /ticket
+[21:02:00] Jasin_Refiku[0] /buy
+[21:02:51] Jasin_Refiku[0] /a create biz
+[21:02:53] [chat] [Jasin_Refiku]: .
+[21:03:03] [chat] [Jasin_Refiku]: .
+[21:03:07] Jasin_Refiku[0] /a edit biz
+[21:03:13] Jasin_Refiku[0] /neare
+[21:03:14] Jasin_Refiku[0] /near
+[21:03:16] Jasin_Refiku[0] /id
+[21:03:17] Jasin_Refiku[0] /bizid
+[21:03:21] Jasin_Refiku[0] /a edit biz
+[21:03:28] Jasin_Refiku[0] /biz buy
+[21:04:43] Kicking 25.99.61.96 because they didn't logon to the game.
+[21:05:58] Kicking 25.99.61.96 because they didn't logon to the game.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:07:51] 
+[21:07:52] Server Plugins
+[21:07:52] --------------
+[21:07:52]  Loading plugin: crashdetect.dll
+[21:07:52]   CrashDetect v4.15.1 is OK.
+[21:07:52]   Loaded.
+[21:07:52]  Loading plugin: streamer.dll
+[21:07:52] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[21:07:52]   Loaded.
+[21:07:52]  Loading plugin: mysql.dll
+[21:07:52]  >> plugin.mysql: R41-2 successfully loaded.
+[21:07:52]   Loaded.
+[21:07:52]  Loading plugin: Encrypt.dll
+[21:07:52] 
+
+[21:07:52] ______________________________________
+
+[21:07:52]  Encrypt Plugin v0.1 loaded
+[21:07:52] ______________________________________
+
+[21:07:52]  By: Fro (c) Copyright <TBG> 2009-2010
+[21:07:52] ______________________________________
+
+[21:07:52]   Loaded.
+[21:07:52]  Loaded 4 plugins.
+
+[21:07:52] 
+[21:07:52] Ban list
+[21:07:52] --------
+[21:07:52]  Loaded: samp.ban
+[21:07:52] 
+[21:07:52] 
+[21:07:52] Filterscripts
+[21:07:52] ---------------
+[21:07:52]   Loading filterscript 'mapping.amx'...
+[21:07:52]   Loaded 1 filterscripts.
+
+[21:07:52] GameMode LVRP
+[21:07:52] ---------------
+[21:07:52] [MYSQL] Sign in in progress ...
+[21:07:53] [MYSQL] Sign in reussie
+[21:07:53]  
+[21:07:53] [STREAMER] Loading of streamer ..
+[21:07:54] [STREAMER] Streamer loaded.
+[21:07:54]  
+[21:07:54] [SETTINGS] Loading the settings ..
+[21:07:54] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
+[21:07:54]  
+[21:07:54] [INIT] Loading variables from the database ..
+[21:07:55]     .. FBI loaded.
+[21:07:55]     .. list of models loaded.
+[21:07:55]   Filterscript 'mapping.amx' load failed.
+[21:07:55] Informations
+[21:07:55] --------------
+[21:07:55] Gamemode for SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
+[21:07:55] - Developped by Dark_Rider29 (Samp Forum)
+[21:07:55] - Mapped by Lurtz59
+[21:07:55]  
+[21:07:55] Logs
+[21:07:55] ------
+[21:07:55] Number of vehicle models: 0
+[21:07:57]     .. 2 businesses loaded.
+[21:08:10]     .. UniqueBizzs loaded.
+[21:08:10]     .. 0 furnitures loaded.
+[21:08:11]     .. 1 House(s) loaded.
+[21:08:11]     .. 0 radar(s) loaded.
+[21:08:11]     ... 1 police fines loaded.
+[21:10:25]     .. 0 loaded.
+[21:10:36] Kicking 25.99.61.96 because they didn't logon to the game.
+[21:10:37] [connection] incoming connection: 25.99.61.96:53000 id: 0
+[21:10:37] Invalid client connecting from 25.99.61.96
+[21:10:37]     .. 0 garage(s) loaded.
+[21:10:41]     .. 1 Illegal faction(s) saved.
+[21:10:42]     .. 0 atm(s) loaded.
+[21:10:42]     .. 0 bus stops loaded
+[21:10:42]     .. 0 gross trash can(s) loaded.
+[21:10:44]     .. 2 vending machine(s) loaded.
+[21:10:44]     .. 2 telephone cabins loaded.
+[21:10:45]     .. 1 GPS loaded..
+[21:10:45]     .. 0 small trash can(s) loaded.
+[21:10:48]     .. spawns loaded.
+[21:10:49]     .. 2 map(s) loaded.
+[21:10:52]     .. 0 sign(s) loaded.
+[21:10:53]     .. 0 interiors loaded.
+[21:10:56]     .. 0 Anti-DM zones loaded..
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:11] 
+[00:11:11] Server Plugins
+[00:11:11] --------------
+[00:11:11]  Loading plugin: crashdetect.dll
+[00:11:11]   CrashDetect v4.15.1 is OK.
+[00:11:11]   Loaded.
+[00:11:11]  Loading plugin: streamer.dll
+[00:11:11] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[00:11:11]   Loaded.
+[00:11:11]  Loading plugin: mysql.dll
+[00:11:12]  >> plugin.mysql: R41-2 successfully loaded.
+[00:11:12]   Loaded.
+[00:11:12]  Loading plugin: Encrypt.dll
+[00:11:12] 
+
+[00:11:12] ______________________________________
+
+[00:11:12]  Encrypt Plugin v0.1 loaded
+[00:11:12] ______________________________________
+
+[00:11:12]  By: Fro (c) Copyright <TBG> 2009-2010
+[00:11:12] ______________________________________
+
+[00:11:12]   Loaded.
+[00:11:12]  Loaded 4 plugins.
+
+[00:11:12] 
+[00:11:12] Ban list
+[00:11:12] --------
+[00:11:12]  Loaded: samp.ban
+[00:11:12] 
+[00:11:12] 
+[00:11:12] Filterscripts
+[00:11:12] ---------------
+[00:11:12]   Loading filterscript 'mapping.amx'...
+[00:11:12]   Loaded 1 filterscripts.
+
+[00:11:12] GameMode LVRP
+[00:11:12] ---------------
+[00:11:12] [MYSQL] Sign in in progress ...
+[00:11:16] [MYSQL] Sign in reussie
+[00:11:16]  
+[00:11:16] [STREAMER] Loading of streamer ..
+[00:11:16] [STREAMER] Streamer loaded.
+[00:11:16]  
+[00:11:16] [SETTINGS] Loading the settings ..
+[00:11:17] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
+[00:11:17]  
+[00:11:17] [INIT] Loading variables from the database ..
+[00:11:19]     .. FBI loaded.
+[00:11:19]     .. list of models loaded.
+[00:11:19]   Filterscript 'mapping.amx' load failed.
+[00:11:19] Informations
+[00:11:19] --------------
+[00:11:19] Gamemode for SAMP 0.3.7 R2|| Version GM testserver 5.0.1
+[00:11:19] - Developped by Dark_Rider29 (Samp Forum)
+[00:11:19] - Mapped by Lurtz59
+[00:11:19]  
+[00:11:19] Logs
+[00:11:19] ------
+[00:11:19] Number of vehicle models: 0
+[00:11:20]     .. 2 businesses loaded.
+[00:11:34]     .. UniqueBizzs loaded.
+[00:11:34]     .. 0 furnitures loaded.
+[00:11:34]     .. 1 House(s) loaded.
+[00:11:34]     .. 0 radar(s) loaded.
+[00:13:38] Kicking 127.0.0.1 because they didn't logon to the game.
+[00:13:43]     ... 1 police fines loaded.
+[00:13:43]     .. 0 loaded.
+[00:13:43]     .. 1 Illegal faction(s) saved.
+[00:13:43]     .. 0 garage(s) loaded.
+[00:13:43]     .. 0 atm(s) loaded.
+[00:13:43]     .. 0 bus stops loaded
+[00:13:44] [connection] incoming connection: 127.0.0.1:64173 id: 0
+[00:13:44] Invalid client connecting from 127.0.0.1
+[00:13:44]     .. 0 gross trash can(s) loaded.
+[00:13:44]     .. 2 vending machine(s) loaded.
+[00:13:44]     .. 0 small trash can(s) loaded.
+[00:13:44]     .. 2 telephone cabins loaded.
+[00:13:47]     .. 1 GPS loaded..
+[00:13:56]     .. 2 map(s) loaded.
+[00:13:57]     .. spawns loaded.
+[00:13:57]     .. 0 sign(s) loaded.
+[00:13:57]     .. 0 interiors loaded.
+[00:13:57]     .. 0 Anti-DM zones loaded..
+[00:15:02] [connection] incoming connection: 127.0.0.1:53101 id: 0
+[00:15:02] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[00:15:14] [Login] Jasin_Refiku c'est logu.
+[00:17:14] Jasin_Refiku[0] /stats
+[00:17:32] Jasin_Refiku[0] /help
+[00:17:36] Jasin_Refiku[0] /a 
+[00:17:38] Jasin_Refiku[0] /a create
+[00:17:45] Jasin_Refiku[0] /v
+[00:17:59] Jasin_Refiku[0] /sethp jasin 0
+[00:18:00] Jasin_Refiku[0] /a sethp
+[00:18:02] Jasin_Refiku[0] /a hp
+[00:18:04] Jasin_Refiku[0] /a health
+[00:18:11] Jasin_Refiku[0] /a faim 0 0
+[00:18:38] Jasin_Refiku[0] /accept death
+[00:18:39] [death] Jasin_Refiku died 255
+[00:19:19] Jasin_Refiku[0] /a unfreeze 0
+[00:19:24] Jasin_Refiku[0] /a unfreeze
+[00:19:27] [death] Jasin_Refiku died 255
+[00:19:30] [debug] Run time error 4: "Array index out of bounds"
+[00:19:30] [debug]  Accessing element at negative index -1
+[00:19:30] [debug] AMX backtrace:
+[00:19:30] [debug] #0 000496cc in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6913
+[00:19:30] [debug] #1 00050334 in public OnPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:7300
+[00:19:48] Jasin_Refiku[0] /a name
+[00:19:52] Jasin_Refiku[0] /a nrn
+[00:19:53] Jasin_Refiku[0] /a name
+[00:19:55] Jasin_Refiku[0] /a namechange
+[00:19:59] Jasin_Refiku[0] /a carcasse
+[00:20:03] Jasin_Refiku[0] /a carcasse enivier
+[00:20:05] Jasin_Refiku[0] /a carcasse et
+[00:20:23] [debug] Run time error 4: "Array index out of bounds"
+[00:20:23] [debug]  Accessing element at negative index -1
+[00:20:23] [debug] AMX backtrace:
+[00:20:23] [debug] #0 00049da4 in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6937
+[00:20:23] [debug] #1 002180f4 in public timer_Decrement (i=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:36998
+[00:20:23] [debug] #2 00009304 in public timer_2s () at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:3581
+[00:20:37] Jasin_Refiku[0] /a nom
+[00:20:48] Jasin_Refiku[0] /a recup
+[00:20:54] Jasin_Refiku[0] /a recup 0 1 1
+[00:21:02] Jasin_Refiku[0] /a recup 0 1 1
+[00:21:05] Jasin_Refiku[0] /a recup 0 2 2
+[00:21:26] Jasin_Refiku[0] /a meteo
+[00:21:27] Jasin_Refiku[0] /a id
+[00:21:28] Jasin_Refiku[0] /a id
+[00:21:38] Jasin_Refiku[0] /a supprimer
+[00:21:59] Jasin_Refiku[0] /a edit
+[00:22:05] Jasin_Refiku[0] /a stats
+[00:23:11] Jasin_Refiku[0] /a vip
+[00:23:14] Jasin_Refiku[0] /a makevip
+[00:23:21] Jasin_Refiku[0] /a ip
+[00:23:22] Jasin_Refiku[0] /a ip 0
+[00:23:57] Jasin_Refiku[0] /a ip 0
+[00:24:38] Jasin_Refiku[0] /tpto
+[00:24:40] Jasin_Refiku[0] /tp
+[00:24:42] Jasin_Refiku[0] /tp
+[00:24:43] Jasin_Refiku[0] /a tp
+[00:24:45] Jasin_Refiku[0] /a id
+[00:24:46] Jasin_Refiku[0] /a vip
+[00:24:48] Jasin_Refiku[0] /a id
+[00:24:51] Jasin_Refiku[0] /a vip
+[00:24:54] Jasin_Refiku[0] /a tp ls
+[00:25:06] Jasin_Refiku[0] /a changernom
+[00:25:12] Jasin_Refiku[0] /a changernom 0 Engjell_Pireva
+[00:25:16] [chat] [Jasin_Refiku]: .
+[00:25:29] [part] Jasin_Refiku has left the server (0:1)
+[00:25:29] [connection] incoming connection: 127.0.0.1:53036 id: 0
+[00:25:29] [join] Engjell_Pireva has joined the server (0:127.0.0.1)
+[00:26:06] [part] Engjell_Pireva has left the server (0:1)
+[00:26:06] [connection] incoming connection: 127.0.0.1:52532 id: 0
+[00:26:06] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[00:26:19] [chat] [Jasin_Refiku]: .
+[00:26:29] [part] Jasin_Refiku has left the server (0:1)
+[00:26:29] [connection] incoming connection: 127.0.0.1:63973 id: 0
+[00:26:29] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[00:35:51] [part] Jasin_Refiku has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:53:25] 
+[00:53:25] Server Plugins
+[00:53:25] --------------
+[00:53:25]  Loading plugin: crashdetect.dll
+[00:53:25]   CrashDetect v4.15.1 is OK.
+[00:53:25]   Loaded.
+[00:53:25]  Loading plugin: streamer.dll
+[00:53:25] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[00:53:25]   Loaded.
+[00:53:25]  Loading plugin: mysql.dll
+[00:53:25]  >> plugin.mysql: R41-2 successfully loaded.
+[00:53:25]   Loaded.
+[00:53:25]  Loading plugin: Encrypt.dll
+[00:53:25] 
+
+[00:53:25] ______________________________________
+
+[00:53:25]  Encrypt Plugin v0.1 loaded
+[00:53:25] ______________________________________
+
+[00:53:25]  By: Fro (c) Copyright <TBG> 2009-2010
+[00:53:25] ______________________________________
+
+[00:53:25]   Loaded.
+[00:53:25]  Loaded 4 plugins.
+
+[00:53:25] 
+[00:53:25] Ban list
+[00:53:25] --------
+[00:53:25]  Loaded: samp.ban
+[00:53:25] 
+[00:53:25] 
+[00:53:25] Filterscripts
+[00:53:25] ---------------
+[00:53:25]   Loading filterscript 'mapping.amx'...
+[00:53:25]   Loaded 1 filterscripts.
+
+[00:53:25] GameMode LVRP
+[00:53:25] ---------------
+[00:53:25] [MYSQL] Sign in in progress ...
+[00:53:30] [MYSQL] Sign in reussie
+[00:53:30]  
+[00:53:30] [STREAMER] Loading of streamer ..
+[00:53:30] [STREAMER] Streamer loaded.
+[00:53:30]  
+[00:53:30] [SETTINGS] Loading the settings ..
+[00:53:31] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
+[00:53:31]  
+[00:53:31] [INIT] Loading variables from the database ..
+[00:53:33]     .. FBI loaded.
+[00:53:33]     .. list of models loaded.
+[00:53:33]   Filterscript 'mapping.amx' load failed.
+[00:53:33] Informations
+[00:53:33] --------------
+[00:53:33] Gamemode for SAMP 0.3.7 R2|| Version GM testserver 5.0.1
+[00:53:33] - Developped by Dark_Rider29 (Samp Forum)
+[00:53:33] - Mapped by Lurtz59
+[00:53:33]  
+[00:53:33] Logs
+[00:53:33] ------
+[00:53:33] Number of vehicle models: 0
+[00:53:36]     .. 2 businesses loaded.
+[00:53:55]     .. UniqueBizzs loaded.
+[00:53:55]     .. 1 House(s) loaded.
+[00:53:55]     .. 0 furnitures loaded.
+[00:55:58]     .. 0 radar(s) loaded.
+[00:56:00]     ... 1 police fines loaded.
+[00:56:07]     .. 1 Illegal faction(s) saved.
+[00:56:07]     .. 0 loaded.
+[00:56:07]     .. 0 bus stops loaded
+[00:56:07]     .. 0 garage(s) loaded.
+[00:56:07]     .. 0 atm(s) loaded.
+[00:56:08]     .. 2 vending machine(s) loaded.
+[00:56:08]     .. 0 gross trash can(s) loaded.
+[00:56:08]     .. 0 small trash can(s) loaded.
+[00:56:08]     .. 2 map(s) loaded.
+[00:56:08]     .. 2 telephone cabins loaded.
+[00:56:09]     .. 0 sign(s) loaded.
+[00:56:09]     .. 1 GPS loaded..
+[00:56:09]     .. 0 interiors loaded.
+[00:56:10]     .. spawns loaded.
+[00:56:10]     .. 0 Anti-DM zones loaded..
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:59:15] 
+[00:59:15] Server Plugins
+[00:59:15] --------------
+[00:59:15]  Loading plugin: crashdetect.dll
+[00:59:15]   CrashDetect v4.15.1 is OK.
+[00:59:15]   Loaded.
+[00:59:15]  Loading plugin: streamer.dll
+[00:59:15] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[00:59:15]   Loaded.
+[00:59:15]  Loading plugin: mysql.dll
+[00:59:15]  >> plugin.mysql: R41-2 successfully loaded.
+[00:59:15]   Loaded.
+[00:59:15]  Loading plugin: Encrypt.dll
+[00:59:15] 
+
+[00:59:15] ______________________________________
+
+[00:59:15]  Encrypt Plugin v0.1 loaded
+[00:59:15] ______________________________________
+
+[00:59:15]  By: Fro (c) Copyright <TBG> 2009-2010
+[00:59:15] ______________________________________
+
+[00:59:15]   Loaded.
+[00:59:15]  Loaded 4 plugins.
+
+[00:59:15] 
+[00:59:15] Ban list
+[00:59:15] --------
+[00:59:15]  Loaded: samp.ban
+[00:59:15] 
+[00:59:15] 
+[00:59:15] Filterscripts
+[00:59:15] ---------------
+[00:59:15]   Loading filterscript 'mapping.amx'...
+[00:59:15]   Loaded 1 filterscripts.
+
+[00:59:15] GameMode LVRP
+[00:59:15] ---------------
+[00:59:15] [MYSQL] Sign in in progress ...
+[00:59:15] [MYSQL] Sign in reussie
+[00:59:15]  
+[00:59:15] [STREAMER] Loading of streamer ..
+[00:59:15] [STREAMER] Streamer loaded.
+[00:59:15]  
+[00:59:15] [SETTINGS] Loading the settings ..
+[00:59:15] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
+[00:59:15]  
+[00:59:15] [INIT] Loading variables from the database ..
+[00:59:29]     .. FBI loaded.
+[00:59:29]     .. list of models loaded.
+[00:59:29]   Filterscript 'mapping.amx' load failed.
+[00:59:29] Informations
+[00:59:29] --------------
+[00:59:29] Gamemode for SAMP 0.3.7 R2|| Version GM testserver 5.0.1
+[00:59:29] - Developped by Dark_Rider29 (Samp Forum)
+[00:59:29] - Mapped by Lurtz59
+[00:59:29]  
+[00:59:29] Logs
+[00:59:29] ------
+[00:59:29] Number of vehicle models: 0
+[00:59:33]     .. 2 businesses loaded.
+[00:59:48]     .. UniqueBizzs loaded.
+[00:59:48]     .. 0 furnitures loaded.
+[00:59:49]     .. 0 radar(s) loaded.
+[00:59:53]     .. 1 House(s) loaded.
+[00:59:54]     ... 1 police fines loaded.
+[01:01:30]     .. 0 loaded.
+[01:01:30]     .. 0 garage(s) loaded.
+[01:01:30]     .. 0 atm(s) loaded.
+[01:01:30]     .. 0 gross trash can(s) loaded.
+[01:01:30]     .. 1 Illegal faction(s) saved.
+[01:01:31]     .. 2 telephone cabins loaded.
+[01:01:32]     .. 1 GPS loaded..
+[01:01:33]     .. 0 bus stops loaded
+[01:01:34]     .. spawns loaded.
+[01:01:34]     .. 2 vending machine(s) loaded.
+[01:01:34]     .. 0 small trash can(s) loaded.
+[01:01:35]     .. 2 map(s) loaded.
+[01:01:35]     .. 0 Anti-DM zones loaded..
+[01:01:35]     .. 0 sign(s) loaded.
+[01:01:35]     .. 0 interiors loaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:53:46] 
+[01:53:46] Server Plugins
+[01:53:46] --------------
+[01:53:46]  Loading plugin: crashdetect.dll
+[01:53:46]   CrashDetect v4.15.1 is OK.
+[01:53:46]   Loaded.
+[01:53:46]  Loading plugin: streamer.dll
+[01:53:46] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[01:53:46]   Loaded.
+[01:53:46]  Loading plugin: mysql.dll
+[01:53:47]  >> plugin.mysql: R41-2 successfully loaded.
+[01:53:47]   Loaded.
+[01:53:47]  Loading plugin: Encrypt.dll
+[01:53:47] 
+
+[01:53:47] ______________________________________
+
+[01:53:47]  Encrypt Plugin v0.1 loaded
+[01:53:47] ______________________________________
+
+[01:53:47]  By: Fro (c) Copyright <TBG> 2009-2010
+[01:53:47] ______________________________________
+
+[01:53:47]   Loaded.
+[01:53:47]  Loaded 4 plugins.
+
+[01:53:47] 
+[01:53:47] Ban list
+[01:53:47] --------
+[01:53:47]  Loaded: samp.ban
+[01:53:47] 
+[01:53:47] 
+[01:53:47] Filterscripts
+[01:53:47] ---------------
+[01:53:47]   Loading filterscript 'mapping.amx'...
+[01:53:47]   Loaded 1 filterscripts.
+
+[01:53:47] GameMode LVRP
+[01:53:47] ---------------
+[01:53:47] [MYSQL] Sign in in progress ...
+[01:53:47] [MYSQL] Sign in reussie
+[01:53:47]  
+[01:53:47] [STREAMER] Loading of streamer ..
+[01:53:47] [STREAMER] Streamer loaded.
+[01:53:47]  
+[01:53:47] [SETTINGS] Loading the settings ..
+[01:53:47] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
+[01:53:47]  
+[01:53:47] [INIT] Loading variables from the database ..
+[01:53:47]     .. FBI loaded.
+[01:53:47]     .. list of models loaded.
+[01:53:47]   Filterscript 'mapping.amx' load failed.
+[01:53:47] Informations
+[01:53:47] --------------
+[01:53:47] Gamemode for SAMP 0.3.7 R2|| Version GM testserver 5.0.1
+[01:53:47] - Developped by Dark_Rider29 (Samp Forum)
+[01:53:47] - Mapped by Lurtz59
+[01:53:47]  
+[01:53:47] Logs
+[01:53:47] ------
+[01:53:47] Number of vehicle models: 0
+[01:53:51]     .. 2 businesses loaded.
+[01:53:52]     .. 1 House(s) loaded.
+[01:56:53]     .. UniqueBizzs loaded.
+[01:56:54]     .. 1 Illegal faction(s) saved.
+[01:56:54]     .. 0 furnitures loaded.
+[01:56:54]     .. 0 radar(s) loaded.
+[01:56:55]     .. 0 bus stops loaded
+[01:56:55]     ... 1 police fines loaded.
+[01:56:55]     .. 2 vending machine(s) loaded.
+[01:56:56]     .. 0 small trash can(s) loaded.
+[01:56:56]     .. 0 loaded.
+[01:56:56]     .. 2 map(s) loaded.
+[01:56:56]     .. 0 garage(s) loaded.
+[01:56:56]     .. 0 atm(s) loaded.
+[01:56:56]     .. 0 sign(s) loaded.
+[01:56:57]     .. 0 interiors loaded.
+[01:56:57]     .. 0 gross trash can(s) loaded.
+[01:56:57]     .. 2 telephone cabins loaded.
+[01:56:58]     .. 1 GPS loaded..
+[01:56:59]     .. spawns loaded.
+[01:56:59]     .. 0 Anti-DM zones loaded..
+[02:00:56] [02:00:55]
+[02:00:56]  Annonce Mto  Take advantage of the good weather!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:29:00] 
+[02:29:00] Server Plugins
+[02:29:00] --------------
+[02:29:00]  Loading plugin: crashdetect.dll
+[02:29:00]   CrashDetect v4.15.1 is OK.
+[02:29:00]   Loaded.
+[02:29:00]  Loading plugin: streamer.dll
+[02:29:00] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[02:29:00]   Loaded.
+[02:29:00]  Loading plugin: mysql.dll
+[02:29:00]  >> plugin.mysql: R41-2 successfully loaded.
+[02:29:00]   Loaded.
+[02:29:00]  Loading plugin: Encrypt.dll
+[02:29:00] 
+
+[02:29:00] ______________________________________
+
+[02:29:00]  Encrypt Plugin v0.1 loaded
+[02:29:00] ______________________________________
+
+[02:29:00]  By: Fro (c) Copyright <TBG> 2009-2010
+[02:29:00] ______________________________________
+
+[02:29:00]   Loaded.
+[02:29:00]  Loaded 4 plugins.
+
+[02:29:00] 
+[02:29:00] Ban list
+[02:29:00] --------
+[02:29:00]  Loaded: samp.ban
+[02:29:00] 
+[02:29:00] 
+[02:29:00] Filterscripts
+[02:29:00] ---------------
+[02:29:00]   Loading filterscript 'mapping.amx'...
+[02:29:00]   Loaded 1 filterscripts.
+
+[02:29:00] GameMode LVRP
+[02:29:00] ---------------
+[02:29:00] [MYSQL] Sign in in progress ...
+[02:29:04] [MYSQL] Sign in reussie
+[02:29:04]  
+[02:29:04] [STREAMER] Loading of streamer ..
+[02:29:04] [STREAMER] Streamer loaded.
+[02:29:04]  
+[02:29:04] [SETTINGS] Loading the settings ..
+[02:29:04] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
+[02:29:04]  
+[02:29:04] [INIT] Loading variables from the database ..
+[02:29:06]     .. FBI loaded.
+[02:29:06]     .. list of models loaded.
+[02:29:06]   Filterscript 'mapping.amx' load failed.
+[02:29:06] Informations
+[02:29:06] --------------
+[02:29:06] Gamemode for SAMP 0.3.7 R2|| Version GM testserver 5.0.1
+[02:29:06] - Developped by Dark_Rider29 (Samp Forum)
+[02:29:06] - Mapped by Lurtz59
+[02:29:06]  
+[02:29:06] Logs
+[02:29:06] ------
+[02:29:06] Number of vehicle models: 0
+[02:29:07]     .. 2 businesses loaded.
+[02:29:22]     .. UniqueBizzs loaded.
+[02:29:22]     .. 0 furnitures loaded.
+[02:29:23]     .. 1 House(s) loaded.
+[02:29:24]     .. 0 radar(s) loaded.
+[02:31:58]     ... 1 police fines loaded.
+[02:32:06]     .. 0 loaded.
+[02:32:07]     .. 1 Illegal faction(s) saved.
+[02:32:07]     .. 0 garage(s) loaded.
+[02:32:07]     .. 0 bus stops loaded
+[02:32:07]     .. 0 atm(s) loaded.
+[02:32:08]     .. 2 vending machine(s) loaded.
+[02:32:08]     .. 0 gross trash can(s) loaded.
+[02:32:08]     .. 0 small trash can(s) loaded.
+[02:32:08]     .. 2 telephone cabins loaded.
+[02:32:09]     .. 2 map(s) loaded.
+[02:32:09]     .. 0 sign(s) loaded.
+[02:32:09]     .. 1 GPS loaded..
+[02:32:10]     .. spawns loaded.
+[02:32:10]     .. 0 interiors loaded.
+[02:32:11]     .. 0 Anti-DM zones loaded..
+[02:33:37] [connection] incoming connection: 127.0.0.1:65133 id: 0
+[02:33:40] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[02:34:15] [Login] Jasin_Refiku c'est logu.
+[02:34:34] [chat] [Jasin_Refiku]: .
+[02:34:42] Jasin_Refiku[0] /release
+[02:34:44] Jasin_Refiku[0] /a release
+[02:34:47] Jasin_Refiku[0] /a dejail 0
+[02:34:53] Jasin_Refiku[0] /a vie 0 0
+[02:34:55] [death] Jasin_Refiku died 255
+[02:34:55] [chat] [Jasin_Refiku]: .
+[02:35:09] Jasin_Refiku[0] /a tp spawn
+[02:35:17] Jasin_Refiku[0] /a unfreeze
+[02:35:37] [chat] [Jasin_Refiku]: .
+[02:35:39] Jasin_Refiku[0] /a tp ls
+[02:35:47] [chat] [Jasin_Refiku]: .
+[02:35:48] [death] Jasin_Refiku died 255
+[02:35:52] [debug] Run time error 4: "Array index out of bounds"
+[02:35:52] [debug]  Accessing element at negative index -1
+[02:35:52] [debug] AMX backtrace:
+[02:35:52] [debug] #0 000496cc in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6913
+[02:35:52] [debug] #1 00050334 in public OnPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:7300
+[02:35:52] Jasin_Refiku[0] /a tp ls
+[02:35:52] [chat] [Jasin_Refiku]: .
+[02:35:55] Jasin_Refiku[0] /a tp
+[02:35:56] Jasin_Refiku[0] /a tp spawn
+[02:36:25] Jasin_Refiku[0] /a creer
+[02:36:28] Jasin_Refiku[0] /a create
+[02:36:35] [debug] Run time error 4: "Array index out of bounds"
+[02:36:35] [debug]  Accessing element at negative index -1
+[02:36:35] [debug] AMX backtrace:
+[02:36:35] [debug] #0 00049da4 in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6937
+[02:36:35] [debug] #1 002180f4 in public timer_Decrement (i=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:36998
+[02:36:35] [debug] #2 00009304 in public timer_2s () at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:3581
+[02:36:35] Jasin_Refiku[0] /a create car
+[02:36:35] Jasin_Refiku[0] /a create car
+[02:36:36] [chat] [Jasin_Refiku]: .
+[02:36:43] Jasin_Refiku[0] /a create car fbi 0 0
+[02:36:47] Jasin_Refiku[0] /a create car 490 0 0
+[02:36:51] Jasin_Refiku[0] /a create car 490 0 0 1
+[02:36:56] Jasin_Refiku[0] /v buy
+[02:37:00] Jasin_Refiku[0] /car
+[02:37:05] Jasin_Refiku[0] /v buy
+[02:37:10] Jasin_Refiku[0] /v stash
+[02:37:12] Jasin_Refiku[0] /v stash ouvrir
+[02:37:14] Jasin_Refiku[0] /v stash ouvrir
+[02:37:19] Jasin_Refiku[0] /v stash ouvrir
+[02:37:20] Jasin_Refiku[0] /v stash ouvrir
+[02:37:26] Jasin_Refiku[0] /v window
+[02:37:40] Jasin_Refiku[0] /a edit
+[02:37:43] Jasin_Refiku[0] /a edit vehicule
+[02:37:52] Old: 31 - New: 31
+[02:37:56] Jasin_Refiku[0] /v stash
+[02:37:58] Jasin_Refiku[0] /v stash ouvrir
+[02:38:01] Jasin_Refiku[0] /v stash ouvrir
+[02:38:03] Jasin_Refiku[0] /v stash
+[02:38:06] Jasin_Refiku[0] /v stash entrer
+[02:38:12] Jasin_Refiku[0] /v stash exit
+[02:38:21] Jasin_Refiku[0] /v stash sortir
+[02:38:28] Jasin_Refiku[0] /v stash cadavre
+[02:38:31] Jasin_Refiku[0] /v stash cadavre 1
+[02:38:35] Jasin_Refiku[0] /v stash cadavre 100
+[02:38:38] Jasin_Refiku[0] /v stash cadavre 1
+[02:38:47] Jasin_Refiku[0] /v stash cadavre 1
+[02:38:49] Jasin_Refiku[0] /v stash cadavre 100
+[02:38:51] Jasin_Refiku[0] /v stash cadavre 100
+[02:38:53] Jasin_Refiku[0] /v stash cadavre 10000
+[02:38:56] Jasin_Refiku[0] /v stash cadavre 0
+[02:39:01] Jasin_Refiku[0] /v stash corpse
+[02:39:04] Jasin_Refiku[0] /v stash
+[02:39:07] Jasin_Refiku[0] /v stash manage
+[02:39:20] Jasin_Refiku[0] /v stash 
+[02:39:23] Jasin_Refiku[0] /v stash cadavre
+[02:39:28] Jasin_Refiku[0] /v stash cadavre 1
+[02:39:33] Jasin_Refiku[0] /v stash cadavre mettre
+[02:39:35] Jasin_Refiku[0] /v stash cadavre mettre
+[02:39:38] Jasin_Refiku[0] /v stash cadavre prendre
+[02:39:41] Jasin_Refiku[0] /v stash cadavre prendre
+[02:52:47] Jasin_Refiku[0] /a 
+[02:52:56] Jasin_Refiku[0] /a refund
+[02:53:18] Jasin_Refiku[0] /a server
+[02:53:27] [debug] Run time error 4: "Array index out of bounds"
+[02:53:27] [debug]  Accessing element at negative index -1
+[02:53:27] [debug] AMX backtrace:
+[02:53:27] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
+[02:53:27] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
+[02:53:27] [debug] Run time error 4: "Array index out of bounds"
+[02:53:27] [debug]  Accessing element at negative index -1
+[02:53:27] [debug] AMX backtrace:
+[02:53:27] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
+[02:53:27] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
+[02:53:28] [debug] Run time error 4: "Array index out of bounds"
+[02:53:28] [debug]  Accessing element at negative index -1
+[02:53:28] [debug] AMX backtrace:
+[02:53:28] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
+[02:53:28] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
+[02:53:28] [debug] Run time error 4: "Array index out of bounds"
+[02:53:28] [debug]  Accessing element at negative index -1
+[02:53:28] [debug] AMX backtrace:
+[02:53:28] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
+[02:53:28] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
+[02:53:28] [debug] Run time error 4: "Array index out of bounds"
+[02:53:28] [debug]  Accessing element at negative index -1
+[02:53:28] [debug] AMX backtrace:
+[02:53:28] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
+[02:53:28] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
+[02:53:38] [debug] Run time error 4: "Array index out of bounds"
+[02:53:38] [debug]  Accessing element at negative index -1
+[02:53:38] [debug] AMX backtrace:
+[02:53:38] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
+[02:53:38] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
+[02:53:40] [debug] Run time error 4: "Array index out of bounds"
+[02:53:40] [debug]  Accessing element at negative index -1
+[02:53:40] [debug] AMX backtrace:
+[02:53:40] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
+[02:53:40] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
+[02:53:40] [debug] Run time error 4: "Array index out of bounds"
+[02:53:40] [debug]  Accessing element at negative index -1
+[02:53:40] [debug] AMX backtrace:
+[02:53:40] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
+[02:53:40] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
+[02:53:40] [debug] Run time error 4: "Array index out of bounds"
+[02:53:40] [debug]  Accessing element at negative index -1
+[02:53:40] [debug] AMX backtrace:
+[02:53:40] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
+[02:53:40] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
+[02:53:41] [debug] Run time error 4: "Array index out of bounds"
+[02:53:41] [debug]  Accessing element at negative index -1
+[02:53:41] [debug] AMX backtrace:
+[02:53:41] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
+[02:53:41] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
+[02:53:41] [debug] Run time error 4: "Array index out of bounds"
+[02:53:41] [debug]  Accessing element at negative index -1
+[02:53:41] [debug] AMX backtrace:
+[02:53:41] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
+[02:53:41] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
+[02:53:45] Jasin_Refiku[0] /a impound
+[02:53:57] Jasin_Refiku[0] /a car
+[02:53:58] Jasin_Refiku[0] /a v
+[02:54:00] Jasin_Refiku[0] /a vehicule
+[02:54:03] Jasin_Refiku[0] /a edit
+[02:54:05] Jasin_Refiku[0] /a edit vehicule
+[02:54:11] Jasin_Refiku[0] /a create vehicule
+[02:54:15] Jasin_Refiku[0] /a create car
+[02:54:19] Jasin_Refiku[0] /a create car 596 2 1
+[02:54:21] Jasin_Refiku[0] /a create car 596 2 1 1
+[02:54:35] Jasin_Refiku[0] /a edit car
+[02:54:41] [chat] [Jasin_Refiku]: .
+[02:54:50] Old: 32 - New: 32
+[02:54:53] Jasin_Refiku[0] /a edit vehicule
+[02:55:13] Jasin_Refiku[0] /v
+[02:55:26] Jasin_Refiku[0] /v light
+[02:55:27] Jasin_Refiku[0] /v lights
+[02:55:52] Jasin_Refiku[0] /phone
+[02:55:55] Jasin_Refiku[0] /a create biz
+[02:56:03] Jasin_Refiku[0] /a edit biz 2
+[02:56:19] Jasin_Refiku[0] /biz
+[02:56:20] Jasin_Refiku[0] /biz buy
+[02:56:23] Jasin_Refiku[0] /biz buy
+[02:56:44] Jasin_Refiku[0] /biz buy
+[02:57:19] Jasin_Refiku[0] /gps
+[02:57:20] Jasin_Refiku[0] /a tp
+[02:57:22] Jasin_Refiku[0] /a tp job
+[02:57:25] Jasin_Refiku[0] /a tp qg
+[02:57:35] Jasin_Refiku[0] /a leader
+[02:57:38] Jasin_Refiku[0] /a leader 0
+[02:57:39] Jasin_Refiku[0] /a leader 0
+[02:57:41] Jasin_Refiku[0] /a kick
+[02:58:05] Jasin_Refiku[0] /biz buy
+[02:58:16] Jasin_Refiku[0] /biz type
+[02:58:37] Jasin_Refiku[0] /biz type
+[02:58:42] Jasin_Refiku[0] /biz management
+[02:58:44] [chat] [Jasin_Refiku]: .
+[02:58:46] Jasin_Refiku[0] /biz 
+[02:58:50] Jasin_Refiku[0] /biz management
+[02:58:51] Jasin_Refiku[0] /biz manage
+[02:58:54] Jasin_Refiku[0] /biz manage
+[02:58:57] Jasin_Refiku[0] /buy
+[02:59:08] Jasin_Refiku[0] /phone
+[02:59:17] Jasin_Refiku[0] /biz infos
+[02:59:19] [chat] [Jasin_Refiku]: .
+[02:59:23] Jasin_Refiku[0] /biz infos
+[02:59:25] Jasin_Refiku[0] /biz info
+[02:59:26] [chat] [Jasin_Refiku]: .
+[02:59:30] Jasin_Refiku[0] /biz sella
+[02:59:34] Jasin_Refiku[0] /biz sellto
+[02:59:37] Jasin_Refiku[0] /properties
+[02:59:40] Jasin_Refiku[0] /aide
+[02:59:41] Jasin_Refiku[0] /help
+[02:59:43] Jasin_Refiku[0] /help
+[02:59:45] Jasin_Refiku[0] /Help
+[03:00:36] [03:00:36]
+[03:00:36]  Annonce Mto  Dark skies, significant risk of thunderstorms.
+[03:00:49] [chat] [Jasin_Refiku]: .
+[03:02:17] [chat] [Jasin_Refiku]: aide
+[03:02:47] Jasin_Refiku[0] /a
+[03:02:50] Jasin_Refiku[0] /a dao
+[03:02:54] [chat] [Jasin_Refiku]: .
+[03:03:02] Jasin_Refiku[0] /a event
+[03:03:08] Jasin_Refiku[0] /a lancer
+[03:03:11] Jasin_Refiku[0] /a event
+[03:03:13] Jasin_Refiku[0] /a event lancer
+[03:03:15] Jasin_Refiku[0] /a event create
+[03:03:17] Jasin_Refiku[0] /a event create dm
+[03:03:19] [chat] [Jasin_Refiku]: .
+[03:03:21] Jasin_Refiku[0] /a event create dm
+[03:03:23] Jasin_Refiku[0] /a event create derby
+[03:03:27] Jasin_Refiku[0] /a event
+[03:03:30] Jasin_Refiku[0] /a event create 
+[03:03:31] Jasin_Refiku[0] /a event create  dm
+[03:03:32] Jasin_Refiku[0] /a event create dm
+[03:03:36] Jasin_Refiku[0] /a event create <dm>
+[03:03:38] Jasin_Refiku[0] /a
+[03:03:41] Jasin_Refiku[0] /a server
+[03:04:01] Jasin_Refiku[0] /jobs
+[03:04:03] Jasin_Refiku[0] /job
+[03:04:06] Jasin_Refiku[0] /aide
+[03:04:08] Jasin_Refiku[0] /help
+[03:04:20] [AntiCheat] Jasin_Refiku(0) - cheat : Steal Hack
+[03:04:20] [part] Jasin_Refiku has left the server (0:2)
+[03:04:30] [connection] incoming connection: 127.0.0.1:57102 id: 0
+[03:04:30] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[03:04:50] [Login] Jasin_Refiku c'est logu.
+[03:05:02] Jasin_Refiku[0] /a creer
+[03:05:06] Jasin_Refiku[0] /a creer 
+[03:05:07] Jasin_Refiku[0] /a create
+[03:05:12] Jasin_Refiku[0] /a payday
+[03:05:22] Jasin_Refiku[0] /stats
+[03:05:37] Jasin_Refiku[0] /a tp
+[03:05:40] Jasin_Refiku[0] /a tp joueuer
+[03:05:45] Jasin_Refiku[0] /a tp concess
+[03:05:54] Jasin_Refiku[0] /a create
+[03:06:03] Jasin_Refiku[0] /a create dealership
+[03:06:19] Jasin_Refiku[0] /a argent
+[03:06:23] Jasin_Refiku[0] /a argent 0 5000000
+[03:06:42] Jasin_Refiku[0] /a tp 
+[03:06:44] Jasin_Refiku[0] /a tp vehicule
+[03:06:46] Jasin_Refiku[0] /a tp vehicule 29
+[03:07:11] Jasin_Refiku[0] /a tp vehicule 30
+[03:07:15] Jasin_Refiku[0] /a tp vehicule 32
+[03:07:17] Jasin_Refiku[0] /a tp vehicule 33
+[03:07:24] Jasin_Refiku[0] /v
+[03:07:27] Jasin_Refiku[0] /engine
+[03:07:45] Jasin_Refiku[0] /v manage
+[03:07:47] Jasin_Refiku[0] /v management
+[03:10:15] Jasin_Refiku[0] /v panel
+[03:10:16] Jasin_Refiku[0] /v panels
+[03:14:18] Jasin_Refiku[0] /a tp
+[03:14:26] Jasin_Refiku[0] /a goto banque
+[03:14:39] Jasin_Refiku[0] /a create
+[03:14:43] Jasin_Refiku[0] /a create arret
+[03:14:50] Jasin_Refiku[0] /a create pub
+[03:14:54] [chat] [Jasin_Refiku]: .
+[03:15:02] Jasin_Refiku[0] /a 
+[03:15:05] Jasin_Refiku[0] /a supprimer pub 0
+[03:15:08] Jasin_Refiku[0] /a supprimer pub
+[03:15:10] Jasin_Refiku[0] /a supprimer
+[03:15:13] Jasin_Refiku[0] /a delete
+[03:15:16] Jasin_Refiku[0] /a supprimer pub
+[03:15:26] Jasin_Refiku[0] /a edit
+[03:15:27] Jasin_Refiku[0] /a edit pub
+[03:16:04] Jasin_Refiku[0] /a id
+[03:18:13] Jasin_Refiku[0] /a
+[03:18:16] Jasin_Refiku[0] /a renvoie
+[03:18:17] Jasin_Refiku[0] /a renvoie 0
+[03:18:23] Jasin_Refiku[0] /a tp banque
+[03:19:35] Jasin_Refiku[0] /a edit pub
+[03:19:56] Jasin_Refiku[0] /a create
+[03:20:00] Jasin_Refiku[0] /a create sbizz
+[03:20:01] Jasin_Refiku[0] /a create sbiz
+[03:20:04] Jasin_Refiku[0] /a sbiz
+[03:20:06] Jasin_Refiku[0] /a bizz
+[03:20:10] Jasin_Refiku[0] /a create
+[03:20:13] Jasin_Refiku[0] /a create banque
+[03:20:16] Jasin_Refiku[0] /a create biz
+[03:20:25] Jasin_Refiku[0] /a edit biz
+[03:20:58] Jasin_Refiku[0] /a tp
+[03:21:02] Jasin_Refiku[0] /a buy
+[03:21:04] Jasin_Refiku[0] /biz buy
+[03:21:05] Jasin_Refiku[0] /biz buy
+[03:21:20] Jasin_Refiku[0] /biz buy
+[03:21:26] Jasin_Refiku[0] /biz type
+[03:21:33] Jasin_Refiku[0] /a create banque
+[03:21:35] Jasin_Refiku[0] /a create
+[03:21:43] Jasin_Refiku[0] /a create atm
+[03:22:05] Jasin_Refiku[0] /atm
+[03:22:13] Jasin_Refiku[0] /a supprime
+[03:22:17] Jasin_Refiku[0] /a supprimer atm 0
+[03:22:21] Jasin_Refiku[0] /a create
+[03:22:22] Jasin_Refiku[0] /a lotto
+[03:22:24] Jasin_Refiku[0] /a lotto
+[03:22:32] Jasin_Refiku[0] /a create zone
+[03:22:36] Jasin_Refiku[0] /a create dealership
+[03:22:47] Jasin_Refiku[0] /a create tree
+[03:22:53] Jasin_Refiku[0] /a tp
+[03:22:59] Jasin_Refiku[0] /a tp pos
+[03:23:04] Jasin_Refiku[0] /a tp anpe
+[03:23:09] [chat] [Jasin_Refiku]: .
+[03:23:13] Jasin_Refiku[0] /a tp actor
+[03:23:14] Jasin_Refiku[0] /a tp actor 0
+[03:23:24] Jasin_Refiku[0] /job
+[03:23:27] Jasin_Refiku[0] /job start
+[03:23:29] Jasin_Refiku[0] /job start
+[03:23:34] Jasin_Refiku[0] /a create
+[03:23:40] Jasin_Refiku[0] /a id
+[03:23:42] Jasin_Refiku[0] /v
+[03:23:43] Jasin_Refiku[0] /v id
+[03:23:46] Jasin_Refiku[0] /v id 
+[03:25:58] Jasin_Refiku[0] /a create
+[03:26:02] Jasin_Refiku[0] /a create car 462
+[03:26:04] Jasin_Refiku[0] /a create car 462 1 1
+[03:26:06] Jasin_Refiku[0] /a create car 462 1 1 1
+[03:26:15] Jasin_Refiku[0] /a edit car 34
+[03:26:22] Old: 34 - New: 34
+[03:26:23] Jasin_Refiku[0] /job start
+[03:26:30] Jasin_Refiku[0] /job start
+[03:26:31] Jasin_Refiku[0] /job
+[03:26:34] Jasin_Refiku[0] /job locate
+[03:26:39] Jasin_Refiku[0] /job start
+[03:26:50] Jasin_Refiku[0] /a tp actor
+[03:26:53] Jasin_Refiku[0] /a tp actor 0
+[03:26:57] Jasin_Refiku[0] /a tp actor 1
+[03:27:00] Jasin_Refiku[0] /a tp actor 1
+[03:27:01] Jasin_Refiku[0] /a tp actor 2
+[03:27:03] Jasin_Refiku[0] /a tp actor 2
+[03:27:04] Jasin_Refiku[0] /a tp actor 3
+[03:27:06] Jasin_Refiku[0] /a tp actor 4
+[03:27:07] Jasin_Refiku[0] /a tp actor 6
+[03:27:08] Jasin_Refiku[0] /a tp actor 10
+[03:27:10] Jasin_Refiku[0] /a tp actor 50
+[03:27:13] Jasin_Refiku[0] /a tp actor 60
+[03:27:14] Jasin_Refiku[0] /a tp
+[03:27:16] Jasin_Refiku[0] /a tp actor
+[03:27:19] Jasin_Refiku[0] /a tp actor 20
+[03:27:21] Jasin_Refiku[0] /a tp actor 1002
+[03:27:30] Jasin_Refiku[0] /stats
+[03:27:47] Jasin_Refiku[0] /jetpack
+[03:27:49] Jasin_Refiku[0] /a jetpack
+[03:27:50] [AntiCheat] Jasin_Refiku(0) - cheat : JetPack
+[03:27:51] [part] Jasin_Refiku has left the server (0:2)
+[03:28:02] [connection] incoming connection: 127.0.0.1:51355 id: 0
+[03:28:02] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[03:28:26] [Login] Jasin_Refiku c'est logu.
+[03:28:40] [chat] [Jasin_Refiku]: .
+[03:28:45] Jasin_Refiku[0] /a create
+[03:28:51] Jasin_Refiku[0] /a create interieur
+[03:30:15] Jasin_Refiku[0] /enter
+[03:30:21] Jasin_Refiku[0] /v
+[03:30:23] Jasin_Refiku[0] /v stash
+[03:30:35] Jasin_Refiku[0] /a create interieur
+[03:30:44] Jasin_Refiku[0] /v stash
+[03:30:46] Jasin_Refiku[0] /a create interieur
+[03:31:10] Jasin_Refiku[0] /a create
+[03:31:13] Jasin_Refiku[0] /a create car 596
+[03:31:16] Jasin_Refiku[0] /a create car 596 1 1
+[03:31:20] Jasin_Refiku[0] /a create car 596 1 1 1
+[03:31:29] Jasin_Refiku[0] /a edit 35
+[03:31:34] Jasin_Refiku[0] /a edit car
+[03:31:56] Jasin_Refiku[0] /v
+[03:31:58] Jasin_Refiku[0] /v buy
+[03:32:02] Jasin_Refiku[0] /v 
+[03:32:04] Jasin_Refiku[0] /v fix
+[03:32:05] Jasin_Refiku[0] /v id
+[03:32:10] Jasin_Refiku[0] /a edit car 35
+[03:32:21] [chat] [Jasin_Refiku]: .
+[03:32:26] Jasin_Refiku[0] /a edit car
+[03:32:38] Jasin_Refiku[0] /a edit car
+[03:32:47] Jasin_Refiku[0] /a edit car
+[03:32:55] Jasin_Refiku[0] /a edit car
+[03:33:09] Old: 35 - New: 35
+[03:33:20] Jasin_Refiku[0] /v rent
+[03:33:26] Jasin_Refiku[0] /v neon
+[03:33:27] Jasin_Refiku[0] /v stash
+[03:33:29] Jasin_Refiku[0] /v stash ouvrir
+[03:33:32] Jasin_Refiku[0] /v stash ouvrir
+[03:33:34] Jasin_Refiku[0] /v stash ouvrir
+[03:33:35] Jasin_Refiku[0] /v stash ouvrir
+[03:33:41] Jasin_Refiku[0] /v cadena
+[03:33:46] Jasin_Refiku[0] /v cadena
+[03:33:50] Jasin_Refiku[0] /v cadena
+[03:33:51] [chat] [Jasin_Refiku]: .
+[03:33:53] Jasin_Refiku[0] /v park
+[03:33:56] Jasin_Refiku[0] /v edit
+[03:33:59] Jasin_Refiku[0] /v ainfos
+[03:34:15] Jasin_Refiku[0] /a edit car 35
+[03:34:35] Old: 35 - New: 35
+[03:34:40] Jasin_Refiku[0] /v
+[03:34:43] Jasin_Refiku[0] /a edit car 35
+[03:34:46] Jasin_Refiku[0] /a edit car 35
+[03:34:47] [chat] [Jasin_Refiku]: .
+[03:34:52] Jasin_Refiku[0] /a edit car 35
+[03:34:58] Jasin_Refiku[0] /a supprime car 35
+[03:35:02] Jasin_Refiku[0] /a supprimer car 35
+[03:35:04] [chat] [Jasin_Refiku]: .
+[03:35:06] Jasin_Refiku[0] /a supprimer
+[03:35:08] Jasin_Refiku[0] /a supprimer car
+[03:35:12] Jasin_Refiku[0] /a
+[03:35:13] Jasin_Refiku[0] /v
+[03:35:16] Jasin_Refiku[0] /v arespawn
+[03:35:17] Jasin_Refiku[0] /v arespawn 35
+[03:35:23] Jasin_Refiku[0] /v arespawn id 35
+[03:35:27] Jasin_Refiku[0] /a edit car
+[03:35:29] Jasin_Refiku[0] /a edit car 
+[03:35:38] Jasin_Refiku[0] /a edit car 35
+[03:35:39] Jasin_Refiku[0] /a edit car 35
+[03:35:59] Old: 0 - New: 65535
+[03:35:59] [debug] Run time error 4: "Array index out of bounds"
+[03:35:59] [debug]  Accessing element at index 65535 past array upper bound 1999
+[03:35:59] [debug] AMX backtrace:
+[03:35:59] [debug] #0 00044630 in vehicle_Transfer (oldcar=0, newcar=65535) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6702
+[03:35:59] [debug] #1 00046ee0 in car_Recreate (playerid=0, carid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6781
+[03:35:59] [debug] #2 002fc9e4 in public OnDialogResponse (playerid=0, dialogid=7, response=1, listitem=0, inputtext[]=@00fd26b0 "Voiture de location") at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:51371
+[03:36:02] Jasin_Refiku[0] /a edit car 35
+[03:36:05] Jasin_Refiku[0] /a edit car
+[03:36:08] Jasin_Refiku[0] /a edit car
+[03:36:20] Old: 0 - New: 65535
+[03:36:20] [debug] Run time error 4: "Array index out of bounds"
+[03:36:20] [debug]  Accessing element at index 65535 past array upper bound 1999
+[03:36:20] [debug] AMX backtrace:
+[03:36:20] [debug] #0 00044630 in vehicle_Transfer (oldcar=0, newcar=65535) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6702
+[03:36:20] [debug] #1 00046ee0 in car_Recreate (playerid=0, carid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6781
+[03:36:20] [debug] #2 002fdac0 in public OnDialogResponse (playerid=0, dialogid=7, response=1, listitem=-1, inputtext[]=@00fd26b0 "Jasin_Refiku") at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:51403
+[03:36:25] Jasin_Refiku[0] /a edit car
+[03:36:39] Old: 0 - New: 65535
+[03:36:39] [debug] Run time error 4: "Array index out of bounds"
+[03:36:39] [debug]  Accessing element at index 65535 past array upper bound 1999
+[03:36:39] [debug] AMX backtrace:
+[03:36:39] [debug] #0 00044630 in vehicle_Transfer (oldcar=0, newcar=65535) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6702
+[03:36:39] [debug] #1 00046ee0 in car_Recreate (playerid=0, carid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6781
+[03:36:39] [debug] #2 002fea48 in public OnDialogResponse (playerid=0, dialogid=7, response=1, listitem=5, inputtext[]=@00fd26b0 "[Owned 1] Appartenance  un joueur") at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:51458
+[03:36:44] Jasin_Refiku[0] /a edit car
+[03:36:46] Jasin_Refiku[0] /v
+[03:36:49] Jasin_Refiku[0] /a
+[03:36:52] Jasin_Refiku[0] /a supprimer
+[03:36:57] Jasin_Refiku[0] /v
+[03:37:11] Jasin_Refiku[0] /v edit 34
+[03:37:15] Jasin_Refiku[0] /a edit car 34
+[03:37:17] Jasin_Refiku[0] /a edit car 35
+[03:37:22] Jasin_Refiku[0] /a edit car 35
+[03:37:33] Jasin_Refiku[0] /a edit car 35
+[03:37:40] Jasin_Refiku[0] /a edit car 35
+[03:37:47] Jasin_Refiku[0] /a create car 596 0 0
+[03:37:49] Jasin_Refiku[0] /a create car 596 0 0 1
+[03:37:59] Jasin_Refiku[0] /v stash
+[03:38:02] Jasin_Refiku[0] /v stash ouvrir
+[03:38:07] Jasin_Refiku[0] /a edit car
+[03:38:22] Old: 35 - New: 35
+[03:38:23] Jasin_Refiku[0] /a tp
+[03:38:25] Jasin_Refiku[0] /a tp fbi
+[03:38:32] Jasin_Refiku[0] /a tp qg
+[03:38:36] Jasin_Refiku[0] /engine
+[03:38:38] Jasin_Refiku[0] /v
+[03:38:40] Jasin_Refiku[0] /v stash
+[03:38:44] Jasin_Refiku[0] /v stash ouvrir
+[03:38:46] Jasin_Refiku[0] /v stash
+[03:38:49] Jasin_Refiku[0] /v stash entrer
+[03:38:52] Jasin_Refiku[0] /entrer
+[03:38:55] Jasin_Refiku[0] /v stash sortir
+[03:39:47] Jasin_Refiku[0] /a tp ls
+[03:39:49] Jasin_Refiku[0] /a tp spawn
+[03:40:10] Jasin_Refiku[0] /entrer
+[03:40:36] Jasin_Refiku[0] /mafia
+[03:40:38] Jasin_Refiku[0] /mafia
+[03:40:49] Jasin_Refiku[0] /a edit faction
+[03:40:57] Jasin_Refiku[0] /a edit faction 0 4
+[03:41:01] Jasin_Refiku[0] /a edit faction 10 4
+[03:41:02] Jasin_Refiku[0] /a id
+[03:41:04] Jasin_Refiku[0] /factions
+[03:41:15] Jasin_Refiku[0] /a faction
+[03:41:16] Jasin_Refiku[0] /a leader
+[03:41:17] Jasin_Refiku[0] /a leader 0
+[03:41:37] Jasin_Refiku[0] /aide
+[03:41:40] Jasin_Refiku[0] /faction
+[03:41:42] Jasin_Refiku[0] /faction test
+[03:41:43] Jasin_Refiku[0] /f 
+[03:41:45] Jasin_Refiku[0] /f .
+[03:41:46] Jasin_Refiku[0] /r .
+[03:41:50] Jasin_Refiku[0] /mafia
+[03:41:53] Jasin_Refiku[0] /a supprimer
+[03:41:55] Jasin_Refiku[0] /a supprimer faction
+[03:41:58] Jasin_Refiku[0] /a supprimer faction
+[03:41:58] [chat] [Jasin_Refiku]: .
+[03:42:00] Jasin_Refiku[0] /a supprimer faction
+[03:42:05] Jasin_Refiku[0] /a create faction
+[03:42:17] Jasin_Refiku[0] /a edit faction
+[03:42:18] Jasin_Refiku[0] /a edit faction 1
+[03:42:20] Jasin_Refiku[0] /a edit faction 1 1
+[03:42:25] Jasin_Refiku[0] /a intreuer
+[03:42:29] Jasin_Refiku[0] /a create intreuer
+[03:42:32] Jasin_Refiku[0] /a create
+[03:42:34] Jasin_Refiku[0] /a create interieur
+[03:42:51] Jasin_Refiku[0] /faction
+[03:42:53] Jasin_Refiku[0] /aide
+[03:42:56] [part] Jasin_Refiku has left the server (0:1)
