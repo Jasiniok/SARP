@@ -21,7 +21,7 @@ GITHUB : https://github.com/DarkRider29/LVRP_SAMP
  [Respectez les crdits merci]
 
 => Sites Officiels :
-- http://www.lvrp.eu/ & http://www.testserver/
+- http://www.lvrp.eu/ & http://www.sarp/
 ================================================================================
 */
 /*
@@ -62,13 +62,13 @@ Fix loading string from DataBase
 */
 
 // Informations
-#define SCRIPT_VERSION "testserver 5.0.1" 											// Version du scripte
+#define SCRIPT_VERSION "sarp 5.0.1" 											// Version du scripte
 #define MAP_NAME "~w~San Andreas" 												// Name de la map
-#define FORUM_NAME "forum.testserver" 												// Adresse du forum
-#define TS_NAME "ts.testserver"                                           		// Adresse du TeamSpeak3
-#define HOST_NAME "Test Server"											// Name du serveur
+#define FORUM_NAME "forum.sarp" 												// Adresse du forum
+#define TS_NAME "ts.sarp"                                           		// Adresse du TeamSpeak3
+#define HOST_NAME "San Andreas Roleplay"											// Name du serveur
 #define NICK_NAME "LVRP"                                                        // Initiales du serveur
-#define SERVER_NAME "Test Server"                               			// Name complet du serveur
+#define SERVER_NAME "San Andreas Roleplay"                               			// Name complet du serveur
 
 // Identifiants MySQL
 #define MYSQL_HOST "127.0.0.1"                                  			// Host (Ip) 
@@ -1210,13 +1210,13 @@ new announce[ANNOUNCES][600] =// 10 mns
 {
 	{"~ Are you new and need help? No problem, use / i and / help ~"},
 	{"~ Have you seen a NO RP or a cheater? Use / report ~"},
-	{"~ Go to our forum if necessary: forum.testserver ~"},
+	{"~ Go to our forum if necessary: forum.sarp ~"},
 	{"~ Cheat, Insults OOC, No respect of the rules = Sanctions ~"},
 	{"~ VIP packs are on sale on our site! ~"},
 	{"~ Reminder: Drive RolePlay (Drive right and slow down at intersections) ~"},
 	{"~ Don't forget the / afk when you're away! ~"},
-	{"~ We have a panel: testserver ~"},
-	{"~ Don't hesitate to vote on the root-top: www.testserver ~"},
+	{"~ We have a panel: sarp ~"},
+	{"~ Don't hesitate to vote on the root-top: www.sarp ~"},
 	{"~ In case of bug script notify an Administrator in / i ~"},
 	{"~ Don't forget the RP / me / do actions! ~"},
 	{"~ Don't forget to eat, pay attention to your hunger and thirst. ~"},
@@ -8791,7 +8791,7 @@ public OnPlayerRequestClass(playerid, classid)
 			format(string, sizeof(string), "{6E6E6E} AntiCheat {AAAAAA} You have 60 seconds to connect.");
 			msg_Client(playerid, COLOR_YELLOW, string);
 			player_antihack[playerid] = SetTimerEx("server_AntiHack", 60000, 0, "i", playerid);
-			format(string,sizeof(string),"{FFFFFF}Welcome {327632}%s{FFFFFF} to {324376}%s{FFFFFF}.\n\nYour account is registered.\n{327675}\n\t Site : www.testserver\n\t Forum : www.forum.testserver\n\n{FFFFFF}Please enter your password below to login :",PlayerInfo[playerid][pRealName],SERVER_NAME);
+			format(string,sizeof(string),"{FFFFFF}Welcome {327632}%s{FFFFFF} to {324376}%s{FFFFFF}.\n\nYour account is registered.\n{327675}\n\t Site : www.sarp\n\t Forum : www.forum.sarp\n\n{FFFFFF}Please enter your password below to login :",PlayerInfo[playerid][pRealName],SERVER_NAME);
 			ShowPlayerDialog(playerid,12346,DIALOG_STYLE_PASSWORD," Sign in ",string,"Login","Cancel");
 		}
 		else // Registration
@@ -8809,7 +8809,7 @@ public OnPlayerRequestClass(playerid, classid)
 			{
 			    if(setting[beta]==true) // VERSION BETA
 			    {
-			        format(string,sizeof(string),"{FFFFFF}Welcome {327632}%s{FFFFFF} to {324376}%s{FFFFFF}.\n\n{327675}\n\t Site : www.testserver\n\t Forum : www.forum.testserver\n\n{FFFFFF}Enter your beta key to register :",PlayerInfo[playerid][pRealName],SERVER_NAME);
+			        format(string,sizeof(string),"{FFFFFF}Welcome {327632}%s{FFFFFF} to {324376}%s{FFFFFF}.\n\n{327675}\n\t Site : www.sarp\n\t Forum : www.forum.sarp\n\n{FFFFFF}Enter your beta key to register :",PlayerInfo[playerid][pRealName],SERVER_NAME);
 				    ShowPlayerDialog(playerid,45,DIALOG_STYLE_INPUT," Beta Firm ",string,"Accept","");
 			    }
 			    else
@@ -15184,7 +15184,7 @@ stock init_PickupsAndLabels()
 
 	// Actor - Sbiz
 	CreateDynamic3DTextLabel("(( Press 'N' ))",0xFFFFFFDD,664.2232,-566.8362,16.3433+1.05,NAME_DISTANCE,INVALID_PLAYER_ID,INVALID_VEHICLE_ID,0,-1,-1,-1,LABEL_STREAM_DISTANCE); // Station fuel
-	CreateDynamic3DTextLabel("(( Press 'N' ))",0xFFFFFFDD,298.1290,1281.4362,1082.6399+1.05,NAME_DISTANCE,INVALID_PLAYER_ID,INVALID_VEHICLE_ID,0,-1,-1,-1,LABEL_STREAM_DISTANCE); // Oprateur
+	CreateDynamic3DTextLabel("(( Press 'N' ))",0xFFFFFFDD,298.1290,1281.4362,1082.6399+1.05,NAME_DISTANCE,INVALID_PLAYER_ID,INVALID_VEHICLE_ID,0,-1,-1,-1,LABEL_STREAM_DISTANCE); // Operator
 	//CreateDynamic3DTextLabel("(( Press 'N' ))",0xFFFFFFDD,x1, y1, z1+1.05,NAME_DISTANCE,INVALID_PLAYER_ID,INVALID_VEHICLE_ID,0,-1,-1,-1,LABEL_STREAM_DISTANCE);
 	
 }
@@ -15844,7 +15844,7 @@ stock GetClosestPlayer(p1)
 	}
 	return p;
 }
-// Return
+
 stock PayDay(i)
 {
     PlayerInfo[i][pPayDayHad]=0;
@@ -15856,7 +15856,7 @@ stock PayDay(i)
 	// Est en dette
 	if(PlayerInfo[i][pCash] < 0)
 	{
-		msg_Client(i, COLOR_LIGHTRED, "Vous n'avez pas payer votre dette, vous avez gagn le droit d'aller en prison.");
+		msg_Client(i, COLOR_LIGHTRED, "You didn't pay your debt, you earned the right to go to jail.");
 		GameTextForPlayer(i, "~r~Stop!", 2000, 1);
 		server_SetPlayerInterior(i, 6);
 		SafeSetPlayerPos(i,264.6288,77.5742,1001.0391);
@@ -15865,7 +15865,7 @@ stock PayDay(i)
 		SafeResetPlayerWeapons(i);
 		SafeResetPlayerMoney(i,0);
 		PlayerInfo[i][pJailTime] = 300;
-		format(string, sizeof(string), "{CF9756} Info {FFFFFF} Vous avez t emprisonn pour %d secondes. Caution: Impossible", PlayerInfo[i][pJailTime]);
+		format(string, sizeof(string), "{CF9756} Info {FFFFFF} You have been imprisoned for %d seconds. Caution: Impossible", PlayerInfo[i][pJailTime]);
 		msg_Client(i, COLOR_INFO, string);
 	}
 
@@ -15921,7 +15921,7 @@ stock PayDay(i)
 	if(PlayerInfo[i][pGarageKey3] > -1)
 		{tax_Garage+=government[GetCityCounty(i)][tax][5];}
 
-	// Oprateur / Operator
+	// Operator / Operator
 	if(PlayerInfo[i][pOperator] > 0 && PlayerInfo[i][pFormul] > 0)
 	{
 		if(PlayerInfo[i][pOperator]==1)
@@ -16100,7 +16100,7 @@ stock PayDay(i)
 	TextDrawShowForPlayer(i,payday_Design[0]);
 	TextDrawShowForPlayer(i,payday_Design[1]);
 	TextDrawShowForPlayer(i,payday_Design[2]);
-	format(var,sizeof(var),"~p~Taxes~n~~w~- Vehicles : ~r~- $0~n~~w~- Houses : ~r~- $%d~n~~w~- Biz : ~r~- $%d~n~~w~- Garages : ~r~- $%d~n~~w~- Oprateur : ~r~- $%d~n~~w~- Impot : ~r~- $%d~n~~w~- Total : ~r~- $%d~n~~p~Salaire~n~~w~- HTC : ~y~$%d~n~",
+	format(var,sizeof(var),"~p~Taxes~n~~w~- Vehicles : ~r~- $0~n~~w~- Houses : ~r~- $%d~n~~w~- Biz : ~r~- $%d~n~~w~- Garages : ~r~- $%d~n~~w~- Operator : ~r~- $%d~n~~w~- Impot : ~r~- $%d~n~~w~- Total : ~r~- $%d~n~~p~Salaire~n~~w~- HTC : ~y~$%d~n~",
 	(tax_House+government[GetCityCounty(i)][tax][2],government[GetCityCounty(i)][tax][3]),tax_Bizz,tax_Garage,tax_Operator,government[GetCityCounty(i)][tax][0],tax_Total,pay);
 	strcat(string,var);
 	if(PlayerInfo[i][pDonateRank] > 1)
@@ -26994,7 +26994,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 			else if(PlayerInfo[playerid][pOperator] == 3 && PlayerInfo[playerid][pFormul]==4){prices=0;}
 			if(PlayerInfo[playerid][pOperator] == 4 && PlayerInfo[playerid][pFormul]==1){prices=0;}
 			else if(PlayerInfo[playerid][pOperator] == 4 && PlayerInfo[playerid][pFormul]==2){prices=0;}
-			format(string,sizeof(string),"Oprateur : %s\nFormule : %d\nTemps d'appel remaining : %d mins\nPrice SMS: %d",operato,PlayerInfo[playerid][pFormul],toto,prices);
+			format(string,sizeof(string),"Operator : %s\nFormule : %d\nTemps d'appel remaining : %d mins\nPrice SMS: %d",operato,PlayerInfo[playerid][pFormul],toto,prices);
 			ShowPlayerDialog(playerid,-1,DIALOG_STYLE_MSGBOX,"{CF9756} Info {FFFFFF} Forfait tlphonique",string,"Accept","");
 		}
 		else if(strcmp(tmp, "quit", true) ==0)
@@ -37611,7 +37611,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 	    if(!response)
 	        {return SelectTextDraw(playerid,0x0000FFAA);}
 		if(!strlen(inputtext))
-			{return ShowPlayerDialog(playerid,53,DIALOG_STYLE_INPUT,"{8B8B00} Phone {FFFFFF} MP3","{FFFFFF}Entrez un lien stream : (Ex: http://testserver/music/intro.mp3)","Lire","Cancel");}
+			{return ShowPlayerDialog(playerid,53,DIALOG_STYLE_INPUT,"{8B8B00} Phone {FFFFFF} MP3","{FFFFFF}Entrez un lien stream : (Ex: http://sarp/music/intro.mp3)","Lire","Cancel");}
 			
         PlayAudioStreamForPlayer(playerid, inputtext);
         return 1;
@@ -57229,7 +57229,7 @@ stock player_CheckInteraction(playerid)
 				    ShowPlayerDialog(playerid, 104, DIALOG_STYLE_LIST,"{2B6AFF} Station Fuel {FFFFFF} Purchases",BizString,"Buy","Cancel");
 				}
 			}
-			else if (GetPlayerState(playerid) == 1 && PlayerToPoint(1, playerid,296.2780,1281.3855,1082.2899)) //Oprateurs
+			else if (GetPlayerState(playerid) == 1 && PlayerToPoint(1, playerid,296.2780,1281.3855,1082.2899)) //Operators
 			{
 				if(bizid == MAX_STATION+MAX_SPRAY+MAX_TUNING)
 				{

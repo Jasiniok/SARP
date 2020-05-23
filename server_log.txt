@@ -2249,3 +2249,314 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [03:42:51] Jasin_Refiku[0] /faction
 [03:42:53] Jasin_Refiku[0] /aide
 [03:42:56] [part] Jasin_Refiku has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:13:12] 
+[06:13:12] Server Plugins
+[06:13:12] --------------
+[06:13:12]  Loading plugin: crashdetect.dll
+[06:13:12]   CrashDetect v4.15.1 is OK.
+[06:13:12]   Loaded.
+[06:13:12]  Loading plugin: streamer.dll
+[06:13:12] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[06:13:13]   Loaded.
+[06:13:13]  Loading plugin: mysql.dll
+[06:13:13]  >> plugin.mysql: R41-2 successfully loaded.
+[06:13:13]   Loaded.
+[06:13:13]  Loading plugin: Encrypt.dll
+[06:13:13] 
+
+[06:13:13] ______________________________________
+
+[06:13:13]  Encrypt Plugin v0.1 loaded
+[06:13:13] ______________________________________
+
+[06:13:13]  By: Fro (c) Copyright <TBG> 2009-2010
+[06:13:13] ______________________________________
+
+[06:13:13]   Loaded.
+[06:13:13]  Loaded 4 plugins.
+
+[06:13:13] 
+[06:13:13] Ban list
+[06:13:13] --------
+[06:13:13]  Loaded: samp.ban
+[06:13:13] 
+[06:13:13] 
+[06:13:13] Filterscripts
+[06:13:13] ---------------
+[06:13:13]   Loading filterscript 'mapping.amx'...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:17:08] 
+[06:17:08] Server Plugins
+[06:17:08] --------------
+[06:17:08]  Loading plugin: crashdetect.dll
+[06:17:08]   CrashDetect v4.15.1 is OK.
+[06:17:08]   Loaded.
+[06:17:08]  Loading plugin: streamer.dll
+[06:17:09] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[06:17:09]   Loaded.
+[06:17:09]  Loading plugin: mysql.dll
+[06:17:09]  >> plugin.mysql: R41-2 successfully loaded.
+[06:17:09]   Loaded.
+[06:17:09]  Loading plugin: Encrypt.dll
+[06:17:09] 
+
+[06:17:09] ______________________________________
+
+[06:17:09]  Encrypt Plugin v0.1 loaded
+[06:17:09] ______________________________________
+
+[06:17:09]  By: Fro (c) Copyright <TBG> 2009-2010
+[06:17:09] ______________________________________
+
+[06:17:09]   Loaded.
+[06:17:09]  Loaded 4 plugins.
+
+[06:17:09] 
+[06:17:09] Ban list
+[06:17:09] --------
+[06:17:09]  Loaded: samp.ban
+[06:17:09] 
+[06:17:09] 
+[06:17:09] Filterscripts
+[06:17:09] ---------------
+[06:17:09]   Loading filterscript 'mapping.amx'...
+[06:17:09]   Loaded 1 filterscripts.
+
+[06:17:09] GameMode LVRP
+[06:17:09] ---------------
+[06:17:09] [MYSQL] Sign in in progress ...
+[06:17:14] [MYSQL] Sign in reussie
+[06:17:14]  
+[06:17:14] [STREAMER] Loading of streamer ..
+[06:17:15] [STREAMER] Streamer loaded.
+[06:17:15]  
+[06:17:15] [SETTINGS] Loading the settings ..
+[06:17:16] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
+[06:17:16]  
+[06:17:16] [INIT] Loading variables from the database ..
+[06:17:20]     .. FBI loaded.
+[06:17:20]     .. list of models loaded.
+[06:17:20]   Filterscript 'mapping.amx' load failed.
+[06:17:20] Informations
+[06:17:20] --------------
+[06:17:20] Gamemode for SAMP 0.3.7 R2|| Version GM sarp 5.0.1
+[06:17:20] - Developped by Dark_Rider29 (Samp Forum)
+[06:17:20] - Mapped by Lurtz59
+[06:17:20]  
+[06:17:20] Logs
+[06:17:20] ------
+[06:17:20] Number of vehicle models: 0
+[06:17:31]     .. UniqueBizzs loaded.
+[06:17:33]     .. 4 businesses loaded.
+[06:17:33]     .. 0 furnitures loaded.
+[06:17:33]     .. 0 radar(s) loaded.
+[06:17:34]     .. 1 House(s) loaded.
+[06:17:35]     ... 1 police fines loaded.
+[06:20:24]     .. 0 loaded.
+[06:20:25]     .. 0 garage(s) loaded.
+[06:20:30]     .. 1 atm(s) loaded.
+[06:20:31]     .. 2 Illegal faction(s) saved.
+[06:20:31]     .. 0 gross trash can(s) loaded.
+[06:20:31]     .. 0 bus stops loaded
+[06:20:32]     .. 2 telephone cabins loaded.
+[06:20:32]     .. 1 GPS loaded..
+[06:20:32]     .. 2 vending machine(s) loaded.
+[06:20:32]     .. 0 small trash can(s) loaded.
+[06:20:33]     .. spawns loaded.
+[06:20:33]     .. 2 map(s) loaded.
+[06:20:34]     .. 0 Anti-DM zones loaded..
+[06:20:34]     .. 0 sign(s) loaded.
+[06:20:34]     .. 2 interiors loaded.
+[06:21:50] [connection] incoming connection: 127.0.0.1:59404 id: 0
+[06:21:52] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[06:22:22] [Login] Jasin_Refiku c'est logu.
+[06:22:49] Jasin_Refiku[0] /a create
+[06:23:57] Jasin_Refiku[0] /a create 596 0 0
+[06:23:59] Jasin_Refiku[0] /a create 596 0 0 1
+[06:24:08] [chat] [Jasin_Refiku]: .
+[06:24:13] Jasin_Refiku[0] /a create car 596 1 1 1
+[06:24:16] [chat] [Jasin_Refiku]: .
+[06:24:52] Jasin_Refiku[0] /a edit car 
+[06:25:20] Old: 36 - New: 36
+[06:28:30] Kicking 127.0.0.1 because they didn't logon to the game.
+[06:29:09] Kicking 127.0.0.1 because they didn't logon to the game.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:29:43] 
+[06:29:43] Server Plugins
+[06:29:43] --------------
+[06:29:43]  Loading plugin: crashdetect.dll
+[06:29:43]   CrashDetect v4.15.1 is OK.
+[06:29:43]   Loaded.
+[06:29:43]  Loading plugin: streamer.dll
+[06:29:43] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[06:29:43]   Loaded.
+[06:29:43]  Loading plugin: mysql.dll
+[06:29:43]  >> plugin.mysql: R41-2 successfully loaded.
+[06:29:43]   Loaded.
+[06:29:43]  Loading plugin: Encrypt.dll
+[06:29:43] 
+
+[06:29:43] ______________________________________
+
+[06:29:43]  Encrypt Plugin v0.1 loaded
+[06:29:43] ______________________________________
+
+[06:29:43]  By: Fro (c) Copyright <TBG> 2009-2010
+[06:29:43] ______________________________________
+
+[06:29:43]   Loaded.
+[06:29:43]  Loaded 4 plugins.
+
+[06:29:43] 
+[06:29:43] Ban list
+[06:29:43] --------
+[06:29:43]  Loaded: samp.ban
+[06:29:43] 
+[06:29:43] 
+[06:29:43] Filterscripts
+[06:29:43] ---------------
+[06:29:43]   Loading filterscript 'mapping.amx'...
+[06:29:44]   Loaded 1 filterscripts.
+
+[06:29:44] GameMode LVRP
+[06:29:44] ---------------
+[06:29:44] [MYSQL] Sign in in progress ...
+[06:29:45] [MYSQL] Sign in reussie
+[06:29:45]  
+[06:29:45] [STREAMER] Loading of streamer ..
+[06:29:45] [STREAMER] Streamer loaded.
+[06:29:45]  
+[06:29:45] [SETTINGS] Loading the settings ..
+[06:29:46] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
+[06:29:46]  
+[06:29:46] [INIT] Loading variables from the database ..
+[06:29:47]     .. FBI loaded.
+[06:29:47]     .. list of models loaded.
+[06:29:47]   Filterscript 'mapping.amx' load failed.
+[06:29:47] Informations
+[06:29:47] --------------
+[06:29:47] Gamemode for SAMP 0.3.7 R2|| Version GM sarp 5.0.1
+[06:29:47] - Developped by Dark_Rider29 (Samp Forum)
+[06:29:47] - Mapped by Lurtz59
+[06:29:47]  
+[06:29:47] Logs
+[06:29:47] ------
+[06:29:47] Number of vehicle models: 0
+[06:29:59]     .. UniqueBizzs loaded.
+[06:30:02]     .. 4 businesses loaded.
+[06:30:02]     .. 0 furnitures loaded.
+[06:30:03]     .. 1 House(s) loaded.
+[06:30:03]     .. 0 radar(s) loaded.
+[06:32:59]     ... 1 police fines loaded.
+[06:33:05]     .. 0 loaded.
+[06:33:05]     .. 0 garage(s) loaded.
+[06:33:06]     .. 2 Illegal faction(s) saved.
+[06:33:06]     .. 1 atm(s) loaded.
+[06:33:06]     .. 0 gross trash can(s) loaded.
+[06:33:06]     .. 0 bus stops loaded
+[06:33:07]     .. 2 vending machine(s) loaded.
+[06:33:07]     .. 2 telephone cabins loaded.
+[06:33:08]     .. 1 GPS loaded..
+[06:33:08]     .. 0 small trash can(s) loaded.
+[06:33:08]     .. spawns loaded.
+[06:33:09]     .. 2 map(s) loaded.
+[06:33:09]     .. 0 sign(s) loaded.
+[06:33:09]     .. 0 Anti-DM zones loaded..
+[06:33:10]     .. 2 interiors loaded.
+[06:41:34] [connection] incoming connection: 127.0.0.1:58398 id: 0
+[06:41:34] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[06:41:51] [Login] Jasin_Refiku c'est logu.
+[06:42:03] Jasin_Refiku[0] /a tp
+[06:42:12] Jasin_Refiku[0] /a 
+[06:42:14] Jasin_Refiku[0] /a tp
+[06:42:17] Jasin_Refiku[0] /a tp pos
+[06:49:47] Jasin_Refiku[0] /a
+[06:49:49] Jasin_Refiku[0] /a create
+[06:49:58] Jasin_Refiku[0] /a goto pos 
+[06:50:14] Jasin_Refiku[0] /a goto pos 2117.3208 -1790.5564 13.5547
+[06:50:20] Jasin_Refiku[0] /job
+[06:50:26] Jasin_Refiku[0] /job start
+[06:50:29] Jasin_Refiku[0] /job quit
+[06:50:36] Jasin_Refiku[0] /job
+[06:50:41] Jasin_Refiku[0] /job
+[06:50:57] Jasin_Refiku[0] /job
+[06:51:01] Jasin_Refiku[0] /job start
+[06:52:39] Jasin_Refiku[0] /job locate
+[06:52:43] [chat] [Jasin_Refiku]: .
+[06:53:08] Jasin_Refiku[0] /job
+[06:53:09] Jasin_Refiku[0] /job start
+[06:53:11] Jasin_Refiku[0] /job start
+[06:53:17] Jasin_Refiku[0] /job locate
+[06:53:20] Jasin_Refiku[0] /job start
+[06:55:35] Jasin_Refiku[0] /veh 403 0 0
+[06:55:40] Jasin_Refiku[0] /a create car 403 0 0
+[06:55:42] Jasin_Refiku[0] /a create car 403 0 0 1
+[06:56:27] Jasin_Refiku[0] /a edit car
+[06:56:34] Old: 37 - New: 37
+[06:56:43] Jasin_Refiku[0] /job start
+[06:56:51] Jasin_Refiku[0] /job start
+[06:57:10] Jasin_Refiku[0] /a create car 414
+[06:57:13] Jasin_Refiku[0] /a create car 414 0 0 1
+[06:57:28] Jasin_Refiku[0] /job start
+[06:59:14] Jasin_Refiku[0] /a
+[06:59:18] Jasin_Refiku[0] /a mettrejob
+[06:59:25] Jasin_Refiku[0] /a mettrejob 0 3
+[07:00:05] Jasin_Refiku[0] /job
+[07:00:09] Jasin_Refiku[0] /job start
+[07:00:34] [07:00:34]
+[07:00:34]  Annonce Mto  Strong wind! Disturbed air traffic.
+[07:01:38] Jasin_Refiku[0] /stats
+[07:01:47] Jasin_Refiku[0] /job
+[07:01:50] Jasin_Refiku[0] /job finish
+[07:01:56] Jasin_Refiku[0] /job start
+[07:03:17] Jasin_Refiku[0] /job finish
+[07:03:39] Jasin_Refiku[0] /job quit
+[07:03:48] Jasin_Refiku[0] /job start
+[07:03:50] Jasin_Refiku[0] /job
+[07:03:54] Jasin_Refiku[0] /a skin
+[07:03:57] Jasin_Refiku[0] /a skin 0 304
+[07:04:00] Jasin_Refiku[0] /a skin 0 303
+[07:04:15] Jasin_Refiku[0] /job 
+[07:04:33] Jasin_Refiku[0] /job start
+[07:06:16] Jasin_Refiku[0] /a payday
+[07:06:24] Jasin_Refiku[0] /job quit
+[07:06:27] Jasin_Refiku[0] /a unfreeze 0
+[07:06:32] Jasin_Refiku[0] /job
+[07:06:39] Jasin_Refiku[0] /a tp ls 
+[07:06:46] Jasin_Refiku[0] /a vie 0
+[07:06:46] [death] Jasin_Refiku died 255
+[07:06:51] [death] Jasin_Refiku died 255

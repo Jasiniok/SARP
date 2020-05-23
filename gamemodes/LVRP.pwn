@@ -1,12 +1,12 @@
 /*
 ================================================================================
 NOM DU SERVEUR : La Health RolePlay Final 5.0.2
-UPDATE : 23/05/2020
+UPDATE : 28/07/2017
 FILE : http://sa-mp-fr.com/files/file/171-la-vie-roleplay-final/
 GITHUB : https://github.com/DarkRider29/LVRP_SAMP
 
 => La Health RolePlay 
-- Dveloppeur : DarkRider
+- Dveloppeur : Jasin
 - Mappeur : Lurtz59
 - Version SA:MP : 0.3.7-R2
 - Base : u2c
@@ -21,7 +21,7 @@ GITHUB : https://github.com/DarkRider29/LVRP_SAMP
  [Respectez les crdits merci]
 
 => Sites Officiels :
-- http://www.lvrp.eu/ & http://www.testserver/
+- http://www.lvrp.eu/ & http://www.sarp/
 ================================================================================
 */
 /*
@@ -62,13 +62,13 @@ Fix loading string from DataBase
 */
 
 // Informations
-#define SCRIPT_VERSION "testserver 5.0.1" 											// Version du scripte
+#define SCRIPT_VERSION "sarp 5.0.1" 											// Version du scripte
 #define MAP_NAME "~w~San Andreas" 												// Name de la map
-#define FORUM_NAME "forum.testserver" 												// Adresse du forum
-#define TS_NAME "ts.testserver"                                           		// Adresse du TeamSpeak3
-#define HOST_NAME "Test Server"											// Name du serveur
+#define FORUM_NAME "forum.sarp" 												// Adresse du forum
+#define TS_NAME "ts.sarp"                                           		// Adresse du TeamSpeak3
+#define HOST_NAME "San Andreas Roleplay"											// Name du serveur
 #define NICK_NAME "LVRP"                                                        // Initiales du serveur
-#define SERVER_NAME "Test Server"                               			// Name complet du serveur
+#define SERVER_NAME "San Andreas Roleplay"                               			// Name complet du serveur
 
 // Identifiants MySQL
 #define MYSQL_HOST "127.0.0.1"                                  			// Host (Ip) 
@@ -1116,7 +1116,7 @@ new UsingDrugsTime[MAX_PLAYERS];                                                
 new AdminDuty[MAX_PLAYERS];                                                     // Si le joueur est en Admin service
 new Dialogue_Admin_Panel[MAX_PLAYERS];              							// Dialogue du panel admin
 new admin_CarDialog[MAX_PLAYERS];                   							// Dialogue d'dition d'une car
-new aide_Dialog[MAX_PLAYERS];                       							// Dialogue aide
+new aide_Dialog[MAX_PLAYERS];                       							// Dialogue help
 new tel_DialogUrgence[MAX_PLAYERS];                 							// Dilaogue du '911'
 new player_InAreaAntiDM[MAX_PLAYERS];               							// Si le joueur est dans une zone non dm
 new player_ActiveDM[MAX_PLAYERS];                   							// Si le joueur tape dans une zone anti DM
@@ -1210,13 +1210,13 @@ new announce[ANNOUNCES][600] =// 10 mns
 {
 	{"~ Are you new and need help? No problem, use / i and / help ~"},
 	{"~ Have you seen a NO RP or a cheater? Use / report ~"},
-	{"~ Go to our forum if necessary: forum.testserver ~"},
+	{"~ Go to our forum if necessary: forum.sarp ~"},
 	{"~ Cheat, Insults OOC, No respect of the rules = Sanctions ~"},
 	{"~ VIP packs are on sale on our site! ~"},
 	{"~ Reminder: Drive RolePlay (Drive right and slow down at intersections) ~"},
 	{"~ Don't forget the / afk when you're away! ~"},
-	{"~ We have a panel: testserver ~"},
-	{"~ Don't hesitate to vote on the root-top: www.testserver ~"},
+	{"~ We have a panel: sarp ~"},
+	{"~ Don't hesitate to vote on the root-top: www.sarp ~"},
 	{"~ In case of bug script notify an Administrator in / i ~"},
 	{"~ Don't forget the RP / me / do actions! ~"},
 	{"~ Don't forget to eat, pay attention to your hunger and thirst. ~"},
@@ -8791,7 +8791,7 @@ public OnPlayerRequestClass(playerid, classid)
 			format(string, sizeof(string), "{6E6E6E} AntiCheat {AAAAAA} You have 60 seconds to connect.");
 			msg_Client(playerid, COLOR_YELLOW, string);
 			player_antihack[playerid] = SetTimerEx("server_AntiHack", 60000, 0, "i", playerid);
-			format(string,sizeof(string),"{FFFFFF}Welcome {327632}%s{FFFFFF} to {324376}%s{FFFFFF}.\n\nYour account is registered.\n{327675}\n\t Site : www.testserver\n\t Forum : www.forum.testserver\n\n{FFFFFF}Please enter your password below to login :",PlayerInfo[playerid][pRealName],SERVER_NAME);
+			format(string,sizeof(string),"{FFFFFF}Welcome {327632}%s{FFFFFF} to {324376}%s{FFFFFF}.\n\nYour account is registered.\n{327675}\n\t Site : www.sarp\n\t Forum : www.forum.sarp\n\n{FFFFFF}Please enter your password below to login :",PlayerInfo[playerid][pRealName],SERVER_NAME);
 			ShowPlayerDialog(playerid,12346,DIALOG_STYLE_PASSWORD," Sign in ",string,"Login","Cancel");
 		}
 		else // Registration
@@ -8809,7 +8809,7 @@ public OnPlayerRequestClass(playerid, classid)
 			{
 			    if(setting[beta]==true) // VERSION BETA
 			    {
-			        format(string,sizeof(string),"{FFFFFF}Welcome {327632}%s{FFFFFF} to {324376}%s{FFFFFF}.\n\n{327675}\n\t Site : www.testserver\n\t Forum : www.forum.testserver\n\n{FFFFFF}Enter your beta key to register :",PlayerInfo[playerid][pRealName],SERVER_NAME);
+			        format(string,sizeof(string),"{FFFFFF}Welcome {327632}%s{FFFFFF} to {324376}%s{FFFFFF}.\n\n{327675}\n\t Site : www.sarp\n\t Forum : www.forum.sarp\n\n{FFFFFF}Enter your beta key to register :",PlayerInfo[playerid][pRealName],SERVER_NAME);
 				    ShowPlayerDialog(playerid,45,DIALOG_STYLE_INPUT," Beta Firm ",string,"Accept","");
 			    }
 			    else
@@ -15184,7 +15184,7 @@ stock init_PickupsAndLabels()
 
 	// Actor - Sbiz
 	CreateDynamic3DTextLabel("(( Press 'N' ))",0xFFFFFFDD,664.2232,-566.8362,16.3433+1.05,NAME_DISTANCE,INVALID_PLAYER_ID,INVALID_VEHICLE_ID,0,-1,-1,-1,LABEL_STREAM_DISTANCE); // Station fuel
-	CreateDynamic3DTextLabel("(( Press 'N' ))",0xFFFFFFDD,298.1290,1281.4362,1082.6399+1.05,NAME_DISTANCE,INVALID_PLAYER_ID,INVALID_VEHICLE_ID,0,-1,-1,-1,LABEL_STREAM_DISTANCE); // Oprateur
+	CreateDynamic3DTextLabel("(( Press 'N' ))",0xFFFFFFDD,298.1290,1281.4362,1082.6399+1.05,NAME_DISTANCE,INVALID_PLAYER_ID,INVALID_VEHICLE_ID,0,-1,-1,-1,LABEL_STREAM_DISTANCE); // Operator
 	//CreateDynamic3DTextLabel("(( Press 'N' ))",0xFFFFFFDD,x1, y1, z1+1.05,NAME_DISTANCE,INVALID_PLAYER_ID,INVALID_VEHICLE_ID,0,-1,-1,-1,LABEL_STREAM_DISTANCE);
 	
 }
@@ -15844,7 +15844,7 @@ stock GetClosestPlayer(p1)
 	}
 	return p;
 }
-// Return
+
 stock PayDay(i)
 {
     PlayerInfo[i][pPayDayHad]=0;
@@ -15856,7 +15856,7 @@ stock PayDay(i)
 	// Est en dette
 	if(PlayerInfo[i][pCash] < 0)
 	{
-		msg_Client(i, COLOR_LIGHTRED, "Vous n'avez pas payer votre dette, vous avez gagn le droit d'aller en prison.");
+		msg_Client(i, COLOR_LIGHTRED, "You didn't pay your debt, you earned the right to go to jail.");
 		GameTextForPlayer(i, "~r~Stop!", 2000, 1);
 		server_SetPlayerInterior(i, 6);
 		SafeSetPlayerPos(i,264.6288,77.5742,1001.0391);
@@ -15865,7 +15865,7 @@ stock PayDay(i)
 		SafeResetPlayerWeapons(i);
 		SafeResetPlayerMoney(i,0);
 		PlayerInfo[i][pJailTime] = 300;
-		format(string, sizeof(string), "{CF9756} Info {FFFFFF} Vous avez t emprisonn pour %d secondes. Caution: Impossible", PlayerInfo[i][pJailTime]);
+		format(string, sizeof(string), "{CF9756} Info {FFFFFF} You have been imprisoned for %d seconds. Caution: Impossible", PlayerInfo[i][pJailTime]);
 		msg_Client(i, COLOR_INFO, string);
 	}
 
@@ -15921,7 +15921,7 @@ stock PayDay(i)
 	if(PlayerInfo[i][pGarageKey3] > -1)
 		{tax_Garage+=government[GetCityCounty(i)][tax][5];}
 
-	// Oprateur / Operator
+	// Operator / Operator
 	if(PlayerInfo[i][pOperator] > 0 && PlayerInfo[i][pFormul] > 0)
 	{
 		if(PlayerInfo[i][pOperator]==1)
@@ -16100,7 +16100,7 @@ stock PayDay(i)
 	TextDrawShowForPlayer(i,payday_Design[0]);
 	TextDrawShowForPlayer(i,payday_Design[1]);
 	TextDrawShowForPlayer(i,payday_Design[2]);
-	format(var,sizeof(var),"~p~Taxes~n~~w~- Vehicles : ~r~- $0~n~~w~- Houses : ~r~- $%d~n~~w~- Biz : ~r~- $%d~n~~w~- Garages : ~r~- $%d~n~~w~- Oprateur : ~r~- $%d~n~~w~- Impot : ~r~- $%d~n~~w~- Total : ~r~- $%d~n~~p~Salaire~n~~w~- HTC : ~y~$%d~n~",
+	format(var,sizeof(var),"~p~Taxes~n~~w~- Vehicles : ~r~- $0~n~~w~- Houses : ~r~- $%d~n~~w~- Biz : ~r~- $%d~n~~w~- Garages : ~r~- $%d~n~~w~- Operator : ~r~- $%d~n~~w~- Impot : ~r~- $%d~n~~w~- Total : ~r~- $%d~n~~p~Salaire~n~~w~- HTC : ~y~$%d~n~",
 	(tax_House+government[GetCityCounty(i)][tax][2],government[GetCityCounty(i)][tax][3]),tax_Bizz,tax_Garage,tax_Operator,government[GetCityCounty(i)][tax][0],tax_Total,pay);
 	strcat(string,var);
 	if(PlayerInfo[i][pDonateRank] > 1)
@@ -18119,7 +18119,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 
 				vehicle[car][cGas]+=20;
 				PlayerInfo[playerid][pJerrycanFuel]=0;
-				format(string, sizeof(string), "* %s remplit son vhicule  l'aide de son jrrican.", PlayerInfo[playerid][pName]);
+				format(string, sizeof(string), "* %s remplit son vhicule  l'help de son jrrican.", PlayerInfo[playerid][pName]);
 				ProxDetector(30.0, playerid, string, COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,true);
 			}
 			return 1;
@@ -19106,7 +19106,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
         }
 		return 1;
 	}
-	else if(strcmp(cmd,"aide",true)==0)// Menu aide
+	else if(strcmp(cmd,"/help",true)==0)// Menu help
 	{
 	    aide_Dialog[playerid]=0;
 		return ShowPlayerDialog(playerid,1,DIALOG_STYLE_LIST," Aide ","[Gnral]\n[Tchat]\n[Job]\n[Faction]\n[House(s)]\n[Biz]\n[Voiture(s)]\n[Garage(s)]","Ouvrir","Fermer");
@@ -20781,13 +20781,13 @@ public OnPlayerCommandText(playerid, cmdtext[])
 		if (PlayerInfo[playerid][pAdmin] >= 1 && (!gServerHelp))
 		{
 			gServerHelp = 1;
-			format(string, sizeof(string), "{CF9756} Info {FFFFFF} Le canal aide a t dsactiv par un Administrateur.");
+			format(string, sizeof(string), "{CF9756} Info {FFFFFF} Le canal help a t dsactiv par un Administrateur.");
 			msg_Admin(COLOR_RED,string,1);
 		}
 		else if (PlayerInfo[playerid][pAdmin] >= 1 && (gServerHelp))
 		{
 			gServerHelp = 0;
-			format(string, sizeof(string), "{CF9756} Info {FFFFFF} Le canal aide a t activ par un Administrateur.");
+			format(string, sizeof(string), "{CF9756} Info {FFFFFF} Le canal help a t activ par un Administrateur.");
 		 	msg_Admin(COLOR_RED,string,1);
 		}
 		else
@@ -20861,7 +20861,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 			{return msg_Client(playerid, COLOR_INFO, "{CF9756} Info {FFFFFF} Vous ne pouvez plus parler, vous avez t mut.");}
 			
         if ((gServerHelp) && PlayerInfo[playerid][pAdmin] < 1)
-			{return msg_Client(playerid, COLOR_INFO, "{CF9756} Info {FFFFFF} Le canal aide a t dsactiv par un Administrateur.");}
+			{return msg_Client(playerid, COLOR_INFO, "{CF9756} Info {FFFFFF} Le canal help a t dsactiv par un Administrateur.");}
 			
 		if(registration_Step[playerid] != 0)
 		    {return msg_Client(playerid, COLOR_INFO, "{CF9756} Info {FFFFFF} Impossible pendant l'registration.");}
@@ -26994,7 +26994,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 			else if(PlayerInfo[playerid][pOperator] == 3 && PlayerInfo[playerid][pFormul]==4){prices=0;}
 			if(PlayerInfo[playerid][pOperator] == 4 && PlayerInfo[playerid][pFormul]==1){prices=0;}
 			else if(PlayerInfo[playerid][pOperator] == 4 && PlayerInfo[playerid][pFormul]==2){prices=0;}
-			format(string,sizeof(string),"Oprateur : %s\nFormule : %d\nTemps d'appel remaining : %d mins\nPrice SMS: %d",operato,PlayerInfo[playerid][pFormul],toto,prices);
+			format(string,sizeof(string),"Operator : %s\nFormule : %d\nTemps d'appel remaining : %d mins\nPrice SMS: %d",operato,PlayerInfo[playerid][pFormul],toto,prices);
 			ShowPlayerDialog(playerid,-1,DIALOG_STYLE_MSGBOX,"{CF9756} Info {FFFFFF} Forfait tlphonique",string,"Accept","");
 		}
 		else if(strcmp(tmp, "quit", true) ==0)
@@ -31889,7 +31889,8 @@ public OnPlayerCommandText(playerid, cmdtext[])
 				}
 			}
 			else
-			    {return msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous devez tre dans un vhicule pour travailler.");}
+			    {return msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} You must be in a vehicle to work.");}
+{return msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} You must be in a vehicle to work.");}
 		}
 		else if(strcmp(tmp,"locate", true) == 0)
 		{
@@ -32965,7 +32966,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 		    if(!strlen(tmp))
 			{
 	            msg_Client(playerid, COLOR_WHITE, "{A98500} Usage {FFFFB2} /anim(ateur) event <nom>");
-	            msg_Client(playerid, COLOR_WHITE, "{FFFFB2} create - lancer - stop - config - aide");
+	            msg_Client(playerid, COLOR_WHITE, "{FFFFB2} create - lancer - stop - config - help");
 				return 1;
 			}
 			if(strcmp(tmp,"create",true) == 0)
@@ -33013,7 +33014,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 				ShowPlayerDialog(playerid,153,DIALOG_STYLE_LIST," Animator  Configuration event",string,"Accept","Cancel");
 				player_Dialog[playerid] = 0;
 			}
-			else if(strcmp(tmp,"aide",true) == 0)
+			else if(strcmp(tmp,"help",true) == 0)
 			{
 			    msg_Client(playerid,COLOR_WHITE,"1. Pour create un event commencez par le configurez (/anim event config)");
 			    msg_Client(playerid,COLOR_WHITE,"1.1 Remplissez les champs personaliss (Name, description, rcompense, places, etc ..)");
@@ -36516,7 +36517,7 @@ stock atm_CheckRob(playerid)
 					        format(string,sizeof(string),"{CF9756} Info {FFFFFF} Vous avez gagnez $%d en vendalisant cet ATM.",cashs);
 					        msg_Client(playerid,COLOR_INFO,string);
 					        SetTimerEx("atm_Repair",300000,0,"i",i,1); // 300
-					        format(string, sizeof(string), "* %s frape l'ATM  l'aide de son pied de biche et fait tomber de l'argent.", PlayerInfo[playerid][pName]);
+					        format(string, sizeof(string), "* %s frape l'ATM  l'help de son pied de biche et fait tomber de l'argent.", PlayerInfo[playerid][pName]);
 							ProxDetector(30.0, playerid, string, COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,true);
 							new Float:X,Float:Y,Float:Z;
 							GetPlayerPos(playerid,X,Y,Z);
@@ -37611,7 +37612,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 	    if(!response)
 	        {return SelectTextDraw(playerid,0x0000FFAA);}
 		if(!strlen(inputtext))
-			{return ShowPlayerDialog(playerid,53,DIALOG_STYLE_INPUT,"{8B8B00} Phone {FFFFFF} MP3","{FFFFFF}Entrez un lien stream : (Ex: http://testserver/music/intro.mp3)","Lire","Cancel");}
+			{return ShowPlayerDialog(playerid,53,DIALOG_STYLE_INPUT,"{8B8B00} Phone {FFFFFF} MP3","{FFFFFF}Entrez un lien stream : (Ex: http://sarp/music/intro.mp3)","Lire","Cancel");}
 			
         PlayAudioStreamForPlayer(playerid, inputtext);
         return 1;
@@ -38627,7 +38628,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 	   	        if(GetPlayerWeapon(playerid) != 6)
 	   	            {return msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez besoin d'une pelle.");}
 	   	            
-                format(string, sizeof(string), "* %s enterre le cadavre  l'aide de sa pelle.", PlayerInfo[playerid][pName]);
+                format(string, sizeof(string), "* %s enterre le cadavre  l'help de sa pelle.", PlayerInfo[playerid][pName]);
 				ProxDetector(30.0, playerid, string, COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,true);
 				msg_Client(playerid,COLOR_WHITE,"{CF9756} Info {FFFFFF} Vous enterrez le cadavre.");
 	   	        TogglePlayerControllable(playerid,false);
@@ -41263,7 +41264,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 			tag[ID][fontSize] = strval(inputtext);
 			tag_Save(ID);
 			tag_Update(ID);
-			msg_Client(playerid,COLOR_WHITE,"{006500} Gang {FFFFFF} Dplacer votre tag  l'aide des flches.");
+			msg_Client(playerid,COLOR_WHITE,"{006500} Gang {FFFFFF} Dplacer votre tag  l'help des flches.");
 			EditDynamicObject(playerid,tag_Object[ID]);
 			player_Variable[playerid]=ID;
 			DeletePVar(playerid,"tagText");
@@ -44120,7 +44121,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 		    {
 		         SelectObject(playerid);
 	        	 player_Dialog[playerid]=5;
-	        	 msg_Client(playerid,COLOR_HOUSE,"{00C600} House {FFFFFF} Cliquez  l'aide du curseur sur un objet de votre House  diter. (Press espace pour bouger autour)");
+	        	 msg_Client(playerid,COLOR_HOUSE,"{00C600} House {FFFFFF} Cliquez  l'help du curseur sur un objet de votre House  diter. (Press espace pour bouger autour)");
 		    }
 		    else if(listitem==3)
 		    {
@@ -44137,7 +44138,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 		    {
 		        SelectObject(playerid);
 	        	player_Dialog[playerid]=6;
-        	 	msg_Client(playerid,COLOR_HOUSE,"{00C600} House {FFFFFF} Cliquez  l'aide du curseur sur un objet de votre House  supprimer. (Press espace pour bouger autour)");
+        	 	msg_Client(playerid,COLOR_HOUSE,"{00C600} House {FFFFFF} Cliquez  l'help du curseur sur un objet de votre House  supprimer. (Press espace pour bouger autour)");
 		    }
 		    else if(listitem==5)
 		    {
@@ -47669,7 +47670,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
             if(IsAPizzaCar(carid) && PlayerInfo[playerid][pJob] == 1)
             {
                 job_City[playerid] = vehicle[carid][cJobCity];
-			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous devez livrer des pizza  l'aide de votre scooter, charger des pizza dans son stash.");
+			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous devez livrer des pizza  l'help de votre scooter, charger des pizza dans son stash.");
 			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Descendez du scooter pour aller chercher des pizza au dpot, Press 'Y' pour en prendre une.");
                 msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous pouvez prendre 3 pizza dans le stash de votre scooter.");
 				gPlayerCheckpoint[playerid]=20; job_TempVar[playerid]=0;
@@ -47686,7 +47687,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
             else if(IsATrashCar(carid) && PlayerInfo[playerid][pJob] == 4)
 			{
 			    job_City[playerid] = vehicle[carid][cJobCity];
-			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous devez vider les poubelles  l'aide de votre camion.");
+			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous devez vider les poubelles  l'help de votre camion.");
 			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Une fois  ct d'une poubelle, utiliser la Press 'Y' pour une vider une.");
 				gPlayerCheckpoint[playerid]=23; job_TempVar[playerid]=0; job_CheckPoints[playerid]=1;
 				job_ObjectN[playerid] = job_GetRandomVar(2,job_City[playerid]);
@@ -47711,7 +47712,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 			else if(IsAPostCar(carid) && PlayerInfo[playerid][pJob] == 7)
 			{
 			    job_City[playerid] = vehicle[carid][cJobCity];
-			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous devez poster les lettres  l'aide de votre scooter, charger les lettres dans son stash.");
+			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous devez poster les lettres  l'help de votre scooter, charger les lettres dans son stash.");
 			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Descendez du scooter pour aller chercher des lettres au dpot, Press 'Y' pour en prendre une.");
                 msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous pouvez prendre 10 lettres dans le stash de votre scooter.");
 				gPlayerCheckpoint[playerid]=26; job_TempVar[playerid]=0;
@@ -47722,7 +47723,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 			else if(IsAFisherCar(carid) && PlayerInfo[playerid][pJob] == 8)
 			{
 			    job_City[playerid] = vehicle[carid][cJobCity];
-			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous devez pcher du poison  l'aide de votre filet de bteau. (Zone bleue minimap)");
+			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous devez pcher du poison  l'help de votre filet de bteau. (Zone bleue minimap)");
 			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Pour descendre/monter votre filet appuyez sur la Press 'Y',.");
                 msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Un fois le poison pch, dposez le au port.");
 				if(job_City[playerid]==0)
@@ -47757,7 +47758,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 			else if(IsAFundCar(carid) && PlayerInfo[playerid][pJob] == 19)
 			{
 			    job_Start[playerid] = 1; job_CheckPoints[playerid]=0; job_TempVar[playerid]=0;
-			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous devez fill les ATMs vides  l'aide de la Press 'Y'.");
+			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Vous devez fill les ATMs vides  l'help de la Press 'Y'.");
 			    msg_Client(playerid,COLOR_JOB,"{78769D} Job {FFFFFF} Les ATMs ont t marqu sur votre radar.");
 			    for(new i = 0; i<totalATMs; i++)
 				{
@@ -52215,7 +52216,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 	        if(listitem == 6)
 	        {
 	            format(aidestring1,sizeof(aidestring1),"{FF9900}[Utiles]{FFFFFF}\n/v(ehicule) stash - Commands pour le stash\n/v(ehicule) fill - Remplir un vhicule  la station service\n/v(ehicule) window - Ouvrir/fermer la fentre\n/v(ehicule) hood - Ouvrir/fermer le hood\n/v(ehicule) neon - Allumer/enteindre les nons\n");
-	            format(aidestring2,sizeof(aidestring2),"/v(ehicule) eject - Ejecter quelqu'un du vhicule\n/v(ehicule) radio - Ecouter la radio\n/v(ehicule) Jerrican - Remplir/utiliser votre jrricain\n/v(ehicule) burn - Bruler un vhicule  l'aide d'un jerrycan + briquet\n\n{FF9900}[Owner]{FFFFFF}\n/v(ehicule) sell - sell un vhicule\n/v(ehicule) sella - Vendre un vhicule  un joueur\n");
+	            format(aidestring2,sizeof(aidestring2),"/v(ehicule) eject - Ejecter quelqu'un du vhicule\n/v(ehicule) radio - Ecouter la radio\n/v(ehicule) Jerrican - Remplir/utiliser votre jrricain\n/v(ehicule) burn - Bruler un vhicule  l'help d'un jerrycan + briquet\n\n{FF9900}[Owner]{FFFFFF}\n/v(ehicule) sell - sell un vhicule\n/v(ehicule) sella - Vendre un vhicule  un joueur\n");
 	            format(aidestring3,sizeof(aidestring3),"/v(ehicule) locate - Localiser un vhicule\n/v(ehicule) respawn - Respawn un vhicule\n/v(ehicule) park - Garer un vhicule\n/v(ehicule) infos - Infos sur vos/votre vhicule(s)\n/v(ehicule) doors - Ouvrir/fermer les doors\n/v(ehicule) cadena - Enlever/mettre le cadena (juste vlo)\n/v(ehicule) spawn - SPawn votre vhicule\n/vme - Message descriptif du vhicule\n\n\n");
 	            format(aidestring4,sizeof(aidestring4),"Press '' - Allumer les phares\nPress 'A' et 'E' - Clignotants\nPress 'N' - Dmarrer");
 	            format(aidestring,sizeof(aidestring),"%s%s%s%s",aidestring1,aidestring2,aidestring3,aidestring4);
@@ -53053,19 +53054,19 @@ stock pay_validPay(playerid,moyen)
 			else if(article==2)
 		    {
 				if(inventory_GetItemQuantity(playerid,1210) > 0){msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez dj une malette."); pay_Reset(playerid); return 1;}
-		        if(inventory_UpdateItem(playerid,1210,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Malette achet, aide: /porter");}
+		        if(inventory_UpdateItem(playerid,1210,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Malette achet, help: /porter");}
 				else{msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Impossible, votre sac est plein !"); pay_Reset(playerid);return 1;}
 		    }
 		    else if(article==3)
 		    {
                 if(inventory_GetItemQuantity(playerid,2894) > 0){msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez dj un annuaire."); pay_Reset(playerid); return 1;}
-		        if(inventory_UpdateItem(playerid,2894,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Annuaire achet, aide: /annu(aire)");}
+		        if(inventory_UpdateItem(playerid,2894,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Annuaire achet, help: /annu(aire)");}
 				else{msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Impossible, votre sac est plein !"); pay_Reset(playerid);return 1;}
 		    }
 		    else if(article==4)
 		    {
                 if(inventory_GetItemQuantity(playerid,1851) > 0){msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez dj des D."); pay_Reset(playerid); return 1;}
-		        if(inventory_UpdateItem(playerid,1851,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} D achet, aide: /de");}
+		        if(inventory_UpdateItem(playerid,1851,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} D achet, help: /de");}
 				else{msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Impossible, votre sac est plein !"); pay_Reset(playerid);return 1;}
 		    }
 		    else if(article==5)
@@ -53078,7 +53079,7 @@ stock pay_validPay(playerid,moyen)
 		        if(PlayerInfo[playerid][pLevel] < 5){msg_Client(playerid, COLOR_INFO, "{CF9756} Info {FFFFFF} Vous devez etre minimun level 5 pour Buy une cagoule."); return 1;}
                 if(PlayerInfo[playerid][pMask] != 0){msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez dj une cagoule."); return 1;}
                 PlayerInfo[playerid][pMask] = 1;
-                msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Cagoule achete, aide: /cagoule");
+                msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Cagoule achete, help: /cagoule");
 		    }
 		    else if(article==7)
 		    {
@@ -53100,13 +53101,13 @@ stock pay_validPay(playerid,moyen)
 		    else if(article==10)
 		    {
                 if(inventory_GetItemQuantity(playerid,2226) > 0){msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez dj une BoomBox."); pay_Reset(playerid); return 1;}
-		        if(inventory_UpdateItem(playerid,2226,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} BoomBox achete, aide: /boombox");}
+		        if(inventory_UpdateItem(playerid,2226,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} BoomBox achete, help: /boombox");}
 				else{msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Impossible, votre sac est plein !"); pay_Reset(playerid);return 1;}
 		    }
 		    else if(article==11)
 		    {
                 if(inventory_GetItemQuantity(playerid,2966) > 0){msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez dj un Talkie Walkie."); pay_Reset(playerid); return 1;}
-		        if(inventory_UpdateItem(playerid,2966,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Talkie Walkie achet, aide: /ta");}
+		        if(inventory_UpdateItem(playerid,2966,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Talkie Walkie achet, help: /ta");}
 				else{msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Impossible, votre sac est plein !"); pay_Reset(playerid);return 1;}
   		    }
 		    else if(article==12)
@@ -53122,7 +53123,7 @@ stock pay_validPay(playerid,moyen)
 		    else if(article==14)
 		    {
 				if(inventory_GetItemQuantity(playerid,18634) > 0){msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez dj un Pied de biche."); pay_Reset(playerid); return 1;}
-		        if(inventory_UpdateItem(playerid,18634,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Pied de biche achet, aide: /piedbiche.");}
+		        if(inventory_UpdateItem(playerid,18634,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Pied de biche achet, help: /piedbiche.");}
 				else{msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Impossible, votre sac est plein !"); pay_Reset(playerid);return 1;}
 		    }
 		    else if(article==15)
@@ -53133,7 +53134,7 @@ stock pay_validPay(playerid,moyen)
 		    else if(article==16)
 		    {
 		        if(inventory_GetItemQuantity(playerid,1946) > 0){msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez dj un Ballon de basket."); pay_Reset(playerid); return 1;}
-		        if(inventory_UpdateItem(playerid,1946,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Ballon de basket achet, aide: /basket.");}
+		        if(inventory_UpdateItem(playerid,1946,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} 24/7 {FFFFFF} Ballon de basket achet, help: /basket.");}
 				else{msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Impossible, votre sac est plein !"); pay_Reset(playerid);return 1;}
 		    }
 		    else if(article==17)
@@ -53161,14 +53162,14 @@ stock pay_validPay(playerid,moyen)
 		    {
 		        RemovePlayerAttachedObject(playerid,BagSlotObject[playerid]);
 		        PlayerInfo[playerid][pBag] = 1;
-		    	msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Magasin de vtements {FFFFFF} Sac Coyote achet, aide: /sac");
+		    	msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Magasin de vtements {FFFFFF} Sac Coyote achet, help: /sac");
 		    	bag_Load(playerid);
 		    }
 		    else if(article==11)
 		    {
 		        RemovePlayerAttachedObject(playerid,BagSlotObject[playerid]);
 		        PlayerInfo[playerid][pBag] = 2;
-		    	msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Magasin de vtements {FFFFFF} Sac Alice Pack achet, aide: /sac");
+		    	msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Magasin de vtements {FFFFFF} Sac Alice Pack achet, help: /sac");
 		    	bag_Load(playerid);
 		    }
 		    else if(article==12)
@@ -53177,7 +53178,7 @@ stock pay_validPay(playerid,moyen)
 		        {
 		            RemovePlayerAttachedObject(playerid,BagSlotObject[playerid]);
 			        PlayerInfo[playerid][pBag] = 3;
-			    	msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Magasin de vtements {FFFFFF} Sac Czech Backpack achet, aide: /sac");
+			    	msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Magasin de vtements {FFFFFF} Sac Czech Backpack achet, help: /sac");
 			    	bag_Load(playerid);
 		    	}
 		    	else
@@ -53449,7 +53450,7 @@ stock pay_validPay(playerid,moyen)
 		{
 		    if(article==1)
 		    {
-		        msg_Client(playerid, COLOR_BIZ, "{2B6AFF} Record store {FFFFFF} MP3 achet, aide: /mp3.");
+		        msg_Client(playerid, COLOR_BIZ, "{2B6AFF} Record store {FFFFFF} MP3 achet, help: /mp3.");
 		    }
 		    else if(article==2)
 		    {
@@ -53462,7 +53463,7 @@ stock pay_validPay(playerid,moyen)
 		    else if(article==4)
 		    {
 		        inventory_UpdateItem(playerid,2226,1);
-		        msg_Client(playerid, COLOR_BIZ, "{2B6AFF} Record store {FFFFFF} BommeBox achete, aide: /boombox.");
+		        msg_Client(playerid, COLOR_BIZ, "{2B6AFF} Record store {FFFFFF} BommeBox achete, help: /boombox.");
 		    }
 		}
 		else if(bizz[bizid][typeZ] == 10) // Record store
@@ -53703,19 +53704,19 @@ stock pay_validPay(playerid,moyen)
 		    if(article==1)
 		    {
                 if(inventory_GetItemQuantity(playerid,18875) > 0){msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez dj un GPS."); pay_Reset(playerid); return 1;}
-		        if(inventory_UpdateItem(playerid,18875,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Station Fuel {FFFFFF} GPS achet, aide: /gps");}
+		        if(inventory_UpdateItem(playerid,18875,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Station Fuel {FFFFFF} GPS achet, help: /gps");}
 				else{msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Impossible, votre sac est plein !"); pay_Reset(playerid);return 1;}
 		    }
 		    else if(article==2)
 		    {
                 if(inventory_GetItemQuantity(playerid,1650) > 0){msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez dj un Jerrican."); pay_Reset(playerid); return 1;}
-		        if(inventory_UpdateItem(playerid,1650,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Station Fuel {FFFFFF} Jerrican achet, aide: /v Jerrican"); PlayerInfo[playerid][pJerrycanFuel] = 0;}
+		        if(inventory_UpdateItem(playerid,1650,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Station Fuel {FFFFFF} Jerrican achet, help: /v Jerrican"); PlayerInfo[playerid][pJerrycanFuel] = 0;}
 				else{msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Impossible, votre sac est plein !"); pay_Reset(playerid);return 1;}
 		    }
 		    else if(article==3)
 		    {
                 if(inventory_GetItemQuantity(playerid,1719) > 0){msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Vous avez dj un RadioFm."); pay_Reset(playerid); return 1;}
-		        if(inventory_UpdateItem(playerid,1719,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Station Fuel {FFFFFF} RadioFm achet, aide: /v radio");}
+		        if(inventory_UpdateItem(playerid,1719,1)){msg_Client(playerid,COLOR_BIZ,"{2B6AFF} Station Fuel {FFFFFF} RadioFm achet, help: /v radio");}
 				else{msg_Client(playerid,COLOR_INFO,"{CF9756} Info {FFFFFF} Impossible, votre sac est plein !"); pay_Reset(playerid);return 1;}
 		    }
 	    }
@@ -53981,7 +53982,7 @@ stock pay_validPay(playerid,moyen)
 			else{ pay_Reset(playerid); return 1;}
 			house[pay_tempProducts[playerid]][owned] = 1;
 			strmid(house[pay_tempProducts[playerid]][owner], sendername, 0, strlen(sendername), 255);
-			msg_Client(playerid, COLOR_HOUSE, "{00C600} House {FFFFFF} Flicitation pour l'achat de votre House. (aide: /ma(ison))");
+			msg_Client(playerid, COLOR_HOUSE, "{00C600} House {FFFFFF} Flicitation pour l'achat de votre House. (help: /ma(ison))");
 			house_Save(pay_tempProducts[playerid]);
 			house_UpdateInfos(pay_tempProducts[playerid]);
 	    }
@@ -53996,7 +53997,7 @@ stock pay_validPay(playerid,moyen)
 			else{ pay_Reset(playerid); return 1;}
 			garage[pay_tempProducts[playerid]][owned] = 1;
 			strmid(garage[pay_tempProducts[playerid]][owner], sendername, 0, strlen(sendername), 32);
-			msg_Client(playerid,COLOR_GARAGE,"{10ce96} Garage {FFFFFF} Flicitation pour l'achat de votre garage. (aide: /garage)");
+			msg_Client(playerid,COLOR_GARAGE,"{10ce96} Garage {FFFFFF} Flicitation pour l'achat de votre garage. (help: /garage)");
 			garage_Save(pay_tempProducts[playerid]);
 			garage_UpdateInfos(pay_tempProducts[playerid]);
 	    }
@@ -57229,7 +57230,7 @@ stock player_CheckInteraction(playerid)
 				    ShowPlayerDialog(playerid, 104, DIALOG_STYLE_LIST,"{2B6AFF} Station Fuel {FFFFFF} Purchases",BizString,"Buy","Cancel");
 				}
 			}
-			else if (GetPlayerState(playerid) == 1 && PlayerToPoint(1, playerid,296.2780,1281.3855,1082.2899)) //Oprateurs
+			else if (GetPlayerState(playerid) == 1 && PlayerToPoint(1, playerid,296.2780,1281.3855,1082.2899)) //Operators
 			{
 				if(bizid == MAX_STATION+MAX_SPRAY+MAX_TUNING)
 				{
