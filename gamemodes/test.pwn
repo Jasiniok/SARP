@@ -22,6 +22,7 @@ enum PLAYER_DATA
 #define SQL_PASSWORD  "root"
 
 #define COLOR_WHITE 0xFFFFFF00
+#define COLOR_RED   0xFFFF0000
 
 #define DIALOG_UNUSED       0
 #define DIALOG_REGISTER     1
@@ -153,6 +154,37 @@ public OnPlayerUpdate()
 
 }
 
+// Server Commands
+CMD:buylevel(playerid, params[])
+{
+    if(!LoggedIn[playerid])return true;
+    new curLevel = PlayerData[playerid][pLevel], curRespect = PlayerData[playerid][pRespect], needed = 0, string[128];
+    needed = (curLevel * 8);
+
+    if (curRespect < needed ) return
+        SendClientMessage(playerid, COLOR_RED, "ERROR: You don't have the required amount of Respect Points in order to level up.");
+    PlayerData[playerid][pLevel]++;
+    PlayerData[playerid][pRespect] -= needed;
+
+    SaveSQLInt(PlayerData[playerid][pSQLID], "players", "Level", PlayerData[playerid][pLevel]);
+    SaveSQLInt(PlayerData[playerid][pSQLID], "players", "Respect", PlayerData[playerid][pRespect]);
+    
+    format(string, sizeof(string), "Congratulations! You have leveled up to: %d. [No worries, you still have %d respect points remaining.]", PlayerData[playerid][pLevel], PlayerData[playerid][pRespect]);
+    SendClientMessage(playerid, COLOR_WHITE, string);
+    return true;
+}
+
+
+// Account Commands
+
+// Public functions
+Server:SaveSQLInt(sqlid, table[], row[], value)
+{
+    new query[256];
+    mysql_format(sqlConnection, query, sizeof(query), "UPDATE %e SET %e = %i WHERE id = %i", table, row, value, sqlid);
+    mysql_pquery(sqlConnection, query);
+    return true;
+}
 Server:DefaultPlayerValues(playerid)
 {
     PlayerData[playerid][pSQLID] = 0;
@@ -164,7 +196,6 @@ Server:DefaultPlayerValues(playerid)
     return true;
 }
 
-// Public functions
 Server:DoesPlayerExist(playerid)
 {
     new query[128];
