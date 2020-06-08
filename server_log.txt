@@ -2560,3 +2560,889 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [07:06:46] Jasin_Refiku[0] /a vie 0
 [07:06:46] [death] Jasin_Refiku died 255
 [07:06:51] [death] Jasin_Refiku died 255
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:23:53] 
+[07:23:53] Server Plugins
+[07:23:53] --------------
+[07:23:53]  Loading plugin: crashdetect.dll
+[07:23:53]   CrashDetect v4.15.1 is OK.
+[07:23:53]   Loaded.
+[07:23:53]  Loading plugin: streamer.dll
+[07:23:53] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[07:23:53]   Loaded.
+[07:23:53]  Loading plugin: mysql.dll
+[07:23:53]  >> plugin.mysql: R41-2 successfully loaded.
+[07:23:53]   Loaded.
+[07:23:53]  Loading plugin: Encrypt.dll
+[07:23:53] 
+
+[07:23:53] ______________________________________
+
+[07:23:53]  Encrypt Plugin v0.1 loaded
+[07:23:53] ______________________________________
+
+[07:23:53]  By: Fro (c) Copyright <TBG> 2009-2010
+[07:23:53] ______________________________________
+
+[07:23:53]   Loaded.
+[07:23:53]  Loading plugin: nativechecker.dll
+[07:23:54]   Loaded.
+[07:23:54]  Loaded 5 plugins.
+
+[07:23:54] 
+[07:23:54] Ban list
+[07:23:54] --------
+[07:23:54]  Loaded: samp.ban
+[07:23:54] 
+[07:23:54] 
+[07:23:54] Filterscripts
+[07:23:54] ---------------
+[07:23:54]   Loading filterscript 'mapping.amx'...
+[07:23:54]   Loaded 1 filterscripts.
+
+[07:23:54] GameMode LVRP
+[07:23:54] ---------------
+[07:23:54] [MYSQL] Sign in in progress ...
+[07:23:56] [MYSQL] Sign in reussie
+[07:23:56]  
+[07:23:56] [STREAMER] Loading of streamer ..
+[07:23:56] [STREAMER] Streamer loaded.
+[07:23:56]  
+[07:23:56] [SETTINGS] Loading the settings ..
+[07:23:56] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
+[07:23:56]  
+[07:23:56] [INIT] Loading variables from the database ..
+[07:23:58]     .. FBI loaded.
+[07:23:58]     .. list of models loaded.
+[07:23:58]   Filterscript 'mapping.amx' load failed.
+[07:23:58] Informations
+[07:23:58] --------------
+[07:23:58] Gamemode for SAMP 0.3.7 R2|| Version GM sarp 5.0.1
+[07:23:58] - Developped by Dark_Rider29 (Samp Forum)
+[07:23:58] - Mapped by Lurtz59
+[07:23:58]  
+[07:23:58] Logs
+[07:23:58] ------
+[07:23:58] Number of vehicle models: 0
+[07:24:00]     .. 4 businesses loaded.
+[07:24:16]     .. UniqueBizzs loaded.
+[07:24:16]     .. 0 furnitures loaded.
+[07:24:16]     .. 1 House(s) loaded.
+[07:24:16]     .. 0 radar(s) loaded.
+[07:25:08] Kicking 127.0.0.1 because they didn't logon to the game.
+[07:25:50]     ... 1 police fines loaded.
+[07:25:50]     .. 0 loaded.
+[07:25:50]     .. 2 Illegal faction(s) saved.
+[07:25:51] [connection] incoming connection: 127.0.0.1:65471 id: 0
+[07:25:51] Invalid client connecting from 127.0.0.1
+[07:25:51]     .. 0 garage(s) loaded.
+[07:25:51]     .. 1 atm(s) loaded.
+[07:25:51]     .. 0 bus stops loaded
+[07:25:51]     .. 0 gross trash can(s) loaded.
+[07:25:54]     .. 2 telephone cabins loaded.
+[07:25:55]     .. 2 vending machine(s) loaded.
+[07:25:55]     .. 1 GPS loaded..
+[07:25:55]     .. 0 small trash can(s) loaded.
+[07:25:56]     .. 2 map(s) loaded.
+[07:25:56]     .. spawns loaded.
+[07:25:57]     .. 0 sign(s) loaded.
+[07:25:57]     .. 0 Anti-DM zones loaded..
+[07:25:57]     .. 2 interiors loaded.
+[07:26:09] [connection] incoming connection: 127.0.0.1:60450 id: 0
+[07:26:10] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[07:26:24] [Login] Jasin_Refiku c'est logu.
+[07:26:35] Jasin_Refiku[0] /a
+[07:26:35] [chat] [Jasin_Refiku]: .
+[07:26:51] Jasin_Refiku[0] /a time
+[07:28:25] Jasin_Refiku[0] /hazards
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:53:07] 
+[07:53:07] Server Plugins
+[07:53:07] --------------
+[07:53:07]  Loading plugin: crashdetect.dll
+[07:53:09]   CrashDetect v4.15.1 is OK.
+[07:53:09]   Loaded.
+[07:53:09]  Loading plugin: streamer.dll
+[07:53:10] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[07:53:10]   Loaded.
+[07:53:10]  Loading plugin: mysql.dll
+[07:53:12]  >> plugin.mysql: R41-2 successfully loaded.
+[07:53:12]   Loaded.
+[07:53:12]  Loading plugin: Encrypt.dll
+[07:53:13] 
+
+[07:53:13] ______________________________________
+
+[07:53:13]  Encrypt Plugin v0.1 loaded
+[07:53:13] ______________________________________
+
+[07:53:13]  By: Fro (c) Copyright <TBG> 2009-2010
+[07:53:13] ______________________________________
+
+[07:53:13]   Loaded.
+[07:53:13]  Loading plugin: nativechecker.dll
+[07:53:18]   Loaded.
+[07:53:18]  Loaded 5 plugins.
+
+[07:53:19] 
+[07:53:19] Ban list
+[07:53:19] --------
+[07:53:19]  Loaded: samp.ban
+[07:53:19] 
+[07:53:19] I couldn't load any gamemode scripts. Please verify your server.cfg
+[07:53:19] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:40:50] 
+[08:40:50] Server Plugins
+[08:40:50] --------------
+[08:40:50]  Loading plugin: crashdetect.dll
+[08:40:50]   CrashDetect v4.15.1 is OK.
+[08:40:50]   Loaded.
+[08:40:50]  Loading plugin: streamer.dll
+[08:40:50] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[08:40:50]   Loaded.
+[08:40:50]  Loading plugin: mysql.dll
+[08:40:50]  >> plugin.mysql: R41-2 successfully loaded.
+[08:40:50]   Loaded.
+[08:40:50]  Loading plugin: Encrypt.dll
+[08:40:50] 
+
+[08:40:50] ______________________________________
+
+[08:40:50]  Encrypt Plugin v0.1 loaded
+[08:40:50] ______________________________________
+
+[08:40:50]  By: Fro (c) Copyright <TBG> 2009-2010
+[08:40:50] ______________________________________
+
+[08:40:50]   Loaded.
+[08:40:50]  Loading plugin: nativechecker.dll
+[08:40:50]   Loaded.
+[08:40:50]  Loaded 5 plugins.
+
+[08:40:51] 
+[08:40:51] Ban list
+[08:40:51] --------
+[08:40:51]  Loaded: samp.ban
+[08:40:51] 
+[08:40:51] 
+[08:40:51] Filterscripts
+[08:40:51] ---------------
+[08:40:51]   Loaded 0 filterscripts.
+
+[08:40:51]    Error: Function not registered: 'SSCANF_Init'
+[08:40:51]    Error: Function not registered: 'SSCANF_IsConnected'
+[08:40:51]    Error: Function not registered: 'SSCANF_Join'
+[08:40:51]    Error: Function not registered: 'SSCANF_Leave'
+[08:40:51] [debug] Run time error 19: "File or function is not found"
+[08:40:51] [debug]  SSCANF_Init
+[08:40:51] [debug]  SSCANF_IsConnected
+[08:40:51] [debug]  SSCANF_Join
+[08:40:51] [debug]  SSCANF_Leave
+[08:40:51] [debug] Run time error 19: "File or function is not found"
+[08:40:51] [debug]  SSCANF_Init
+[08:40:51] [debug]  SSCANF_IsConnected
+[08:40:51] [debug]  SSCANF_Join
+[08:40:51] [debug]  SSCANF_Leave
+[08:40:51] Script[gamemodes/test.amx]: Run time error 19: "File or function is not found"
+[08:40:51] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:49:58] 
+[08:49:58] Server Plugins
+[08:49:58] --------------
+[08:49:58]  Loading plugin: crashdetect.dll
+[08:49:58]   CrashDetect v4.15.1 is OK.
+[08:49:58]   Loaded.
+[08:49:58]  Loading plugin: streamer.dll
+[08:49:58] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[08:49:58]   Loaded.
+[08:49:58]  Loading plugin: mysql.dll
+[08:49:58]  >> plugin.mysql: R39-6 successfully loaded.
+[08:49:58]   Loaded.
+[08:49:58]  Loading plugin: Encrypt.dll
+[08:49:58] 
+
+[08:49:58] ______________________________________
+
+[08:49:58]  Encrypt Plugin v0.1 loaded
+[08:49:58] ______________________________________
+
+[08:49:58]  By: Fro (c) Copyright <TBG> 2009-2010
+[08:49:58] ______________________________________
+
+[08:49:58]   Loaded.
+[08:49:58]  Loading plugin: nativechecker.dll
+[08:49:58]   Loaded.
+[08:49:58]  Loaded 5 plugins.
+
+[08:49:58] 
+[08:49:58] Ban list
+[08:49:58] --------
+[08:49:58]  Loaded: samp.ban
+[08:49:58] 
+[08:49:58] 
+[08:49:58] Filterscripts
+[08:49:58] ---------------
+[08:49:58]   Loaded 0 filterscripts.
+
+[08:49:58]    Error: Function not registered: 'SSCANF_Init'
+[08:49:58]    Error: Function not registered: 'SSCANF_IsConnected'
+[08:49:58]    Error: Function not registered: 'SSCANF_Join'
+[08:49:58]    Error: Function not registered: 'SSCANF_Leave'
+[08:49:58] [debug] Run time error 19: "File or function is not found"
+[08:49:58] [debug]  SSCANF_Init
+[08:49:58] [debug]  SSCANF_IsConnected
+[08:49:58] [debug]  SSCANF_Join
+[08:49:58] [debug]  SSCANF_Leave
+[08:49:58] [debug] Run time error 19: "File or function is not found"
+[08:49:58] [debug]  SSCANF_Init
+[08:49:58] [debug]  SSCANF_IsConnected
+[08:49:58] [debug]  SSCANF_Join
+[08:49:58] [debug]  SSCANF_Leave
+[08:49:58] Script[gamemodes/test.amx]: Run time error 19: "File or function is not found"
+[08:49:58] Number of vehicle models: 0
+[08:51:27] [connection] incoming connection: 127.0.0.1:52553 id: 0
+[08:51:27] [debug] Run time error 19: "File or function is not found"
+[08:51:27] [debug]  SSCANF_Init
+[08:51:27] [debug]  SSCANF_IsConnected
+[08:51:27] [debug]  SSCANF_Join
+[08:51:27] [debug]  SSCANF_Leave
+[08:51:29] [connection] incoming connection: 127.0.0.1:52554 id: 0
+[08:51:29] [debug] Run time error 19: "File or function is not found"
+[08:51:29] [debug]  SSCANF_Init
+[08:51:29] [debug]  SSCANF_IsConnected
+[08:51:29] [debug]  SSCANF_Join
+[08:51:29] [debug]  SSCANF_Leave
+[08:51:29] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[08:51:29] [debug] Run time error 19: "File or function is not found"
+[08:51:29] [debug]  SSCANF_Init
+[08:51:29] [debug]  SSCANF_IsConnected
+[08:51:29] [debug]  SSCANF_Join
+[08:51:29] [debug]  SSCANF_Leave
+[08:51:29] [debug] Run time error 19: "File or function is not found"
+[08:51:29] [debug]  SSCANF_Init
+[08:51:29] [debug]  SSCANF_IsConnected
+[08:51:29] [debug]  SSCANF_Join
+[08:51:29] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:35] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:35] [debug] Run time error 19: "File or function is not found"
+[08:51:35] [debug]  SSCANF_Init
+[08:51:35] [debug]  SSCANF_IsConnected
+[08:51:35] [debug]  SSCANF_Join
+[08:51:35] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:36] [debug] Run time error 19: "File or function is not found"
+[08:51:36] [debug]  SSCANF_Init
+[08:51:36] [debug]  SSCANF_IsConnected
+[08:51:36] [debug]  SSCANF_Join
+[08:51:36] [debug]  SSCANF_Leave
+[08:51:37] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[08:51:37] [debug] Run time error 19: "File or function is not found"
+[08:51:37] [debug]  SSCANF_Init
+[08:51:37] [debug]  SSCANF_IsConnected
+[08:51:37] [debug]  SSCANF_Join
+[08:51:37] [debug]  SSCANF_Leave
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:52:56] 
+[08:52:56] Server Plugins
+[08:52:56] --------------
+[08:52:56]  Loading plugin: crashdetect.dll
+[08:52:56]   CrashDetect v4.15.1 is OK.
+[08:52:56]   Loaded.
+[08:52:56]  Loading plugin: streamer.dll
+[08:52:56] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[08:52:56]   Loaded.
+[08:52:56]  Loading plugin: mysql.dll
+[08:52:57]  >> plugin.mysql: R39-6 successfully loaded.
+[08:52:57]   Loaded.
+[08:52:57]  Loading plugin: Encrypt.dll
+[08:52:57] 
+
+[08:52:57] ______________________________________
+
+[08:52:57]  Encrypt Plugin v0.1 loaded
+[08:52:57] ______________________________________
+
+[08:52:57]  By: Fro (c) Copyright <TBG> 2009-2010
+[08:52:57] ______________________________________
+
+[08:52:57]   Loaded.
+[08:52:57]  Loading plugin: nativechecker.dll
+[08:52:57]   Loaded.
+[08:52:57]  Loaded 5 plugins.
+
+[08:52:57] 
+[08:52:57] Ban list
+[08:52:57] --------
+[08:52:57]  Loaded: samp.ban
+[08:52:57] 
+[08:52:57] 
+[08:52:57] Filterscripts
+[08:52:57] ---------------
+[08:52:57]   Loaded 0 filterscripts.
+
+[08:52:57]    Error: Function not registered: 'SSCANF_Init'
+[08:52:57]    Error: Function not registered: 'SSCANF_IsConnected'
+[08:52:57]    Error: Function not registered: 'SSCANF_Join'
+[08:52:57]    Error: Function not registered: 'SSCANF_Leave'
+[08:52:57] [debug] Run time error 19: "File or function is not found"
+[08:52:57] [debug]  SSCANF_Init
+[08:52:57] [debug]  SSCANF_IsConnected
+[08:52:57] [debug]  SSCANF_Join
+[08:52:57] [debug]  SSCANF_Leave
+[08:52:57] [debug] Run time error 19: "File or function is not found"
+[08:52:57] [debug]  SSCANF_Init
+[08:52:57] [debug]  SSCANF_IsConnected
+[08:52:57] [debug]  SSCANF_Join
+[08:52:57] [debug]  SSCANF_Leave
+[08:52:57] Script[gamemodes/test.amx]: Run time error 19: "File or function is not found"
+[08:52:57] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:55:22] 
+[08:55:22] Server Plugins
+[08:55:22] --------------
+[08:55:22]  Loading plugin: crashdetect.dll
+[08:55:22]   CrashDetect v4.15.1 is OK.
+[08:55:22]   Loaded.
+[08:55:22]  Loading plugin: streamer.dll
+[08:55:22] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[08:55:22]   Loaded.
+[08:55:22]  Loading plugin: mysql.dll
+[08:55:22]  >> plugin.mysql: R39-6 successfully loaded.
+[08:55:22]   Loaded.
+[08:55:22]  Loading plugin: Encrypt.dll
+[08:55:22] 
+
+[08:55:22] ______________________________________
+
+[08:55:22]  Encrypt Plugin v0.1 loaded
+[08:55:22] ______________________________________
+
+[08:55:22]  By: Fro (c) Copyright <TBG> 2009-2010
+[08:55:22] ______________________________________
+
+[08:55:22]   Loaded.
+[08:55:22]  Loading plugin: nativechecker.dll
+[08:55:22]   Loaded.
+[08:55:22]  Loaded 5 plugins.
+
+[08:55:22] 
+[08:55:22] Ban list
+[08:55:22] --------
+[08:55:22]  Loaded: samp.ban
+[08:55:22] 
+[08:55:22] 
+[08:55:22] Filterscripts
+[08:55:22] ---------------
+[08:55:22]   Loaded 0 filterscripts.
+
+[08:55:24] Number of vehicle models: 0
+[08:55:33] [connection] incoming connection: 127.0.0.1:53938 id: 0
+[08:55:43] [connection] incoming connection: 127.0.0.1:53941 id: 0
+[08:55:44] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:02:45] 
+[09:02:45] Server Plugins
+[09:02:45] --------------
+[09:02:45]  Loading plugin: crashdetect.dll
+[09:02:45]   CrashDetect v4.15.1 is OK.
+[09:02:45]   Loaded.
+[09:02:45]  Loading plugin: streamer.dll
+[09:02:45] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[09:02:45]   Loaded.
+[09:02:45]  Loading plugin: mysql.dll
+[09:02:45]  >> plugin.mysql: R39-6 successfully loaded.
+[09:02:45]   Loaded.
+[09:02:45]  Loading plugin: Encrypt.dll
+[09:02:45] 
+
+[09:02:45] ______________________________________
+
+[09:02:45]  Encrypt Plugin v0.1 loaded
+[09:02:45] ______________________________________
+
+[09:02:45]  By: Fro (c) Copyright <TBG> 2009-2010
+[09:02:45] ______________________________________
+
+[09:02:45]   Loaded.
+[09:02:45]  Loading plugin: nativechecker.dll
+[09:02:45]   Loaded.
+[09:02:45]  Loaded 5 plugins.
+
+[09:02:45] 
+[09:02:45] Ban list
+[09:02:45] --------
+[09:02:45]  Loaded: samp.ban
+[09:02:45] 
+[09:02:45] 
+[09:02:45] Filterscripts
+[09:02:45] ---------------
+[09:02:45]   Loaded 0 filterscripts.
+
+[09:02:45] Number of vehicle models: 0
+[09:02:52] [connection] incoming connection: 127.0.0.1:53716 id: 0
+[09:03:02] [connection] incoming connection: 127.0.0.1:53718 id: 0
+[09:03:02] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[09:04:23] [part] Jasin_Refiku has left the server (0:1)
+[09:04:24] [connection] incoming connection: 127.0.0.1:63936 id: 0
+[09:04:24] [join] Jasin_D has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:21:25] 
+[09:21:25] Server Plugins
+[09:21:25] --------------
+[09:21:25]  Loading plugin: crashdetect.dll
+[09:21:25]   CrashDetect v4.15.1 is OK.
+[09:21:25]   Loaded.
+[09:21:25]  Loading plugin: streamer.dll
+[09:21:25] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[09:21:25]   Loaded.
+[09:21:25]  Loading plugin: mysql.dll
+[09:21:25]  >> plugin.mysql: R39-6 successfully loaded.
+[09:21:25]   Loaded.
+[09:21:25]  Loading plugin: Encrypt.dll
+[09:21:25] 
+
+[09:21:25] ______________________________________
+
+[09:21:25]  Encrypt Plugin v0.1 loaded
+[09:21:25] ______________________________________
+
+[09:21:25]  By: Fro (c) Copyright <TBG> 2009-2010
+[09:21:25] ______________________________________
+
+[09:21:25]   Loaded.
+[09:21:25]  Loading plugin: nativechecker.dll
+[09:21:25]   Loaded.
+[09:21:25]  Loaded 5 plugins.
+
+[09:21:25] 
+[09:21:25] Ban list
+[09:21:25] --------
+[09:21:25]  Loaded: samp.ban
+[09:21:25] 
+[09:21:25] 
+[09:21:25] Filterscripts
+[09:21:25] ---------------
+[09:21:25]   Loaded 0 filterscripts.
+
+[09:21:25] Number of vehicle models: 0
+[09:21:39] [connection] incoming connection: 127.0.0.1:50142 id: 0
+[09:21:49] [connection] incoming connection: 127.0.0.1:50146 id: 0
+[09:21:49] [join] Jasin_D has joined the server (0:127.0.0.1)
+[09:21:52] [debug] Server crashed while executing test.amx
+[09:21:52] [debug] AMX backtrace:
+[09:21:52] [debug] #0 native SendClientMessage () from samp-server.exe
+[09:21:52] [debug] #1 00001e24 in public SQL_OnAccountLogin (playerid=0) at C:\Users\jasin\Desktop\SARP\gamemodes\test.pwn:152
+[09:21:52] [debug] Native backtrace:
+[09:21:52] [debug] #0 0049dc0c in ?? () from samp-server.exe
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:24:03] 
+[09:24:03] Server Plugins
+[09:24:03] --------------
+[09:24:03]  Loading plugin: crashdetect.dll
+[09:24:03]   CrashDetect v4.15.1 is OK.
+[09:24:03]   Loaded.
+[09:24:03]  Loading plugin: streamer.dll
+[09:24:03] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[09:24:03]   Loaded.
+[09:24:03]  Loading plugin: mysql.dll
+[09:24:03]  >> plugin.mysql: R39-6 successfully loaded.
+[09:24:03]   Loaded.
+[09:24:03]  Loading plugin: Encrypt.dll
+[09:24:03] 
+
+[09:24:03] ______________________________________
+
+[09:24:03]  Encrypt Plugin v0.1 loaded
+[09:24:03] ______________________________________
+
+[09:24:03]  By: Fro (c) Copyright <TBG> 2009-2010
+[09:24:03] ______________________________________
+
+[09:24:03]   Loaded.
+[09:24:03]  Loading plugin: nativechecker.dll
+[09:24:03]   Loaded.
+[09:24:03]  Loaded 5 plugins.
+
+[09:24:03] 
+[09:24:03] Ban list
+[09:24:03] --------
+[09:24:03]  Loaded: samp.ban
+[09:24:03] 
+[09:24:03] 
+[09:24:03] Filterscripts
+[09:24:03] ---------------
+[09:24:03]   Loaded 0 filterscripts.
+
+[09:24:03] Number of vehicle models: 0
+[09:24:06] [connection] incoming connection: 127.0.0.1:57120 id: 0
+[09:24:06] [join] Jasin_D has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:28:37] 
+[10:28:37] Server Plugins
+[10:28:37] --------------
+[10:28:37]  Loading plugin: crashdetect.dll
+[10:28:37]   CrashDetect v4.15.1 is OK.
+[10:28:37]   Loaded.
+[10:28:37]  Loading plugin: streamer.dll
+[10:28:37] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[10:28:37]   Loaded.
+[10:28:37]  Loading plugin: mysql.dll
+[10:28:37]  >> plugin.mysql: R39-6 successfully loaded.
+[10:28:37]   Loaded.
+[10:28:37]  Loading plugin: Encrypt.dll
+[10:28:37] 
+
+[10:28:37] ______________________________________
+
+[10:28:37]  Encrypt Plugin v0.1 loaded
+[10:28:37] ______________________________________
+
+[10:28:37]  By: Fro (c) Copyright <TBG> 2009-2010
+[10:28:37] ______________________________________
+
+[10:28:37]   Loaded.
+[10:28:37]  Loading plugin: nativechecker.dll
+[10:28:37]   Loaded.
+[10:28:37]  Loaded 5 plugins.
+
+[10:28:37] 
+[10:28:37] Ban list
+[10:28:37] --------
+[10:28:37]  Loaded: samp.ban
+[10:28:37] 
+[10:28:37] 
+[10:28:37] Filterscripts
+[10:28:37] ---------------
+[10:28:37]   Loading filterscript 'tstudio.amx'...
+[10:28:37] *** Streamer Plugin: Include file version (0x27201) does not match plugin version (0x291) (script might need to be recompiled with the correct include file).
+[10:28:37]    Error: Function not registered: 'SSCANF_Init'
+[10:28:37]    Error: Function not registered: 'SSCANF_Join'
+[10:28:37]    Error: Function not registered: 'SSCANF_Leave'
+[10:28:37]    Error: Function not registered: 'sscanf'
+[10:28:37]    Error: Function not registered: 'dir_open'
+[10:28:37]    Error: Function not registered: 'dir_list'
+[10:28:37]    Error: Function not registered: 'file_copy'
+[10:28:37]    Error: Function not registered: 'file_delete'
+[10:28:37] [debug] Run time error 19: "File or function is not found"
+[10:28:37] [debug]  SSCANF_Init
+[10:28:37] [debug]  SSCANF_Join
+[10:28:37] [debug]  SSCANF_Leave
+[10:28:37] [debug]  sscanf
+[10:28:37] [debug]  dir_open
+[10:28:37] [debug]  dir_list
+[10:28:37] [debug]  file_copy
+[10:28:37] [debug]  file_delete
+[10:28:37]   Loaded 1 filterscripts.
+
+[10:28:37] [debug] Run time error 19: "File or function is not found"
+[10:28:37] [debug]  SSCANF_Init
+[10:28:37] [debug]  SSCANF_Join
+[10:28:37] [debug]  SSCANF_Leave
+[10:28:37] [debug]  sscanf
+[10:28:37] [debug]  dir_open
+[10:28:37] [debug]  dir_list
+[10:28:37] [debug]  file_copy
+[10:28:37] [debug]  file_delete
+[10:28:37] Number of vehicle models: 0
