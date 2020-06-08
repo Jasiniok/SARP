@@ -4816,3 +4816,458 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:25:56] [connection] incoming connection: 127.0.0.1:52303 id: 0
 [13:25:56] [connection] incoming connection: 127.0.0.1:52304 id: 0
 [13:25:57] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:57:28] 
+[15:57:28] Server Plugins
+[15:57:28] --------------
+[15:57:28]  Loading plugin: crashdetect.dll
+[15:57:28]   CrashDetect v4.15.1 is OK.
+[15:57:28]   Loaded.
+[15:57:28]  Loading plugin: streamer.dll
+[15:57:28] 
+
+*** Streamer Plugin v2.9.0 by Incognito loaded ***
+
+[15:57:28]   Loaded.
+[15:57:28]  Loading plugin: mysql.dll
+[15:57:28]  >> plugin.mysql: R39-6 successfully loaded.
+[15:57:28]   Loaded.
+[15:57:28]  Loading plugin: nativechecker.dll
+[15:57:28]   Loaded.
+[15:57:28]  Loaded 4 plugins.
+
+[15:57:28] 
+[15:57:28] Ban list
+[15:57:28] --------
+[15:57:28]  Loaded: samp.ban
+[15:57:28] 
+[15:57:28] 
+[15:57:28] Filterscripts
+[15:57:28] ---------------
+[15:57:28]   Loading filterscript 'tstudio.amx'...
+[15:57:28]   Unable to load filterscript 'tstudio.amx'.
+[15:57:28]   Loaded 0 filterscripts.
+
+[15:57:28]    Error: Function not registered: 'SSCANF_Init'
+[15:57:28]    Error: Function not registered: 'SSCANF_IsConnected'
+[15:57:28]    Error: Function not registered: 'SSCANF_Join'
+[15:57:28]    Error: Function not registered: 'SSCANF_Leave'
+[15:57:28] [debug] Run time error 19: "File or function is not found"
+[15:57:28] [debug]  SSCANF_Init
+[15:57:28] [debug]  SSCANF_IsConnected
+[15:57:28] [debug]  SSCANF_Join
+[15:57:28] [debug]  SSCANF_Leave
+[15:57:28] [debug] Run time error 19: "File or function is not found"
+[15:57:28] [debug]  SSCANF_Init
+[15:57:28] [debug]  SSCANF_IsConnected
+[15:57:28] [debug]  SSCANF_Join
+[15:57:28] [debug]  SSCANF_Leave
+[15:57:28] Script[gamemodes/test.amx]: Run time error 19: "File or function is not found"
+[15:57:28] Number of vehicle models: 0
+[15:58:09] --- Server Shutting Down.
+[15:58:09] [debug] Run time error 19: "File or function is not found"
+[15:58:09] [debug]  SSCANF_Init
+[15:58:09] [debug]  SSCANF_IsConnected
+[15:58:09] [debug]  SSCANF_Join
+[15:58:09] [debug]  SSCANF_Leave
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:58:48] 
+[15:58:48] Server Plugins
+[15:58:48] --------------
+[15:58:48]  Loading plugin: crashdetect
+[15:58:48]   CrashDetect v4.15.1 is OK.
+[15:58:48]   Loaded.
+[15:58:48]  Loading plugin: streamer
+[15:58:48] 
+
+*** Streamer Plugin v2.9.0 by Incognito loaded ***
+
+[15:58:48]   Loaded.
+[15:58:48]  Loading plugin: mysql
+[15:58:48]  >> plugin.mysql: R39-6 successfully loaded.
+[15:58:48]   Loaded.
+[15:58:48]  Loading plugin: sscanf
+[15:58:48] 
+
+[15:58:48]  ===============================
+
+[15:58:48]       sscanf plugin loaded.     
+
+[15:58:48]          Version:  2.8.2        
+
+[15:58:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:58:48]  ===============================
+
+[15:58:48]   Loaded.
+[15:58:48]  Loading plugin: nativechecker
+[15:58:48]   Loaded.
+[15:58:48]  Loaded 5 plugins.
+
+[15:58:48] 
+[15:58:48] Ban list
+[15:58:48] --------
+[15:58:48]  Loaded: samp.ban
+[15:58:48] 
+[15:58:48] 
+[15:58:48] Filterscripts
+[15:58:48] ---------------
+[15:58:48]   Loading filterscript 'tstudio.amx'...
+[15:58:48]   Unable to load filterscript 'tstudio.amx'.
+[15:58:48]   Loaded 0 filterscripts.
+
+[15:58:49] Number of vehicle models: 0
+[15:59:23] [connection] incoming connection: 127.0.0.1:53689 id: 0
+[15:59:33] [connection] incoming connection: 127.0.0.1:53691 id: 0
+[15:59:33] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:05:58] 
+[16:05:58] Server Plugins
+[16:05:58] --------------
+[16:05:58]  Loading plugin: crashdetect
+[16:05:58]   CrashDetect v4.15.1 is OK.
+[16:05:58]   Loaded.
+[16:05:58]  Loading plugin: streamer
+[16:05:58] 
+
+*** Streamer Plugin v2.9.0 by Incognito loaded ***
+
+[16:05:58]   Loaded.
+[16:05:58]  Loading plugin: mysql
+[16:05:58]  >> plugin.mysql: R39-6 successfully loaded.
+[16:05:58]   Loaded.
+[16:05:58]  Loading plugin: sscanf
+[16:05:58] 
+
+[16:05:58]  ===============================
+
+[16:05:58]       sscanf plugin loaded.     
+
+[16:05:58]          Version:  2.8.2        
+
+[16:05:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:05:58]  ===============================
+
+[16:05:58]   Loaded.
+[16:05:58]  Loading plugin: nativechecker
+[16:05:58]   Loaded.
+[16:05:58]  Loaded 5 plugins.
+
+[16:05:58] 
+[16:05:58] Ban list
+[16:05:58] --------
+[16:05:58]  Loaded: samp.ban
+[16:05:58] 
+[16:05:59] 
+[16:05:59] Filterscripts
+[16:05:59] ---------------
+[16:05:59]   Loaded 0 filterscripts.
+
+[16:05:59] Number of vehicle models: 0
+[16:06:06] [connection] incoming connection: 127.0.0.1:63776 id: 0
+[16:06:07] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:07:29] 
+[16:07:29] Server Plugins
+[16:07:29] --------------
+[16:07:29]  Loading plugin: crashdetect
+[16:07:29]   CrashDetect v4.15.1 is OK.
+[16:07:29]   Loaded.
+[16:07:29]  Loading plugin: streamer
+[16:07:29] 
+
+*** Streamer Plugin v2.9.0 by Incognito loaded ***
+
+[16:07:29]   Loaded.
+[16:07:29]  Loading plugin: mysql
+[16:07:29]  >> plugin.mysql: R39-6 successfully loaded.
+[16:07:29]   Loaded.
+[16:07:29]  Loading plugin: sscanf
+[16:07:29] 
+
+[16:07:29]  ===============================
+
+[16:07:29]       sscanf plugin loaded.     
+
+[16:07:29]          Version:  2.8.2        
+
+[16:07:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:07:29]  ===============================
+
+[16:07:29]   Loaded.
+[16:07:29]  Loading plugin: nativechecker
+[16:07:29]   Loaded.
+[16:07:29]  Loaded 5 plugins.
+
+[16:07:29] 
+[16:07:29] Ban list
+[16:07:29] --------
+[16:07:29]  Loaded: samp.ban
+[16:07:29] 
+[16:07:29] 
+[16:07:29] Filterscripts
+[16:07:29] ---------------
+[16:07:29]   Loaded 0 filterscripts.
+
+[16:07:29] Number of vehicle models: 0
+[16:07:41] [connection] incoming connection: 127.0.0.1:57787 id: 0
+[16:07:51] [connection] incoming connection: 127.0.0.1:59811 id: 0
+[16:07:51] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:08:49] 
+[16:08:49] Server Plugins
+[16:08:49] --------------
+[16:08:49]  Loading plugin: crashdetect
+[16:08:49]   CrashDetect v4.15.1 is OK.
+[16:08:49]   Loaded.
+[16:08:49]  Loading plugin: streamer
+[16:08:49] 
+
+*** Streamer Plugin v2.9.0 by Incognito loaded ***
+
+[16:08:49]   Loaded.
+[16:08:49]  Loading plugin: mysql
+[16:08:49]  >> plugin.mysql: R39-6 successfully loaded.
+[16:08:49]   Loaded.
+[16:08:49]  Loading plugin: sscanf
+[16:08:49] 
+
+[16:08:49]  ===============================
+
+[16:08:49]       sscanf plugin loaded.     
+
+[16:08:49]          Version:  2.8.2        
+
+[16:08:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:08:49]  ===============================
+
+[16:08:49]   Loaded.
+[16:08:49]  Loading plugin: nativechecker
+[16:08:49]   Loaded.
+[16:08:49]  Loaded 5 plugins.
+
+[16:08:49] 
+[16:08:49] Ban list
+[16:08:49] --------
+[16:08:49]  Loaded: samp.ban
+[16:08:49] 
+[16:08:49] 
+[16:08:49] Filterscripts
+[16:08:49] ---------------
+[16:08:49]   Loaded 0 filterscripts.
+
+[16:08:49] Number of vehicle models: 0
+[16:09:00] [connection] incoming connection: 127.0.0.1:62636 id: 0
+[16:09:10] [connection] incoming connection: 127.0.0.1:62637 id: 0
+[16:09:10] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:10:04] 
+[16:10:04] Server Plugins
+[16:10:04] --------------
+[16:10:04]  Loading plugin: crashdetect
+[16:10:04]   CrashDetect v4.15.1 is OK.
+[16:10:04]   Loaded.
+[16:10:04]  Loading plugin: streamer
+[16:10:04] 
+
+*** Streamer Plugin v2.9.0 by Incognito loaded ***
+
+[16:10:04]   Loaded.
+[16:10:04]  Loading plugin: mysql
+[16:10:04]  >> plugin.mysql: R39-6 successfully loaded.
+[16:10:04]   Loaded.
+[16:10:04]  Loading plugin: sscanf
+[16:10:04] 
+
+[16:10:04]  ===============================
+
+[16:10:04]       sscanf plugin loaded.     
+
+[16:10:04]          Version:  2.8.2        
+
+[16:10:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:10:04]  ===============================
+
+[16:10:04]   Loaded.
+[16:10:04]  Loading plugin: nativechecker
+[16:10:04]   Loaded.
+[16:10:04]  Loaded 5 plugins.
+
+[16:10:04] 
+[16:10:04] Ban list
+[16:10:04] --------
+[16:10:04]  Loaded: samp.ban
+[16:10:04] 
+[16:10:04] 
+[16:10:04] Filterscripts
+[16:10:04] ---------------
+[16:10:04]   Loaded 0 filterscripts.
+
+[16:10:04] Number of vehicle models: 0
+[16:10:12] [connection] incoming connection: 127.0.0.1:63034 id: 0
+[16:10:22] [connection] incoming connection: 127.0.0.1:63035 id: 0
+[16:10:22] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:39:39] 
+[16:39:39] Server Plugins
+[16:39:39] --------------
+[16:39:39]  Loading plugin: crashdetect
+[16:39:39]   CrashDetect v4.15.1 is OK.
+[16:39:39]   Loaded.
+[16:39:39]  Loading plugin: streamer
+[16:39:39] 
+
+*** Streamer Plugin v2.9.0 by Incognito loaded ***
+
+[16:39:39]   Loaded.
+[16:39:39]  Loading plugin: mysql
+[16:39:39]  >> plugin.mysql: R39-6 successfully loaded.
+[16:39:39]   Loaded.
+[16:39:39]  Loading plugin: sscanf
+[16:39:39] 
+
+[16:39:39]  ===============================
+
+[16:39:39]       sscanf plugin loaded.     
+
+[16:39:39]          Version:  2.8.2        
+
+[16:39:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:39:39]  ===============================
+
+[16:39:39]   Loaded.
+[16:39:39]  Loading plugin: nativechecker
+[16:39:39]   Loaded.
+[16:39:39]  Loaded 5 plugins.
+
+[16:39:39] 
+[16:39:39] Ban list
+[16:39:39] --------
+[16:39:39]  Loaded: samp.ban
+[16:39:39] 
+[16:39:39] 
+[16:39:39] Filterscripts
+[16:39:39] ---------------
+[16:39:39]   Loaded 0 filterscripts.
+
+[16:39:39] Number of vehicle models: 0
+[16:39:45] [connection] incoming connection: 127.0.0.1:49757 id: 0
+[16:39:45] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:40:36] 
+[18:40:36] Server Plugins
+[18:40:36] --------------
+[18:40:36]  Loading plugin: crashdetect
+[18:40:36]   CrashDetect v4.15.1 is OK.
+[18:40:36]   Loaded.
+[18:40:36]  Loading plugin: streamer
+[18:40:36] 
+
+*** Streamer Plugin v2.9.0 by Incognito loaded ***
+
+[18:40:36]   Loaded.
+[18:40:36]  Loading plugin: mysql
+[18:40:36]  >> plugin.mysql: R39-6 successfully loaded.
+[18:40:36]   Loaded.
+[18:40:36]  Loading plugin: sscanf
+[18:40:36] 
+
+[18:40:36]  ===============================
+
+[18:40:36]       sscanf plugin loaded.     
+
+[18:40:36]          Version:  2.8.2        
+
+[18:40:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:40:36]  ===============================
+
+[18:40:36]   Loaded.
+[18:40:36]  Loading plugin: nativechecker
+[18:40:36]   Loaded.
+[18:40:36]  Loaded 5 plugins.
+
+[18:40:36] 
+[18:40:36] Ban list
+[18:40:36] --------
+[18:40:36]  Loaded: samp.ban
+[18:40:36] 
+[18:40:36] 
+[18:40:36] Filterscripts
+[18:40:36] ---------------
+[18:40:36]   Loaded 0 filterscripts.
+
+[18:40:37] Number of vehicle models: 0
+[18:41:53] [connection] incoming connection: 127.0.0.1:64364 id: 0
+[18:41:55] [connection] incoming connection: 127.0.0.1:64365 id: 0
+[18:42:00] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[19:21:48] --- Server Shutting Down.

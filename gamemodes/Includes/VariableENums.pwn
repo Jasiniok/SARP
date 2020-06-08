@@ -5,7 +5,10 @@ enum PLAYER_DATA
     pAdminLevel,
     pCash,
     pBank,
-    pRespect
+    pRespect,
+    Float:pLastPos[5],
+    pLastInt,
+    pLastVW
 }
 
 #define HOST_NAME "Test Server"
@@ -24,10 +27,11 @@ enum PLAYER_DATA
 #define DIALOG_REGISTER     1
 #define DIALOG_LOGIN        2
 
+#define DEFAULT_SKIN        299
 
 #define Server:%0(%1) forward %0(%1); public %0(%1)
 // Global Variables
-new sqlConnection;
+new sqlConnection, OneSecondTimer, lastSaveTime = 0;
 
 // Variables
 new bool:LoggedIn[MAX_PLAYERS], PlayerData[MAX_PLAYERS][PLAYER_DATA];
