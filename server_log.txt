@@ -868,3 +868,812 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [19:59:31] [part] Test_1233 has left the server (0:1)
 [19:59:31] [connection] incoming connection: 127.0.0.1:62244 id: 0
 [19:59:31] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:25:19] 
+[22:25:20] Server Plugins
+[22:25:20] --------------
+[22:25:20]  Loading plugin: crashdetect
+[22:25:21]   CrashDetect plugin 4.19.4
+[22:25:21]   Loaded.
+[22:25:21]  Loading plugin: streamer
+[22:25:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:25:22]   Loaded.
+[22:25:22]  Loading plugin: mysql
+[22:25:26]  >> plugin.mysql: R41-4 successfully loaded.
+[22:25:26]   Loaded.
+[22:25:26]  Loading plugin: sscanf
+[22:25:27] 
+
+[22:25:27]  ===============================
+
+[22:25:27]       sscanf plugin loaded.     
+
+[22:25:27]          Version:  2.8.3        
+
+[22:25:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:25:27]  ===============================
+
+[22:25:27]   Loaded.
+[22:25:27]  Loading plugin: nativechecker
+[22:25:27]   Loaded.
+[22:25:27]  Loaded 5 plugins.
+
+[22:25:27] 
+[22:25:27] Filterscripts
+[22:25:27] ---------------
+[22:25:27]   Loaded 0 filterscripts.
+
+[22:25:29] Gamemode successfully loaded.
+[22:25:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:35:10] 
+[22:35:10] Server Plugins
+[22:35:10] --------------
+[22:35:10]  Loading plugin: crashdetect
+[22:35:10]   CrashDetect plugin 4.19.4
+[22:35:10]   Loaded.
+[22:35:10]  Loading plugin: streamer
+[22:35:10] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:35:10]   Loaded.
+[22:35:10]  Loading plugin: mysql
+[22:35:11]  >> plugin.mysql: R41-4 successfully loaded.
+[22:35:11]   Loaded.
+[22:35:11]  Loading plugin: sscanf
+[22:35:11] 
+
+[22:35:11]  ===============================
+
+[22:35:11]       sscanf plugin loaded.     
+
+[22:35:11]          Version:  2.8.3        
+
+[22:35:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:35:11]  ===============================
+
+[22:35:11]   Loaded.
+[22:35:11]  Loading plugin: nativechecker
+[22:35:13]   Loaded.
+[22:35:13]  Loaded 5 plugins.
+
+[22:35:13] 
+[22:35:13] Filterscripts
+[22:35:13] ---------------
+[22:35:13]   Loaded 0 filterscripts.
+
+[22:35:13] Gamemode successfully loaded.
+[22:35:13] Number of vehicle models: 0
+[22:36:07] [connection] incoming connection: 127.0.0.1:51660 id: 0
+[22:36:08] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:38:41] 
+[22:38:41] Server Plugins
+[22:38:41] --------------
+[22:38:41]  Loading plugin: crashdetect
+[22:38:41]   CrashDetect plugin 4.19.4
+[22:38:41]   Loaded.
+[22:38:41]  Loading plugin: streamer
+[22:38:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:38:41]   Loaded.
+[22:38:41]  Loading plugin: mysql
+[22:38:41]  >> plugin.mysql: R41-4 successfully loaded.
+[22:38:41]   Loaded.
+[22:38:41]  Loading plugin: sscanf
+[22:38:41] 
+
+[22:38:41]  ===============================
+
+[22:38:41]       sscanf plugin loaded.     
+
+[22:38:41]          Version:  2.8.3        
+
+[22:38:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:38:41]  ===============================
+
+[22:38:41]   Loaded.
+[22:38:41]  Loading plugin: nativechecker
+[22:38:41]   Loaded.
+[22:38:41]  Loaded 5 plugins.
+
+[22:38:41] 
+[22:38:41] Filterscripts
+[22:38:41] ---------------
+[22:38:41]   Loaded 0 filterscripts.
+
+[22:38:42] Gamemode successfully loaded.
+[22:38:42] Number of vehicle models: 0
+[22:39:09] [connection] incoming connection: 127.0.0.1:56696 id: 0
+[22:39:09] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:39:40] 
+[22:39:40] Server Plugins
+[22:39:40] --------------
+[22:39:40]  Loading plugin: crashdetect
+[22:39:40]   CrashDetect plugin 4.19.4
+[22:39:40]   Loaded.
+[22:39:40]  Loading plugin: streamer
+[22:39:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:39:40]   Loaded.
+[22:39:40]  Loading plugin: mysql
+[22:39:40]  >> plugin.mysql: R41-4 successfully loaded.
+[22:39:40]   Loaded.
+[22:39:40]  Loading plugin: sscanf
+[22:39:40] 
+
+[22:39:40]  ===============================
+
+[22:39:40]       sscanf plugin loaded.     
+
+[22:39:40]          Version:  2.8.3        
+
+[22:39:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:39:40]  ===============================
+
+[22:39:40]   Loaded.
+[22:39:40]  Loading plugin: nativechecker
+[22:39:40]   Loaded.
+[22:39:40]  Loaded 5 plugins.
+
+[22:39:40] 
+[22:39:40] Filterscripts
+[22:39:40] ---------------
+[22:39:40]   Loaded 0 filterscripts.
+
+[22:39:40] Gamemode successfully loaded.
+[22:39:40] Number of vehicle models: 0
+[22:39:48] [connection] incoming connection: 127.0.0.1:51483 id: 0
+[22:39:48] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:44:43] 
+[22:44:43] Server Plugins
+[22:44:43] --------------
+[22:44:43]  Loading plugin: crashdetect
+[22:44:43]   CrashDetect plugin 4.19.4
+[22:44:43]   Loaded.
+[22:44:43]  Loading plugin: streamer
+[22:44:43] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:44:43]   Loaded.
+[22:44:43]  Loading plugin: mysql
+[22:44:43]  >> plugin.mysql: R41-4 successfully loaded.
+[22:44:43]   Loaded.
+[22:44:43]  Loading plugin: sscanf
+[22:44:43] 
+
+[22:44:43]  ===============================
+
+[22:44:43]       sscanf plugin loaded.     
+
+[22:44:43]          Version:  2.8.3        
+
+[22:44:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:44:43]  ===============================
+
+[22:44:43]   Loaded.
+[22:44:43]  Loading plugin: nativechecker
+[22:44:43]   Loaded.
+[22:44:43]  Loaded 5 plugins.
+
+[22:44:43] [artwork:crc] amydrug.dff CRC = 0xB0809B26
+[22:44:43] [artwork:crc] amydrug.txd CRC = 0xEA77CE48
+[22:44:43] [artwork:crc] hmciv.dff CRC = 0x39E1BE5C
+[22:44:43] [artwork:crc] hmciv.txd CRC = 0x20722199
+[22:44:43] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:44:43] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:44:43] [artwork:crc] lvpdc2.dff CRC = 0xFBD1EA7C
+[22:44:43] [artwork:crc] lvpdc2.txd CRC = 0x0
+[22:44:43] [artwork:error] Bad file: lvpdc2.txd
+[22:44:44] [artwork:crc] maciv1.dff CRC = 0x3C13045A
+[22:44:44] [artwork:crc] maciv1.txd CRC = 0x7A8C4AB
+[22:44:44] [artwork:crc] mwacer.dff CRC = 0x6980F5E5
+[22:44:44] [artwork:crc] mwacer.txd CRC = 0x2B8ADB14
+[22:44:44] [artwork:crc] wmbch.dff CRC = 0x4034B736
+[22:44:44] [artwork:crc] wmbch.txd CRC = 0xAD546F45
+[22:44:44] [artwork:crc] wmbeach.dff CRC = 0xB7E629DC
+[22:44:44] [artwork:crc] wmbeach.txd CRC = 0xDDD4B322
+[22:44:44] [artwork:crc] wmciv2.dff CRC = 0x1F5A9D13
+[22:44:44] [artwork:crc] wmciv2.txd CRC = 0x7C4637A5
+[22:44:44] [artwork:crc] wmciv3.dff CRC = 0x9866F54D
+[22:44:44] [artwork:crc] wmciv3.txd CRC = 0xBEB4AAC5
+[22:44:44] [artwork:crc] wmciv4.dff CRC = 0xEC4B6749
+[22:44:44] [artwork:crc] wmciv4.txd CRC = 0x3211734B
+[22:44:44] [artwork:crc] wmciv5.dff CRC = 0x24399ABF
+[22:44:44] [artwork:crc] wmciv5.txd CRC = 0x64FC6021
+[22:44:44] [artwork:crc] wmyfur.dff CRC = 0xB7515B78
+[22:44:44] [artwork:crc] wmyfur.txd CRC = 0x4BEBFE25
+[22:44:44] [artwork:crc] wmyhood.dff CRC = 0xFA365A3D
+[22:44:44] [artwork:crc] wmyhood.txd CRC = 0x258634B8
+[22:44:44] 
+[22:44:44] Filterscripts
+[22:44:44] ---------------
+[22:44:44]   Loaded 0 filterscripts.
+
+[22:44:45] Gamemode successfully loaded.
+[22:44:45] Number of vehicle models: 0
+[22:44:50] [connection] incoming connection: 127.0.0.1:50293 id: 0
+[22:44:50] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:47:56] 
+[22:47:56] Server Plugins
+[22:47:56] --------------
+[22:47:56]  Loading plugin: crashdetect
+[22:47:56]   CrashDetect plugin 4.19.4
+[22:47:56]   Loaded.
+[22:47:56]  Loading plugin: streamer
+[22:47:56] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:47:56]   Loaded.
+[22:47:56]  Loading plugin: mysql
+[22:47:56]  >> plugin.mysql: R41-4 successfully loaded.
+[22:47:56]   Loaded.
+[22:47:56]  Loading plugin: sscanf
+[22:47:56] 
+
+[22:47:56]  ===============================
+
+[22:47:56]       sscanf plugin loaded.     
+
+[22:47:56]          Version:  2.8.3        
+
+[22:47:56]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:47:56]  ===============================
+
+[22:47:56]   Loaded.
+[22:47:56]  Loading plugin: nativechecker
+[22:47:56]   Loaded.
+[22:47:56]  Loaded 5 plugins.
+
+[22:47:56] [artwork:crc] amydrug.dff CRC = 0xB0809B26
+[22:47:56] [artwork:crc] amydrug.txd CRC = 0xEA77CE48
+[22:47:56] [artwork:crc] hmciv.dff CRC = 0x39E1BE5C
+[22:47:56] [artwork:crc] hmciv.txd CRC = 0x20722199
+[22:47:56] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:47:56] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:47:56] [artwork:crc] lvpdc2.dff CRC = 0xFBD1EA7C
+[22:47:56] [artwork:crc] lvpdc2.txd CRC = 0x0
+[22:47:56] [artwork:error] Bad file: lvpdc2.txd
+[22:47:56] [artwork:crc] maciv1.dff CRC = 0x3C13045A
+[22:47:56] [artwork:crc] maciv1.txd CRC = 0x7A8C4AB
+[22:47:56] [artwork:crc] mwacer.dff CRC = 0x6980F5E5
+[22:47:56] [artwork:crc] mwacer.txd CRC = 0x2B8ADB14
+[22:47:56] [artwork:crc] wmbch.dff CRC = 0x4034B736
+[22:47:56] [artwork:crc] wmbch.txd CRC = 0xAD546F45
+[22:47:56] [artwork:crc] wmbeach.dff CRC = 0xB7E629DC
+[22:47:56] [artwork:crc] wmbeach.txd CRC = 0xDDD4B322
+[22:47:56] [artwork:crc] wmciv2.dff CRC = 0x1F5A9D13
+[22:47:56] [artwork:crc] wmciv2.txd CRC = 0x7C4637A5
+[22:47:57] [artwork:crc] wmciv3.dff CRC = 0x9866F54D
+[22:47:57] [artwork:crc] wmciv3.txd CRC = 0xBEB4AAC5
+[22:47:57] [artwork:crc] wmciv4.dff CRC = 0xEC4B6749
+[22:47:57] [artwork:crc] wmciv4.txd CRC = 0x3211734B
+[22:47:57] [artwork:crc] wmciv5.dff CRC = 0x24399ABF
+[22:47:57] [artwork:crc] wmciv5.txd CRC = 0x64FC6021
+[22:47:57] [artwork:crc] wmyfur.dff CRC = 0xB7515B78
+[22:47:57] [artwork:crc] wmyfur.txd CRC = 0x4BEBFE25
+[22:47:57] [artwork:crc] wmyhood.dff CRC = 0xFA365A3D
+[22:47:57] [artwork:crc] wmyhood.txd CRC = 0x258634B8
+[22:47:57] [artwork:crc] bdup.dff CRC = 0x3E46C69
+[22:47:57] [artwork:crc] bdup.txd CRC = 0x309E795E
+[22:47:57] [artwork:crc] bmciv1.dff CRC = 0xF3A6FED4
+[22:47:57] [artwork:crc] bmciv1.txd CRC = 0xBB1C0BFB
+[22:47:57] [artwork:crc] bmciv2.dff CRC = 0xB0AB0F35
+[22:47:57] [artwork:crc] bmciv2.txd CRC = 0xC4A028ED
+[22:47:57] [artwork:crc] bmgng1.dff CRC = 0xBB18A78F
+[22:47:57] [artwork:crc] bmgng1.txd CRC = 0x908AE0C5
+[22:47:57] [artwork:crc] bmopriest.dff CRC = 0x31A93D2F
+[22:47:57] [artwork:crc] bmopriest.txd CRC = 0xAF32427C
+[22:47:57] [artwork:crc] bmpretty1.dff CRC = 0xB1133D51
+[22:47:57] [artwork:crc] bmpretty1.txd CRC = 0x65CC16D7
+[22:47:57] [artwork:crc] bmyjg.dff CRC = 0xE12AF12E
+[22:47:57] [artwork:crc] bmyjg.txd CRC = 0x50170843
+[22:47:57] [artwork:crc] mbbam1.dff CRC = 0xEE4063CA
+[22:47:57] [artwork:crc] mbbam1.txd CRC = 0xE56D1D13
+[22:47:57] [artwork:crc] mbciv11.dff CRC = 0x3624007
+[22:47:57] [artwork:crc] mbciv11.txd CRC = 0x4D386092
+[22:47:57] [artwork:crc] mbdrg1.dff CRC = 0x312B3DDC
+[22:47:57] [artwork:crc] mbdrg1.txd CRC = 0x310ED28C
+[22:47:57] [artwork:crc] mbgng3.dff CRC = 0xD3C90970
+[22:47:57] [artwork:crc] mbgng3.txd CRC = 0x724A947B
+[22:47:57] [artwork:crc] hmciv2.dff CRC = 0x6389D68B
+[22:47:57] [artwork:crc] hmciv2.txd CRC = 0xF9DACFE9
+[22:47:57] [artwork:crc] hmciv3.dff CRC = 0x10AE915
+[22:47:58] [artwork:crc] hmciv3.txd CRC = 0xC21FD024
+[22:47:58] [artwork:crc] hmyec.dff CRC = 0xD9B8BEB6
+[22:47:58] [artwork:crc] hmyec.txd CRC = 0x236923DC
+[22:47:58] [artwork:crc] hmyec2.dff CRC = 0x8EE96A3A
+[22:47:58] [artwork:crc] hmyec2.txd CRC = 0x4D3F582F
+[22:47:58] [artwork:crc] hmyec3.dff CRC = 0x45B0078D
+[22:47:58] [artwork:crc] hmyec3.txd CRC = 0x9528943E
+[22:47:58] [artwork:crc] hmyec4.dff CRC = 0x4BF2C474
+[22:47:58] [artwork:crc] hmyec4.txd CRC = 0x8EDEA9B3
+[22:47:58] [artwork:crc] hmyec5.dff CRC = 0x2B5FA8B9
+[22:47:58] [artwork:crc] hmyec5.txd CRC = 0x2696CC1
+[22:47:58] [artwork:crc] hmyec6.dff CRC = 0x6D0B7E78
+[22:47:58] [artwork:crc] hmyec6.txd CRC = 0xDC7E667D
+[22:47:58] [artwork:crc] hmyec7.dff CRC = 0xAA523921
+[22:47:58] [artwork:crc] hmyec7.txd CRC = 0x1B7205ED
+[22:47:58] [artwork:crc] mldrg1.dff CRC = 0xF357B83
+[22:47:58] [artwork:crc] mldrg1.txd CRC = 0xCBFFA5E6
+[22:47:58] [artwork:crc] mldrg2.dff CRC = 0xEBE24DAD
+[22:47:58] [artwork:crc] mldrg2.txd CRC = 0x257C36A3
+[22:47:58] [artwork:crc] mhbam2.dff CRC = 0x5264EE6E
+[22:47:58] [artwork:crc] mhbam2.txd CRC = 0x81F1231
+[22:47:58] [artwork:crc] mlgng1.dff CRC = 0x0
+[22:47:58] [artwork:error] Bad file: mlgng1.dff
+[22:47:58] [artwork:crc] afybch.dff CRC = 0x60169EDD
+[22:47:58] [artwork:crc] afybch.txd CRC = 0x993EB94C
+[22:47:58] [artwork:crc] afybu.dff CRC = 0xDBDCBF39
+[22:47:58] [artwork:crc] afybu.txd CRC = 0x6EB41BAB
+[22:47:58] [artwork:crc] afybu2.dff CRC = 0x31B15F8E
+[22:47:58] [artwork:crc] afybu2.txd CRC = 0xAFAA1D53
+[22:47:58] [artwork:crc] afydj.dff CRC = 0xA2FC5EA3
+[22:47:58] [artwork:crc] afydj.txd CRC = 0x3892DE7
+[22:47:58] [artwork:crc] faciv1.dff CRC = 0x3AAEE4DB
+[22:47:58] [artwork:crc] faciv1.txd CRC = 0x67CCFEB
+[22:47:58] [artwork:crc] faciv2.dff CRC = 0xA95E9A38
+[22:47:59] [artwork:crc] faciv2.txd CRC = 0x4B9B0ACD
+[22:47:59] [artwork:crc] faciv3.dff CRC = 0x158127A8
+[22:47:59] [artwork:crc] faciv3.txd CRC = 0x6DA3ACCD
+[22:47:59] [artwork:crc] fwciv1.dff CRC = 0x638C1CBA
+[22:47:59] [artwork:crc] fwciv1.txd CRC = 0x13D084DD
+[22:47:59] [artwork:crc] fwciv2.dff CRC = 0xC2B5217
+[22:47:59] [artwork:crc] fwciv2.txd CRC = 0xFE3CD4D1
+[22:47:59] [artwork:crc] fwciv3.dff CRC = 0x8369AB2E
+[22:47:59] [artwork:crc] fwciv3.txd CRC = 0x5B0A76CB
+[22:47:59] [artwork:crc] fwciv4.dff CRC = 0x903D9D5A
+[22:47:59] [artwork:crc] fwciv4.txd CRC = 0xF43EAE27
+[22:47:59] [artwork:crc] fwciv5.dff CRC = 0x6C9A0998
+[22:47:59] [artwork:crc] fwciv5.txd CRC = 0x35E29EAD
+[22:47:59] [artwork:crc] fwciv7.dff CRC = 0x6192D2B0
+[22:47:59] [artwork:crc] fwciv7.txd CRC = 0xEA3FA39B
+[22:47:59] [artwork:crc] fwciv8.dff CRC = 0x484C3FBC
+[22:47:59] [artwork:crc] fwciv8.txd CRC = 0x802C6DDE
+[22:47:59] [artwork:crc] fwciv9.dff CRC = 0xE9BA7F3
+[22:47:59] [artwork:crc] fwciv9.txd CRC = 0x395406C8
+[22:47:59] [artwork:crc] fwciv10.dff CRC = 0x5DBC7C71
+[22:47:59] [artwork:crc] fwciv10.txd CRC = 0xBD91C90
+[22:47:59] [artwork:crc] fwciv11.dff CRC = 0x4D600CDC
+[22:47:59] [artwork:crc] fwciv11.txd CRC = 0xDC92731E
+[22:47:59] [artwork:crc] megal2.dff CRC = 0x651BD557
+[22:47:59] [artwork:crc] megal2.txd CRC = 0xE0F3B272
+[22:47:59] [artwork:crc] shfyst.dff CRC = 0xCDE7127D
+[22:47:59] [artwork:crc] shfyst.txd CRC = 0x6EF8E6A7
+[22:47:59] [artwork:crc] wfybd.dff CRC = 0x5254325
+[22:47:59] [artwork:crc] wfybd.txd CRC = 0xA347F8AD
+[22:47:59] [artwork:crc] wfydsh.dff CRC = 0xC7D670B7
+[22:47:59] [artwork:crc] wfydsh.txd CRC = 0xF1D6EBCC
+[22:47:59] [artwork:crc] wfygr.dff CRC = 0x3D07706C
+[22:48:00] [artwork:crc] wfygr.txd CRC = 0xB7CAF627
+[22:48:00] [artwork:crc] wfygt.dff CRC = 0xA28F32C8
+[22:48:00] [artwork:crc] wfygt.txd CRC = 0x2C1E29C3
+[22:48:00] [artwork:crc] wfygt2.dff CRC = 0xA5B09314
+[22:48:00] [artwork:crc] wfygt2.txd CRC = 0x9560C074
+[22:48:00] [artwork:crc] wfyjckt.dff CRC = 0x6CE617B8
+[22:48:00] [artwork:crc] wfyjckt.txd CRC = 0x333EE02E
+[22:48:00] [artwork:crc] wfyob.dff CRC = 0x8690EE56
+[22:48:00] [artwork:crc] wfyob.txd CRC = 0x14C3C7E3
+[22:48:00] [artwork:crc] wfypo.dff CRC = 0xA61F4BA3
+[22:48:00] [artwork:crc] wfypo.txd CRC = 0x481A611E
+[22:48:00] [artwork:crc] wfyshirt.dff CRC = 0xFDA047FE
+[22:48:00] [artwork:crc] wfyshirt.txd CRC = 0x32CAAE02
+[22:48:00] [artwork:crc] bfsan1.dff CRC = 0xC3E3CA05
+[22:48:00] [artwork:crc] bfsan1.txd CRC = 0xBEE650C1
+[22:48:00] [artwork:crc] bfycrop.dff CRC = 0x970EE833
+[22:48:00] [artwork:crc] bfycrop.txd CRC = 0x9D4DD4C5
+[22:48:00] [artwork:crc] fbciv1.dff CRC = 0x0
+[22:48:00] [artwork:error] Bad file: fbciv1.dff
+[22:48:00] [artwork:crc] fbciv2.dff CRC = 0x3599C8F
+[22:48:00] [artwork:crc] fbciv2.txd CRC = 0xBAD5D74F
+[22:48:00] [artwork:crc] fbciv3.dff CRC = 0x573826BC
+[22:48:00] [artwork:crc] fbciv3.txd CRC = 0xECFE16DD
+[22:48:00] [artwork:crc] fbciv4.dff CRC = 0xD086AB0A
+[22:48:00] [artwork:crc] fbciv4.txd CRC = 0x1F37C259
+[22:48:00] [artwork:crc] fbciv5.dff CRC = 0xBE006B92
+[22:48:00] [artwork:crc] fbciv5.txd CRC = 0x6527AF4
+[22:48:00] [artwork:crc] fbgng1.dff CRC = 0xEC8392F8
+[22:48:00] [artwork:crc] fbgng1.txd CRC = 0xA1DA19D1
+[22:48:00] [artwork:crc] fhciv1.dff CRC = 0xA6E5D062
+[22:48:00] [artwork:crc] fhciv1.txd CRC = 0x5C5C8F13
+[22:48:00] [artwork:crc] fhgng1.dff CRC = 0x2E94C6E2
+[22:48:00] [artwork:crc] fhgng1.txd CRC = 0xB152A8E7
+[22:48:00] [artwork:crc] fhgng2.dff CRC = 0x755CD190
+[22:48:00] [artwork:crc] fhgng2.txd CRC = 0xB8756BFA
+[22:48:00] [artwork:crc] hfycrp.dff CRC = 0x4F5113E9
+[22:48:00] [artwork:crc] hfycrp.txd CRC = 0xF7301932
+[22:48:00] [artwork:crc] hfyja.dff CRC = 0x335FE978
+[22:48:00] [artwork:crc] hfyja.txd CRC = 0x55098D20
+[22:48:01] [artwork:crc] hfyjp.dff CRC = 0x80C13E28
+[22:48:01] [artwork:crc] hfyjp.txd CRC = 0x8126B1BE
+[22:48:01] [artwork:crc] hfyyoga.dff CRC = 0x8F7D8006
+[22:48:01] [artwork:crc] hfyyoga.txd CRC = 0x8370440
+[22:48:01] [artwork:crc] bmysu.dff CRC = 0x6BE15B22
+[22:48:01] [artwork:crc] bmysu.txd CRC = 0x71C86E2F
+[22:48:01] [artwork:crc] lapd1f.dff CRC = 0x30C94BB2
+[22:48:01] [artwork:crc] .txd CRC = 0x0
+[22:48:01] [artwork:error] Bad file: .txd
+[22:48:01] [artwork:crc] wmysm1.dff CRC = 0x5267C26B
+[22:48:01] [artwork:crc] wmysm1.txd CRC = 0x8814AFE0
+[22:48:01] [artwork:crc] wmysm2.dff CRC = 0xC84BEF0
+[22:48:01] [artwork:crc] wmysm2.txd CRC = 0xC40498F2
+[22:48:01] [artwork:crc] wmysm3.dff CRC = 0x3E7956F1
+[22:48:01] [artwork:crc] wmysm3.txd CRC = 0xABF2976
+[22:48:01] [artwork:crc] wmysm4.dff CRC = 0xDBF61A98
+[22:48:01] [artwork:crc] wmysm4.txd CRC = 0x14EB6E9D
+[22:48:01] [artwork:crc] wmysm5.dff CRC = 0xFC2EA64C
+[22:48:01] [artwork:crc] wmysm5.txd CRC = 0xF792FD6
+[22:48:01] [artwork:crc] wmysu.dff CRC = 0xB4B49A5
+[22:48:01] [artwork:crc] wmysu.txd CRC = 0x87D2E100
+[22:48:01] [artwork:crc] wmysuit.dff CRC = 0xF46AF3C7
+[22:48:01] [artwork:crc] wmysuit2.txd CRC = 0x9162648E
+[22:48:02] [artwork:crc] wmysuit1.dff CRC = 0x4D66BC6F
+[22:48:02] [artwork:crc] wmysuit1.txd CRC = 0x233164E
+[22:48:02] [artwork:crc] wmysuit3.dff CRC = 0xF30CDBCA
+[22:48:02] [artwork:crc] wmysuit3.txd CRC = 0x17DA7B1C
+[22:48:02] [artwork:crc] bmysuit.dff CRC = 0x95607880
+[22:48:02] [artwork:crc] bmysuit.txd CRC = 0x73AB9BEA
+[22:48:02] [artwork:crc] mbbiz1.dff CRC = 0xC1A453E7
+[22:48:02] [artwork:crc] mbbiz1.txd CRC = 0x2577F25B
+[22:48:02] [artwork:crc] mwbiz1.dff CRC = 0xE2687DCA
+[22:48:02] [artwork:crc] mwbiz1.txd CRC = 0x2E66F4DF
+[22:48:02] [artwork:crc] smoke1f.dff CRC = 0xECFF7B14
+[22:48:02] [artwork:crc] smoke1f.txd CRC = 0x5CDC2863
+[22:48:02] [artwork:crc] wmybuf.dff CRC = 0xCDF6558
+[22:48:02] [artwork:crc] wmybuf.txd CRC = 0x8E1FC51
+[22:48:02] [artwork:crc] hmysu.dff CRC = 0x3F527C6C
+[22:48:02] [artwork:crc] hmysu.txd CRC = 0xC7F61FAF
+[22:48:02] [artwork:crc] hmysuit.dff CRC = 0x326D810B
+[22:48:02] [artwork:crc] hmysuit.txd CRC = 0xFB89D1DE
+[22:48:02] [artwork:crc] hmysuit2.dff CRC = 0x326D810B
+[22:48:02] [artwork:crc] hmysuit2.txd CRC = 0x4025AF62
+[22:48:02] [artwork:crc] mwblackhoody.dff CRC = 0xD6817158
+[22:48:02] [artwork:crc] mwblackhoody.txd CRC = 0xE7B78499
+[22:48:02] [artwork:crc] mwfatman.dff CRC = 0x15E49CB4
+[22:48:02] [artwork:crc] mwfatman.txd CRC = 0x2FB14D84
+[22:48:02] [artwork:crc] mwfatman2.dff CRC = 0x0
+[22:48:02] [artwork:error] Bad file: mwfatman2.dff
+[22:48:02] [artwork:crc] mwfatman3.dff CRC = 0x0
+[22:48:02] [artwork:error] Bad file: mwfatman3.dff
+[22:48:02] [artwork:crc] mwwkmc1.dff CRC = 0x1D52703C
+[22:48:02] [artwork:crc] mwwkmc1.txd CRC = 0x33E4899A
+[22:48:02] [artwork:crc] mwwkmc2.dff CRC = 0xE30ECCBA
+[22:48:02] [artwork:crc] mwwkmc2.txd CRC = 0xB6CC5948
+[22:48:02] [artwork:crc] mwwkmc3.dff CRC = 0xA7DE3D4A
+[22:48:02] [artwork:crc] mwwkmc3.txd CRC = 0x86E2E4F0
+[22:48:02] [artwork:crc] mwwkmc4.dff CRC = 0x1E202B81
+[22:48:02] [artwork:crc] mwwkmc4.txd CRC = 0x8C50D187
+[22:48:02] [artwork:crc] mwwkmc5.dff CRC = 0x5D5BFB1B
+[22:48:02] [artwork:crc] mwwkmc5.txd CRC = 0x9DEFC582
+[22:48:02] [artwork:crc] mwwkmc6.dff CRC = 0x7E26842E
+[22:48:03] [artwork:crc] mwwkmc6.txd CRC = 0x2D2D6CB1
+[22:48:03] [artwork:crc] mwwkmc7.dff CRC = 0xE359DF99
+[22:48:03] [artwork:crc] mwwkmc7.txd CRC = 0xB6CA99A2
+[22:48:03] [artwork:crc] mwwkmc8.dff CRC = 0xE5E5A657
+[22:48:03] [artwork:crc] mwwkmc8.txd CRC = 0x26C5FFF0
+[22:48:03] [artwork:crc] fwbiker1.dff CRC = 0xF946BBAA
+[22:48:03] [artwork:crc] fwbiker1.txd CRC = 0xDE8DFD1D
+[22:48:03] [artwork:crc] wmoldcountry2.dff CRC = 0x36CCDCA0
+[22:48:03] [artwork:crc] wmoldcountry2.txd CRC = 0xE8DFE23
+[22:48:03] [artwork:crc] wmpunk.dff CRC = 0x8D192C1E
+[22:48:03] [artwork:crc] wmpunk.txd CRC = 0x2ACE1965
+[22:48:03] [artwork:crc] wmocountry.dff CRC = 0xAF3EE2E6
+[22:48:03] [artwork:crc] wmocountry.txd CRC = 0xD0A39503
+[22:48:03] [artwork:crc] wmycountry.dff CRC = 0xE52A8117
+[22:48:03] [artwork:crc] wmycountry.txd CRC = 0xF27B279C
+[22:48:03] [artwork:crc] mabam5.dff CRC = 0xF82BC9BC
+[22:48:03] [artwork:crc] mabam5.txd CRC = 0x0
+[22:48:03] [artwork:error] Bad file: mabam5.txd
+[22:48:03] [artwork:crc] mwbam3.dff CRC = 0x191DF029
+[22:48:03] [artwork:crc] mwbam3.txd CRC = 0xBD91C90
+[22:48:03] [artwork:crc] mwbam4.dff CRC = 0x844F1F01
+[22:48:03] [artwork:crc] mwbam4.txd CRC = 0xFEB20405
+[22:48:03] [artwork:crc] wmciv.dff CRC = 0xDE9B862B
+[22:48:03] [artwork:crc] wmciv.txd CRC = 0x341652E
+[22:48:03] [artwork:crc] wmomob.dff CRC = 0xEE35BBD2
+[22:48:03] [artwork:crc] wmomob.txd CRC = 0x5BB76989
+[22:48:03] [artwork:crc] wmomob1.dff CRC = 0x4D62A0AD
+[22:48:03] [artwork:crc] wmomob1.txd CRC = 0xD4E60A84
+[22:48:03] [artwork:crc] mwray1.dff CRC = 0xA9510BC2
+[22:48:03] [artwork:crc] mwray1.txd CRC = 0x5E5831BB
+[22:48:03] [artwork:crc] mwray5.dff CRC = 0xC57E350B
+[22:48:03] [artwork:crc] mwray5.txd CRC = 0x48452B33
+[22:48:03] [artwork:crc] mwsuit.dff CRC = 0x76A1445D
+[22:48:03] [artwork:crc] mwsuit.txd CRC = 0x3887A676
+[22:48:03] [artwork:crc] wmybomber.dff CRC = 0xC42EB503
+[22:48:03] [artwork:crc] wmybomber.txd CRC = 0xA7724D7E
+[22:48:03] [artwork:crc] wmymob1.dff CRC = 0x92A0C009
+[22:48:04] [artwork:crc] wmymob1.txd CRC = 0xBC17B01C
+[22:48:04] [artwork:crc] wmymob2.dff CRC = 0xE46849CB
+[22:48:04] [artwork:crc] wmymob2.txd CRC = 0x39AFC2DF
+[22:48:04] [artwork:crc] wmymob3.dff CRC = 0x4462612F
+[22:48:04] [artwork:crc] wmymob3.txd CRC = 0x15F1D6B6
+[22:48:04] [artwork:crc] wmymob4.dff CRC = 0x4D373694
+[22:48:04] [artwork:crc] wmymob4.txd CRC = 0xC6944BD7
+[22:48:04] [artwork:crc] bmopd1.dff CRC = 0xD30CE32
+[22:48:04] [artwork:crc] bmopd1.txd CRC = 0x4300C5D
+[22:48:04] [artwork:crc] bmypd1.dff CRC = 0xD40946E9
+[22:48:04] [artwork:crc] bmypd1.txd CRC = 0x77C993CF
+[22:48:04] [artwork:crc] bmypd2.dff CRC = 0xFEC71386
+[22:48:04] [artwork:crc] bmypd2.txd CRC = 0x54F074D3
+[22:48:04] [artwork:crc] hmopd1.dff CRC = 0xA01E6415
+[22:48:04] [artwork:crc] hmopd1.txd CRC = 0x530E8563
+[22:48:04] [artwork:crc] hmypd1.dff CRC = 0x2EE0CBC2
+[22:48:04] [artwork:crc] hmypd1.txd CRC = 0x47974F94
+[22:48:04] [artwork:crc] hmypd2.dff CRC = 0x77932EA4
+[22:48:04] [artwork:crc] hmypd2.txd CRC = 0xCFEE8ACE
+[22:48:04] [artwork:crc] omypd1.dff CRC = 0xE88A1191
+[22:48:04] [artwork:crc] omypd1.txd CRC = 0xBCEF58C7
+[22:48:04] [artwork:crc] pdbik1.dff CRC = 0x70AB344B
+[22:48:04] [artwork:crc] pdbik1.txd CRC = 0xE27C197
+[22:48:05] [artwork:crc] wmopd1.dff CRC = 0xE5DB94E6
+[22:48:05] [artwork:crc] wmopd1.txd CRC = 0xE3A3B180
+[22:48:05] [artwork:crc] wmypd1.dff CRC = 0xA290489
+[22:48:05] [artwork:crc] wmypd1.txd CRC = 0xF160C74E
+[22:48:05] [artwork:crc] wmypd2.dff CRC = 0x3A8648EB
+[22:48:05] [artwork:crc] wmypd2.txd CRC = 0x66C628BB
+[22:48:05] [artwork:crc] wmysgt1.dff CRC = 0x7842FDEC
+[22:48:05] [artwork:crc] wmysgt1.txd CRC = 0xF5C28364
+[22:48:05] [artwork:crc] amypd2.dff CRC = 0xCD9452B7
+[22:48:05] [artwork:crc] amypd2.txd CRC = 0xC53BD086
+[22:48:05] [artwork:crc] hmosgt1.dff CRC = 0xB9732484
+[22:48:05] [artwork:crc] hmosgt1.txd CRC = 0x9DE7BA00
+[22:48:05] [artwork:crc] wmypd3.dff CRC = 0x87DDCE1A
+[22:48:05] [artwork:crc] wmypd3.txd CRC = 0x7863FC25
+[22:48:05] [artwork:crc] wmypd4.dff CRC = 0x470F1498
+[22:48:05] [artwork:crc] wmypd4.txd CRC = 0x1AF0E687
+[22:48:05] [artwork:crc] wmypd5.dff CRC = 0x161F71DB
+[22:48:05] [artwork:crc] wmypd5.txd CRC = 0x660FE5C9
+[22:48:05] [artwork:crc] bmyffp.dff CRC = 0xF8BAC6C9
+[22:48:05] [artwork:crc] bmyffp.txd CRC = 0xA334894F
+[22:48:05] [artwork:crc] bmypdlg.dff CRC = 0x808CA56A
+[22:48:05] [artwork:crc] bmypdlg.txd CRC = 0x73820211
+[22:48:05] [artwork:crc] hmypdlg.dff CRC = 0x3B80FB7
+[22:48:05] [artwork:crc] hmypdlg.txd CRC = 0x7C3405F1
+[22:48:05] [artwork:crc] wmypdlg1.dff CRC = 0xE56BEFD9
+[22:48:05] [artwork:crc] wmypdlg1.txd CRC = 0xCFE96F62
+[22:48:05] [artwork:crc] wmypdlg2.dff CRC = 0x5C5D3797
+[22:48:05] [artwork:crc] wmypdlg2.txd CRC = 0x5911A8CA
+[22:48:05] [artwork:crc] bfypd1.dff CRC = 0xF05524E9
+[22:48:05] [artwork:crc] bfypd1.txd CRC = 0x77E1DED5
+[22:48:05] [artwork:crc] ofypd1.dff CRC = 0xFE695F78
+[22:48:05] [artwork:crc] ofypd1.txd CRC = 0x5F20DFB0
+[22:48:05] [artwork:crc] wfypd1.dff CRC = 0x14E24177
+[22:48:06] [artwork:crc] wfypd1.txd CRC = 0xEF67ABE3
+[22:48:06] [artwork:crc] wfysgt1.dff CRC = 0x9B393A21
+[22:48:06] [artwork:crc] wfysgt1.txd CRC = 0xCC929386
+[22:48:06] [artwork:crc] wfyffp.dff CRC = 0xBE405287
+[22:48:06] [artwork:crc] wfyffp.txd CRC = 0xC9422CF1
+[22:48:06] [artwork:crc] wfypdlg.dff CRC = 0xFF54C2C4
+[22:48:06] [artwork:crc] wfypdlg.txd CRC = 0xDED4B3AA
+[22:48:06] [artwork:crc] wmyswat1.dff CRC = 0x98A94A77
+[22:48:06] [artwork:crc] wmyswat1.txd CRC = 0x1C06F113
+[22:48:06] [artwork:crc] wmyswat2.dff CRC = 0xEEA480B5
+[22:48:06] [artwork:crc] wmyswat2.txd CRC = 0x81F21C2D
+[22:48:06] [artwork:crc] wmyswat4.dff CRC = 0xBF2ED89F
+[22:48:06] [artwork:crc] wmyswat4.txd CRC = 0xE7BF0684
+[22:48:06] [artwork:crc] bmyswat1.dff CRC = 0x3999F2E9
+[22:48:06] [artwork:crc] bmyswat1.txd CRC = 0x1CB8FB02
+[22:48:06] [artwork:crc] bmyswat2.dff CRC = 0x406630D4
+[22:48:06] [artwork:crc] bmyswat2.txd CRC = 0x67F0925C
+[22:48:06] [artwork:crc] hmyswat1.dff CRC = 0xDE52626D
+[22:48:06] [artwork:crc] hmyswat1.txd CRC = 0xAAEB7091
+[22:48:06] [artwork:crc] masher1.dff CRC = 0x698F8B54
+[22:48:06] [artwork:crc] masher1.txd CRC = 0x246D81F2
+[22:48:06] [artwork:crc] masher2.dff CRC = 0x4B349C5A
+[22:48:06] [artwork:crc] masher2.txd CRC = 0xCD8BC255
+[22:48:06] [artwork:crc] masher3.dff CRC = 0xB19557E3
+[22:48:06] [artwork:crc] masher3.txd CRC = 0xB28CFE47
+[22:48:06] [artwork:crc] mbikesher.dff CRC = 0x10EB217D
+[22:48:06] [artwork:crc] mbikesher.txd CRC = 0x9196E2D8
+[22:48:06] [artwork:crc] mbsher1.dff CRC = 0x230A47DA
+[22:48:06] [artwork:crc] mbsher2.txd CRC = 0x9B0C86F8
+[22:48:06] [artwork:crc] mbsher2.dff CRC = 0x31EFEF
+[22:48:07] [artwork:crc] mbsher1.txd CRC = 0x8F2DB9D6
+[22:48:07] [artwork:crc] mhsher.dff CRC = 0x29E1670A
+[22:48:07] [artwork:crc] mhsher.txd CRC = 0xC243F0B4
+[22:48:07] [artwork:crc] mwsgts.dff CRC = 0xCE5D80F6
+[22:48:07] [artwork:crc] mwsgts.txd CRC = 0xD79C64A6
+[22:48:07] [artwork:crc] mwsher1.dff CRC = 0xFC53D6B
+[22:48:07] [artwork:crc] mwsher1.txd CRC = 0xCF38936B
+[22:48:07] [artwork:crc] mwsher2.dff CRC = 0x25DFB572
+[22:48:07] [artwork:crc] mwsher2.txd CRC = 0xE94D8567
+[22:48:07] [artwork:crc] mwsher3.dff CRC = 0x55A11911
+[22:48:07] [artwork:crc] mwsher3.txd CRC = 0xC7798BE
+[22:48:07] [artwork:crc] mwsher4.dff CRC = 0x43AAEB8D
+[22:48:07] [artwork:crc] mwsher4.txd CRC = 0xE94D8567
+[22:48:07] [artwork:crc] mbsdsgt.dff CRC = 0xAB8AA4EC
+[22:48:07] [artwork:crc] mbsdsgt.txd CRC = 0x4B5EB100
+[22:48:07] [artwork:crc] mhsdsgt.dff CRC = 0x91856AE8
+[22:48:07] [artwork:crc] mhsdsgt.txd CRC = 0xF92E45CB
+[22:48:07] [artwork:crc] mbsher3.dff CRC = 0xB027C4FF
+[22:48:07] [artwork:crc] mbsher3.txd CRC = 0xC0113BCD
+[22:48:07] [artwork:crc] mhsher2.dff CRC = 0x24743F1C
+[22:48:07] [artwork:crc] mhsher2.txd CRC = 0x4E9C52A5
+[22:48:07] [artwork:crc] mwsher5.dff CRC = 0x538201B3
+[22:48:07] [artwork:crc] mwsher5.txd CRC = 0x1FD0E62B
+[22:48:07] [artwork:crc] masher1.dff CRC = 0x698F8B54
+[22:48:07] [artwork:crc] masher1.txd CRC = 0x246D81F2
+[22:48:07] [artwork:crc] fasher.dff CRC = 0x212B130D
+[22:48:07] [artwork:crc] fasher.txd CRC = 0xD09F04BC
+[22:48:07] [artwork:crc] fbikesher.dff CRC = 0xA06D899A
+[22:48:07] [artwork:crc] fbikesher.txd CRC = 0x2FB579D5
+[22:48:08] [artwork:crc] fbsher.dff CRC = 0xC3D99473
+[22:48:08] [artwork:crc] fbsher.txd CRC = 0x660FE5C9
+[22:48:08] [artwork:crc] fwsher.dff CRC = 0xF8509BA6
+[22:48:08] [artwork:crc] fwsher.txd CRC = 0xE05769BE
+[22:48:08] [artwork:crc] fwsdsgt.dff CRC = 0x20FA5E5
+[22:48:08] [artwork:crc] fwsdsgt.txd CRC = 0xF62ACE0D
+[22:48:08] [artwork:crc] bmyswt1.dff CRC = 0xB2830593
+[22:48:08] [artwork:crc] bmyswt1.txd CRC = 0x4C9DDB0F
+[22:48:08] [artwork:crc] sdsed.dff CRC = 0x46625749
+[22:48:08] [artwork:crc] sdsed.txd CRC = 0x3FE3EA2
+[22:48:08] [artwork:crc] wmseb2.dff CRC = 0xFAAD975
+[22:48:08] [artwork:crc] wmseb2.txd CRC = 0x9B0C86F8
+[22:48:08] [artwork:crc] wmyswt3.dff CRC = 0x37FE6C8F
+[22:48:08] [artwork:crc] wmyswt3.txd CRC = 0xE307D218
+[22:48:08] [artwork:crc] wmyswt4.dff CRC = 0x4BF77AA1
+[22:48:08] [artwork:crc] wmyswt4.txd CRC = 0xBBB8280B
+[22:48:08] [artwork:crc] bmbdu1.dff CRC = 0x9C1948AA
+[22:48:08] [artwork:crc] bmbdu1.txd CRC = 0xA3DD0880
+[22:48:08] [artwork:crc] wfybdu1.dff CRC = 0x239EC4B8
+[22:48:08] [artwork:crc] wfybdu1.txd CRC = 0xF264F9A0
+[22:48:08] [artwork:crc] wmyflight1.dff CRC = 0x98DF36EF
+[22:48:08] [artwork:crc] wmyflight1.txd CRC = 0x446A3B7
+[22:48:08] [artwork:crc] bmsan1.dff CRC = 0xEC8E1FCF
+[22:48:08] [artwork:crc] bmsan1.txd CRC = 0x40992F25
+[22:48:08] [artwork:crc] wfsan1.dff CRC = 0xD53484C5
+[22:48:08] [artwork:crc] wfsan1.txd CRC = 0x8BCBBD36
+[22:48:08] [artwork:crc] wmsan1.dff CRC = 0x1900E4
+[22:48:09] [artwork:crc] wmsan1.txd CRC = 0x3F8B31DF
+[22:48:09] [artwork:crc] wmsan2.dff CRC = 0x2109156
+[22:48:09] [artwork:crc] wmsan2.txd CRC = 0x0
+[22:48:09] [artwork:error] Bad file: wmsan2.txd
+[22:48:09] [artwork:crc] wmsan3.dff CRC = 0x8EEEB12F
+[22:48:09] [artwork:crc] wmsan3.txd CRC = 0xADF49149
+[22:48:09] [artwork:crc] .dff CRC = 0x0
+[22:48:09] [artwork:error] Bad file: .dff
+[22:48:09] [artwork:crc] .dff CRC = 0x0
+[22:48:09] [artwork:error] Bad file: .dff
+[22:48:09] [artwork:crc] bmsan1.dff CRC = 0xEC8E1FCF
+[22:48:09] [artwork:crc] bmsan1.txd CRC = 0x40992F25
+[22:48:09] [artwork:crc] hmypdgss1.dff CRC = 0xCFFBC8EC
+[22:48:09] [artwork:crc] hmypdgss1.txd CRC = 0xDDF87294
+[22:48:09] [artwork:crc] wmypdgss1.dff CRC = 0xEACFB8C0
+[22:48:09] [artwork:crc] wmypdgss1.txd CRC = 0x7AD809A3
+[22:48:09] [artwork:crc] wfsdget.dff CRC = 0x60092031
+[22:48:09] [artwork:crc] wfsdget.txd CRC = 0x33B142C4
+[22:48:09] [artwork:crc] wmsdget.dff CRC = 0x7BF9D490
+[22:48:09] [artwork:crc] wmsdget.txd CRC = 0xC9884D3F
+[22:48:09] [artwork:crc] fedsomyri.dff CRC = 0x81147BBD
+[22:48:09] [artwork:crc] fedsomyri.txd CRC = 0xA597AD04
+[22:48:09] [artwork:crc] fedlapd1.dff CRC = 0x46CEC1E3
+[22:48:09] [artwork:crc] fedlapd1.txd CRC = 0xD4AA4209
+[22:48:09] [artwork:crc] fedwmybu.dff CRC = 0x7D26B26
+[22:48:09] [artwork:crc] fedwmybu.txd CRC = 0xD8E7E455
+[22:48:09] [artwork:crc] fedbmybu.dff CRC = 0xBE98F935
+[22:48:09] [artwork:crc] fedbmybu.txd CRC = 0xB7190D94
+[22:48:09] [artwork:crc] suitlapd1.dff CRC = 0x4E20A5B9
+[22:48:09] [artwork:crc] suitlapd1.txd CRC = 0x3281258F
+[22:48:09] [artwork:crc] suitsfpd1.dff CRC = 0xCD549D32
+[22:48:09] [artwork:crc] suitsfpd1.txd CRC = 0x98997352
+[22:48:09] [artwork:crc] hmyfbi1.dff CRC = 0x9DBD7516
+[22:48:09] [artwork:crc] hmyfbi1.txd CRC = 0xE1BE23F9
+[22:48:09] [artwork:crc] hmyfbi2.dff CRC = 0x907B0E56
+[22:48:09] [artwork:crc] hmyfbi2.txd CRC = 0x94ECFBFC
+[22:48:09] [artwork:crc] wfysuit.dff CRC = 0xF50E641
+[22:48:09] [artwork:crc] wfysuit.txd CRC = 0x83F1A337
+[22:48:09] [artwork:crc] suitwmybu.dff CRC = 0xEE5D06FC
+[22:48:09] [artwork:crc] suitwmybu.txd CRC = 0xF0E778D6
+[22:48:09] [artwork:crc] wmyfbi3.dff CRC = 0x125CCEED
+[22:48:09] [artwork:crc] wmyfbi3.txd CRC = 0x7717C972
+[22:48:09] [artwork:crc] omyfbi1.dff CRC = 0x76526F81
+[22:48:09] [artwork:crc] omyfbi1.txd CRC = 0xC6613995
+[22:48:09] [artwork:crc] bmydcr1.dff CRC = 0x1AA68101
+[22:48:09] [artwork:crc] bmydcr1.txd CRC = 0x58D5D446
+[22:48:09] [artwork:crc] wmydcr1.dff CRC = 0xB0895D4D
+[22:48:10] [artwork:crc] wmydcr1.txd CRC = 0xF45A406C
+[22:48:10] [artwork:crc] wmydcr2.dff CRC = 0xD83F3468
+[22:48:10] [artwork:crc] wmydcr2.txd CRC = 0x9D1CF763
+[22:48:10] [artwork:crc] hmydcr1.dff CRC = 0x705D1800
+[22:48:10] [artwork:crc] hmydcr2.txd CRC = 0x3CB885AB
+[22:48:10] [artwork:crc] wmyparole.dff CRC = 0x2BCE93DB
+[22:48:10] [artwork:crc] wmyparole.txd CRC = 0x2841DC43
+[22:48:10] [artwork:crc] wfydcr1.dff CRC = 0xD6A6C577
+[22:48:10] [artwork:crc] wfydcr1.txd CRC = 0xD34CD711
+[22:48:10] [artwork:crc] wfydcr2.dff CRC = 0xD6817158
+[22:48:10] [artwork:crc] wfydcr2.txd CRC = 0x32CB41A6
+[22:48:10] [artwork:crc] bfydcr1.dff CRC = 0x21A8767A
+[22:48:10] [artwork:crc] bfydcr1.txd CRC = 0x73B2E753
+[22:48:10] [artwork:crc] wmycfo.dff CRC = 0xA92F537B
+[22:48:10] [artwork:crc] wmycfo.txd CRC = 0x8FC50FD0
+[22:48:10] [artwork:crc] wmyffp.dff CRC = 0x100F4B56
+[22:48:10] [artwork:crc] wmyffp.txd CRC = 0xC59780ED
+[22:48:10] [artwork:crc] bmyff.dff CRC = 0x8E622EE0
+[22:48:10] [artwork:crc] bmyff.txd CRC = 0xE2345D19
+[22:48:10] [artwork:crc] bmyffl.dff CRC = 0x6A47E9CE
+[22:48:10] [artwork:crc] bmyffl.txd CRC = 0x2E7DB389
+[22:48:10] [artwork:crc] wfyffl.dff CRC = 0x472CE1D0
+[22:48:10] [artwork:crc] wfyffl.txd CRC = 0x585D8D0D
+[22:48:10] [artwork:crc] wfyff.dff CRC = 0x618E11C0
+[22:48:10] [artwork:crc] wfyff.txd CRC = 0x42E8EC4
+[22:48:10] [artwork:crc] wmyff.dff CRC = 0x8D5B802E
+[22:48:10] [artwork:crc] wmyff.txd CRC = 0x2C084846
+[22:48:10] [artwork:crc] wmyffl.dff CRC = 0xF2C8E1CF
+[22:48:11] [artwork:crc] wmyffl.txd CRC = 0xD70D6404
+[22:48:11] 
+[22:48:11] Filterscripts
+[22:48:11] ---------------
+[22:48:11]   Loaded 0 filterscripts.
+
+[22:48:11] Gamemode successfully loaded.
+[22:48:11] Number of vehicle models: 0
+[22:48:35] [connection] incoming connection: 127.0.0.1:56067 id: 0
+[22:48:35] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
