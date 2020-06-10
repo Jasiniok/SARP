@@ -1,0 +1,16 @@
+{
+	"gamemodes": [
+		"test"
+	],
+	"plugins": [
+		"crashdetect",
+		"streamer",
+		"mysql",
+		"sscanf",
+		"nativechecker"
+	],
+	"rcon_password": "test12333",
+	"port": 7777,
+	"hostname": "Test Server1",
+	"maxplayers": 32
+}

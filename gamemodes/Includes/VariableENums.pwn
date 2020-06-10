@@ -15,8 +15,8 @@ enum PLAYER_DATA
 
 #define SQL_HOST  "localhost"
 #define SQL_USER  "root"
-#define SQL_DATABASE  "test"
 #define SQL_PASSWORD  "root"
+#define SQL_DATABASE  "test"
 
 #define COLOR_WHITE     0xFFFFFF00
 #define COLOR_RED       0xFF000000
@@ -31,7 +31,7 @@ enum PLAYER_DATA
 
 #define Server:%0(%1) forward %0(%1); public %0(%1)
 // Global Variables
-new sqlConnection, OneSecondTimer, lastSaveTime = 0;
+new MySQL:sqlConnection, OneSecondTimer, lastSaveTime = 0;
 
 // Variables
 new bool:LoggedIn[MAX_PLAYERS], PlayerData[MAX_PLAYERS][PLAYER_DATA];

@@ -17,12 +17,8 @@ stock NameRP(playerid)
     new name[MAX_PLAYER_NAME];
     GetPlayerName(playerid, name, sizeof(name));
 
-    for (new i = 0; i < strlen(name); i++){
-        if(name[i] == '_'){
-            name[i] = ' ';
-        }
-    }
-    return true;
+    strreplace(name, "_", " ");
+    return name;
 }
 
 stock strmatch(const String1[], const String2[])

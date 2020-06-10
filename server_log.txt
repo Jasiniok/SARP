@@ -7,43 +7,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[03:24:27] filterscripts = ""  (string)
-[03:24:27] 
-[03:24:27] Server Plugins
-[03:24:27] --------------
-[03:24:27]  Loading plugin: crashdetect.dll
-[03:24:31]   CrashDetect v4.15.1 is OK.
-[03:24:31]   Loaded.
-[03:24:31]  Loading plugin: streamer.dll
-[03:24:32] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[03:24:32]   Loaded.
-[03:24:32]  Loading plugin: mysql.dll
-[03:24:34]  >> plugin.mysql: R41-2 successfully loaded.
-[03:24:34]   Loaded.
-[03:24:34]  Loading plugin: Encrypt.dll
-[03:24:35] 
-
-[03:24:35] ______________________________________
-
-[03:24:35]  Encrypt Plugin v0.1 loaded
-[03:24:35] ______________________________________
-
-[03:24:35]  By: Fro (c) Copyright <TBG> 2009-2010
-[03:24:35] ______________________________________
-
-[03:24:35]   Loaded.
-[03:24:35]  Loaded 4 plugins.
-
-[03:24:35] 
-[03:24:35] Ban list
-[03:24:35] --------
-[03:24:35]  Loaded: samp.ban
-[03:24:35] 
-[03:24:35] I couldn't load any gamemode scripts. Please verify your server.cfg
-[03:24:35] It needs a gamemode0 line at the very least.
+[18:48:10] plugins = ""  (string)
+[18:48:10] rcon_password = "changeme"  (string)
+[18:48:10] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -53,74 +19,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[03:37:12] filterscripts = ""  (string)
-[03:37:12] 
-[03:37:12] Server Plugins
-[03:37:12] --------------
-[03:37:12]  Loading plugin: crashdetect.dll
-[03:37:12]   CrashDetect v4.15.1 is OK.
-[03:37:12]   Loaded.
-[03:37:12]  Loading plugin: streamer.dll
-[03:37:12] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[03:37:12]   Loaded.
-[03:37:12]  Loading plugin: mysql.dll
-[03:37:13]  >> plugin.mysql: R41-2 successfully loaded.
-[03:37:13]   Loaded.
-[03:37:13]  Loading plugin: Encrypt.dll
-[03:37:14] 
-
-[03:37:14] ______________________________________
-
-[03:37:14]  Encrypt Plugin v0.1 loaded
-[03:37:14] ______________________________________
-
-[03:37:14]  By: Fro (c) Copyright <TBG> 2009-2010
-[03:37:14] ______________________________________
-
-[03:37:14]   Loaded.
-[03:37:14]  Loaded 4 plugins.
-
-[03:37:14] 
-[03:37:14] Ban list
-[03:37:14] --------
-[03:37:14]  Loaded: samp.ban
-[03:37:14] 
-[03:37:14] 
-[03:37:14] Filterscripts
-[03:37:14] ---------------
-[03:37:14]   Loaded 0 filterscripts.
-
-[03:37:14] GameMode LVRP
-[03:37:14] ---------------
-[03:37:14] [MYSQL] Connexion en cours ...
-[03:37:16] [MYSQL] Connexion perdu, reconnexion en cours ...
-[03:37:16] [MYSQL] Impossible de se reconnecter, arret du serveur
-[03:37:16] Informations
-[03:37:16] --------------
-[03:37:16] Gamemode pour SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
-[03:37:16] - Developped by Dark_Rider29 (Samp Forum)
-[03:37:16] - Mapped by Lurtz59
-[03:37:16]  
-[03:37:16] Logs
-[03:37:16] ------
-[03:37:16] Number of vehicle models: 0
-[03:37:16] --- Server Shutting Down.
-[03:37:16] 
-
-*** Streamer Plugin v2.9.1 by Incognito unloaded ***
-
-[03:37:16] plugin.mysql: Unloading plugin...
-[03:37:17] plugin.mysql: Plugin unloaded.
-[03:37:17] 
-
-[03:37:17] ______________________________________
-
-[03:37:17]  Encrypt Plugin v0.1 unloaded
-[03:37:17] ______________________________________
-
+[18:48:12] plugins = ""  (string)
+[18:48:12] rcon_password = "changeme"  (string)
+[18:48:12] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -130,294 +31,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[03:39:52] filterscripts = ""  (string)
-[03:39:52] 
-[03:39:52] Server Plugins
-[03:39:52] --------------
-[03:39:52]  Loading plugin: crashdetect.dll
-[03:39:52]   CrashDetect v4.15.1 is OK.
-[03:39:52]   Loaded.
-[03:39:52]  Loading plugin: streamer.dll
-[03:39:52] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[03:39:52]   Loaded.
-[03:39:52]  Loading plugin: mysql.dll
-[03:39:52]  >> plugin.mysql: R41-2 successfully loaded.
-[03:39:52]   Loaded.
-[03:39:52]  Loading plugin: Encrypt.dll
-[03:39:52] 
-
-[03:39:52] ______________________________________
-
-[03:39:52]  Encrypt Plugin v0.1 loaded
-[03:39:52] ______________________________________
-
-[03:39:52]  By: Fro (c) Copyright <TBG> 2009-2010
-[03:39:52] ______________________________________
-
-[03:39:52]   Loaded.
-[03:39:52]  Loaded 4 plugins.
-
-[03:39:52] 
-[03:39:52] Ban list
-[03:39:52] --------
-[03:39:52]  Loaded: samp.ban
-[03:39:52] 
-[03:39:52] 
-[03:39:52] Filterscripts
-[03:39:52] ---------------
-[03:39:52]   Loaded 0 filterscripts.
-
-[03:39:52] GameMode LVRP
-[03:39:52] ---------------
-[03:39:52] [MYSQL] Connexion en cours ...
-[03:39:52] [MYSQL] Connexion reussie
-[03:39:52]  
-[03:39:52] [STREAMER] Chargement du streamer ..
-[03:39:52] [STREAMER] Streamer chargé
-[03:39:52]  
-[03:39:52] [SETTINGS] Chargement des paramètres ..
-[03:39:52] [SETTINGS] AntiCheat : 1 - Inscription IG : 1 - Beta : 0 - Bots : 1
-[03:39:52]  
-[03:39:52] [INIT] Chargement des variables depuis le bdd ..
-[03:39:53]     .. FBI chargé.
-[03:39:53]     .. listes models changées
-[03:39:54]   Filterscript 'mapping.amx' loaded.
-[03:39:54] Informations
-[03:39:54] --------------
-[03:39:54] Gamemode pour SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
-[03:39:54] - Developped by Dark_Rider29 (Samp Forum)
-[03:39:54] - Mapped by Lurtz59
-[03:39:54]  
-[03:39:54] Logs
-[03:39:54] ------
-[03:39:54] Number of vehicle models: 0
-[03:39:55]     .. UniqueBizz chargé(s).
-[03:39:55]     .. 0 mobilier(s) chargé(s)
-[03:39:55]     .. 0 bizz chargé(s)
-[03:39:55]     .. 0 radar(s) chargé(s)
-[03:39:55]     ... 0 Amendes police chargée(s).
-[03:39:55]     .. 0 maison(s) chargée(s)
-[03:39:55]     .. 0 plant(s) de weed chargé(s).
-[03:40:14]     .. 0 garage(s) chargé(s)
-[03:40:14]     .. 0 atm(s) chargé(s)
-[03:40:14]     .. 0 grosse(s) poubelle(s) chargée(s)
-[03:40:15]     .. 0 cabine(s) telephonique(s) chargée(s)
-[03:40:15]     .. 0 faction(s) illégale(s) chargée(s).
-[03:40:15]     .. 0 GPS chargé(s).
-[03:40:15]     .. 0 Arret(s) de bus chargé(s)
-[03:40:16]     .. spawn chargés.
-[03:40:16]     .. 0 distributeur(s) chargé(s)
-[03:40:16]     .. 0 zone(s) anti-DM chargée(s).
-[03:40:16]     .. 0 petite(s) poubelle(s) chargée(s)
-[03:40:16]     .. 0 carte(s) chargée(s)
-[03:40:16]     .. 0 panneau(x) chargé(s)
-[03:40:16]     .. 0 interieur(s) chargé(s).
-[03:41:22] [connection] incoming connection: 127.0.0.1:63076 id: 0
-[03:41:22] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[03:44:08] [part] Jasin_Refiku has left the server (0:2)
-[03:44:20] [connection] incoming connection: 127.0.0.1:49266 id: 0
-[03:44:21] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[04:00:31] [Reboot] Step 1 ...
-[04:00:31] [Reboot] Step 1 ... Done
-[04:00:36] [Reboot] Step 2 ...
-[04:00:42] [Reboot ]Radars / Objets / Texts / Timers / 3DTexts / Actors / Pickups ont été supprimé
-[04:00:43]   Filterscript 'mapping.amx' unloaded.
-[04:00:43] [Reboot] Step 2 ... Done
-[04:00:50] GameMode LVRP
-[04:00:50] ---------------
-[04:00:50] [MYSQL] Connexion en cours ...
-[04:00:50] [MYSQL] Connexion reussie
-[04:00:50]  
-[04:00:50] [STREAMER] Chargement du streamer ..
-[04:00:50] [STREAMER] Streamer chargé
-[04:00:50]  
-[04:00:50] [SETTINGS] Chargement des paramètres ..
-[04:00:51] [SETTINGS] AntiCheat : 1 - Inscription IG : 1 - Beta : 0 - Bots : 1
-[04:00:51]  
-[04:00:51] [INIT] Chargement des variables depuis le bdd ..
-[04:00:53]     .. FBI chargé.
-[04:00:53]     .. listes models changées
-[04:00:54]   Filterscript 'mapping.amx' loaded.
-[04:00:54] Informations
-[04:00:54] --------------
-[04:00:54] Gamemode pour SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
-[04:00:54] - Developped by Dark_Rider29 (Samp Forum)
-[04:00:54] - Mapped by Lurtz59
-[04:00:54]  
-[04:00:54] Logs
-[04:00:54] ------
-[04:00:54] Number of vehicle models: 0
-[04:00:54]     .. 0 bizz chargé(s)
-[04:01:05]     .. UniqueBizz chargé(s).
-[04:01:05]     .. 0 mobilier(s) chargé(s)
-[04:01:05]     .. 0 maison(s) chargée(s)
-[04:01:05]     .. 0 radar(s) chargé(s)
-[04:02:21]     ... 0 Amendes police chargée(s).
-[04:02:22]     .. 0 plant(s) de weed chargé(s).
-[04:02:23]     .. 0 garage(s) chargé(s)
-[04:02:23]     .. 0 atm(s) chargé(s)
-[04:02:23]     .. 0 grosse(s) poubelle(s) chargée(s)
-[04:02:23]     .. 0 cabine(s) telephonique(s) chargée(s)
-[04:02:23]     .. 0 GPS chargé(s).
-[04:02:23]     .. 0 faction(s) illégale(s) chargée(s).
-[04:02:23]     .. spawn chargés.
-[04:02:23]     .. 0 Arret(s) de bus chargé(s)
-[04:02:23]     .. 0 distributeur(s) chargé(s)
-[04:02:23]     .. 0 zone(s) anti-DM chargée(s).
-[04:02:23]     .. 0 petite(s) poubelle(s) chargée(s)
-[04:02:23]     .. 0 carte(s) chargée(s)
-[04:02:23]     .. 0 panneau(x) chargé(s)
-[04:02:23]     .. 0 interieur(s) chargé(s).
-[04:02:23] [part] Jasin_Refiku has left the server (0:0)
-[04:09:58] [connection] incoming connection: 127.0.0.1:60221 id: 0
-[04:09:58] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[04:14:25] [Login] Jasin_Refiku c'est logué.
-[04:14:47] Jasin_Refiku[0] /aide
-[04:14:48] [chat] [Jasin_Refiku]: .
-[04:14:48] Jasin_Refiku[0] /help
-[04:15:15] Jasin_Refiku[0] /acheter
-[04:15:17] [chat] [Jasin_Refiku]: .
-[04:15:23] Jasin_Refiku[0] /policiers
-[04:15:27] Jasin_Refiku[0] /comeback
-[04:15:32] Jasin_Refiku[0] /marche
-[04:17:50] Jasin_Refiku[0] /stats
-[04:17:58] [chat] [Jasin_Refiku]: test
-[04:18:07] Jasin_Refiku[0] /aide
-[04:18:09] [chat] [Jasin_Refiku]: .
-[04:18:16] Jasin_Refiku[0] /aide
-[04:21:39] [part] Jasin_Refiku has left the server (0:1)
-[04:21:42] [connection] incoming connection: 127.0.0.1:56686 id: 0
-[04:21:43] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[04:21:55] [Login] Jasin_Refiku c'est logué.
-[04:22:02] Jasin_Refiku[0] /aide
-[04:22:02] [chat] [Jasin_Refiku]: .
-[04:23:04] [chat] [Jasin_Refiku]: .
-[04:23:06] [part] Jasin_Refiku has left the server (0:1)
-[04:28:52] [connection] incoming connection: 127.0.0.1:55457 id: 0
-[04:28:52] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[04:29:06] [Login] Jasin_Refiku c'est logué.
-[04:29:11] Jasin_Refiku[0] /aide
-[04:29:15] Jasin_Refiku[0] /aaide
-[04:29:17] Jasin_Refiku[0] /a
-[04:38:38] Jasin_Refiku[0] /adminlevel
-[04:38:42] Jasin_Refiku[0] /ao
-[04:38:44] Jasin_Refiku[0] /ao test
-[04:38:46] Jasin_Refiku[0] /a
-[04:38:49] Jasin_Refiku[0] /aaida
-[04:38:52] Jasin_Refiku[0] /ahelp
-[04:38:54] Jasin_Refiku[0] /aide
-[04:38:59] Jasin_Refiku[0] /aaide
-[04:39:01] Jasin_Refiku[0] /aa
-[04:39:02] Jasin_Refiku[0] /aa .
-[04:39:04] Jasin_Refiku[0] /v .
-[04:39:12] Jasin_Refiku[0] /ac
-[04:39:14] Jasin_Refiku[0] /ac test
-[04:39:19] Jasin_Refiku[0] /a
-[04:39:32] Jasin_Refiku[0] /a 
-[04:39:36] Jasin_Refiku[0] /a adminlevel
-[04:39:39] Jasin_Refiku[0] /a adminlevel 0 7
-[04:39:46] Jasin_Refiku[0] /a dao
-[04:39:48] [chat] [Jasin_Refiku]: .
-[04:39:51] Jasin_Refiku[0] /a argent
-[04:39:54] Jasin_Refiku[0] /a jackpot
-[04:39:56] Jasin_Refiku[0] /a jackpot 5
-[04:40:02] Jasin_Refiku[0] /a lotto
-[04:40:05] Jasin_Refiku[0] /a lotto
-[04:40:06] Jasin_Refiku[0] /a lotto
-[04:40:08] Jasin_Refiku[0] /a jackpot 5
-[04:40:10] Jasin_Refiku[0] /a lotto
-[04:40:23] Jasin_Refiku[0] /a chargerfs
-[04:40:24] Jasin_Refiku[0] /a chargerfs mapping
-[04:40:24]   Filterscript 'mapping.amx' load failed.
-[04:40:25] [chat] [Jasin_Refiku]: .
-[04:40:26] Jasin_Refiku[0] /goto
-[04:40:29] Jasin_Refiku[0] /sendto
-[04:40:30] Jasin_Refiku[0] /go
-[04:40:32] Jasin_Refiku[0] /tp
-[04:40:33] Jasin_Refiku[0] /a tp
-[04:40:35] Jasin_Refiku[0] /a tp ls
-[04:40:52] Jasin_Refiku[0] /a tp ls
-[04:41:05] Jasin_Refiku[0] /a recup
-[04:41:18] Jasin_Refiku[0] /a faim
-[04:41:20] Jasin_Refiku[0] /a info
-[04:41:22] Jasin_Refiku[0] /a info 0
-[04:41:34] Jasin_Refiku[0] /a donner
-[04:41:37] Jasin_Refiku[0] /a donner argent
-[04:41:42] Jasin_Refiku[0] /a donner permis
-[04:41:45] Jasin_Refiku[0] /a donner permis 0 navigation
-[04:41:54] Jasin_Refiku[0] /a donner permis 0 
-[04:41:57] Jasin_Refiku[0] /a donner permis
-[04:42:00] Jasin_Refiku[0] /a donner permis arme 0
-[04:42:03] Jasin_Refiku[0] /a donner permis navigation 0
-[04:42:15] Jasin_Refiku[0] /aaide
-[04:42:17] Jasin_Refiku[0] /a
-[04:42:25] Jasin_Refiku[0] /a chargerfs
-[04:42:26] Jasin_Refiku[0] /a chargerfs mapping
-[04:42:26]   Filterscript 'mapping.amx' load failed.
-[04:42:28] Jasin_Refiku[0] /a chargerfs Mapping
-[04:42:29]   Filterscript 'Mapping.amx' loaded.
-[04:42:40] Jasin_Refiku[0] /a faim
-[04:42:45] Jasin_Refiku[0] /a creer
-[04:42:51] Jasin_Refiku[0] /a creer faction
-[04:43:05] Jasin_Refiku[0] /a faction edit
-[04:43:08] Jasin_Refiku[0] /a faction
-[04:43:14] Jasin_Refiku[0] /a edit
-[04:43:18] Jasin_Refiku[0] /a creer 
-[04:43:21] Jasin_Refiku[0] /a creer  arret
-[04:43:30] Jasin_Refiku[0] /a faction
-[04:43:33] Jasin_Refiku[0] /a creer faction
-[04:43:46] Jasin_Refiku[0] /a faction edit
-[04:43:48] Jasin_Refiku[0] /a edit
-[04:43:50] Jasin_Refiku[0] /a edit faction
-[04:43:57] Jasin_Refiku[0] /a leader
-[04:43:59] Jasin_Refiku[0] /a leader 0
-[04:44:03] Jasin_Refiku[0] /aide
-[04:44:09] Jasin_Refiku[0] /p
-[04:44:13] Jasin_Refiku[0] /p vrang
-[04:44:15] Jasin_Refiku[0] /p gestion
-[04:44:38] Jasin_Refiku[0] /p gestion
-[04:44:39] Jasin_Refiku[0] /p gestion
-[04:44:40] Jasin_Refiku[0] /p gestion
-[04:44:48] Jasin_Refiku[0] /policiers
-[04:45:00] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat Arme
-[04:45:03] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat Arme
-[04:45:11] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat Arme
-[04:45:22] Jasin_Refiku[0] /setstat
-[04:45:24] Jasin_Refiku[0] /a edit
-[04:45:29] Jasin_Refiku[0] /aaide
-[04:45:30] Jasin_Refiku[0] /a
-[04:45:36] Jasin_Refiku[0] /a recup
-[04:45:37] Jasin_Refiku[0] /a suprimer
-[04:45:42] Jasin_Refiku[0] /a supprimer
-[04:45:48] Jasin_Refiku[0] /a supprimer gps
-[04:45:50] Jasin_Refiku[0] /a supprimer gps
-[04:46:03] Jasin_Refiku[0] /a edit
-[04:46:04] Jasin_Refiku[0] /a payday
-[04:46:13] Jasin_Refiku[0] /stats
-[04:46:31] Jasin_Refiku[0] /a edit faction
-[04:46:38] Jasin_Refiku[0] /p
-[04:46:42] Jasin_Refiku[0] /p civil
-[04:46:47] Jasin_Refiku[0] /p civil 240
-[04:46:51] Jasin_Refiku[0] /p civil 240
-[04:46:56] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat Arme
-[04:47:00] Jasin_Refiku[0] /a
-[04:47:04] Jasin_Refiku[0] /a donner
-[04:47:08] Jasin_Refiku[0] /a donner 0 level
-[04:47:11] Jasin_Refiku[0] /a donner level
-[04:47:13] Jasin_Refiku[0] /a donner level 0 500
-[04:47:37] Jasin_Refiku[0] /a reprimand
-[04:47:43] Jasin_Refiku[0] /a chargerfs mapping
-[04:47:43]   Filterscript 'mapping.amx' load failed.
-[04:47:45] Jasin_Refiku[0] /a reboot
-[04:47:45] [Reboot] Step 1 ...
-[04:47:45] [Reboot] Step 1 ... Done
-[04:47:50] [Reboot] Step 2 ...
-[04:47:52] [Reboot ]Radars / Objets / Texts / Timers / 3DTexts / Actors / Pickups ont été supprimé
-[04:47:52]   Filterscript 'mapping.amx' unloaded.
-[04:47:52] [Reboot] Step 2 ... Done
+[18:48:16] plugins = ""  (string)
+[18:48:16] rcon_password = "changeme"  (string)
+[18:48:16] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -427,259 +43,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[04:49:00] 
-[04:49:00] Server Plugins
-[04:49:00] --------------
-[04:49:00]  Loading plugin: crashdetect.dll
-[04:49:01]   CrashDetect v4.15.1 is OK.
-[04:49:01]   Loaded.
-[04:49:01]  Loading plugin: streamer.dll
-[04:49:01] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[04:49:01]   Loaded.
-[04:49:01]  Loading plugin: mysql.dll
-[04:49:02]  >> plugin.mysql: R41-2 successfully loaded.
-[04:49:02]   Loaded.
-[04:49:02]  Loading plugin: Encrypt.dll
-[04:49:02] 
-
-[04:49:02] ______________________________________
-
-[04:49:02]  Encrypt Plugin v0.1 loaded
-[04:49:02] ______________________________________
-
-[04:49:02]  By: Fro (c) Copyright <TBG> 2009-2010
-[04:49:02] ______________________________________
-
-[04:49:02]   Loaded.
-[04:49:02]  Loaded 4 plugins.
-
-[04:49:02] 
-[04:49:02] Ban list
-[04:49:02] --------
-[04:49:02]  Loaded: samp.ban
-[04:49:02] 
-[04:49:02] 
-[04:49:02] Filterscripts
-[04:49:02] ---------------
-[04:49:02]   Loading filterscript 'mapping.amx'...
-[04:49:02]   Loaded 1 filterscripts.
-
-[04:49:02] GameMode LVRP
-[04:49:02] ---------------
-[04:49:02] [MYSQL] Connexion en cours ...
-[04:49:04] [MYSQL] Connexion reussie
-[04:49:04]  
-[04:49:04] [STREAMER] Chargement du streamer ..
-[04:49:04] [STREAMER] Streamer chargé
-[04:49:04]  
-[04:49:04] [SETTINGS] Chargement des paramètres ..
-[04:49:04] [SETTINGS] AntiCheat : 1 - Inscription IG : 1 - Beta : 0 - Bots : 1
-[04:49:04]  
-[04:49:04] [INIT] Chargement des variables depuis le bdd ..
-[04:49:06]     .. FBI chargé.
-[04:49:06]     .. listes models changées
-[04:49:06]   Filterscript 'mapping.amx' load failed.
-[04:49:06] Informations
-[04:49:06] --------------
-[04:49:06] Gamemode pour SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
-[04:49:06] - Developped by Dark_Rider29 (Samp Forum)
-[04:49:06] - Mapped by Lurtz59
-[04:49:06]  
-[04:49:06] Logs
-[04:49:06] ------
-[04:49:06] Number of vehicle models: 0
-[04:49:18]     .. UniqueBizz chargé(s).
-[04:49:18]     .. 0 bizz chargé(s)
-[04:49:18]     .. 0 mobilier(s) chargé(s)
-[04:49:18]     .. 0 maison(s) chargée(s)
-[04:49:18]     .. 0 radar(s) chargé(s)
-[04:49:45] Kicking 127.0.0.1 because they didn't logon to the game.
-[04:50:31] Kicking 127.0.0.1 because they didn't logon to the game.
-[04:50:41]     ... 0 Amendes police chargée(s).
-[04:50:48]     .. 0 plant(s) de weed chargé(s).
-[04:50:49]     .. 1 faction(s) illégale(s) chargée(s).
-[04:50:49]     .. 0 Arret(s) de bus chargé(s)
-[04:50:49]     .. 0 garage(s) chargé(s)
-[04:50:49]     .. 0 distributeur(s) chargé(s)
-[04:50:49]     .. 0 atm(s) chargé(s)
-[04:50:49] [connection] incoming connection: 127.0.0.1:49374 id: 0
-[04:50:49] (1) Invalid client connecting from 127.0.0.1
-[04:50:49] [connection] incoming connection: 127.0.0.1:49375 id: 0
-[04:50:49] Invalid client connecting from 127.0.0.1
-[04:50:50]     .. 0 petite(s) poubelle(s) chargée(s)
-[04:50:50]     .. 0 grosse(s) poubelle(s) chargée(s)
-[04:50:50]     .. 0 cabine(s) telephonique(s) chargée(s)
-[04:50:50]     .. 0 carte(s) chargée(s)
-[04:50:50]     .. 0 panneau(x) chargé(s)
-[04:50:51]     .. 0 GPS chargé(s).
-[04:50:51]     .. 0 interieur(s) chargé(s).
-[04:50:52]     .. spawn chargés.
-[04:50:52]     .. 0 zone(s) anti-DM chargée(s).
-[04:51:22] [connection] incoming connection: 127.0.0.1:57291 id: 0
-[04:51:22] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[04:51:39] [Login] Jasin_Refiku c'est logué.
-[04:51:49] [chat] [Jasin_Refiku]: .
-[04:52:24] Jasin_Refiku[0] /p
-[04:52:27] Jasin_Refiku[0] /p gestion
-[04:53:13] Jasin_Refiku[0] /p gestion
-[04:53:17] Jasin_Refiku[0] /p gestion
-[04:53:23] Jasin_Refiku[0] /a tp
-[04:53:31] [chat] [Jasin_Refiku]: .
-[04:54:10] Jasin_Refiku[0] /p
-[04:54:13] Jasin_Refiku[0] /p swat
-[04:54:28] Jasin_Refiku[0] /p gyro
-[04:54:33] Jasin_Refiku[0] /p gestion
-[04:54:37] Jasin_Refiku[0] /p gestion
-[04:54:40] Jasin_Refiku[0] /p gestion
-[04:54:41] Jasin_Refiku[0] /p gestion
-[04:55:13] Jasin_Refiku[0] /p gestion
-[04:55:17] Jasin_Refiku[0] /p gestion
-[04:55:24] Jasin_Refiku[0] /p gestion
-[04:55:34] Jasin_Refiku[0] /p vidercasier
-[04:55:36] Jasin_Refiku[0] /p vidercasier 0
-[04:55:43] Jasin_Refiku[0] /p garer
-[04:55:45] Jasin_Refiku[0] /p ann test
-[04:55:48] Jasin_Refiku[0] /p annonce
-[04:55:50] Jasin_Refiku[0] /p annonce test
-[04:55:54] Jasin_Refiku[0] /p annonce awoo
-[04:56:07] Jasin_Refiku[0] /p ann .
-[04:56:09] Jasin_Refiku[0] /p ann test
-[04:56:47] Jasin_Refiku[0] /p
-[04:56:48] Jasin_Refiku[0] /heal
-[04:56:52] Jasin_Refiku[0] /p gav
-[04:56:58] Jasin_Refiku[0] /p garer
-[04:57:00] Jasin_Refiku[0] /p ann test
-[04:57:09] Jasin_Refiku[0] /p vidercasier
-[04:57:10] Jasin_Refiku[0] /p sabot
-[04:57:15] Jasin_Refiku[0] /p sabot mettre
-[04:57:18] Jasin_Refiku[0] /a cree
-[04:57:21] Jasin_Refiku[0] /a creer
-[04:57:25] Jasin_Refiku[0] /a creer voiture
-[04:57:30] Jasin_Refiku[0] /a creer voiture 596 0 0
-[04:57:35] Jasin_Refiku[0] /a creer voiture 596 0 0 1200
-[04:57:39] Jasin_Refiku[0] /mdc
-[04:57:49] Jasin_Refiku[0] /engine
-[04:57:52] Jasin_Refiku[0] /v engine
-[04:57:56] Jasin_Refiku[0] /v coffre
-[04:57:59] Jasin_Refiku[0] /v coffre ouvrir
-[04:58:04] Jasin_Refiku[0] /engine
-[04:58:08] Jasin_Refiku[0] /coffre
-[04:58:12] Jasin_Refiku[0] /v edit
-[04:58:15] Jasin_Refiku[0] /v id
-[04:58:21] Jasin_Refiku[0] /v ainfos
-[04:58:31] Jasin_Refiku[0] /buy
-[04:58:36] Jasin_Refiku[0] /a edit
-[04:58:38] Jasin_Refiku[0] /a edit vehicule
-[04:58:48] Old: 30 - New: 30
-[04:58:56] Jasin_Refiku[0] /v
-[04:58:59] Jasin_Refiku[0] /v coffre
-[04:59:02] Jasin_Refiku[0] /v coffre ouvrir
-[04:59:54] Jasin_Refiku[0] /v garer
-[04:59:55] Jasin_Refiku[0] /v
-[04:59:58] Jasin_Refiku[0] /v portes
-[05:00:14] Jasin_Refiku[0] /a edit 
-[05:00:16] Jasin_Refiku[0] /a edit vehicule
-[05:00:24] Jasin_Refiku[0] /a edit vehicule
-[05:00:34] [05:00:34]
-[05:00:34] » Annonce Météo « Profitez, de ce beau temps !
-[05:00:48] Jasin_Refiku[0] /v mdc
-[05:00:50] Jasin_Refiku[0] /p mdc
-[05:00:54] Jasin_Refiku[0] /p menotter
-[05:00:56] Jasin_Refiku[0] /p menotter 0
-[05:00:58] Jasin_Refiku[0] /p men 0
-[05:01:01] Jasin_Refiku[0] /p dem 0
-[05:01:06] Jasin_Refiku[0] /p demenotter
-[05:01:14] Jasin_Refiku[0] /p demenotter 0
-[05:01:21] Jasin_Refiku[0] /p droits
-[05:01:23] Jasin_Refiku[0] /p droits 0 test
-[05:01:29] Jasin_Refiku[0] /p forcer
-[05:01:32] Jasin_Refiku[0] /p forcer 0 3
-[05:01:35] Jasin_Refiku[0] /p
-[05:01:39] Jasin_Refiku[0] /p ba
-[05:01:49] Jasin_Refiku[0] /p badge
-[05:01:51] Jasin_Refiku[0] /p badge 0
-[05:01:54] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat DGUN
-[05:01:56] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat DGUN
-[05:01:58] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat DGUN
-[05:02:01] [AntiCheat] Jasin_Refiku(0) - cheat : Cheat DGUN
-[05:02:17] Jasin_Refiku[0] /p herse
-[05:02:23] Jasin_Refiku[0] /p herse creer
-[05:02:27] Jasin_Refiku[0] /p herse creer
-[05:02:33] Jasin_Refiku[0] /p herse sup
-[05:02:39] Jasin_Refiku[0] /p herse eth
-[05:02:52] Jasin_Refiku[0] /p localiser
-[05:02:54] Jasin_Refiku[0] /p localiser 30
-[05:02:58] Jasin_Refiku[0] /p localiser 30
-[05:03:01] Jasin_Refiku[0] /p localiser 30
-[05:03:11] Jasin_Refiku[0] /p gav
-[05:03:13] [chat] [Jasin_Refiku]: p tda
-[05:03:14] Jasin_Refiku[0] /p
-[05:03:15] Jasin_Refiku[0] /p tda
-[05:03:21] Jasin_Refiku[0] /p gav
-[05:03:27] Jasin_Refiku[0] /p amende
-[05:03:29] Jasin_Refiku[0] /p amende 0
-[05:03:34] Jasin_Refiku[0] /p fouiller
-[05:03:35] Jasin_Refiku[0] /mdc
-[05:03:36] Jasin_Refiku[0] /p fouiller 0
-[05:03:39] Jasin_Refiku[0] /p casier
-[05:03:51] Jasin_Refiku[0] /p plaque
-[05:04:13] Jasin_Refiku[0] /elm
-[05:04:15] Jasin_Refiku[0] /aide
-[05:04:27] Jasin_Refiku[0] /four
-[05:04:28] Jasin_Refiku[0] /r .
-[05:04:33] Jasin_Refiku[0] /p unit
-[05:04:38] Jasin_Refiku[0] /a leader
-[05:04:39] Jasin_Refiku[0] /a leader 0
-[05:04:41] Jasin_Refiku[0] /a leader 0
-[05:04:44] Jasin_Refiku[0] /a faction
-[05:04:47] Jasin_Refiku[0] /a kick
-[05:04:54] Jasin_Refiku[0] /p
-[05:04:58] Jasin_Refiku[0] /p virer 0
-[05:05:02] Jasin_Refiku[0] /a factionkick
-[05:05:04] Jasin_Refiku[0] /a faction
-[05:05:11] Jasin_Refiku[0] /a leader
-[05:05:13] Jasin_Refiku[0] /a leader 0
-[05:05:15] Jasin_Refiku[0] /a leader 0
-[05:05:19] Jasin_Refiku[0] /aide
-[05:05:24] Jasin_Refiku[0] /faction
-[05:05:25] Jasin_Refiku[0] /four
-[05:05:28] Jasin_Refiku[0] /faction test
-[05:05:34] Jasin_Refiku[0] /f
-[05:05:36] Jasin_Refiku[0] /f .
-[05:05:36] Jasin_Refiku[0] /p
-[05:05:40] Jasin_Refiku[0] /aide
-[05:05:44] Jasin_Refiku[0] /aide
-[05:05:47] Jasin_Refiku[0] /forfait
-[05:05:56] Jasin_Refiku[0] /aide
-[05:06:01] Jasin_Refiku[0] /l2 .
-[05:06:03] Jasin_Refiku[0] /l1 .
-[05:06:06] Jasin_Refiku[0] /l1 Test
-[05:06:11] Jasin_Refiku[0] /l1
-[05:06:16] Jasin_Refiku[0] /l1 TEST 12312312
-[05:06:27] Jasin_Refiku[0] /aide
-[05:06:31] Jasin_Refiku[0] /faide
-[05:06:34] Jasin_Refiku[0] /factionaide
-[05:06:35] Jasin_Refiku[0] /aide
-[05:07:23] Jasin_Refiku[0] /mecano
-[05:07:25] Jasin_Refiku[0] /mecano rom
-[05:07:27] Jasin_Refiku[0] /setstat
-[05:07:29] Jasin_Refiku[0] /a setstat
-[05:07:31] Jasin_Refiku[0] /a stat
-[05:07:39] Jasin_Refiku[0] /a avertir
-[05:07:44] Jasin_Refiku[0] /a info 0
-[05:07:52] Jasin_Refiku[0] /a server
-[05:07:56] Jasin_Refiku[0] /a drop
-[05:08:00] Jasin_Refiku[0] /a creer
-[05:08:06] Jasin_Refiku[0] /a creer cabine
-[05:08:19] Jasin_Refiku[0] /call
-[05:08:28] Jasin_Refiku[0] /a creer gps
-[05:08:40] Jasin_Refiku[0] /a creer carte
-[05:08:54] Jasin_Refiku[0] /a creer distributeur
-[05:09:28] Jasin_Refiku[0] /aide
-[05:09:32] [part] Jasin_Refiku has left the server (0:1)
+[18:48:24] plugins = ""  (string)
+[18:48:24] rcon_password = "changeme"  (string)
+[18:48:24] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -689,170 +55,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[17:18:48] 
-[17:18:48] Server Plugins
-[17:18:48] --------------
-[17:18:48]  Loading plugin: crashdetect.dll
-[17:18:48]   CrashDetect v4.15.1 is OK.
-[17:18:48]   Loaded.
-[17:18:48]  Loading plugin: streamer.dll
-[17:18:48] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[17:18:48]   Loaded.
-[17:18:48]  Loading plugin: mysql.dll
-[17:18:49]  >> plugin.mysql: R41-2 successfully loaded.
-[17:18:49]   Loaded.
-[17:18:49]  Loading plugin: Encrypt.dll
-[17:18:49] 
-
-[17:18:49] ______________________________________
-
-[17:18:49]  Encrypt Plugin v0.1 loaded
-[17:18:49] ______________________________________
-
-[17:18:49]  By: Fro (c) Copyright <TBG> 2009-2010
-[17:18:49] ______________________________________
-
-[17:18:49]   Loaded.
-[17:18:49]  Loaded 4 plugins.
-
-[17:18:49] 
-[17:18:49] Ban list
-[17:18:49] --------
-[17:18:49]  Loaded: samp.ban
-[17:18:49] 
-[17:18:49] 
-[17:18:49] Filterscripts
-[17:18:49] ---------------
-[17:18:49]   Loading filterscript 'mapping.amx'...
-[17:18:49]   Loaded 1 filterscripts.
-
-[17:18:49] GameMode LVRP
-[17:18:49] ---------------
-[17:18:49] [MYSQL] Connexion en cours ...
-[17:18:53] [MYSQL] Connexion reussie
-[17:18:53]  
-[17:18:53] [STREAMER] Loading du streamer ..
-[17:18:53] [STREAMER] Streamer charg
-[17:18:53]  
-[17:18:53] [SETTINGS] Loading des paramtres ..
-[17:18:54] [SETTINGS] AntiCheat : 1 - Inscription IG : 1 - Beta : 0 - Bots : 1
-[17:18:54]  
-[17:18:54] [INIT] Loading des variables depuis le bdd ..
-[17:18:57]     .. FBI charg.
-[17:18:58]     .. listes models changes
-[17:18:58]   Filterscript 'mapping.amx' load failed.
-[17:18:58] Informations
-[17:18:58] --------------
-[17:18:58] Gamemode for SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
-[17:18:58] - Developped by Dark_Rider29 (Samp Forum)
-[17:18:58] - Mapped by Lurtz59
-[17:18:58]  
-[17:18:58] Logs
-[17:18:58] ------
-[17:18:58] Number of vehicle models: 0
-[17:18:58]     .. 0 bizz charg(s)
-[17:19:12]     .. UniqueBizz charg(s).
-[17:19:12]     .. 0 mobilier(s) charg(s)
-[17:19:12]     .. 0 House(s) charge(s)
-[17:19:12]     .. 0 radar(s) charg(s)
-[17:21:29] Kicking 127.0.0.1 because they didn't logon to the game.
-[17:22:08] Kicking 127.0.0.1 because they didn't logon to the game.
-[17:22:08]     ... 1 Amendes police charge(s).
-[17:22:11]     .. 0 plant(s) de weed charg(s).
-[17:22:12]     .. 1 faction(s) illgale(s) charge(s).
-[17:22:12]     .. 0 garage(s) charg(s)
-[17:22:12]     .. 0 Arret(s) de bus charg(s)
-[17:22:13] [connection] incoming connection: 127.0.0.1:57405 id: 0
-[17:22:13] (1) Invalid client connecting from 127.0.0.1
-[17:22:13] [connection] incoming connection: 127.0.0.1:58377 id: 0
-[17:22:13] Invalid client connecting from 127.0.0.1
-[17:22:13]     .. 0 atm(s) charg(s)
-[17:22:13]     .. 1 distributeur(s) charg(s)
-[17:22:13]     .. 0 petite(s) poubelle(s) charge(s)
-[17:22:13]     .. 0 grosse(s) poubelle(s) charge(s)
-[17:22:14]     .. 1 cabine(s) telephonique(s) charge(s)
-[17:22:14]     .. 1 carte(s) charge(s)
-[17:22:14]     .. 1 GPS charg(s).
-[17:22:15]     .. 0 panneau(x) charg(s)
-[17:22:15]     .. spawn chargs.
-[17:22:15]     .. 0 interieur(s) charg(s).
-[17:22:16]     .. 0 zone(s) anti-DM charge(s).
-[17:22:52] [connection] incoming connection: 127.0.0.1:62406 id: 0
-[17:22:53] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[17:23:13] [Login] Jasin_Refiku c'est logu.
-[17:23:26] Jasin_Refiku[0] /a
-[17:23:26] [chat] [Jasin_Refiku]: .
-[17:23:29] Jasin_Refiku[0] /revive jasi
-[17:23:33] Jasin_Refiku[0] /a revive 
-[17:23:45] Jasin_Refiku[0] /a creer
-[17:23:55] Jasin_Refiku[0] /a creer carte
-[17:24:03] Jasin_Refiku[0] /a creer cabine
-[17:24:10] Jasin_Refiku[0] /a creer distributeur
-[17:24:37] Jasin_Refiku[0] /v
-[17:24:54] Jasin_Refiku[0] /a creer
-[17:25:13] Jasin_Refiku[0] /a creer house
-[17:25:27] Jasin_Refiku[0] /buy
-[17:25:28] Jasin_Refiku[0] /h
-[17:25:29] Jasin_Refiku[0] /house
-[17:25:31] Jasin_Refiku[0] /house buy
-[17:26:22] Jasin_Refiku[0] /a tp
-[17:26:26] Jasin_Refiku[0] /a tp house 1
-[17:26:30] [death] Jasin_Refiku died 255
-[17:26:35] [debug] Run time error 4: "Array index out of bounds"
-[17:26:35] [debug]  Accessing element at negative index -1
-[17:26:35] [debug] AMX backtrace:
-[17:26:35] [debug] #0 000496cc in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6913
-[17:26:35] [debug] #1 00050334 in public OnPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:7300
-[17:26:35] Jasin_Refiku[0] /a tp house 0
-[17:26:35] [chat] [Jasin_Refiku]: .
-[17:26:42] Jasin_Refiku[0] /h
-[17:26:43] Jasin_Refiku[0] /house
-[17:26:47] Jasin_Refiku[0] /house management
-[17:26:55] Jasin_Refiku[0] /h stash
-[17:26:57] Jasin_Refiku[0] /house stash
-[17:27:18] [debug] Run time error 4: "Array index out of bounds"
-[17:27:18] [debug]  Accessing element at negative index -1
-[17:27:18] [debug] AMX backtrace:
-[17:27:18] [debug] #0 00049da4 in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6937
-[17:27:18] [debug] #1 002180f4 in public timer_Decrement (i=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:36998
-[17:27:18] [debug] #2 00009304 in public timer_2s () at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:3581
-[17:27:35] Jasin_Refiku[0] /exit
-[17:27:40] Jasin_Refiku[0] /exit
-[17:27:48] Jasin_Refiku[0] /h buy
-[17:27:52] Jasin_Refiku[0] /house buy
-[17:28:02] Jasin_Refiku[0] /ma
-[17:28:07] Jasin_Refiku[0] /ma management
-[17:28:09] Jasin_Refiku[0] /ma management
-[17:28:24] Jasin_Refiku[0] /ma mob
-[17:28:28] Jasin_Refiku[0] /ma mobi
-[17:30:40] Jasin_Refiku[0] /a creer
-[17:30:41] Jasin_Refiku[0] /a creer biz
-[17:30:49] Jasin_Refiku[0] /a edit
-[17:30:50] Jasin_Refiku[0] /a edit biz
-[17:30:54] Jasin_Refiku[0] /a edit biz
-[17:31:01] Jasin_Refiku[0] /a edit biz
-[17:31:23] Jasin_Refiku[0] /a edit biz
-[17:31:34] Jasin_Refiku[0] /a edit biz
-[17:31:42] Jasin_Refiku[0] /a buy
-[17:31:44] Jasin_Refiku[0] /biz buy
-[17:31:49] Jasin_Refiku[0] /biz type
-[17:32:00] Jasin_Refiku[0] /buy
-[17:32:11] Jasin_Refiku[0] /biz management
-[17:32:32] Jasin_Refiku[0] /phone
-[17:32:44] Jasin_Refiku[0] /biz type
-[17:32:45] Jasin_Refiku[0] /biz type
-[17:32:48] Jasin_Refiku[0] /biz type
-[17:32:49] Jasin_Refiku[0] /biz type
-[17:32:50] Jasin_Refiku[0] /biz
-[17:32:53] Jasin_Refiku[0] /biz management
-[17:33:15] Jasin_Refiku[0] /a edit biz
-[17:33:32] Jasin_Refiku[0] /biz type
-[17:36:11] [part] Jasin_Refiku has left the server (0:1)
-[18:00:22] [18:00:22]
-[18:00:22]  Annonce Mto  The fog is rising. Drive carefully!
+[18:48:37] plugins = ""  (string)
+[18:48:37] rcon_password = "changeme"  (string)
+[18:48:37] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -862,101 +67,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[19:53:00] 
-[19:53:00] Server Plugins
-[19:53:00] --------------
-[19:53:00]  Loading plugin: crashdetect.dll
-[19:53:00]   CrashDetect v4.15.1 is OK.
-[19:53:00]   Loaded.
-[19:53:00]  Loading plugin: streamer.dll
-[19:53:00] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[19:53:00]   Loaded.
-[19:53:00]  Loading plugin: mysql.dll
-[19:53:00]  >> plugin.mysql: R41-2 successfully loaded.
-[19:53:00]   Loaded.
-[19:53:00]  Loading plugin: Encrypt.dll
-[19:53:00] 
-
-[19:53:00] ______________________________________
-
-[19:53:00]  Encrypt Plugin v0.1 loaded
-[19:53:00] ______________________________________
-
-[19:53:00]  By: Fro (c) Copyright <TBG> 2009-2010
-[19:53:00] ______________________________________
-
-[19:53:00]   Loaded.
-[19:53:00]  Loaded 4 plugins.
-
-[19:53:01] 
-[19:53:01] Ban list
-[19:53:01] --------
-[19:53:01]  Loaded: samp.ban
-[19:53:01] 
-[19:53:01] 
-[19:53:01] Filterscripts
-[19:53:01] ---------------
-[19:53:01]   Loading filterscript 'mapping.amx'...
-[19:53:01]   Loaded 1 filterscripts.
-
-[19:53:01] GameMode LVRP
-[19:53:01] ---------------
-[19:53:01] [MYSQL] Sign in in progress ...
-[19:53:08] [MYSQL] Sign in reussie
-[19:53:08]  
-[19:53:08] [STREAMER] Loading of streamer ..
-[19:53:08] [STREAMER] Streamer loaded.
-[19:53:08]  
-[19:53:08] [SETTINGS] Loading the settings ..
-[19:53:09] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
-[19:53:09]  
-[19:53:09] [INIT] Loading variables from the database ..
-[19:53:10]     .. FBI loaded.
-[19:53:10]     .. list of models loaded.
-[19:53:10]   Filterscript 'mapping.amx' load failed.
-[19:53:10] Informations
-[19:53:10] --------------
-[19:53:10] Gamemode for SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
-[19:53:10] - Developped by Dark_Rider29 (Samp Forum)
-[19:53:10] - Mapped by Lurtz59
-[19:53:10]  
-[19:53:10] Logs
-[19:53:10] ------
-[19:53:10] Number of vehicle models: 0
-[19:53:11]     .. 1 businesses loaded.
-[19:53:24]     .. UniqueBizzs loaded.
-[19:53:24]     .. 0 furnitures loaded.
-[19:53:25]     .. 1 House(s) loaded.
-[19:53:25]     .. 0 radar(s) loaded.
-[19:55:55]     ... 1 police fines loaded.
-[19:55:58]     .. 0 loaded.
-[19:55:58]     .. 1 Illegal faction(s) saved.
-[19:55:58]     .. 0 garage(s) loaded.
-[19:55:58]     .. 0 bus stops loaded
-[19:55:58]     .. 0 atm(s) loaded.
-[19:55:58]     .. 0 gross trash can(s) loaded.
-[19:55:58]     .. 2 vending machine(s) loaded.
-[19:55:58]     .. 0 small trash can(s) loaded.
-[19:55:58]     .. 2 telephone cabins loaded.
-[19:55:59]     .. 1 GPS loaded..
-[19:55:59]     .. 2 map(s) loaded.
-[19:55:59]     .. 0 sign(s) loaded.
-[19:56:00]     .. spawns loaded.
-[19:56:00]     .. 0 interiors loaded.
-[19:56:00]     .. 0 Anti-DM zones loaded..
-[19:56:37] [connection] incoming connection: 127.0.0.1:51663 id: 0
-[19:56:38] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[19:57:13] [Login] Jasin_Refiku c'est logu.
-[19:58:15] Jasin_Refiku[0] /tpto
-[19:58:15] Jasin_Refiku[0] /a unfreeze
-[19:58:17] [chat] [Jasin_Refiku]: .
-[19:58:24] Jasin_Refiku[0] /tur
-[19:58:26] Jasin_Refiku[0] /aide
-[19:58:31] Jasin_Refiku[0] /spawn
-[20:43:16] [part] Jasin_Refiku has left the server (0:0)
+[18:48:39] plugins = ""  (string)
+[18:48:39] rcon_password = "changeme"  (string)
+[18:48:39] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -966,149 +79,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[20:53:24] 
-[20:53:24] Server Plugins
-[20:53:24] --------------
-[20:53:24]  Loading plugin: crashdetect.dll
-[20:53:25]   CrashDetect v4.15.1 is OK.
-[20:53:25]   Loaded.
-[20:53:25]  Loading plugin: streamer.dll
-[20:53:25] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[20:53:25]   Loaded.
-[20:53:25]  Loading plugin: mysql.dll
-[20:53:26]  >> plugin.mysql: R41-2 successfully loaded.
-[20:53:26]   Loaded.
-[20:53:26]  Loading plugin: Encrypt.dll
-[20:53:26] 
-
-[20:53:26] ______________________________________
-
-[20:53:26]  Encrypt Plugin v0.1 loaded
-[20:53:26] ______________________________________
-
-[20:53:26]  By: Fro (c) Copyright <TBG> 2009-2010
-[20:53:26] ______________________________________
-
-[20:53:26]   Loaded.
-[20:53:26]  Loaded 4 plugins.
-
-[20:53:26] 
-[20:53:26] Ban list
-[20:53:26] --------
-[20:53:26]  Loaded: samp.ban
-[20:53:26] 
-[20:53:26] 
-[20:53:26] Filterscripts
-[20:53:26] ---------------
-[20:53:26]   Loading filterscript 'mapping.amx'...
-[20:53:27]   Loaded 1 filterscripts.
-
-[20:53:27] GameMode LVRP
-[20:53:27] ---------------
-[20:53:27] [MYSQL] Sign in in progress ...
-[20:53:31] [MYSQL] Sign in reussie
-[20:53:31]  
-[20:53:31] [STREAMER] Loading of streamer ..
-[20:53:31] [STREAMER] Streamer loaded.
-[20:53:31]  
-[20:53:31] [SETTINGS] Loading the settings ..
-[20:53:32] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
-[20:53:32]  
-[20:53:32] [INIT] Loading variables from the database ..
-[20:53:34]     .. FBI loaded.
-[20:53:34]     .. list of models loaded.
-[20:53:34]   Filterscript 'mapping.amx' load failed.
-[20:53:34] Informations
-[20:53:34] --------------
-[20:53:34] Gamemode for SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
-[20:53:34] - Developped by Dark_Rider29 (Samp Forum)
-[20:53:34] - Mapped by Lurtz59
-[20:53:34]  
-[20:53:34] Logs
-[20:53:34] ------
-[20:53:34] Number of vehicle models: 0
-[20:53:35]     .. 1 businesses loaded.
-[20:53:36]     .. 1 House(s) loaded.
-[20:53:48]     .. UniqueBizzs loaded.
-[20:53:48]     .. 0 furnitures loaded.
-[20:56:17]     .. 0 radar(s) loaded.
-[20:56:19]     ... 1 police fines loaded.
-[20:56:24]     .. 1 Illegal faction(s) saved.
-[20:56:24]     .. 0 loaded.
-[20:56:24]     .. 0 garage(s) loaded.
-[20:56:24]     .. 0 bus stops loaded
-[20:56:24]     .. 0 atm(s) loaded.
-[20:56:24]     .. 2 vending machine(s) loaded.
-[20:56:24]     .. 0 gross trash can(s) loaded.
-[20:56:24]     .. 0 small trash can(s) loaded.
-[20:56:24]     .. 2 telephone cabins loaded.
-[20:56:24]     .. 2 map(s) loaded.
-[20:56:25]     .. 1 GPS loaded..
-[20:56:25]     .. 0 sign(s) loaded.
-[20:56:26]     .. spawns loaded.
-[20:56:26]     .. 0 interiors loaded.
-[20:56:26]     .. 0 Anti-DM zones loaded..
-[20:56:55] [connection] incoming connection: 25.99.61.96:59879 id: 0
-[20:56:56] [join] Jasin_Refiku has joined the server (0:25.99.61.96)
-[20:57:33] [Login] Jasin_Refiku c'est logu.
-[20:57:47] [chat] [Jasin_Refiku]: .
-[20:57:53] Jasin_Refiku[0] /phone
-[20:57:54] [chat] [Jasin_Refiku]: .
-[20:57:56] Jasin_Refiku[0] /a
-[20:57:58] Jasin_Refiku[0] /a create
-[20:58:00] Jasin_Refiku[0] /a spawn
-[20:58:21] Jasin_Refiku[0] /a spawn
-[20:58:26] Jasin_Refiku[0] /a zone
-[20:58:29] Jasin_Refiku[0] /a zone
-[20:58:32] Jasin_Refiku[0] /a create zone
-[20:58:34] [chat] [Jasin_Refiku]: .
-[20:58:35] Jasin_Refiku[0] /a spawn
-[20:58:37] Jasin_Refiku[0] /a create
-[20:58:40] Jasin_Refiku[0] /a create zone
-[20:58:44] Jasin_Refiku[0] /a create dealership
-[20:58:49] Jasin_Refiku[0] /a create zona
-[20:58:57] Jasin_Refiku[0] /p
-[20:59:09] Jasin_Refiku[0] /revive 0
-[20:59:12] Jasin_Refiku[0] /a revive
-[20:59:13] Jasin_Refiku[0] /a revive 0
-[20:59:17] Jasin_Refiku[0] /accept death
-[20:59:17] [death] Jasin_Refiku died 255
-[20:59:44] Jasin_Refiku[0] /tp
-[20:59:45] Jasin_Refiku[0] /a tp
-[20:59:47] Jasin_Refiku[0] /a tp spawn
-[21:00:05] [death] Jasin_Refiku died 255
-[21:00:17] [debug] Run time error 4: "Array index out of bounds"
-[21:00:17] [debug]  Accessing element at negative index -1
-[21:00:17] [debug] AMX backtrace:
-[21:00:17] [debug] #0 000496cc in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6913
-[21:00:17] [debug] #1 00050334 in public OnPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:7300
-[21:00:50] [debug] Run time error 4: "Array index out of bounds"
-[21:00:50] [debug]  Accessing element at negative index -1
-[21:00:50] [debug] AMX backtrace:
-[21:00:50] [debug] #0 00049da4 in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6937
-[21:00:50] [debug] #1 002180f4 in public timer_Decrement (i=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:36998
-[21:00:50] [debug] #2 00009304 in public timer_2s () at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:3581
-[21:00:58] Jasin_Refiku[0] /a
-[21:01:15] Jasin_Refiku[0] /a nomserveur
-[21:01:17] Jasin_Refiku[0] /a nomserveur Test Server
-[21:01:39] Jasin_Refiku[0] /enter
-[21:01:58] Jasin_Refiku[0] /ticket
-[21:02:00] Jasin_Refiku[0] /buy
-[21:02:51] Jasin_Refiku[0] /a create biz
-[21:02:53] [chat] [Jasin_Refiku]: .
-[21:03:03] [chat] [Jasin_Refiku]: .
-[21:03:07] Jasin_Refiku[0] /a edit biz
-[21:03:13] Jasin_Refiku[0] /neare
-[21:03:14] Jasin_Refiku[0] /near
-[21:03:16] Jasin_Refiku[0] /id
-[21:03:17] Jasin_Refiku[0] /bizid
-[21:03:21] Jasin_Refiku[0] /a edit biz
-[21:03:28] Jasin_Refiku[0] /biz buy
-[21:04:43] Kicking 25.99.61.96 because they didn't logon to the game.
-[21:05:58] Kicking 25.99.61.96 because they didn't logon to the game.
+[18:48:43] plugins = ""  (string)
+[18:48:43] rcon_password = "changeme"  (string)
+[18:48:43] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -1118,94 +91,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[21:07:51] 
-[21:07:52] Server Plugins
-[21:07:52] --------------
-[21:07:52]  Loading plugin: crashdetect.dll
-[21:07:52]   CrashDetect v4.15.1 is OK.
-[21:07:52]   Loaded.
-[21:07:52]  Loading plugin: streamer.dll
-[21:07:52] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[21:07:52]   Loaded.
-[21:07:52]  Loading plugin: mysql.dll
-[21:07:52]  >> plugin.mysql: R41-2 successfully loaded.
-[21:07:52]   Loaded.
-[21:07:52]  Loading plugin: Encrypt.dll
-[21:07:52] 
-
-[21:07:52] ______________________________________
-
-[21:07:52]  Encrypt Plugin v0.1 loaded
-[21:07:52] ______________________________________
-
-[21:07:52]  By: Fro (c) Copyright <TBG> 2009-2010
-[21:07:52] ______________________________________
-
-[21:07:52]   Loaded.
-[21:07:52]  Loaded 4 plugins.
-
-[21:07:52] 
-[21:07:52] Ban list
-[21:07:52] --------
-[21:07:52]  Loaded: samp.ban
-[21:07:52] 
-[21:07:52] 
-[21:07:52] Filterscripts
-[21:07:52] ---------------
-[21:07:52]   Loading filterscript 'mapping.amx'...
-[21:07:52]   Loaded 1 filterscripts.
-
-[21:07:52] GameMode LVRP
-[21:07:52] ---------------
-[21:07:52] [MYSQL] Sign in in progress ...
-[21:07:53] [MYSQL] Sign in reussie
-[21:07:53]  
-[21:07:53] [STREAMER] Loading of streamer ..
-[21:07:54] [STREAMER] Streamer loaded.
-[21:07:54]  
-[21:07:54] [SETTINGS] Loading the settings ..
-[21:07:54] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
-[21:07:54]  
-[21:07:54] [INIT] Loading variables from the database ..
-[21:07:55]     .. FBI loaded.
-[21:07:55]     .. list of models loaded.
-[21:07:55]   Filterscript 'mapping.amx' load failed.
-[21:07:55] Informations
-[21:07:55] --------------
-[21:07:55] Gamemode for SAMP 0.3.7 R2|| Version GM LVRP 5.0.1
-[21:07:55] - Developped by Dark_Rider29 (Samp Forum)
-[21:07:55] - Mapped by Lurtz59
-[21:07:55]  
-[21:07:55] Logs
-[21:07:55] ------
-[21:07:55] Number of vehicle models: 0
-[21:07:57]     .. 2 businesses loaded.
-[21:08:10]     .. UniqueBizzs loaded.
-[21:08:10]     .. 0 furnitures loaded.
-[21:08:11]     .. 1 House(s) loaded.
-[21:08:11]     .. 0 radar(s) loaded.
-[21:08:11]     ... 1 police fines loaded.
-[21:10:25]     .. 0 loaded.
-[21:10:36] Kicking 25.99.61.96 because they didn't logon to the game.
-[21:10:37] [connection] incoming connection: 25.99.61.96:53000 id: 0
-[21:10:37] Invalid client connecting from 25.99.61.96
-[21:10:37]     .. 0 garage(s) loaded.
-[21:10:41]     .. 1 Illegal faction(s) saved.
-[21:10:42]     .. 0 atm(s) loaded.
-[21:10:42]     .. 0 bus stops loaded
-[21:10:42]     .. 0 gross trash can(s) loaded.
-[21:10:44]     .. 2 vending machine(s) loaded.
-[21:10:44]     .. 2 telephone cabins loaded.
-[21:10:45]     .. 1 GPS loaded..
-[21:10:45]     .. 0 small trash can(s) loaded.
-[21:10:48]     .. spawns loaded.
-[21:10:49]     .. 2 map(s) loaded.
-[21:10:52]     .. 0 sign(s) loaded.
-[21:10:53]     .. 0 interiors loaded.
-[21:10:56]     .. 0 Anti-DM zones loaded..
+[18:49:22] plugins = ""  (string)
+[18:49:22] rcon_password = "changeme"  (string)
+[18:49:22] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -1215,169 +103,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[00:11:11] 
-[00:11:11] Server Plugins
-[00:11:11] --------------
-[00:11:11]  Loading plugin: crashdetect.dll
-[00:11:11]   CrashDetect v4.15.1 is OK.
-[00:11:11]   Loaded.
-[00:11:11]  Loading plugin: streamer.dll
-[00:11:11] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[00:11:11]   Loaded.
-[00:11:11]  Loading plugin: mysql.dll
-[00:11:12]  >> plugin.mysql: R41-2 successfully loaded.
-[00:11:12]   Loaded.
-[00:11:12]  Loading plugin: Encrypt.dll
-[00:11:12] 
-
-[00:11:12] ______________________________________
-
-[00:11:12]  Encrypt Plugin v0.1 loaded
-[00:11:12] ______________________________________
-
-[00:11:12]  By: Fro (c) Copyright <TBG> 2009-2010
-[00:11:12] ______________________________________
-
-[00:11:12]   Loaded.
-[00:11:12]  Loaded 4 plugins.
-
-[00:11:12] 
-[00:11:12] Ban list
-[00:11:12] --------
-[00:11:12]  Loaded: samp.ban
-[00:11:12] 
-[00:11:12] 
-[00:11:12] Filterscripts
-[00:11:12] ---------------
-[00:11:12]   Loading filterscript 'mapping.amx'...
-[00:11:12]   Loaded 1 filterscripts.
-
-[00:11:12] GameMode LVRP
-[00:11:12] ---------------
-[00:11:12] [MYSQL] Sign in in progress ...
-[00:11:16] [MYSQL] Sign in reussie
-[00:11:16]  
-[00:11:16] [STREAMER] Loading of streamer ..
-[00:11:16] [STREAMER] Streamer loaded.
-[00:11:16]  
-[00:11:16] [SETTINGS] Loading the settings ..
-[00:11:17] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
-[00:11:17]  
-[00:11:17] [INIT] Loading variables from the database ..
-[00:11:19]     .. FBI loaded.
-[00:11:19]     .. list of models loaded.
-[00:11:19]   Filterscript 'mapping.amx' load failed.
-[00:11:19] Informations
-[00:11:19] --------------
-[00:11:19] Gamemode for SAMP 0.3.7 R2|| Version GM testserver 5.0.1
-[00:11:19] - Developped by Dark_Rider29 (Samp Forum)
-[00:11:19] - Mapped by Lurtz59
-[00:11:19]  
-[00:11:19] Logs
-[00:11:19] ------
-[00:11:19] Number of vehicle models: 0
-[00:11:20]     .. 2 businesses loaded.
-[00:11:34]     .. UniqueBizzs loaded.
-[00:11:34]     .. 0 furnitures loaded.
-[00:11:34]     .. 1 House(s) loaded.
-[00:11:34]     .. 0 radar(s) loaded.
-[00:13:38] Kicking 127.0.0.1 because they didn't logon to the game.
-[00:13:43]     ... 1 police fines loaded.
-[00:13:43]     .. 0 loaded.
-[00:13:43]     .. 1 Illegal faction(s) saved.
-[00:13:43]     .. 0 garage(s) loaded.
-[00:13:43]     .. 0 atm(s) loaded.
-[00:13:43]     .. 0 bus stops loaded
-[00:13:44] [connection] incoming connection: 127.0.0.1:64173 id: 0
-[00:13:44] Invalid client connecting from 127.0.0.1
-[00:13:44]     .. 0 gross trash can(s) loaded.
-[00:13:44]     .. 2 vending machine(s) loaded.
-[00:13:44]     .. 0 small trash can(s) loaded.
-[00:13:44]     .. 2 telephone cabins loaded.
-[00:13:47]     .. 1 GPS loaded..
-[00:13:56]     .. 2 map(s) loaded.
-[00:13:57]     .. spawns loaded.
-[00:13:57]     .. 0 sign(s) loaded.
-[00:13:57]     .. 0 interiors loaded.
-[00:13:57]     .. 0 Anti-DM zones loaded..
-[00:15:02] [connection] incoming connection: 127.0.0.1:53101 id: 0
-[00:15:02] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[00:15:14] [Login] Jasin_Refiku c'est logu.
-[00:17:14] Jasin_Refiku[0] /stats
-[00:17:32] Jasin_Refiku[0] /help
-[00:17:36] Jasin_Refiku[0] /a 
-[00:17:38] Jasin_Refiku[0] /a create
-[00:17:45] Jasin_Refiku[0] /v
-[00:17:59] Jasin_Refiku[0] /sethp jasin 0
-[00:18:00] Jasin_Refiku[0] /a sethp
-[00:18:02] Jasin_Refiku[0] /a hp
-[00:18:04] Jasin_Refiku[0] /a health
-[00:18:11] Jasin_Refiku[0] /a faim 0 0
-[00:18:38] Jasin_Refiku[0] /accept death
-[00:18:39] [death] Jasin_Refiku died 255
-[00:19:19] Jasin_Refiku[0] /a unfreeze 0
-[00:19:24] Jasin_Refiku[0] /a unfreeze
-[00:19:27] [death] Jasin_Refiku died 255
-[00:19:30] [debug] Run time error 4: "Array index out of bounds"
-[00:19:30] [debug]  Accessing element at negative index -1
-[00:19:30] [debug] AMX backtrace:
-[00:19:30] [debug] #0 000496cc in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6913
-[00:19:30] [debug] #1 00050334 in public OnPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:7300
-[00:19:48] Jasin_Refiku[0] /a name
-[00:19:52] Jasin_Refiku[0] /a nrn
-[00:19:53] Jasin_Refiku[0] /a name
-[00:19:55] Jasin_Refiku[0] /a namechange
-[00:19:59] Jasin_Refiku[0] /a carcasse
-[00:20:03] Jasin_Refiku[0] /a carcasse enivier
-[00:20:05] Jasin_Refiku[0] /a carcasse et
-[00:20:23] [debug] Run time error 4: "Array index out of bounds"
-[00:20:23] [debug]  Accessing element at negative index -1
-[00:20:23] [debug] AMX backtrace:
-[00:20:23] [debug] #0 00049da4 in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6937
-[00:20:23] [debug] #1 002180f4 in public timer_Decrement (i=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:36998
-[00:20:23] [debug] #2 00009304 in public timer_2s () at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:3581
-[00:20:37] Jasin_Refiku[0] /a nom
-[00:20:48] Jasin_Refiku[0] /a recup
-[00:20:54] Jasin_Refiku[0] /a recup 0 1 1
-[00:21:02] Jasin_Refiku[0] /a recup 0 1 1
-[00:21:05] Jasin_Refiku[0] /a recup 0 2 2
-[00:21:26] Jasin_Refiku[0] /a meteo
-[00:21:27] Jasin_Refiku[0] /a id
-[00:21:28] Jasin_Refiku[0] /a id
-[00:21:38] Jasin_Refiku[0] /a supprimer
-[00:21:59] Jasin_Refiku[0] /a edit
-[00:22:05] Jasin_Refiku[0] /a stats
-[00:23:11] Jasin_Refiku[0] /a vip
-[00:23:14] Jasin_Refiku[0] /a makevip
-[00:23:21] Jasin_Refiku[0] /a ip
-[00:23:22] Jasin_Refiku[0] /a ip 0
-[00:23:57] Jasin_Refiku[0] /a ip 0
-[00:24:38] Jasin_Refiku[0] /tpto
-[00:24:40] Jasin_Refiku[0] /tp
-[00:24:42] Jasin_Refiku[0] /tp
-[00:24:43] Jasin_Refiku[0] /a tp
-[00:24:45] Jasin_Refiku[0] /a id
-[00:24:46] Jasin_Refiku[0] /a vip
-[00:24:48] Jasin_Refiku[0] /a id
-[00:24:51] Jasin_Refiku[0] /a vip
-[00:24:54] Jasin_Refiku[0] /a tp ls
-[00:25:06] Jasin_Refiku[0] /a changernom
-[00:25:12] Jasin_Refiku[0] /a changernom 0 Engjell_Pireva
-[00:25:16] [chat] [Jasin_Refiku]: .
-[00:25:29] [part] Jasin_Refiku has left the server (0:1)
-[00:25:29] [connection] incoming connection: 127.0.0.1:53036 id: 0
-[00:25:29] [join] Engjell_Pireva has joined the server (0:127.0.0.1)
-[00:26:06] [part] Engjell_Pireva has left the server (0:1)
-[00:26:06] [connection] incoming connection: 127.0.0.1:52532 id: 0
-[00:26:06] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[00:26:19] [chat] [Jasin_Refiku]: .
-[00:26:29] [part] Jasin_Refiku has left the server (0:1)
-[00:26:29] [connection] incoming connection: 127.0.0.1:63973 id: 0
-[00:26:29] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[00:35:51] [part] Jasin_Refiku has left the server (0:1)
+[18:49:24] plugins = ""  (string)
+[18:49:24] rcon_password = "changeme"  (string)
+[18:49:24] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -1387,91 +115,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[00:53:25] 
-[00:53:25] Server Plugins
-[00:53:25] --------------
-[00:53:25]  Loading plugin: crashdetect.dll
-[00:53:25]   CrashDetect v4.15.1 is OK.
-[00:53:25]   Loaded.
-[00:53:25]  Loading plugin: streamer.dll
-[00:53:25] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[00:53:25]   Loaded.
-[00:53:25]  Loading plugin: mysql.dll
-[00:53:25]  >> plugin.mysql: R41-2 successfully loaded.
-[00:53:25]   Loaded.
-[00:53:25]  Loading plugin: Encrypt.dll
-[00:53:25] 
-
-[00:53:25] ______________________________________
-
-[00:53:25]  Encrypt Plugin v0.1 loaded
-[00:53:25] ______________________________________
-
-[00:53:25]  By: Fro (c) Copyright <TBG> 2009-2010
-[00:53:25] ______________________________________
-
-[00:53:25]   Loaded.
-[00:53:25]  Loaded 4 plugins.
-
-[00:53:25] 
-[00:53:25] Ban list
-[00:53:25] --------
-[00:53:25]  Loaded: samp.ban
-[00:53:25] 
-[00:53:25] 
-[00:53:25] Filterscripts
-[00:53:25] ---------------
-[00:53:25]   Loading filterscript 'mapping.amx'...
-[00:53:25]   Loaded 1 filterscripts.
-
-[00:53:25] GameMode LVRP
-[00:53:25] ---------------
-[00:53:25] [MYSQL] Sign in in progress ...
-[00:53:30] [MYSQL] Sign in reussie
-[00:53:30]  
-[00:53:30] [STREAMER] Loading of streamer ..
-[00:53:30] [STREAMER] Streamer loaded.
-[00:53:30]  
-[00:53:30] [SETTINGS] Loading the settings ..
-[00:53:31] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
-[00:53:31]  
-[00:53:31] [INIT] Loading variables from the database ..
-[00:53:33]     .. FBI loaded.
-[00:53:33]     .. list of models loaded.
-[00:53:33]   Filterscript 'mapping.amx' load failed.
-[00:53:33] Informations
-[00:53:33] --------------
-[00:53:33] Gamemode for SAMP 0.3.7 R2|| Version GM testserver 5.0.1
-[00:53:33] - Developped by Dark_Rider29 (Samp Forum)
-[00:53:33] - Mapped by Lurtz59
-[00:53:33]  
-[00:53:33] Logs
-[00:53:33] ------
-[00:53:33] Number of vehicle models: 0
-[00:53:36]     .. 2 businesses loaded.
-[00:53:55]     .. UniqueBizzs loaded.
-[00:53:55]     .. 1 House(s) loaded.
-[00:53:55]     .. 0 furnitures loaded.
-[00:55:58]     .. 0 radar(s) loaded.
-[00:56:00]     ... 1 police fines loaded.
-[00:56:07]     .. 1 Illegal faction(s) saved.
-[00:56:07]     .. 0 loaded.
-[00:56:07]     .. 0 bus stops loaded
-[00:56:07]     .. 0 garage(s) loaded.
-[00:56:07]     .. 0 atm(s) loaded.
-[00:56:08]     .. 2 vending machine(s) loaded.
-[00:56:08]     .. 0 gross trash can(s) loaded.
-[00:56:08]     .. 0 small trash can(s) loaded.
-[00:56:08]     .. 2 map(s) loaded.
-[00:56:08]     .. 2 telephone cabins loaded.
-[00:56:09]     .. 0 sign(s) loaded.
-[00:56:09]     .. 1 GPS loaded..
-[00:56:09]     .. 0 interiors loaded.
-[00:56:10]     .. spawns loaded.
-[00:56:10]     .. 0 Anti-DM zones loaded..
+[18:49:28] plugins = ""  (string)
+[18:49:28] rcon_password = "changeme"  (string)
+[18:49:28] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -1481,91 +127,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[00:59:15] 
-[00:59:15] Server Plugins
-[00:59:15] --------------
-[00:59:15]  Loading plugin: crashdetect.dll
-[00:59:15]   CrashDetect v4.15.1 is OK.
-[00:59:15]   Loaded.
-[00:59:15]  Loading plugin: streamer.dll
-[00:59:15] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[00:59:15]   Loaded.
-[00:59:15]  Loading plugin: mysql.dll
-[00:59:15]  >> plugin.mysql: R41-2 successfully loaded.
-[00:59:15]   Loaded.
-[00:59:15]  Loading plugin: Encrypt.dll
-[00:59:15] 
-
-[00:59:15] ______________________________________
-
-[00:59:15]  Encrypt Plugin v0.1 loaded
-[00:59:15] ______________________________________
-
-[00:59:15]  By: Fro (c) Copyright <TBG> 2009-2010
-[00:59:15] ______________________________________
-
-[00:59:15]   Loaded.
-[00:59:15]  Loaded 4 plugins.
-
-[00:59:15] 
-[00:59:15] Ban list
-[00:59:15] --------
-[00:59:15]  Loaded: samp.ban
-[00:59:15] 
-[00:59:15] 
-[00:59:15] Filterscripts
-[00:59:15] ---------------
-[00:59:15]   Loading filterscript 'mapping.amx'...
-[00:59:15]   Loaded 1 filterscripts.
-
-[00:59:15] GameMode LVRP
-[00:59:15] ---------------
-[00:59:15] [MYSQL] Sign in in progress ...
-[00:59:15] [MYSQL] Sign in reussie
-[00:59:15]  
-[00:59:15] [STREAMER] Loading of streamer ..
-[00:59:15] [STREAMER] Streamer loaded.
-[00:59:15]  
-[00:59:15] [SETTINGS] Loading the settings ..
-[00:59:15] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
-[00:59:15]  
-[00:59:15] [INIT] Loading variables from the database ..
-[00:59:29]     .. FBI loaded.
-[00:59:29]     .. list of models loaded.
-[00:59:29]   Filterscript 'mapping.amx' load failed.
-[00:59:29] Informations
-[00:59:29] --------------
-[00:59:29] Gamemode for SAMP 0.3.7 R2|| Version GM testserver 5.0.1
-[00:59:29] - Developped by Dark_Rider29 (Samp Forum)
-[00:59:29] - Mapped by Lurtz59
-[00:59:29]  
-[00:59:29] Logs
-[00:59:29] ------
-[00:59:29] Number of vehicle models: 0
-[00:59:33]     .. 2 businesses loaded.
-[00:59:48]     .. UniqueBizzs loaded.
-[00:59:48]     .. 0 furnitures loaded.
-[00:59:49]     .. 0 radar(s) loaded.
-[00:59:53]     .. 1 House(s) loaded.
-[00:59:54]     ... 1 police fines loaded.
-[01:01:30]     .. 0 loaded.
-[01:01:30]     .. 0 garage(s) loaded.
-[01:01:30]     .. 0 atm(s) loaded.
-[01:01:30]     .. 0 gross trash can(s) loaded.
-[01:01:30]     .. 1 Illegal faction(s) saved.
-[01:01:31]     .. 2 telephone cabins loaded.
-[01:01:32]     .. 1 GPS loaded..
-[01:01:33]     .. 0 bus stops loaded
-[01:01:34]     .. spawns loaded.
-[01:01:34]     .. 2 vending machine(s) loaded.
-[01:01:34]     .. 0 small trash can(s) loaded.
-[01:01:35]     .. 2 map(s) loaded.
-[01:01:35]     .. 0 Anti-DM zones loaded..
-[01:01:35]     .. 0 sign(s) loaded.
-[01:01:35]     .. 0 interiors loaded.
+[18:49:36] plugins = ""  (string)
+[18:49:36] rcon_password = "changeme"  (string)
+[18:49:36] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -1575,93 +139,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[01:53:46] 
-[01:53:46] Server Plugins
-[01:53:46] --------------
-[01:53:46]  Loading plugin: crashdetect.dll
-[01:53:46]   CrashDetect v4.15.1 is OK.
-[01:53:46]   Loaded.
-[01:53:46]  Loading plugin: streamer.dll
-[01:53:46] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[01:53:46]   Loaded.
-[01:53:46]  Loading plugin: mysql.dll
-[01:53:47]  >> plugin.mysql: R41-2 successfully loaded.
-[01:53:47]   Loaded.
-[01:53:47]  Loading plugin: Encrypt.dll
-[01:53:47] 
-
-[01:53:47] ______________________________________
-
-[01:53:47]  Encrypt Plugin v0.1 loaded
-[01:53:47] ______________________________________
-
-[01:53:47]  By: Fro (c) Copyright <TBG> 2009-2010
-[01:53:47] ______________________________________
-
-[01:53:47]   Loaded.
-[01:53:47]  Loaded 4 plugins.
-
-[01:53:47] 
-[01:53:47] Ban list
-[01:53:47] --------
-[01:53:47]  Loaded: samp.ban
-[01:53:47] 
-[01:53:47] 
-[01:53:47] Filterscripts
-[01:53:47] ---------------
-[01:53:47]   Loading filterscript 'mapping.amx'...
-[01:53:47]   Loaded 1 filterscripts.
-
-[01:53:47] GameMode LVRP
-[01:53:47] ---------------
-[01:53:47] [MYSQL] Sign in in progress ...
-[01:53:47] [MYSQL] Sign in reussie
-[01:53:47]  
-[01:53:47] [STREAMER] Loading of streamer ..
-[01:53:47] [STREAMER] Streamer loaded.
-[01:53:47]  
-[01:53:47] [SETTINGS] Loading the settings ..
-[01:53:47] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
-[01:53:47]  
-[01:53:47] [INIT] Loading variables from the database ..
-[01:53:47]     .. FBI loaded.
-[01:53:47]     .. list of models loaded.
-[01:53:47]   Filterscript 'mapping.amx' load failed.
-[01:53:47] Informations
-[01:53:47] --------------
-[01:53:47] Gamemode for SAMP 0.3.7 R2|| Version GM testserver 5.0.1
-[01:53:47] - Developped by Dark_Rider29 (Samp Forum)
-[01:53:47] - Mapped by Lurtz59
-[01:53:47]  
-[01:53:47] Logs
-[01:53:47] ------
-[01:53:47] Number of vehicle models: 0
-[01:53:51]     .. 2 businesses loaded.
-[01:53:52]     .. 1 House(s) loaded.
-[01:56:53]     .. UniqueBizzs loaded.
-[01:56:54]     .. 1 Illegal faction(s) saved.
-[01:56:54]     .. 0 furnitures loaded.
-[01:56:54]     .. 0 radar(s) loaded.
-[01:56:55]     .. 0 bus stops loaded
-[01:56:55]     ... 1 police fines loaded.
-[01:56:55]     .. 2 vending machine(s) loaded.
-[01:56:56]     .. 0 small trash can(s) loaded.
-[01:56:56]     .. 0 loaded.
-[01:56:56]     .. 2 map(s) loaded.
-[01:56:56]     .. 0 garage(s) loaded.
-[01:56:56]     .. 0 atm(s) loaded.
-[01:56:56]     .. 0 sign(s) loaded.
-[01:56:57]     .. 0 interiors loaded.
-[01:56:57]     .. 0 gross trash can(s) loaded.
-[01:56:57]     .. 2 telephone cabins loaded.
-[01:56:58]     .. 1 GPS loaded..
-[01:56:59]     .. spawns loaded.
-[01:56:59]     .. 0 Anti-DM zones loaded..
-[02:00:56] [02:00:55]
-[02:00:56]  Annonce Mto  Take advantage of the good weather!
+[18:50:05] plugins = ""  (string)
+[18:50:05] rcon_password = "changeme"  (string)
+[18:50:05] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -1671,584 +151,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[02:29:00] 
-[02:29:00] Server Plugins
-[02:29:00] --------------
-[02:29:00]  Loading plugin: crashdetect.dll
-[02:29:00]   CrashDetect v4.15.1 is OK.
-[02:29:00]   Loaded.
-[02:29:00]  Loading plugin: streamer.dll
-[02:29:00] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[02:29:00]   Loaded.
-[02:29:00]  Loading plugin: mysql.dll
-[02:29:00]  >> plugin.mysql: R41-2 successfully loaded.
-[02:29:00]   Loaded.
-[02:29:00]  Loading plugin: Encrypt.dll
-[02:29:00] 
-
-[02:29:00] ______________________________________
-
-[02:29:00]  Encrypt Plugin v0.1 loaded
-[02:29:00] ______________________________________
-
-[02:29:00]  By: Fro (c) Copyright <TBG> 2009-2010
-[02:29:00] ______________________________________
-
-[02:29:00]   Loaded.
-[02:29:00]  Loaded 4 plugins.
-
-[02:29:00] 
-[02:29:00] Ban list
-[02:29:00] --------
-[02:29:00]  Loaded: samp.ban
-[02:29:00] 
-[02:29:00] 
-[02:29:00] Filterscripts
-[02:29:00] ---------------
-[02:29:00]   Loading filterscript 'mapping.amx'...
-[02:29:00]   Loaded 1 filterscripts.
-
-[02:29:00] GameMode LVRP
-[02:29:00] ---------------
-[02:29:00] [MYSQL] Sign in in progress ...
-[02:29:04] [MYSQL] Sign in reussie
-[02:29:04]  
-[02:29:04] [STREAMER] Loading of streamer ..
-[02:29:04] [STREAMER] Streamer loaded.
-[02:29:04]  
-[02:29:04] [SETTINGS] Loading the settings ..
-[02:29:04] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
-[02:29:04]  
-[02:29:04] [INIT] Loading variables from the database ..
-[02:29:06]     .. FBI loaded.
-[02:29:06]     .. list of models loaded.
-[02:29:06]   Filterscript 'mapping.amx' load failed.
-[02:29:06] Informations
-[02:29:06] --------------
-[02:29:06] Gamemode for SAMP 0.3.7 R2|| Version GM testserver 5.0.1
-[02:29:06] - Developped by Dark_Rider29 (Samp Forum)
-[02:29:06] - Mapped by Lurtz59
-[02:29:06]  
-[02:29:06] Logs
-[02:29:06] ------
-[02:29:06] Number of vehicle models: 0
-[02:29:07]     .. 2 businesses loaded.
-[02:29:22]     .. UniqueBizzs loaded.
-[02:29:22]     .. 0 furnitures loaded.
-[02:29:23]     .. 1 House(s) loaded.
-[02:29:24]     .. 0 radar(s) loaded.
-[02:31:58]     ... 1 police fines loaded.
-[02:32:06]     .. 0 loaded.
-[02:32:07]     .. 1 Illegal faction(s) saved.
-[02:32:07]     .. 0 garage(s) loaded.
-[02:32:07]     .. 0 bus stops loaded
-[02:32:07]     .. 0 atm(s) loaded.
-[02:32:08]     .. 2 vending machine(s) loaded.
-[02:32:08]     .. 0 gross trash can(s) loaded.
-[02:32:08]     .. 0 small trash can(s) loaded.
-[02:32:08]     .. 2 telephone cabins loaded.
-[02:32:09]     .. 2 map(s) loaded.
-[02:32:09]     .. 0 sign(s) loaded.
-[02:32:09]     .. 1 GPS loaded..
-[02:32:10]     .. spawns loaded.
-[02:32:10]     .. 0 interiors loaded.
-[02:32:11]     .. 0 Anti-DM zones loaded..
-[02:33:37] [connection] incoming connection: 127.0.0.1:65133 id: 0
-[02:33:40] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[02:34:15] [Login] Jasin_Refiku c'est logu.
-[02:34:34] [chat] [Jasin_Refiku]: .
-[02:34:42] Jasin_Refiku[0] /release
-[02:34:44] Jasin_Refiku[0] /a release
-[02:34:47] Jasin_Refiku[0] /a dejail 0
-[02:34:53] Jasin_Refiku[0] /a vie 0 0
-[02:34:55] [death] Jasin_Refiku died 255
-[02:34:55] [chat] [Jasin_Refiku]: .
-[02:35:09] Jasin_Refiku[0] /a tp spawn
-[02:35:17] Jasin_Refiku[0] /a unfreeze
-[02:35:37] [chat] [Jasin_Refiku]: .
-[02:35:39] Jasin_Refiku[0] /a tp ls
-[02:35:47] [chat] [Jasin_Refiku]: .
-[02:35:48] [death] Jasin_Refiku died 255
-[02:35:52] [debug] Run time error 4: "Array index out of bounds"
-[02:35:52] [debug]  Accessing element at negative index -1
-[02:35:52] [debug] AMX backtrace:
-[02:35:52] [debug] #0 000496cc in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6913
-[02:35:52] [debug] #1 00050334 in public OnPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:7300
-[02:35:52] Jasin_Refiku[0] /a tp ls
-[02:35:52] [chat] [Jasin_Refiku]: .
-[02:35:55] Jasin_Refiku[0] /a tp
-[02:35:56] Jasin_Refiku[0] /a tp spawn
-[02:36:25] Jasin_Refiku[0] /a creer
-[02:36:28] Jasin_Refiku[0] /a create
-[02:36:35] [debug] Run time error 4: "Array index out of bounds"
-[02:36:35] [debug]  Accessing element at negative index -1
-[02:36:35] [debug] AMX backtrace:
-[02:36:35] [debug] #0 00049da4 in public SetPlayerSpawn (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6937
-[02:36:35] [debug] #1 002180f4 in public timer_Decrement (i=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:36998
-[02:36:35] [debug] #2 00009304 in public timer_2s () at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:3581
-[02:36:35] Jasin_Refiku[0] /a create car
-[02:36:35] Jasin_Refiku[0] /a create car
-[02:36:36] [chat] [Jasin_Refiku]: .
-[02:36:43] Jasin_Refiku[0] /a create car fbi 0 0
-[02:36:47] Jasin_Refiku[0] /a create car 490 0 0
-[02:36:51] Jasin_Refiku[0] /a create car 490 0 0 1
-[02:36:56] Jasin_Refiku[0] /v buy
-[02:37:00] Jasin_Refiku[0] /car
-[02:37:05] Jasin_Refiku[0] /v buy
-[02:37:10] Jasin_Refiku[0] /v stash
-[02:37:12] Jasin_Refiku[0] /v stash ouvrir
-[02:37:14] Jasin_Refiku[0] /v stash ouvrir
-[02:37:19] Jasin_Refiku[0] /v stash ouvrir
-[02:37:20] Jasin_Refiku[0] /v stash ouvrir
-[02:37:26] Jasin_Refiku[0] /v window
-[02:37:40] Jasin_Refiku[0] /a edit
-[02:37:43] Jasin_Refiku[0] /a edit vehicule
-[02:37:52] Old: 31 - New: 31
-[02:37:56] Jasin_Refiku[0] /v stash
-[02:37:58] Jasin_Refiku[0] /v stash ouvrir
-[02:38:01] Jasin_Refiku[0] /v stash ouvrir
-[02:38:03] Jasin_Refiku[0] /v stash
-[02:38:06] Jasin_Refiku[0] /v stash entrer
-[02:38:12] Jasin_Refiku[0] /v stash exit
-[02:38:21] Jasin_Refiku[0] /v stash sortir
-[02:38:28] Jasin_Refiku[0] /v stash cadavre
-[02:38:31] Jasin_Refiku[0] /v stash cadavre 1
-[02:38:35] Jasin_Refiku[0] /v stash cadavre 100
-[02:38:38] Jasin_Refiku[0] /v stash cadavre 1
-[02:38:47] Jasin_Refiku[0] /v stash cadavre 1
-[02:38:49] Jasin_Refiku[0] /v stash cadavre 100
-[02:38:51] Jasin_Refiku[0] /v stash cadavre 100
-[02:38:53] Jasin_Refiku[0] /v stash cadavre 10000
-[02:38:56] Jasin_Refiku[0] /v stash cadavre 0
-[02:39:01] Jasin_Refiku[0] /v stash corpse
-[02:39:04] Jasin_Refiku[0] /v stash
-[02:39:07] Jasin_Refiku[0] /v stash manage
-[02:39:20] Jasin_Refiku[0] /v stash 
-[02:39:23] Jasin_Refiku[0] /v stash cadavre
-[02:39:28] Jasin_Refiku[0] /v stash cadavre 1
-[02:39:33] Jasin_Refiku[0] /v stash cadavre mettre
-[02:39:35] Jasin_Refiku[0] /v stash cadavre mettre
-[02:39:38] Jasin_Refiku[0] /v stash cadavre prendre
-[02:39:41] Jasin_Refiku[0] /v stash cadavre prendre
-[02:52:47] Jasin_Refiku[0] /a 
-[02:52:56] Jasin_Refiku[0] /a refund
-[02:53:18] Jasin_Refiku[0] /a server
-[02:53:27] [debug] Run time error 4: "Array index out of bounds"
-[02:53:27] [debug]  Accessing element at negative index -1
-[02:53:27] [debug] AMX backtrace:
-[02:53:27] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
-[02:53:27] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
-[02:53:27] [debug] Run time error 4: "Array index out of bounds"
-[02:53:27] [debug]  Accessing element at negative index -1
-[02:53:27] [debug] AMX backtrace:
-[02:53:27] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
-[02:53:27] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
-[02:53:28] [debug] Run time error 4: "Array index out of bounds"
-[02:53:28] [debug]  Accessing element at negative index -1
-[02:53:28] [debug] AMX backtrace:
-[02:53:28] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
-[02:53:28] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
-[02:53:28] [debug] Run time error 4: "Array index out of bounds"
-[02:53:28] [debug]  Accessing element at negative index -1
-[02:53:28] [debug] AMX backtrace:
-[02:53:28] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
-[02:53:28] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
-[02:53:28] [debug] Run time error 4: "Array index out of bounds"
-[02:53:28] [debug]  Accessing element at negative index -1
-[02:53:28] [debug] AMX backtrace:
-[02:53:28] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
-[02:53:28] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
-[02:53:38] [debug] Run time error 4: "Array index out of bounds"
-[02:53:38] [debug]  Accessing element at negative index -1
-[02:53:38] [debug] AMX backtrace:
-[02:53:38] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
-[02:53:38] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
-[02:53:40] [debug] Run time error 4: "Array index out of bounds"
-[02:53:40] [debug]  Accessing element at negative index -1
-[02:53:40] [debug] AMX backtrace:
-[02:53:40] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
-[02:53:40] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
-[02:53:40] [debug] Run time error 4: "Array index out of bounds"
-[02:53:40] [debug]  Accessing element at negative index -1
-[02:53:40] [debug] AMX backtrace:
-[02:53:40] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
-[02:53:40] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
-[02:53:40] [debug] Run time error 4: "Array index out of bounds"
-[02:53:40] [debug]  Accessing element at negative index -1
-[02:53:40] [debug] AMX backtrace:
-[02:53:40] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
-[02:53:40] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
-[02:53:41] [debug] Run time error 4: "Array index out of bounds"
-[02:53:41] [debug]  Accessing element at negative index -1
-[02:53:41] [debug] AMX backtrace:
-[02:53:41] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
-[02:53:41] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
-[02:53:41] [debug] Run time error 4: "Array index out of bounds"
-[02:53:41] [debug]  Accessing element at negative index -1
-[02:53:41] [debug] AMX backtrace:
-[02:53:41] [debug] #0 00358ef0 in player_CheckInteraction (playerid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:56933
-[02:53:41] [debug] #1 002047b4 in public OnPlayerKeyStateChange (playerid=0, newkeys=131072, oldkeys=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:35494
-[02:53:45] Jasin_Refiku[0] /a impound
-[02:53:57] Jasin_Refiku[0] /a car
-[02:53:58] Jasin_Refiku[0] /a v
-[02:54:00] Jasin_Refiku[0] /a vehicule
-[02:54:03] Jasin_Refiku[0] /a edit
-[02:54:05] Jasin_Refiku[0] /a edit vehicule
-[02:54:11] Jasin_Refiku[0] /a create vehicule
-[02:54:15] Jasin_Refiku[0] /a create car
-[02:54:19] Jasin_Refiku[0] /a create car 596 2 1
-[02:54:21] Jasin_Refiku[0] /a create car 596 2 1 1
-[02:54:35] Jasin_Refiku[0] /a edit car
-[02:54:41] [chat] [Jasin_Refiku]: .
-[02:54:50] Old: 32 - New: 32
-[02:54:53] Jasin_Refiku[0] /a edit vehicule
-[02:55:13] Jasin_Refiku[0] /v
-[02:55:26] Jasin_Refiku[0] /v light
-[02:55:27] Jasin_Refiku[0] /v lights
-[02:55:52] Jasin_Refiku[0] /phone
-[02:55:55] Jasin_Refiku[0] /a create biz
-[02:56:03] Jasin_Refiku[0] /a edit biz 2
-[02:56:19] Jasin_Refiku[0] /biz
-[02:56:20] Jasin_Refiku[0] /biz buy
-[02:56:23] Jasin_Refiku[0] /biz buy
-[02:56:44] Jasin_Refiku[0] /biz buy
-[02:57:19] Jasin_Refiku[0] /gps
-[02:57:20] Jasin_Refiku[0] /a tp
-[02:57:22] Jasin_Refiku[0] /a tp job
-[02:57:25] Jasin_Refiku[0] /a tp qg
-[02:57:35] Jasin_Refiku[0] /a leader
-[02:57:38] Jasin_Refiku[0] /a leader 0
-[02:57:39] Jasin_Refiku[0] /a leader 0
-[02:57:41] Jasin_Refiku[0] /a kick
-[02:58:05] Jasin_Refiku[0] /biz buy
-[02:58:16] Jasin_Refiku[0] /biz type
-[02:58:37] Jasin_Refiku[0] /biz type
-[02:58:42] Jasin_Refiku[0] /biz management
-[02:58:44] [chat] [Jasin_Refiku]: .
-[02:58:46] Jasin_Refiku[0] /biz 
-[02:58:50] Jasin_Refiku[0] /biz management
-[02:58:51] Jasin_Refiku[0] /biz manage
-[02:58:54] Jasin_Refiku[0] /biz manage
-[02:58:57] Jasin_Refiku[0] /buy
-[02:59:08] Jasin_Refiku[0] /phone
-[02:59:17] Jasin_Refiku[0] /biz infos
-[02:59:19] [chat] [Jasin_Refiku]: .
-[02:59:23] Jasin_Refiku[0] /biz infos
-[02:59:25] Jasin_Refiku[0] /biz info
-[02:59:26] [chat] [Jasin_Refiku]: .
-[02:59:30] Jasin_Refiku[0] /biz sella
-[02:59:34] Jasin_Refiku[0] /biz sellto
-[02:59:37] Jasin_Refiku[0] /properties
-[02:59:40] Jasin_Refiku[0] /aide
-[02:59:41] Jasin_Refiku[0] /help
-[02:59:43] Jasin_Refiku[0] /help
-[02:59:45] Jasin_Refiku[0] /Help
-[03:00:36] [03:00:36]
-[03:00:36]  Annonce Mto  Dark skies, significant risk of thunderstorms.
-[03:00:49] [chat] [Jasin_Refiku]: .
-[03:02:17] [chat] [Jasin_Refiku]: aide
-[03:02:47] Jasin_Refiku[0] /a
-[03:02:50] Jasin_Refiku[0] /a dao
-[03:02:54] [chat] [Jasin_Refiku]: .
-[03:03:02] Jasin_Refiku[0] /a event
-[03:03:08] Jasin_Refiku[0] /a lancer
-[03:03:11] Jasin_Refiku[0] /a event
-[03:03:13] Jasin_Refiku[0] /a event lancer
-[03:03:15] Jasin_Refiku[0] /a event create
-[03:03:17] Jasin_Refiku[0] /a event create dm
-[03:03:19] [chat] [Jasin_Refiku]: .
-[03:03:21] Jasin_Refiku[0] /a event create dm
-[03:03:23] Jasin_Refiku[0] /a event create derby
-[03:03:27] Jasin_Refiku[0] /a event
-[03:03:30] Jasin_Refiku[0] /a event create 
-[03:03:31] Jasin_Refiku[0] /a event create  dm
-[03:03:32] Jasin_Refiku[0] /a event create dm
-[03:03:36] Jasin_Refiku[0] /a event create <dm>
-[03:03:38] Jasin_Refiku[0] /a
-[03:03:41] Jasin_Refiku[0] /a server
-[03:04:01] Jasin_Refiku[0] /jobs
-[03:04:03] Jasin_Refiku[0] /job
-[03:04:06] Jasin_Refiku[0] /aide
-[03:04:08] Jasin_Refiku[0] /help
-[03:04:20] [AntiCheat] Jasin_Refiku(0) - cheat : Steal Hack
-[03:04:20] [part] Jasin_Refiku has left the server (0:2)
-[03:04:30] [connection] incoming connection: 127.0.0.1:57102 id: 0
-[03:04:30] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[03:04:50] [Login] Jasin_Refiku c'est logu.
-[03:05:02] Jasin_Refiku[0] /a creer
-[03:05:06] Jasin_Refiku[0] /a creer 
-[03:05:07] Jasin_Refiku[0] /a create
-[03:05:12] Jasin_Refiku[0] /a payday
-[03:05:22] Jasin_Refiku[0] /stats
-[03:05:37] Jasin_Refiku[0] /a tp
-[03:05:40] Jasin_Refiku[0] /a tp joueuer
-[03:05:45] Jasin_Refiku[0] /a tp concess
-[03:05:54] Jasin_Refiku[0] /a create
-[03:06:03] Jasin_Refiku[0] /a create dealership
-[03:06:19] Jasin_Refiku[0] /a argent
-[03:06:23] Jasin_Refiku[0] /a argent 0 5000000
-[03:06:42] Jasin_Refiku[0] /a tp 
-[03:06:44] Jasin_Refiku[0] /a tp vehicule
-[03:06:46] Jasin_Refiku[0] /a tp vehicule 29
-[03:07:11] Jasin_Refiku[0] /a tp vehicule 30
-[03:07:15] Jasin_Refiku[0] /a tp vehicule 32
-[03:07:17] Jasin_Refiku[0] /a tp vehicule 33
-[03:07:24] Jasin_Refiku[0] /v
-[03:07:27] Jasin_Refiku[0] /engine
-[03:07:45] Jasin_Refiku[0] /v manage
-[03:07:47] Jasin_Refiku[0] /v management
-[03:10:15] Jasin_Refiku[0] /v panel
-[03:10:16] Jasin_Refiku[0] /v panels
-[03:14:18] Jasin_Refiku[0] /a tp
-[03:14:26] Jasin_Refiku[0] /a goto banque
-[03:14:39] Jasin_Refiku[0] /a create
-[03:14:43] Jasin_Refiku[0] /a create arret
-[03:14:50] Jasin_Refiku[0] /a create pub
-[03:14:54] [chat] [Jasin_Refiku]: .
-[03:15:02] Jasin_Refiku[0] /a 
-[03:15:05] Jasin_Refiku[0] /a supprimer pub 0
-[03:15:08] Jasin_Refiku[0] /a supprimer pub
-[03:15:10] Jasin_Refiku[0] /a supprimer
-[03:15:13] Jasin_Refiku[0] /a delete
-[03:15:16] Jasin_Refiku[0] /a supprimer pub
-[03:15:26] Jasin_Refiku[0] /a edit
-[03:15:27] Jasin_Refiku[0] /a edit pub
-[03:16:04] Jasin_Refiku[0] /a id
-[03:18:13] Jasin_Refiku[0] /a
-[03:18:16] Jasin_Refiku[0] /a renvoie
-[03:18:17] Jasin_Refiku[0] /a renvoie 0
-[03:18:23] Jasin_Refiku[0] /a tp banque
-[03:19:35] Jasin_Refiku[0] /a edit pub
-[03:19:56] Jasin_Refiku[0] /a create
-[03:20:00] Jasin_Refiku[0] /a create sbizz
-[03:20:01] Jasin_Refiku[0] /a create sbiz
-[03:20:04] Jasin_Refiku[0] /a sbiz
-[03:20:06] Jasin_Refiku[0] /a bizz
-[03:20:10] Jasin_Refiku[0] /a create
-[03:20:13] Jasin_Refiku[0] /a create banque
-[03:20:16] Jasin_Refiku[0] /a create biz
-[03:20:25] Jasin_Refiku[0] /a edit biz
-[03:20:58] Jasin_Refiku[0] /a tp
-[03:21:02] Jasin_Refiku[0] /a buy
-[03:21:04] Jasin_Refiku[0] /biz buy
-[03:21:05] Jasin_Refiku[0] /biz buy
-[03:21:20] Jasin_Refiku[0] /biz buy
-[03:21:26] Jasin_Refiku[0] /biz type
-[03:21:33] Jasin_Refiku[0] /a create banque
-[03:21:35] Jasin_Refiku[0] /a create
-[03:21:43] Jasin_Refiku[0] /a create atm
-[03:22:05] Jasin_Refiku[0] /atm
-[03:22:13] Jasin_Refiku[0] /a supprime
-[03:22:17] Jasin_Refiku[0] /a supprimer atm 0
-[03:22:21] Jasin_Refiku[0] /a create
-[03:22:22] Jasin_Refiku[0] /a lotto
-[03:22:24] Jasin_Refiku[0] /a lotto
-[03:22:32] Jasin_Refiku[0] /a create zone
-[03:22:36] Jasin_Refiku[0] /a create dealership
-[03:22:47] Jasin_Refiku[0] /a create tree
-[03:22:53] Jasin_Refiku[0] /a tp
-[03:22:59] Jasin_Refiku[0] /a tp pos
-[03:23:04] Jasin_Refiku[0] /a tp anpe
-[03:23:09] [chat] [Jasin_Refiku]: .
-[03:23:13] Jasin_Refiku[0] /a tp actor
-[03:23:14] Jasin_Refiku[0] /a tp actor 0
-[03:23:24] Jasin_Refiku[0] /job
-[03:23:27] Jasin_Refiku[0] /job start
-[03:23:29] Jasin_Refiku[0] /job start
-[03:23:34] Jasin_Refiku[0] /a create
-[03:23:40] Jasin_Refiku[0] /a id
-[03:23:42] Jasin_Refiku[0] /v
-[03:23:43] Jasin_Refiku[0] /v id
-[03:23:46] Jasin_Refiku[0] /v id 
-[03:25:58] Jasin_Refiku[0] /a create
-[03:26:02] Jasin_Refiku[0] /a create car 462
-[03:26:04] Jasin_Refiku[0] /a create car 462 1 1
-[03:26:06] Jasin_Refiku[0] /a create car 462 1 1 1
-[03:26:15] Jasin_Refiku[0] /a edit car 34
-[03:26:22] Old: 34 - New: 34
-[03:26:23] Jasin_Refiku[0] /job start
-[03:26:30] Jasin_Refiku[0] /job start
-[03:26:31] Jasin_Refiku[0] /job
-[03:26:34] Jasin_Refiku[0] /job locate
-[03:26:39] Jasin_Refiku[0] /job start
-[03:26:50] Jasin_Refiku[0] /a tp actor
-[03:26:53] Jasin_Refiku[0] /a tp actor 0
-[03:26:57] Jasin_Refiku[0] /a tp actor 1
-[03:27:00] Jasin_Refiku[0] /a tp actor 1
-[03:27:01] Jasin_Refiku[0] /a tp actor 2
-[03:27:03] Jasin_Refiku[0] /a tp actor 2
-[03:27:04] Jasin_Refiku[0] /a tp actor 3
-[03:27:06] Jasin_Refiku[0] /a tp actor 4
-[03:27:07] Jasin_Refiku[0] /a tp actor 6
-[03:27:08] Jasin_Refiku[0] /a tp actor 10
-[03:27:10] Jasin_Refiku[0] /a tp actor 50
-[03:27:13] Jasin_Refiku[0] /a tp actor 60
-[03:27:14] Jasin_Refiku[0] /a tp
-[03:27:16] Jasin_Refiku[0] /a tp actor
-[03:27:19] Jasin_Refiku[0] /a tp actor 20
-[03:27:21] Jasin_Refiku[0] /a tp actor 1002
-[03:27:30] Jasin_Refiku[0] /stats
-[03:27:47] Jasin_Refiku[0] /jetpack
-[03:27:49] Jasin_Refiku[0] /a jetpack
-[03:27:50] [AntiCheat] Jasin_Refiku(0) - cheat : JetPack
-[03:27:51] [part] Jasin_Refiku has left the server (0:2)
-[03:28:02] [connection] incoming connection: 127.0.0.1:51355 id: 0
-[03:28:02] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[03:28:26] [Login] Jasin_Refiku c'est logu.
-[03:28:40] [chat] [Jasin_Refiku]: .
-[03:28:45] Jasin_Refiku[0] /a create
-[03:28:51] Jasin_Refiku[0] /a create interieur
-[03:30:15] Jasin_Refiku[0] /enter
-[03:30:21] Jasin_Refiku[0] /v
-[03:30:23] Jasin_Refiku[0] /v stash
-[03:30:35] Jasin_Refiku[0] /a create interieur
-[03:30:44] Jasin_Refiku[0] /v stash
-[03:30:46] Jasin_Refiku[0] /a create interieur
-[03:31:10] Jasin_Refiku[0] /a create
-[03:31:13] Jasin_Refiku[0] /a create car 596
-[03:31:16] Jasin_Refiku[0] /a create car 596 1 1
-[03:31:20] Jasin_Refiku[0] /a create car 596 1 1 1
-[03:31:29] Jasin_Refiku[0] /a edit 35
-[03:31:34] Jasin_Refiku[0] /a edit car
-[03:31:56] Jasin_Refiku[0] /v
-[03:31:58] Jasin_Refiku[0] /v buy
-[03:32:02] Jasin_Refiku[0] /v 
-[03:32:04] Jasin_Refiku[0] /v fix
-[03:32:05] Jasin_Refiku[0] /v id
-[03:32:10] Jasin_Refiku[0] /a edit car 35
-[03:32:21] [chat] [Jasin_Refiku]: .
-[03:32:26] Jasin_Refiku[0] /a edit car
-[03:32:38] Jasin_Refiku[0] /a edit car
-[03:32:47] Jasin_Refiku[0] /a edit car
-[03:32:55] Jasin_Refiku[0] /a edit car
-[03:33:09] Old: 35 - New: 35
-[03:33:20] Jasin_Refiku[0] /v rent
-[03:33:26] Jasin_Refiku[0] /v neon
-[03:33:27] Jasin_Refiku[0] /v stash
-[03:33:29] Jasin_Refiku[0] /v stash ouvrir
-[03:33:32] Jasin_Refiku[0] /v stash ouvrir
-[03:33:34] Jasin_Refiku[0] /v stash ouvrir
-[03:33:35] Jasin_Refiku[0] /v stash ouvrir
-[03:33:41] Jasin_Refiku[0] /v cadena
-[03:33:46] Jasin_Refiku[0] /v cadena
-[03:33:50] Jasin_Refiku[0] /v cadena
-[03:33:51] [chat] [Jasin_Refiku]: .
-[03:33:53] Jasin_Refiku[0] /v park
-[03:33:56] Jasin_Refiku[0] /v edit
-[03:33:59] Jasin_Refiku[0] /v ainfos
-[03:34:15] Jasin_Refiku[0] /a edit car 35
-[03:34:35] Old: 35 - New: 35
-[03:34:40] Jasin_Refiku[0] /v
-[03:34:43] Jasin_Refiku[0] /a edit car 35
-[03:34:46] Jasin_Refiku[0] /a edit car 35
-[03:34:47] [chat] [Jasin_Refiku]: .
-[03:34:52] Jasin_Refiku[0] /a edit car 35
-[03:34:58] Jasin_Refiku[0] /a supprime car 35
-[03:35:02] Jasin_Refiku[0] /a supprimer car 35
-[03:35:04] [chat] [Jasin_Refiku]: .
-[03:35:06] Jasin_Refiku[0] /a supprimer
-[03:35:08] Jasin_Refiku[0] /a supprimer car
-[03:35:12] Jasin_Refiku[0] /a
-[03:35:13] Jasin_Refiku[0] /v
-[03:35:16] Jasin_Refiku[0] /v arespawn
-[03:35:17] Jasin_Refiku[0] /v arespawn 35
-[03:35:23] Jasin_Refiku[0] /v arespawn id 35
-[03:35:27] Jasin_Refiku[0] /a edit car
-[03:35:29] Jasin_Refiku[0] /a edit car 
-[03:35:38] Jasin_Refiku[0] /a edit car 35
-[03:35:39] Jasin_Refiku[0] /a edit car 35
-[03:35:59] Old: 0 - New: 65535
-[03:35:59] [debug] Run time error 4: "Array index out of bounds"
-[03:35:59] [debug]  Accessing element at index 65535 past array upper bound 1999
-[03:35:59] [debug] AMX backtrace:
-[03:35:59] [debug] #0 00044630 in vehicle_Transfer (oldcar=0, newcar=65535) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6702
-[03:35:59] [debug] #1 00046ee0 in car_Recreate (playerid=0, carid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6781
-[03:35:59] [debug] #2 002fc9e4 in public OnDialogResponse (playerid=0, dialogid=7, response=1, listitem=0, inputtext[]=@00fd26b0 "Voiture de location") at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:51371
-[03:36:02] Jasin_Refiku[0] /a edit car 35
-[03:36:05] Jasin_Refiku[0] /a edit car
-[03:36:08] Jasin_Refiku[0] /a edit car
-[03:36:20] Old: 0 - New: 65535
-[03:36:20] [debug] Run time error 4: "Array index out of bounds"
-[03:36:20] [debug]  Accessing element at index 65535 past array upper bound 1999
-[03:36:20] [debug] AMX backtrace:
-[03:36:20] [debug] #0 00044630 in vehicle_Transfer (oldcar=0, newcar=65535) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6702
-[03:36:20] [debug] #1 00046ee0 in car_Recreate (playerid=0, carid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6781
-[03:36:20] [debug] #2 002fdac0 in public OnDialogResponse (playerid=0, dialogid=7, response=1, listitem=-1, inputtext[]=@00fd26b0 "Jasin_Refiku") at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:51403
-[03:36:25] Jasin_Refiku[0] /a edit car
-[03:36:39] Old: 0 - New: 65535
-[03:36:39] [debug] Run time error 4: "Array index out of bounds"
-[03:36:39] [debug]  Accessing element at index 65535 past array upper bound 1999
-[03:36:39] [debug] AMX backtrace:
-[03:36:39] [debug] #0 00044630 in vehicle_Transfer (oldcar=0, newcar=65535) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6702
-[03:36:39] [debug] #1 00046ee0 in car_Recreate (playerid=0, carid=0) at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:6781
-[03:36:39] [debug] #2 002fea48 in public OnDialogResponse (playerid=0, dialogid=7, response=1, listitem=5, inputtext[]=@00fd26b0 "[Owned 1] Appartenance  un joueur") at C:\Users\jasin\Desktop\Projektet\samp\LVRP_SAMP-master\gamemodes\LVRP.pwn:51458
-[03:36:44] Jasin_Refiku[0] /a edit car
-[03:36:46] Jasin_Refiku[0] /v
-[03:36:49] Jasin_Refiku[0] /a
-[03:36:52] Jasin_Refiku[0] /a supprimer
-[03:36:57] Jasin_Refiku[0] /v
-[03:37:11] Jasin_Refiku[0] /v edit 34
-[03:37:15] Jasin_Refiku[0] /a edit car 34
-[03:37:17] Jasin_Refiku[0] /a edit car 35
-[03:37:22] Jasin_Refiku[0] /a edit car 35
-[03:37:33] Jasin_Refiku[0] /a edit car 35
-[03:37:40] Jasin_Refiku[0] /a edit car 35
-[03:37:47] Jasin_Refiku[0] /a create car 596 0 0
-[03:37:49] Jasin_Refiku[0] /a create car 596 0 0 1
-[03:37:59] Jasin_Refiku[0] /v stash
-[03:38:02] Jasin_Refiku[0] /v stash ouvrir
-[03:38:07] Jasin_Refiku[0] /a edit car
-[03:38:22] Old: 35 - New: 35
-[03:38:23] Jasin_Refiku[0] /a tp
-[03:38:25] Jasin_Refiku[0] /a tp fbi
-[03:38:32] Jasin_Refiku[0] /a tp qg
-[03:38:36] Jasin_Refiku[0] /engine
-[03:38:38] Jasin_Refiku[0] /v
-[03:38:40] Jasin_Refiku[0] /v stash
-[03:38:44] Jasin_Refiku[0] /v stash ouvrir
-[03:38:46] Jasin_Refiku[0] /v stash
-[03:38:49] Jasin_Refiku[0] /v stash entrer
-[03:38:52] Jasin_Refiku[0] /entrer
-[03:38:55] Jasin_Refiku[0] /v stash sortir
-[03:39:47] Jasin_Refiku[0] /a tp ls
-[03:39:49] Jasin_Refiku[0] /a tp spawn
-[03:40:10] Jasin_Refiku[0] /entrer
-[03:40:36] Jasin_Refiku[0] /mafia
-[03:40:38] Jasin_Refiku[0] /mafia
-[03:40:49] Jasin_Refiku[0] /a edit faction
-[03:40:57] Jasin_Refiku[0] /a edit faction 0 4
-[03:41:01] Jasin_Refiku[0] /a edit faction 10 4
-[03:41:02] Jasin_Refiku[0] /a id
-[03:41:04] Jasin_Refiku[0] /factions
-[03:41:15] Jasin_Refiku[0] /a faction
-[03:41:16] Jasin_Refiku[0] /a leader
-[03:41:17] Jasin_Refiku[0] /a leader 0
-[03:41:37] Jasin_Refiku[0] /aide
-[03:41:40] Jasin_Refiku[0] /faction
-[03:41:42] Jasin_Refiku[0] /faction test
-[03:41:43] Jasin_Refiku[0] /f 
-[03:41:45] Jasin_Refiku[0] /f .
-[03:41:46] Jasin_Refiku[0] /r .
-[03:41:50] Jasin_Refiku[0] /mafia
-[03:41:53] Jasin_Refiku[0] /a supprimer
-[03:41:55] Jasin_Refiku[0] /a supprimer faction
-[03:41:58] Jasin_Refiku[0] /a supprimer faction
-[03:41:58] [chat] [Jasin_Refiku]: .
-[03:42:00] Jasin_Refiku[0] /a supprimer faction
-[03:42:05] Jasin_Refiku[0] /a create faction
-[03:42:17] Jasin_Refiku[0] /a edit faction
-[03:42:18] Jasin_Refiku[0] /a edit faction 1
-[03:42:20] Jasin_Refiku[0] /a edit faction 1 1
-[03:42:25] Jasin_Refiku[0] /a intreuer
-[03:42:29] Jasin_Refiku[0] /a create intreuer
-[03:42:32] Jasin_Refiku[0] /a create
-[03:42:34] Jasin_Refiku[0] /a create interieur
-[03:42:51] Jasin_Refiku[0] /faction
-[03:42:53] Jasin_Refiku[0] /aide
-[03:42:56] [part] Jasin_Refiku has left the server (0:1)
+[18:50:07] plugins = ""  (string)
+[18:50:07] rcon_password = "changeme"  (string)
+[18:50:07] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -2258,44 +163,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[06:13:12] 
-[06:13:12] Server Plugins
-[06:13:12] --------------
-[06:13:12]  Loading plugin: crashdetect.dll
-[06:13:12]   CrashDetect v4.15.1 is OK.
-[06:13:12]   Loaded.
-[06:13:12]  Loading plugin: streamer.dll
-[06:13:12] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[06:13:13]   Loaded.
-[06:13:13]  Loading plugin: mysql.dll
-[06:13:13]  >> plugin.mysql: R41-2 successfully loaded.
-[06:13:13]   Loaded.
-[06:13:13]  Loading plugin: Encrypt.dll
-[06:13:13] 
-
-[06:13:13] ______________________________________
-
-[06:13:13]  Encrypt Plugin v0.1 loaded
-[06:13:13] ______________________________________
-
-[06:13:13]  By: Fro (c) Copyright <TBG> 2009-2010
-[06:13:13] ______________________________________
-
-[06:13:13]   Loaded.
-[06:13:13]  Loaded 4 plugins.
-
-[06:13:13] 
-[06:13:13] Ban list
-[06:13:13] --------
-[06:13:13]  Loaded: samp.ban
-[06:13:13] 
-[06:13:13] 
-[06:13:13] Filterscripts
-[06:13:13] ---------------
-[06:13:13]   Loading filterscript 'mapping.amx'...
+[18:50:11] plugins = ""  (string)
+[18:50:11] rcon_password = "changeme"  (string)
+[18:50:11] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -2305,104 +175,9 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[06:17:08] 
-[06:17:08] Server Plugins
-[06:17:08] --------------
-[06:17:08]  Loading plugin: crashdetect.dll
-[06:17:08]   CrashDetect v4.15.1 is OK.
-[06:17:08]   Loaded.
-[06:17:08]  Loading plugin: streamer.dll
-[06:17:09] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[06:17:09]   Loaded.
-[06:17:09]  Loading plugin: mysql.dll
-[06:17:09]  >> plugin.mysql: R41-2 successfully loaded.
-[06:17:09]   Loaded.
-[06:17:09]  Loading plugin: Encrypt.dll
-[06:17:09] 
-
-[06:17:09] ______________________________________
-
-[06:17:09]  Encrypt Plugin v0.1 loaded
-[06:17:09] ______________________________________
-
-[06:17:09]  By: Fro (c) Copyright <TBG> 2009-2010
-[06:17:09] ______________________________________
-
-[06:17:09]   Loaded.
-[06:17:09]  Loaded 4 plugins.
-
-[06:17:09] 
-[06:17:09] Ban list
-[06:17:09] --------
-[06:17:09]  Loaded: samp.ban
-[06:17:09] 
-[06:17:09] 
-[06:17:09] Filterscripts
-[06:17:09] ---------------
-[06:17:09]   Loading filterscript 'mapping.amx'...
-[06:17:09]   Loaded 1 filterscripts.
-
-[06:17:09] GameMode LVRP
-[06:17:09] ---------------
-[06:17:09] [MYSQL] Sign in in progress ...
-[06:17:14] [MYSQL] Sign in reussie
-[06:17:14]  
-[06:17:14] [STREAMER] Loading of streamer ..
-[06:17:15] [STREAMER] Streamer loaded.
-[06:17:15]  
-[06:17:15] [SETTINGS] Loading the settings ..
-[06:17:16] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
-[06:17:16]  
-[06:17:16] [INIT] Loading variables from the database ..
-[06:17:20]     .. FBI loaded.
-[06:17:20]     .. list of models loaded.
-[06:17:20]   Filterscript 'mapping.amx' load failed.
-[06:17:20] Informations
-[06:17:20] --------------
-[06:17:20] Gamemode for SAMP 0.3.7 R2|| Version GM sarp 5.0.1
-[06:17:20] - Developped by Dark_Rider29 (Samp Forum)
-[06:17:20] - Mapped by Lurtz59
-[06:17:20]  
-[06:17:20] Logs
-[06:17:20] ------
-[06:17:20] Number of vehicle models: 0
-[06:17:31]     .. UniqueBizzs loaded.
-[06:17:33]     .. 4 businesses loaded.
-[06:17:33]     .. 0 furnitures loaded.
-[06:17:33]     .. 0 radar(s) loaded.
-[06:17:34]     .. 1 House(s) loaded.
-[06:17:35]     ... 1 police fines loaded.
-[06:20:24]     .. 0 loaded.
-[06:20:25]     .. 0 garage(s) loaded.
-[06:20:30]     .. 1 atm(s) loaded.
-[06:20:31]     .. 2 Illegal faction(s) saved.
-[06:20:31]     .. 0 gross trash can(s) loaded.
-[06:20:31]     .. 0 bus stops loaded
-[06:20:32]     .. 2 telephone cabins loaded.
-[06:20:32]     .. 1 GPS loaded..
-[06:20:32]     .. 2 vending machine(s) loaded.
-[06:20:32]     .. 0 small trash can(s) loaded.
-[06:20:33]     .. spawns loaded.
-[06:20:33]     .. 2 map(s) loaded.
-[06:20:34]     .. 0 Anti-DM zones loaded..
-[06:20:34]     .. 0 sign(s) loaded.
-[06:20:34]     .. 2 interiors loaded.
-[06:21:50] [connection] incoming connection: 127.0.0.1:59404 id: 0
-[06:21:52] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[06:22:22] [Login] Jasin_Refiku c'est logu.
-[06:22:49] Jasin_Refiku[0] /a create
-[06:23:57] Jasin_Refiku[0] /a create 596 0 0
-[06:23:59] Jasin_Refiku[0] /a create 596 0 0 1
-[06:24:08] [chat] [Jasin_Refiku]: .
-[06:24:13] Jasin_Refiku[0] /a create car 596 1 1 1
-[06:24:16] [chat] [Jasin_Refiku]: .
-[06:24:52] Jasin_Refiku[0] /a edit car 
-[06:25:20] Old: 36 - New: 36
-[06:28:30] Kicking 127.0.0.1 because they didn't logon to the game.
-[06:29:09] Kicking 127.0.0.1 because they didn't logon to the game.
+[18:50:19] plugins = ""  (string)
+[18:50:19] rcon_password = "changeme"  (string)
+[18:50:19] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -2412,154 +187,8 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[06:29:43] 
-[06:29:43] Server Plugins
-[06:29:43] --------------
-[06:29:43]  Loading plugin: crashdetect.dll
-[06:29:43]   CrashDetect v4.15.1 is OK.
-[06:29:43]   Loaded.
-[06:29:43]  Loading plugin: streamer.dll
-[06:29:43] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[06:29:43]   Loaded.
-[06:29:43]  Loading plugin: mysql.dll
-[06:29:43]  >> plugin.mysql: R41-2 successfully loaded.
-[06:29:43]   Loaded.
-[06:29:43]  Loading plugin: Encrypt.dll
-[06:29:43] 
-
-[06:29:43] ______________________________________
-
-[06:29:43]  Encrypt Plugin v0.1 loaded
-[06:29:43] ______________________________________
-
-[06:29:43]  By: Fro (c) Copyright <TBG> 2009-2010
-[06:29:43] ______________________________________
-
-[06:29:43]   Loaded.
-[06:29:43]  Loaded 4 plugins.
-
-[06:29:43] 
-[06:29:43] Ban list
-[06:29:43] --------
-[06:29:43]  Loaded: samp.ban
-[06:29:43] 
-[06:29:43] 
-[06:29:43] Filterscripts
-[06:29:43] ---------------
-[06:29:43]   Loading filterscript 'mapping.amx'...
-[06:29:44]   Loaded 1 filterscripts.
-
-[06:29:44] GameMode LVRP
-[06:29:44] ---------------
-[06:29:44] [MYSQL] Sign in in progress ...
-[06:29:45] [MYSQL] Sign in reussie
-[06:29:45]  
-[06:29:45] [STREAMER] Loading of streamer ..
-[06:29:45] [STREAMER] Streamer loaded.
-[06:29:45]  
-[06:29:45] [SETTINGS] Loading the settings ..
-[06:29:46] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
-[06:29:46]  
-[06:29:46] [INIT] Loading variables from the database ..
-[06:29:47]     .. FBI loaded.
-[06:29:47]     .. list of models loaded.
-[06:29:47]   Filterscript 'mapping.amx' load failed.
-[06:29:47] Informations
-[06:29:47] --------------
-[06:29:47] Gamemode for SAMP 0.3.7 R2|| Version GM sarp 5.0.1
-[06:29:47] - Developped by Dark_Rider29 (Samp Forum)
-[06:29:47] - Mapped by Lurtz59
-[06:29:47]  
-[06:29:47] Logs
-[06:29:47] ------
-[06:29:47] Number of vehicle models: 0
-[06:29:59]     .. UniqueBizzs loaded.
-[06:30:02]     .. 4 businesses loaded.
-[06:30:02]     .. 0 furnitures loaded.
-[06:30:03]     .. 1 House(s) loaded.
-[06:30:03]     .. 0 radar(s) loaded.
-[06:32:59]     ... 1 police fines loaded.
-[06:33:05]     .. 0 loaded.
-[06:33:05]     .. 0 garage(s) loaded.
-[06:33:06]     .. 2 Illegal faction(s) saved.
-[06:33:06]     .. 1 atm(s) loaded.
-[06:33:06]     .. 0 gross trash can(s) loaded.
-[06:33:06]     .. 0 bus stops loaded
-[06:33:07]     .. 2 vending machine(s) loaded.
-[06:33:07]     .. 2 telephone cabins loaded.
-[06:33:08]     .. 1 GPS loaded..
-[06:33:08]     .. 0 small trash can(s) loaded.
-[06:33:08]     .. spawns loaded.
-[06:33:09]     .. 2 map(s) loaded.
-[06:33:09]     .. 0 sign(s) loaded.
-[06:33:09]     .. 0 Anti-DM zones loaded..
-[06:33:10]     .. 2 interiors loaded.
-[06:41:34] [connection] incoming connection: 127.0.0.1:58398 id: 0
-[06:41:34] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[06:41:51] [Login] Jasin_Refiku c'est logu.
-[06:42:03] Jasin_Refiku[0] /a tp
-[06:42:12] Jasin_Refiku[0] /a 
-[06:42:14] Jasin_Refiku[0] /a tp
-[06:42:17] Jasin_Refiku[0] /a tp pos
-[06:49:47] Jasin_Refiku[0] /a
-[06:49:49] Jasin_Refiku[0] /a create
-[06:49:58] Jasin_Refiku[0] /a goto pos 
-[06:50:14] Jasin_Refiku[0] /a goto pos 2117.3208 -1790.5564 13.5547
-[06:50:20] Jasin_Refiku[0] /job
-[06:50:26] Jasin_Refiku[0] /job start
-[06:50:29] Jasin_Refiku[0] /job quit
-[06:50:36] Jasin_Refiku[0] /job
-[06:50:41] Jasin_Refiku[0] /job
-[06:50:57] Jasin_Refiku[0] /job
-[06:51:01] Jasin_Refiku[0] /job start
-[06:52:39] Jasin_Refiku[0] /job locate
-[06:52:43] [chat] [Jasin_Refiku]: .
-[06:53:08] Jasin_Refiku[0] /job
-[06:53:09] Jasin_Refiku[0] /job start
-[06:53:11] Jasin_Refiku[0] /job start
-[06:53:17] Jasin_Refiku[0] /job locate
-[06:53:20] Jasin_Refiku[0] /job start
-[06:55:35] Jasin_Refiku[0] /veh 403 0 0
-[06:55:40] Jasin_Refiku[0] /a create car 403 0 0
-[06:55:42] Jasin_Refiku[0] /a create car 403 0 0 1
-[06:56:27] Jasin_Refiku[0] /a edit car
-[06:56:34] Old: 37 - New: 37
-[06:56:43] Jasin_Refiku[0] /job start
-[06:56:51] Jasin_Refiku[0] /job start
-[06:57:10] Jasin_Refiku[0] /a create car 414
-[06:57:13] Jasin_Refiku[0] /a create car 414 0 0 1
-[06:57:28] Jasin_Refiku[0] /job start
-[06:59:14] Jasin_Refiku[0] /a
-[06:59:18] Jasin_Refiku[0] /a mettrejob
-[06:59:25] Jasin_Refiku[0] /a mettrejob 0 3
-[07:00:05] Jasin_Refiku[0] /job
-[07:00:09] Jasin_Refiku[0] /job start
-[07:00:34] [07:00:34]
-[07:00:34]  Annonce Mto  Strong wind! Disturbed air traffic.
-[07:01:38] Jasin_Refiku[0] /stats
-[07:01:47] Jasin_Refiku[0] /job
-[07:01:50] Jasin_Refiku[0] /job finish
-[07:01:56] Jasin_Refiku[0] /job start
-[07:03:17] Jasin_Refiku[0] /job finish
-[07:03:39] Jasin_Refiku[0] /job quit
-[07:03:48] Jasin_Refiku[0] /job start
-[07:03:50] Jasin_Refiku[0] /job
-[07:03:54] Jasin_Refiku[0] /a skin
-[07:03:57] Jasin_Refiku[0] /a skin 0 304
-[07:04:00] Jasin_Refiku[0] /a skin 0 303
-[07:04:15] Jasin_Refiku[0] /job 
-[07:04:33] Jasin_Refiku[0] /job start
-[07:06:16] Jasin_Refiku[0] /a payday
-[07:06:24] Jasin_Refiku[0] /job quit
-[07:06:27] Jasin_Refiku[0] /a unfreeze 0
-[07:06:32] Jasin_Refiku[0] /job
-[07:06:39] Jasin_Refiku[0] /a tp ls 
-[07:06:46] Jasin_Refiku[0] /a vie 0
-[07:06:46] [death] Jasin_Refiku died 255
-[07:06:51] [death] Jasin_Refiku died 255
+[19:35:43] rcon_password = "changeme"  (string)
+[19:35:43] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -2569,103 +198,8 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[07:23:53] 
-[07:23:53] Server Plugins
-[07:23:53] --------------
-[07:23:53]  Loading plugin: crashdetect.dll
-[07:23:53]   CrashDetect v4.15.1 is OK.
-[07:23:53]   Loaded.
-[07:23:53]  Loading plugin: streamer.dll
-[07:23:53] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[07:23:53]   Loaded.
-[07:23:53]  Loading plugin: mysql.dll
-[07:23:53]  >> plugin.mysql: R41-2 successfully loaded.
-[07:23:53]   Loaded.
-[07:23:53]  Loading plugin: Encrypt.dll
-[07:23:53] 
-
-[07:23:53] ______________________________________
-
-[07:23:53]  Encrypt Plugin v0.1 loaded
-[07:23:53] ______________________________________
-
-[07:23:53]  By: Fro (c) Copyright <TBG> 2009-2010
-[07:23:53] ______________________________________
-
-[07:23:53]   Loaded.
-[07:23:53]  Loading plugin: nativechecker.dll
-[07:23:54]   Loaded.
-[07:23:54]  Loaded 5 plugins.
-
-[07:23:54] 
-[07:23:54] Ban list
-[07:23:54] --------
-[07:23:54]  Loaded: samp.ban
-[07:23:54] 
-[07:23:54] 
-[07:23:54] Filterscripts
-[07:23:54] ---------------
-[07:23:54]   Loading filterscript 'mapping.amx'...
-[07:23:54]   Loaded 1 filterscripts.
-
-[07:23:54] GameMode LVRP
-[07:23:54] ---------------
-[07:23:54] [MYSQL] Sign in in progress ...
-[07:23:56] [MYSQL] Sign in reussie
-[07:23:56]  
-[07:23:56] [STREAMER] Loading of streamer ..
-[07:23:56] [STREAMER] Streamer loaded.
-[07:23:56]  
-[07:23:56] [SETTINGS] Loading the settings ..
-[07:23:56] [SETTINGS] AntiCheat : 1 - Registration IG : 1 - Beta : 0 - Bots : 1
-[07:23:56]  
-[07:23:56] [INIT] Loading variables from the database ..
-[07:23:58]     .. FBI loaded.
-[07:23:58]     .. list of models loaded.
-[07:23:58]   Filterscript 'mapping.amx' load failed.
-[07:23:58] Informations
-[07:23:58] --------------
-[07:23:58] Gamemode for SAMP 0.3.7 R2|| Version GM sarp 5.0.1
-[07:23:58] - Developped by Dark_Rider29 (Samp Forum)
-[07:23:58] - Mapped by Lurtz59
-[07:23:58]  
-[07:23:58] Logs
-[07:23:58] ------
-[07:23:58] Number of vehicle models: 0
-[07:24:00]     .. 4 businesses loaded.
-[07:24:16]     .. UniqueBizzs loaded.
-[07:24:16]     .. 0 furnitures loaded.
-[07:24:16]     .. 1 House(s) loaded.
-[07:24:16]     .. 0 radar(s) loaded.
-[07:25:08] Kicking 127.0.0.1 because they didn't logon to the game.
-[07:25:50]     ... 1 police fines loaded.
-[07:25:50]     .. 0 loaded.
-[07:25:50]     .. 2 Illegal faction(s) saved.
-[07:25:51] [connection] incoming connection: 127.0.0.1:65471 id: 0
-[07:25:51] Invalid client connecting from 127.0.0.1
-[07:25:51]     .. 0 garage(s) loaded.
-[07:25:51]     .. 1 atm(s) loaded.
-[07:25:51]     .. 0 bus stops loaded
-[07:25:51]     .. 0 gross trash can(s) loaded.
-[07:25:54]     .. 2 telephone cabins loaded.
-[07:25:55]     .. 2 vending machine(s) loaded.
-[07:25:55]     .. 1 GPS loaded..
-[07:25:55]     .. 0 small trash can(s) loaded.
-[07:25:56]     .. 2 map(s) loaded.
-[07:25:56]     .. spawns loaded.
-[07:25:57]     .. 0 sign(s) loaded.
-[07:25:57]     .. 0 Anti-DM zones loaded..
-[07:25:57]     .. 2 interiors loaded.
-[07:26:09] [connection] incoming connection: 127.0.0.1:60450 id: 0
-[07:26:10] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[07:26:24] [Login] Jasin_Refiku c'est logu.
-[07:26:35] Jasin_Refiku[0] /a
-[07:26:35] [chat] [Jasin_Refiku]: .
-[07:26:51] Jasin_Refiku[0] /a time
-[07:28:25] Jasin_Refiku[0] /hazards
+[19:35:45] rcon_password = "changeme"  (string)
+[19:35:45] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -2675,44 +209,8 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[07:53:07] 
-[07:53:07] Server Plugins
-[07:53:07] --------------
-[07:53:07]  Loading plugin: crashdetect.dll
-[07:53:09]   CrashDetect v4.15.1 is OK.
-[07:53:09]   Loaded.
-[07:53:09]  Loading plugin: streamer.dll
-[07:53:10] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[07:53:10]   Loaded.
-[07:53:10]  Loading plugin: mysql.dll
-[07:53:12]  >> plugin.mysql: R41-2 successfully loaded.
-[07:53:12]   Loaded.
-[07:53:12]  Loading plugin: Encrypt.dll
-[07:53:13] 
-
-[07:53:13] ______________________________________
-
-[07:53:13]  Encrypt Plugin v0.1 loaded
-[07:53:13] ______________________________________
-
-[07:53:13]  By: Fro (c) Copyright <TBG> 2009-2010
-[07:53:13] ______________________________________
-
-[07:53:13]   Loaded.
-[07:53:13]  Loading plugin: nativechecker.dll
-[07:53:18]   Loaded.
-[07:53:18]  Loaded 5 plugins.
-
-[07:53:19] 
-[07:53:19] Ban list
-[07:53:19] --------
-[07:53:19]  Loaded: samp.ban
-[07:53:19] 
-[07:53:19] I couldn't load any gamemode scripts. Please verify your server.cfg
-[07:53:19] It needs a gamemode0 line at the very least.
+[19:35:50] rcon_password = "changeme"  (string)
+[19:35:50] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -2722,63 +220,8 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[08:40:50] 
-[08:40:50] Server Plugins
-[08:40:50] --------------
-[08:40:50]  Loading plugin: crashdetect.dll
-[08:40:50]   CrashDetect v4.15.1 is OK.
-[08:40:50]   Loaded.
-[08:40:50]  Loading plugin: streamer.dll
-[08:40:50] 
-
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
-
-[08:40:50]   Loaded.
-[08:40:50]  Loading plugin: mysql.dll
-[08:40:50]  >> plugin.mysql: R41-2 successfully loaded.
-[08:40:50]   Loaded.
-[08:40:50]  Loading plugin: Encrypt.dll
-[08:40:50] 
-
-[08:40:50] ______________________________________
-
-[08:40:50]  Encrypt Plugin v0.1 loaded
-[08:40:50] ______________________________________
-
-[08:40:50]  By: Fro (c) Copyright <TBG> 2009-2010
-[08:40:50] ______________________________________
-
-[08:40:50]   Loaded.
-[08:40:50]  Loading plugin: nativechecker.dll
-[08:40:50]   Loaded.
-[08:40:50]  Loaded 5 plugins.
-
-[08:40:51] 
-[08:40:51] Ban list
-[08:40:51] --------
-[08:40:51]  Loaded: samp.ban
-[08:40:51] 
-[08:40:51] 
-[08:40:51] Filterscripts
-[08:40:51] ---------------
-[08:40:51]   Loaded 0 filterscripts.
-
-[08:40:51]    Error: Function not registered: 'SSCANF_Init'
-[08:40:51]    Error: Function not registered: 'SSCANF_IsConnected'
-[08:40:51]    Error: Function not registered: 'SSCANF_Join'
-[08:40:51]    Error: Function not registered: 'SSCANF_Leave'
-[08:40:51] [debug] Run time error 19: "File or function is not found"
-[08:40:51] [debug]  SSCANF_Init
-[08:40:51] [debug]  SSCANF_IsConnected
-[08:40:51] [debug]  SSCANF_Join
-[08:40:51] [debug]  SSCANF_Leave
-[08:40:51] [debug] Run time error 19: "File or function is not found"
-[08:40:51] [debug]  SSCANF_Init
-[08:40:51] [debug]  SSCANF_IsConnected
-[08:40:51] [debug]  SSCANF_Join
-[08:40:51] [debug]  SSCANF_Leave
-[08:40:51] Script[gamemodes/test.amx]: Run time error 19: "File or function is not found"
-[08:40:51] Number of vehicle models: 0
+[19:35:58] rcon_password = "changeme"  (string)
+[19:35:58] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -2788,295 +231,65 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[08:49:58] 
-[08:49:58] Server Plugins
-[08:49:58] --------------
-[08:49:58]  Loading plugin: crashdetect.dll
-[08:49:58]   CrashDetect v4.15.1 is OK.
-[08:49:58]   Loaded.
-[08:49:58]  Loading plugin: streamer.dll
-[08:49:58] 
+[19:36:14] 
+[19:36:14] Server Plugins
+[19:36:14] --------------
+[19:36:14]  Loading plugin: crashdetect
+[19:36:14]   CrashDetect plugin 4.19.4
+[19:36:14]   Loaded.
+[19:36:14]  Loading plugin: mysql
+[19:36:14]  >> plugin.mysql: R41-4 successfully loaded.
+[19:36:14]   Loaded.
+[19:36:14]  Loading plugin: streamer
+[19:36:14] 
 
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[08:49:58]   Loaded.
-[08:49:58]  Loading plugin: mysql.dll
-[08:49:58]  >> plugin.mysql: R39-6 successfully loaded.
-[08:49:58]   Loaded.
-[08:49:58]  Loading plugin: Encrypt.dll
-[08:49:58] 
-
-[08:49:58] ______________________________________
-
-[08:49:58]  Encrypt Plugin v0.1 loaded
-[08:49:58] ______________________________________
-
-[08:49:58]  By: Fro (c) Copyright <TBG> 2009-2010
-[08:49:58] ______________________________________
-
-[08:49:58]   Loaded.
-[08:49:58]  Loading plugin: nativechecker.dll
-[08:49:58]   Loaded.
-[08:49:58]  Loaded 5 plugins.
+[19:36:14]   Loaded.
+[19:36:14]  Loading plugin: sscanf
+[19:36:14] 
 
-[08:49:58] 
-[08:49:58] Ban list
-[08:49:58] --------
-[08:49:58]  Loaded: samp.ban
-[08:49:58] 
-[08:49:58] 
-[08:49:58] Filterscripts
-[08:49:58] ---------------
-[08:49:58]   Loaded 0 filterscripts.
+[19:36:14]  ===============================
 
-[08:49:58]    Error: Function not registered: 'SSCANF_Init'
-[08:49:58]    Error: Function not registered: 'SSCANF_IsConnected'
-[08:49:58]    Error: Function not registered: 'SSCANF_Join'
-[08:49:58]    Error: Function not registered: 'SSCANF_Leave'
-[08:49:58] [debug] Run time error 19: "File or function is not found"
-[08:49:58] [debug]  SSCANF_Init
-[08:49:58] [debug]  SSCANF_IsConnected
-[08:49:58] [debug]  SSCANF_Join
-[08:49:58] [debug]  SSCANF_Leave
-[08:49:58] [debug] Run time error 19: "File or function is not found"
-[08:49:58] [debug]  SSCANF_Init
-[08:49:58] [debug]  SSCANF_IsConnected
-[08:49:58] [debug]  SSCANF_Join
-[08:49:58] [debug]  SSCANF_Leave
-[08:49:58] Script[gamemodes/test.amx]: Run time error 19: "File or function is not found"
-[08:49:58] Number of vehicle models: 0
-[08:51:27] [connection] incoming connection: 127.0.0.1:52553 id: 0
-[08:51:27] [debug] Run time error 19: "File or function is not found"
-[08:51:27] [debug]  SSCANF_Init
-[08:51:27] [debug]  SSCANF_IsConnected
-[08:51:27] [debug]  SSCANF_Join
-[08:51:27] [debug]  SSCANF_Leave
-[08:51:29] [connection] incoming connection: 127.0.0.1:52554 id: 0
-[08:51:29] [debug] Run time error 19: "File or function is not found"
-[08:51:29] [debug]  SSCANF_Init
-[08:51:29] [debug]  SSCANF_IsConnected
-[08:51:29] [debug]  SSCANF_Join
-[08:51:29] [debug]  SSCANF_Leave
-[08:51:29] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[08:51:29] [debug] Run time error 19: "File or function is not found"
-[08:51:29] [debug]  SSCANF_Init
-[08:51:29] [debug]  SSCANF_IsConnected
-[08:51:29] [debug]  SSCANF_Join
-[08:51:29] [debug]  SSCANF_Leave
-[08:51:29] [debug] Run time error 19: "File or function is not found"
-[08:51:29] [debug]  SSCANF_Init
-[08:51:29] [debug]  SSCANF_IsConnected
-[08:51:29] [debug]  SSCANF_Join
-[08:51:29] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:35] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:35] [debug] Run time error 19: "File or function is not found"
-[08:51:35] [debug]  SSCANF_Init
-[08:51:35] [debug]  SSCANF_IsConnected
-[08:51:35] [debug]  SSCANF_Join
-[08:51:35] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:36] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:36] [debug] Run time error 19: "File or function is not found"
-[08:51:36] [debug]  SSCANF_Init
-[08:51:36] [debug]  SSCANF_IsConnected
-[08:51:36] [debug]  SSCANF_Join
-[08:51:36] [debug]  SSCANF_Leave
-[08:51:37] [sampgdk:error] Too many callback arguments (at most 32 allowed)
-[08:51:37] [debug] Run time error 19: "File or function is not found"
-[08:51:37] [debug]  SSCANF_Init
-[08:51:37] [debug]  SSCANF_IsConnected
-[08:51:37] [debug]  SSCANF_Join
-[08:51:37] [debug]  SSCANF_Leave
+[19:36:14]       sscanf plugin loaded.     
+
+[19:36:14]          Version:  2.8.3        
+
+[19:36:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:36:14]  ===============================
+
+[19:36:14]   Loaded.
+[19:36:14]  Loaded 4 plugins.
+
+[19:36:14] 
+[19:36:14] Filterscripts
+[19:36:14] ---------------
+[19:36:14]   Loaded 0 filterscripts.
+
+[19:36:30] Number of vehicle models: 0
+[19:38:16] [connection] incoming connection: 127.0.0.1:53277 id: 0
+[19:38:17] [connection] incoming connection: 127.0.0.1:53278 id: 0
+[19:38:17] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+Console input: help
+Console input: restart
+Console input: exit
+[19:38:38] --- Server Shutting Down.
+[19:38:38] [part] Jasin_Refiku has left the server (0:0)
+[19:38:38] plugin.mysql: Unloading plugin...
+[19:38:38] plugin.mysql: Plugin unloaded.
+[19:38:38] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[19:38:38] 
+
+[19:38:38]  ===============================
+
+[19:38:38]      sscanf plugin unloaded.    
+
+[19:38:38]  ===============================
+
 
 ----------
 Loaded log file: "server_log.txt".
@@ -3086,63 +299,59 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[08:52:56] 
-[08:52:56] Server Plugins
-[08:52:56] --------------
-[08:52:56]  Loading plugin: crashdetect.dll
-[08:52:56]   CrashDetect v4.15.1 is OK.
-[08:52:56]   Loaded.
-[08:52:56]  Loading plugin: streamer.dll
-[08:52:56] 
+[19:38:41] 
+[19:38:41] Server Plugins
+[19:38:41] --------------
+[19:38:41]  Loading plugin: crashdetect
+[19:38:41]   CrashDetect plugin 4.19.4
+[19:38:41]   Loaded.
+[19:38:41]  Loading plugin: mysql
+[19:38:41]  >> plugin.mysql: R41-4 successfully loaded.
+[19:38:41]   Loaded.
+[19:38:41]  Loading plugin: streamer
+[19:38:41] 
 
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[08:52:56]   Loaded.
-[08:52:56]  Loading plugin: mysql.dll
-[08:52:57]  >> plugin.mysql: R39-6 successfully loaded.
-[08:52:57]   Loaded.
-[08:52:57]  Loading plugin: Encrypt.dll
-[08:52:57] 
-
-[08:52:57] ______________________________________
-
-[08:52:57]  Encrypt Plugin v0.1 loaded
-[08:52:57] ______________________________________
-
-[08:52:57]  By: Fro (c) Copyright <TBG> 2009-2010
-[08:52:57] ______________________________________
-
-[08:52:57]   Loaded.
-[08:52:57]  Loading plugin: nativechecker.dll
-[08:52:57]   Loaded.
-[08:52:57]  Loaded 5 plugins.
+[19:38:41]   Loaded.
+[19:38:41]  Loading plugin: sscanf
+[19:38:41] 
 
-[08:52:57] 
-[08:52:57] Ban list
-[08:52:57] --------
-[08:52:57]  Loaded: samp.ban
-[08:52:57] 
-[08:52:57] 
-[08:52:57] Filterscripts
-[08:52:57] ---------------
-[08:52:57]   Loaded 0 filterscripts.
+[19:38:41]  ===============================
 
-[08:52:57]    Error: Function not registered: 'SSCANF_Init'
-[08:52:57]    Error: Function not registered: 'SSCANF_IsConnected'
-[08:52:57]    Error: Function not registered: 'SSCANF_Join'
-[08:52:57]    Error: Function not registered: 'SSCANF_Leave'
-[08:52:57] [debug] Run time error 19: "File or function is not found"
-[08:52:57] [debug]  SSCANF_Init
-[08:52:57] [debug]  SSCANF_IsConnected
-[08:52:57] [debug]  SSCANF_Join
-[08:52:57] [debug]  SSCANF_Leave
-[08:52:57] [debug] Run time error 19: "File or function is not found"
-[08:52:57] [debug]  SSCANF_Init
-[08:52:57] [debug]  SSCANF_IsConnected
-[08:52:57] [debug]  SSCANF_Join
-[08:52:57] [debug]  SSCANF_Leave
-[08:52:57] Script[gamemodes/test.amx]: Run time error 19: "File or function is not found"
-[08:52:57] Number of vehicle models: 0
+[19:38:41]       sscanf plugin loaded.     
+
+[19:38:41]          Version:  2.8.3        
+
+[19:38:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:38:41]  ===============================
+
+[19:38:41]   Loaded.
+[19:38:41]  Loaded 4 plugins.
+
+[19:38:41] 
+[19:38:41] Filterscripts
+[19:38:41] ---------------
+[19:38:41]   Loaded 0 filterscripts.
+
+[19:38:58] Number of vehicle models: 0
+Console input: exit
+[19:42:00] --- Server Shutting Down.
+[19:42:01] plugin.mysql: Unloading plugin...
+[19:42:01] plugin.mysql: Plugin unloaded.
+[19:42:01] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[19:42:01] 
+
+[19:42:01]  ===============================
+
+[19:42:01]      sscanf plugin unloaded.    
+
+[19:42:01]  ===============================
+
 
 ----------
 Loaded log file: "server_log.txt".
@@ -3152,51 +361,45 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[08:55:22] 
-[08:55:22] Server Plugins
-[08:55:22] --------------
-[08:55:22]  Loading plugin: crashdetect.dll
-[08:55:22]   CrashDetect v4.15.1 is OK.
-[08:55:22]   Loaded.
-[08:55:22]  Loading plugin: streamer.dll
-[08:55:22] 
+[19:42:03] 
+[19:42:03] Server Plugins
+[19:42:03] --------------
+[19:42:03]  Loading plugin: crashdetect
+[19:42:03]   CrashDetect plugin 4.19.4
+[19:42:03]   Loaded.
+[19:42:03]  Loading plugin: mysql
+[19:42:03]  >> plugin.mysql: R41-4 successfully loaded.
+[19:42:03]   Loaded.
+[19:42:03]  Loading plugin: streamer
+[19:42:03] 
 
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[08:55:22]   Loaded.
-[08:55:22]  Loading plugin: mysql.dll
-[08:55:22]  >> plugin.mysql: R39-6 successfully loaded.
-[08:55:22]   Loaded.
-[08:55:22]  Loading plugin: Encrypt.dll
-[08:55:22] 
-
-[08:55:22] ______________________________________
-
-[08:55:22]  Encrypt Plugin v0.1 loaded
-[08:55:22] ______________________________________
-
-[08:55:22]  By: Fro (c) Copyright <TBG> 2009-2010
-[08:55:22] ______________________________________
-
-[08:55:22]   Loaded.
-[08:55:22]  Loading plugin: nativechecker.dll
-[08:55:22]   Loaded.
-[08:55:22]  Loaded 5 plugins.
+[19:42:03]   Loaded.
+[19:42:03]  Loading plugin: sscanf
+[19:42:03] 
 
-[08:55:22] 
-[08:55:22] Ban list
-[08:55:22] --------
-[08:55:22]  Loaded: samp.ban
-[08:55:22] 
-[08:55:22] 
-[08:55:22] Filterscripts
-[08:55:22] ---------------
-[08:55:22]   Loaded 0 filterscripts.
+[19:42:03]  ===============================
 
-[08:55:24] Number of vehicle models: 0
-[08:55:33] [connection] incoming connection: 127.0.0.1:53938 id: 0
-[08:55:43] [connection] incoming connection: 127.0.0.1:53941 id: 0
-[08:55:44] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[19:42:03]       sscanf plugin loaded.     
+
+[19:42:03]          Version:  2.8.3        
+
+[19:42:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:42:03]  ===============================
+
+[19:42:03]   Loaded.
+[19:42:03]  Loaded 4 plugins.
+
+[19:42:04] 
+[19:42:04] Filterscripts
+[19:42:04] ---------------
+[19:42:04]   Loaded 0 filterscripts.
+
+[19:42:04] Number of vehicle models: 0
+[19:42:34] [connection] incoming connection: 127.0.0.1:50091 id: 0
+[19:42:34] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
 
 ----------
 Loaded log file: "server_log.txt".
@@ -3206,114 +409,74 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[09:02:45] 
-[09:02:45] Server Plugins
-[09:02:45] --------------
-[09:02:45]  Loading plugin: crashdetect.dll
-[09:02:45]   CrashDetect v4.15.1 is OK.
-[09:02:45]   Loaded.
-[09:02:45]  Loading plugin: streamer.dll
-[09:02:45] 
+[19:44:47] 
+[19:44:47] Server Plugins
+[19:44:47] --------------
+[19:44:47]  Loading plugin: nativechecker
+[19:44:47]   Loaded.
+[19:44:47]  Loading plugin: crashdetect
+[19:44:47]   CrashDetect plugin 4.19.4
+[19:44:47]   Loaded.
+[19:44:47]  Loading plugin: mysql
+[19:44:47]  >> plugin.mysql: R41-4 successfully loaded.
+[19:44:47]   Loaded.
+[19:44:47]  Loading plugin: streamer
+[19:44:47] 
 
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[09:02:45]   Loaded.
-[09:02:45]  Loading plugin: mysql.dll
-[09:02:45]  >> plugin.mysql: R39-6 successfully loaded.
-[09:02:45]   Loaded.
-[09:02:45]  Loading plugin: Encrypt.dll
-[09:02:45] 
-
-[09:02:45] ______________________________________
-
-[09:02:45]  Encrypt Plugin v0.1 loaded
-[09:02:45] ______________________________________
-
-[09:02:45]  By: Fro (c) Copyright <TBG> 2009-2010
-[09:02:45] ______________________________________
-
-[09:02:45]   Loaded.
-[09:02:45]  Loading plugin: nativechecker.dll
-[09:02:45]   Loaded.
-[09:02:45]  Loaded 5 plugins.
+[19:44:47]   Loaded.
+[19:44:47]  Loading plugin: sscanf
+[19:44:47] 
 
-[09:02:45] 
-[09:02:45] Ban list
-[09:02:45] --------
-[09:02:45]  Loaded: samp.ban
-[09:02:45] 
-[09:02:45] 
-[09:02:45] Filterscripts
-[09:02:45] ---------------
-[09:02:45]   Loaded 0 filterscripts.
+[19:44:47]  ===============================
 
-[09:02:45] Number of vehicle models: 0
-[09:02:52] [connection] incoming connection: 127.0.0.1:53716 id: 0
-[09:03:02] [connection] incoming connection: 127.0.0.1:53718 id: 0
-[09:03:02] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[09:04:23] [part] Jasin_Refiku has left the server (0:1)
-[09:04:24] [connection] incoming connection: 127.0.0.1:63936 id: 0
-[09:04:24] [join] Jasin_D has joined the server (0:127.0.0.1)
+[19:44:47]       sscanf plugin loaded.     
 
-----------
-Loaded log file: "server_log.txt".
-----------
+[19:44:47]          Version:  2.8.3        
 
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
+[19:44:47]   (c) 2018 Alex "Y_Less" Cole  
 
-[09:21:25] 
-[09:21:25] Server Plugins
-[09:21:25] --------------
-[09:21:25]  Loading plugin: crashdetect.dll
-[09:21:25]   CrashDetect v4.15.1 is OK.
-[09:21:25]   Loaded.
-[09:21:25]  Loading plugin: streamer.dll
-[09:21:25] 
+[19:44:47]  ===============================
 
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
+[19:44:47]   Loaded.
+[19:44:47]  Loaded 5 plugins.
 
-[09:21:25]   Loaded.
-[09:21:25]  Loading plugin: mysql.dll
-[09:21:25]  >> plugin.mysql: R39-6 successfully loaded.
-[09:21:25]   Loaded.
-[09:21:25]  Loading plugin: Encrypt.dll
-[09:21:25] 
-
-[09:21:25] ______________________________________
-
-[09:21:25]  Encrypt Plugin v0.1 loaded
-[09:21:25] ______________________________________
-
-[09:21:25]  By: Fro (c) Copyright <TBG> 2009-2010
-[09:21:25] ______________________________________
-
-[09:21:25]   Loaded.
-[09:21:25]  Loading plugin: nativechecker.dll
-[09:21:25]   Loaded.
-[09:21:25]  Loaded 5 plugins.
+[19:44:47] 
+[19:44:47] Filterscripts
+[19:44:47] ---------------
+[19:44:47]   Loaded 0 filterscripts.
 
-[09:21:25] 
-[09:21:25] Ban list
-[09:21:25] --------
-[09:21:25]  Loaded: samp.ban
-[09:21:25] 
-[09:21:25] 
-[09:21:25] Filterscripts
-[09:21:25] ---------------
-[09:21:25]   Loaded 0 filterscripts.
+[19:44:47]    Error: Function not registered: 'cache_get_row_count'
+[19:44:47]    Error: Function not registered: 'SSCANF_Init'
+[19:44:47]    Error: Function not registered: 'SSCANF_IsConnected'
+[19:44:47]    Error: Function not registered: 'SSCANF_Join'
+[19:44:47]    Error: Function not registered: 'SSCANF_Leave'
+[19:44:47]    Error: Function not registered: 'cache_get_value_name'
+[19:44:47]    Error: Function not registered: 'mysql_format'
+[19:44:47]    Error: Function not registered: 'mysql_pquery'
+[19:44:47]    Error: Function not registered: 'cache_insert_id'
+[19:44:47]    Error: Function not registered: 'sscanf'
+[19:44:47]    Error: Function not registered: 'mysql_log'
+[19:44:47]    Error: Function not registered: 'mysql_connect'
+[19:44:47]    Error: Function not registered: 'mysql_close'
+[19:44:48] Number of vehicle models: 0
+Console input: exit
+[19:45:23] --- Server Shutting Down.
+[19:45:23] plugin.mysql: Unloading plugin...
+[19:45:23] plugin.mysql: Plugin unloaded.
+[19:45:23] 
 
-[09:21:25] Number of vehicle models: 0
-[09:21:39] [connection] incoming connection: 127.0.0.1:50142 id: 0
-[09:21:49] [connection] incoming connection: 127.0.0.1:50146 id: 0
-[09:21:49] [join] Jasin_D has joined the server (0:127.0.0.1)
-[09:21:52] [debug] Server crashed while executing test.amx
-[09:21:52] [debug] AMX backtrace:
-[09:21:52] [debug] #0 native SendClientMessage () from samp-server.exe
-[09:21:52] [debug] #1 00001e24 in public SQL_OnAccountLogin (playerid=0) at C:\Users\jasin\Desktop\SARP\gamemodes\test.pwn:152
-[09:21:52] [debug] Native backtrace:
-[09:21:52] [debug] #0 0049dc0c in ?? () from samp-server.exe
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[19:45:23] 
+
+[19:45:23]  ===============================
+
+[19:45:23]      sscanf plugin unloaded.    
+
+[19:45:23]  ===============================
+
 
 ----------
 Loaded log file: "server_log.txt".
@@ -3323,129 +486,58 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[09:24:03] 
-[09:24:03] Server Plugins
-[09:24:03] --------------
-[09:24:03]  Loading plugin: crashdetect.dll
-[09:24:03]   CrashDetect v4.15.1 is OK.
-[09:24:03]   Loaded.
-[09:24:03]  Loading plugin: streamer.dll
-[09:24:03] 
+[19:45:26] 
+[19:45:26] Server Plugins
+[19:45:26] --------------
+[19:45:26]  Loading plugin: nativechecker
+[19:45:26]   Loaded.
+[19:45:26]  Loading plugin: crashdetect
+[19:45:26]   CrashDetect plugin 4.19.4
+[19:45:26]   Loaded.
+[19:45:26]  Loading plugin: mysql
+[19:45:26]  >> plugin.mysql: R41-4 successfully loaded.
+[19:45:26]   Loaded.
+[19:45:26]  Loading plugin: streamer
+[19:45:26] 
 
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[09:24:03]   Loaded.
-[09:24:03]  Loading plugin: mysql.dll
-[09:24:03]  >> plugin.mysql: R39-6 successfully loaded.
-[09:24:03]   Loaded.
-[09:24:03]  Loading plugin: Encrypt.dll
-[09:24:03] 
-
-[09:24:03] ______________________________________
-
-[09:24:03]  Encrypt Plugin v0.1 loaded
-[09:24:03] ______________________________________
-
-[09:24:03]  By: Fro (c) Copyright <TBG> 2009-2010
-[09:24:03] ______________________________________
-
-[09:24:03]   Loaded.
-[09:24:03]  Loading plugin: nativechecker.dll
-[09:24:03]   Loaded.
-[09:24:03]  Loaded 5 plugins.
+[19:45:26]   Loaded.
+[19:45:26]  Loading plugin: sscanf
+[19:45:26] 
 
-[09:24:03] 
-[09:24:03] Ban list
-[09:24:03] --------
-[09:24:03]  Loaded: samp.ban
-[09:24:03] 
-[09:24:03] 
-[09:24:03] Filterscripts
-[09:24:03] ---------------
-[09:24:03]   Loaded 0 filterscripts.
+[19:45:26]  ===============================
 
-[09:24:03] Number of vehicle models: 0
-[09:24:06] [connection] incoming connection: 127.0.0.1:57120 id: 0
-[09:24:06] [join] Jasin_D has joined the server (0:127.0.0.1)
+[19:45:26]       sscanf plugin loaded.     
 
-----------
-Loaded log file: "server_log.txt".
-----------
+[19:45:26]          Version:  2.8.3        
 
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
+[19:45:26]   (c) 2018 Alex "Y_Less" Cole  
 
-[10:28:37] 
-[10:28:37] Server Plugins
-[10:28:37] --------------
-[10:28:37]  Loading plugin: crashdetect.dll
-[10:28:37]   CrashDetect v4.15.1 is OK.
-[10:28:37]   Loaded.
-[10:28:37]  Loading plugin: streamer.dll
-[10:28:37] 
+[19:45:26]  ===============================
 
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
+[19:45:26]   Loaded.
+[19:45:26]  Loaded 5 plugins.
 
-[10:28:37]   Loaded.
-[10:28:37]  Loading plugin: mysql.dll
-[10:28:37]  >> plugin.mysql: R39-6 successfully loaded.
-[10:28:37]   Loaded.
-[10:28:37]  Loading plugin: Encrypt.dll
-[10:28:37] 
-
-[10:28:37] ______________________________________
-
-[10:28:37]  Encrypt Plugin v0.1 loaded
-[10:28:37] ______________________________________
-
-[10:28:37]  By: Fro (c) Copyright <TBG> 2009-2010
-[10:28:37] ______________________________________
-
-[10:28:37]   Loaded.
-[10:28:37]  Loading plugin: nativechecker.dll
-[10:28:37]   Loaded.
-[10:28:37]  Loaded 5 plugins.
+[19:45:26] 
+[19:45:26] Filterscripts
+[19:45:26] ---------------
+[19:45:26]   Loaded 0 filterscripts.
 
-[10:28:37] 
-[10:28:37] Ban list
-[10:28:37] --------
-[10:28:37]  Loaded: samp.ban
-[10:28:37] 
-[10:28:37] 
-[10:28:37] Filterscripts
-[10:28:37] ---------------
-[10:28:37]   Loading filterscript 'tstudio.amx'...
-[10:28:37] *** Streamer Plugin: Include file version (0x27201) does not match plugin version (0x291) (script might need to be recompiled with the correct include file).
-[10:28:37]    Error: Function not registered: 'SSCANF_Init'
-[10:28:37]    Error: Function not registered: 'SSCANF_Join'
-[10:28:37]    Error: Function not registered: 'SSCANF_Leave'
-[10:28:37]    Error: Function not registered: 'sscanf'
-[10:28:37]    Error: Function not registered: 'dir_open'
-[10:28:37]    Error: Function not registered: 'dir_list'
-[10:28:37]    Error: Function not registered: 'file_copy'
-[10:28:37]    Error: Function not registered: 'file_delete'
-[10:28:37] [debug] Run time error 19: "File or function is not found"
-[10:28:37] [debug]  SSCANF_Init
-[10:28:37] [debug]  SSCANF_Join
-[10:28:37] [debug]  SSCANF_Leave
-[10:28:37] [debug]  sscanf
-[10:28:37] [debug]  dir_open
-[10:28:37] [debug]  dir_list
-[10:28:37] [debug]  file_copy
-[10:28:37] [debug]  file_delete
-[10:28:37]   Loaded 1 filterscripts.
-
-[10:28:37] [debug] Run time error 19: "File or function is not found"
-[10:28:37] [debug]  SSCANF_Init
-[10:28:37] [debug]  SSCANF_Join
-[10:28:37] [debug]  SSCANF_Leave
-[10:28:37] [debug]  sscanf
-[10:28:37] [debug]  dir_open
-[10:28:37] [debug]  dir_list
-[10:28:37] [debug]  file_copy
-[10:28:37] [debug]  file_delete
-[10:28:37] Number of vehicle models: 0
+[19:45:26]    Error: Function not registered: 'cache_get_row_count'
+[19:45:26]    Error: Function not registered: 'SSCANF_Init'
+[19:45:26]    Error: Function not registered: 'SSCANF_IsConnected'
+[19:45:26]    Error: Function not registered: 'SSCANF_Join'
+[19:45:26]    Error: Function not registered: 'SSCANF_Leave'
+[19:45:26]    Error: Function not registered: 'cache_get_value_name'
+[19:45:26]    Error: Function not registered: 'mysql_format'
+[19:45:26]    Error: Function not registered: 'mysql_pquery'
+[19:45:26]    Error: Function not registered: 'cache_insert_id'
+[19:45:26]    Error: Function not registered: 'sscanf'
+[19:45:26]    Error: Function not registered: 'mysql_log'
+[19:45:26]    Error: Function not registered: 'mysql_connect'
+[19:45:26]    Error: Function not registered: 'mysql_close'
+[19:45:26] Number of vehicle models: 0
 
 ----------
 Loaded log file: "server_log.txt".
@@ -3455,75 +547,50 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[11:55:38] 
-[11:55:38] Server Plugins
-[11:55:38] --------------
-[11:55:38]  Loading plugin: crashdetect.dll
-[11:55:39]   CrashDetect v4.15.1 is OK.
-[11:55:39]   Loaded.
-[11:55:39]  Loading plugin: streamer.dll
-[11:55:39] 
+[19:46:30] 
+[19:46:30] Server Plugins
+[19:46:30] --------------
+[19:46:30]  Loading plugin: crashdetect
+[19:46:30]   CrashDetect plugin 4.19.4
+[19:46:30]   Loaded.
+[19:46:30]  Loading plugin: mysql
+[19:46:30]  >> plugin.mysql: R41-4 successfully loaded.
+[19:46:30]   Loaded.
+[19:46:30]  Loading plugin: nativechecker
+[19:46:30]   Loaded.
+[19:46:30]  Loading plugin: sscanf
+[19:46:30] 
 
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
+[19:46:30]  ===============================
 
-[11:55:39]   Loaded.
-[11:55:39]  Loading plugin: mysql.dll
-[11:55:39]  >> plugin.mysql: R39-6 successfully loaded.
-[11:55:39]   Loaded.
-[11:55:39]  Loading plugin: Encrypt.dll
-[11:55:39] 
-
-[11:55:39] ______________________________________
-
-[11:55:39]  Encrypt Plugin v0.1 loaded
-[11:55:39] ______________________________________
-
-[11:55:39]  By: Fro (c) Copyright <TBG> 2009-2010
-[11:55:39] ______________________________________
-
-[11:55:39]   Loaded.
-[11:55:39]  Loading plugin: nativechecker.dll
-[11:55:39]   Loaded.
-[11:55:39]  Loaded 5 plugins.
+[19:46:30]       sscanf plugin loaded.     
 
-[11:55:39] 
-[11:55:39] Ban list
-[11:55:39] --------
-[11:55:39]  Loaded: samp.ban
-[11:55:39] 
-[11:55:39] 
-[11:55:39] Filterscripts
-[11:55:39] ---------------
-[11:55:39]   Loading filterscript 'tstudio.amx'...
-[11:55:39]   Unable to load filterscript 'tstudio.amx'.
-[11:55:39]   Loaded 0 filterscripts.
+[19:46:30]          Version:  2.8.3        
 
-[11:55:39]    Error: Function not registered: 'SSCANF_Init'
-[11:55:39]    Error: Function not registered: 'SSCANF_IsConnected'
-[11:55:39]    Error: Function not registered: 'SSCANF_Join'
-[11:55:39]    Error: Function not registered: 'SSCANF_Leave'
-[11:55:39]    Error: Function not registered: 'sscanf'
-[11:55:39] [debug] Run time error 19: "File or function is not found"
-[11:55:39] [debug]  SSCANF_Init
-[11:55:39] [debug]  SSCANF_IsConnected
-[11:55:39] [debug]  SSCANF_Join
-[11:55:39] [debug]  SSCANF_Leave
-[11:55:39] [debug]  sscanf
-[11:55:39] [debug] Run time error 19: "File or function is not found"
-[11:55:39] [debug]  SSCANF_Init
-[11:55:39] [debug]  SSCANF_IsConnected
-[11:55:39] [debug]  SSCANF_Join
-[11:55:39] [debug]  SSCANF_Leave
-[11:55:39] [debug]  sscanf
-[11:55:39] Script[gamemodes/test.amx]: Run time error 19: "File or function is not found"
-[11:55:39] Number of vehicle models: 0
-[11:57:08] --- Server Shutting Down.
-[11:57:08] [debug] Run time error 19: "File or function is not found"
-[11:57:08] [debug]  SSCANF_Init
-[11:57:08] [debug]  SSCANF_IsConnected
-[11:57:08] [debug]  SSCANF_Join
-[11:57:08] [debug]  SSCANF_Leave
-[11:57:08] [debug]  sscanf
+[19:46:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:46:30]  ===============================
+
+[19:46:30]   Loaded.
+[19:46:30]  Loading plugin: streamer
+[19:46:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:46:30]   Loaded.
+[19:46:30]  Loaded 5 plugins.
+
+[19:46:30] 
+[19:46:30] Filterscripts
+[19:46:30] ---------------
+[19:46:30]   Loaded 0 filterscripts.
+
+[19:46:30]    Error: Function not registered: 'SSCANF_Init'
+[19:46:30]    Error: Function not registered: 'SSCANF_IsConnected'
+[19:46:30]    Error: Function not registered: 'SSCANF_Join'
+[19:46:30]    Error: Function not registered: 'SSCANF_Leave'
+[19:46:30]    Error: Function not registered: 'sscanf'
+[19:46:30] Number of vehicle models: 0
 
 ----------
 Loaded log file: "server_log.txt".
@@ -3533,75 +600,50 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[11:57:09] 
-[11:57:09] Server Plugins
-[11:57:09] --------------
-[11:57:09]  Loading plugin: crashdetect.dll
-[11:57:09]   CrashDetect v4.15.1 is OK.
-[11:57:09]   Loaded.
-[11:57:09]  Loading plugin: streamer.dll
-[11:57:09] 
+[19:48:21] 
+[19:48:21] Server Plugins
+[19:48:21] --------------
+[19:48:21]  Loading plugin: crashdetect
+[19:48:21]   CrashDetect plugin 4.19.4
+[19:48:21]   Loaded.
+[19:48:21]  Loading plugin: streamer
+[19:48:21] 
 
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[11:57:09]   Loaded.
-[11:57:09]  Loading plugin: mysql.dll
-[11:57:09]  >> plugin.mysql: R39-6 successfully loaded.
-[11:57:09]   Loaded.
-[11:57:09]  Loading plugin: Encrypt.dll
-[11:57:09] 
-
-[11:57:09] ______________________________________
-
-[11:57:09]  Encrypt Plugin v0.1 loaded
-[11:57:09] ______________________________________
-
-[11:57:09]  By: Fro (c) Copyright <TBG> 2009-2010
-[11:57:09] ______________________________________
-
-[11:57:09]   Loaded.
-[11:57:09]  Loading plugin: nativechecker.dll
-[11:57:09]   Loaded.
-[11:57:09]  Loaded 5 plugins.
+[19:48:21]   Loaded.
+[19:48:21]  Loading plugin: mysql
+[19:48:21]  >> plugin.mysql: R41-4 successfully loaded.
+[19:48:21]   Loaded.
+[19:48:21]  Loading plugin: sscanf
+[19:48:21] 
 
-[11:57:10] 
-[11:57:10] Ban list
-[11:57:10] --------
-[11:57:10]  Loaded: samp.ban
-[11:57:10] 
-[11:57:10] 
-[11:57:10] Filterscripts
-[11:57:10] ---------------
-[11:57:10]   Loading filterscript 'tstudio.amx'...
-[11:57:10]   Unable to load filterscript 'tstudio.amx'.
-[11:57:10]   Loaded 0 filterscripts.
+[19:48:21]  ===============================
 
-[11:57:10]    Error: Function not registered: 'SSCANF_Init'
-[11:57:10]    Error: Function not registered: 'SSCANF_IsConnected'
-[11:57:10]    Error: Function not registered: 'SSCANF_Join'
-[11:57:10]    Error: Function not registered: 'SSCANF_Leave'
-[11:57:10]    Error: Function not registered: 'sscanf'
-[11:57:10] [debug] Run time error 19: "File or function is not found"
-[11:57:10] [debug]  SSCANF_Init
-[11:57:10] [debug]  SSCANF_IsConnected
-[11:57:10] [debug]  SSCANF_Join
-[11:57:10] [debug]  SSCANF_Leave
-[11:57:10] [debug]  sscanf
-[11:57:10] [debug] Run time error 19: "File or function is not found"
-[11:57:10] [debug]  SSCANF_Init
-[11:57:10] [debug]  SSCANF_IsConnected
-[11:57:10] [debug]  SSCANF_Join
-[11:57:10] [debug]  SSCANF_Leave
-[11:57:10] [debug]  sscanf
-[11:57:10] Script[gamemodes/test.amx]: Run time error 19: "File or function is not found"
-[11:57:10] Number of vehicle models: 0
-[11:57:11] --- Server Shutting Down.
-[11:57:11] [debug] Run time error 19: "File or function is not found"
-[11:57:11] [debug]  SSCANF_Init
-[11:57:11] [debug]  SSCANF_IsConnected
-[11:57:11] [debug]  SSCANF_Join
-[11:57:11] [debug]  SSCANF_Leave
-[11:57:11] [debug]  sscanf
+[19:48:21]       sscanf plugin loaded.     
+
+[19:48:21]          Version:  2.8.3        
+
+[19:48:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:48:21]  ===============================
+
+[19:48:21]   Loaded.
+[19:48:21]  Loading plugin: nativechecker
+[19:48:21]   Loaded.
+[19:48:21]  Loaded 5 plugins.
+
+[19:48:21] 
+[19:48:21] Filterscripts
+[19:48:21] ---------------
+[19:48:21]   Loaded 0 filterscripts.
+
+[19:48:22] Number of vehicle models: 0
+[19:48:49] [connection] incoming connection: 127.0.0.1:51657 id: 0
+[19:48:50] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[19:49:13] [part] Jasin_Refiku has left the server (0:1)
+[19:49:13] [connection] incoming connection: 127.0.0.1:52786 id: 0
+[19:49:13] [join] Test_1233 has joined the server (0:127.0.0.1)
 
 ----------
 Loaded log file: "server_log.txt".
@@ -3611,69 +653,61 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[11:57:30] 
-[11:57:30] Server Plugins
-[11:57:30] --------------
-[11:57:30]  Loading plugin: sscanf.dll
-[11:57:30] 
+[19:51:19] 
+[19:51:19] Server Plugins
+[19:51:19] --------------
+[19:51:19]  Loading plugin: crashdetect
+[19:51:19]   CrashDetect plugin 4.19.4
+[19:51:19]   Loaded.
+[19:51:19]  Loading plugin: streamer
+[19:51:19] 
 
-[11:57:30]  ===============================
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[11:57:30]       sscanf plugin loaded.     
+[19:51:19]   Loaded.
+[19:51:19]  Loading plugin: mysql
+[19:51:19]  >> plugin.mysql: R41-4 successfully loaded.
+[19:51:19]   Loaded.
+[19:51:19]  Loading plugin: sscanf
+[19:51:19] 
 
-[11:57:30]          Version:  2.8.2        
+[19:51:19]  ===============================
 
-[11:57:30]    (c) 2012 Alex "Y_Less" Cole  
+[19:51:19]       sscanf plugin loaded.     
 
-[11:57:30]  ===============================
+[19:51:19]          Version:  2.8.3        
 
-[11:57:30]   Loaded.
-[11:57:30]  Loading plugin: crashdetect.dll
-[11:57:30]   CrashDetect v4.15.1 is OK.
-[11:57:30]   Loaded.
-[11:57:30]  Loading plugin: streamer.dll
-[11:57:30] 
+[19:51:19]   (c) 2018 Alex "Y_Less" Cole  
 
-*** Streamer Plugin v2.9.1 by Incognito loaded ***
+[19:51:19]  ===============================
 
-[11:57:30]   Loaded.
-[11:57:30]  Loading plugin: mysql.dll
-[11:57:30]  >> plugin.mysql: R39-6 successfully loaded.
-[11:57:30]   Loaded.
-[11:57:30]  Loading plugin: Encrypt.dll
-[11:57:30] 
-
-[11:57:30] ______________________________________
-
-[11:57:30]  Encrypt Plugin v0.1 loaded
-[11:57:30] ______________________________________
-
-[11:57:30]  By: Fro (c) Copyright <TBG> 2009-2010
-[11:57:30] ______________________________________
-
-[11:57:30]   Loaded.
-[11:57:30]  Loading plugin: nativechecker.dll
-[11:57:30]   Loaded.
-[11:57:30]  Loaded 6 plugins.
+[19:51:19]   Loaded.
+[19:51:19]  Loading plugin: nativechecker
+[19:51:19]   Loaded.
+[19:51:19]  Loaded 5 plugins.
 
-[11:57:30] 
-[11:57:30] Ban list
-[11:57:30] --------
-[11:57:30]  Loaded: samp.ban
-[11:57:30] 
-[11:57:30] 
-[11:57:30] Filterscripts
-[11:57:30] ---------------
-[11:57:30]   Loading filterscript 'tstudio.amx'...
-[11:57:30]   Unable to load filterscript 'tstudio.amx'.
-[11:57:30]   Loaded 0 filterscripts.
+[19:51:19] 
+[19:51:19] Filterscripts
+[19:51:19] ---------------
+[19:51:19]   Loaded 0 filterscripts.
 
-[11:57:30] Number of vehicle models: 0
-[11:57:57] [connection] incoming connection: 127.0.0.1:64469 id: 0
-[11:58:10] [connection] incoming connection: 127.0.0.1:64470 id: 0
-[11:58:11] [join] Jasin_D has joined the server (0:127.0.0.1)
-[12:00:42] [chat] [Jasin_D]: asd
-[12:00:45] [part] Jasin_D has left the server (0:1)
+[19:51:19] Number of vehicle models: 0
+Console input: exit
+[19:52:11] --- Server Shutting Down.
+[19:52:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[19:52:11] plugin.mysql: Unloading plugin...
+[19:52:11] plugin.mysql: Plugin unloaded.
+[19:52:11] 
+
+[19:52:11]  ===============================
+
+[19:52:11]      sscanf plugin unloaded.    
+
+[19:52:11]  ===============================
+
 
 ----------
 Loaded log file: "server_log.txt".
@@ -3683,64 +717,45 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[12:03:33] 
-[12:03:33] Server Plugins
-[12:03:33] --------------
-[12:03:33]  Loading plugin: sscanf.dll
-[12:03:33] 
+[19:52:13] 
+[19:52:13] Server Plugins
+[19:52:13] --------------
+[19:52:13]  Loading plugin: crashdetect
+[19:52:13]   CrashDetect plugin 4.19.4
+[19:52:13]   Loaded.
+[19:52:13]  Loading plugin: streamer
+[19:52:13] 
 
-[12:03:33]  ===============================
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[12:03:33]       sscanf plugin loaded.     
+[19:52:13]   Loaded.
+[19:52:13]  Loading plugin: mysql
+[19:52:13]  >> plugin.mysql: R41-4 successfully loaded.
+[19:52:13]   Loaded.
+[19:52:13]  Loading plugin: sscanf
+[19:52:13] 
 
-[12:03:33]          Version:  2.8.2        
+[19:52:13]  ===============================
 
-[12:03:33]    (c) 2012 Alex "Y_Less" Cole  
+[19:52:13]       sscanf plugin loaded.     
 
-[12:03:33]  ===============================
+[19:52:13]          Version:  2.8.3        
 
-[12:03:33]   Loaded.
-[12:03:33]  Loading plugin: crashdetect.dll
-[12:03:33]   CrashDetect v4.15.1 is OK.
-[12:03:33]   Loaded.
-[12:03:33]  Loading plugin: streamer.dll
-[12:03:33] 
+[19:52:13]   (c) 2018 Alex "Y_Less" Cole  
 
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
+[19:52:13]  ===============================
 
-[12:03:33]   Loaded.
-[12:03:33]  Loading plugin: mysql.dll
-[12:03:33]  >> plugin.mysql: R39-6 successfully loaded.
-[12:03:33]   Loaded.
-[12:03:33]  Loading plugin: Encrypt.dll
-[12:03:33] 
-
-[12:03:33] ______________________________________
-
-[12:03:33]  Encrypt Plugin v0.1 loaded
-[12:03:33] ______________________________________
-
-[12:03:33]  By: Fro (c) Copyright <TBG> 2009-2010
-[12:03:33] ______________________________________
-
-[12:03:33]   Loaded.
-[12:03:33]  Loading plugin: nativechecker.dll
-[12:03:33]   Loaded.
-[12:03:33]  Loaded 6 plugins.
+[19:52:13]   Loaded.
+[19:52:13]  Loading plugin: nativechecker
+[19:52:13]   Loaded.
+[19:52:13]  Loaded 5 plugins.
 
-[12:03:33] 
-[12:03:33] Ban list
-[12:03:33] --------
-[12:03:33]  Loaded: samp.ban
-[12:03:33] 
-[12:03:33] 
-[12:03:33] Filterscripts
-[12:03:33] ---------------
-[12:03:33]   Loading filterscript 'tstudio.amx'...
-[12:03:33]   Unable to load filterscript 'tstudio.amx'.
-[12:03:33]   Loaded 0 filterscripts.
+[19:52:13] 
+[19:52:13] Filterscripts
+[19:52:13] ---------------
+[19:52:13]   Loaded 0 filterscripts.
 
-[12:03:33] Number of vehicle models: 0
+[19:52:13] Number of vehicle models: 0
 
 ----------
 Loaded log file: "server_log.txt".
@@ -3750,71 +765,47 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[12:03:51] 
-[12:03:51] Server Plugins
-[12:03:51] --------------
-[12:03:51]  Loading plugin: sscanf.dll
-[12:03:51] 
+[19:52:54] 
+[19:52:54] Server Plugins
+[19:52:54] --------------
+[19:52:54]  Loading plugin: crashdetect
+[19:52:54]   CrashDetect plugin 4.19.4
+[19:52:54]   Loaded.
+[19:52:54]  Loading plugin: streamer
+[19:52:54] 
 
-[12:03:51]  ===============================
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[12:03:51]       sscanf plugin loaded.     
+[19:52:54]   Loaded.
+[19:52:54]  Loading plugin: mysql
+[19:52:54]  >> plugin.mysql: R41-4 successfully loaded.
+[19:52:54]   Loaded.
+[19:52:54]  Loading plugin: sscanf
+[19:52:54] 
 
-[12:03:51]          Version:  2.8.2        
+[19:52:54]  ===============================
 
-[12:03:51]    (c) 2012 Alex "Y_Less" Cole  
+[19:52:54]       sscanf plugin loaded.     
 
-[12:03:51]  ===============================
+[19:52:54]          Version:  2.8.3        
 
-[12:03:51]   Loaded.
-[12:03:51]  Loading plugin: crashdetect.dll
-[12:03:51]   CrashDetect v4.15.1 is OK.
-[12:03:51]   Loaded.
-[12:03:51]  Loading plugin: streamer.dll
-[12:03:51] 
+[19:52:54]   (c) 2018 Alex "Y_Less" Cole  
 
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
+[19:52:54]  ===============================
 
-[12:03:51]   Loaded.
-[12:03:51]  Loading plugin: mysql.dll
-[12:03:51]  >> plugin.mysql: R39-6 successfully loaded.
-[12:03:51]   Loaded.
-[12:03:51]  Loading plugin: Encrypt.dll
-[12:03:51] 
-
-[12:03:51] ______________________________________
-
-[12:03:51]  Encrypt Plugin v0.1 loaded
-[12:03:51] ______________________________________
-
-[12:03:51]  By: Fro (c) Copyright <TBG> 2009-2010
-[12:03:52] ______________________________________
-
-[12:03:52]   Loaded.
-[12:03:52]  Loading plugin: nativechecker.dll
-[12:03:52]   Loaded.
-[12:03:52]  Loaded 6 plugins.
+[19:52:54]   Loaded.
+[19:52:54]  Loading plugin: nativechecker
+[19:52:54]   Loaded.
+[19:52:54]  Loaded 5 plugins.
 
-[12:03:52] 
-[12:03:52] Ban list
-[12:03:52] --------
-[12:03:52]  Loaded: samp.ban
-[12:03:52] 
-[12:03:52] 
-[12:03:52] Filterscripts
-[12:03:52] ---------------
-[12:03:52]   Loaded 0 filterscripts.
+[19:52:54] 
+[19:52:54] Filterscripts
+[19:52:54] ---------------
+[19:52:54]   Loaded 0 filterscripts.
 
-[12:03:52] Number of vehicle models: 0
-[12:05:07] [connection] incoming connection: 127.0.0.1:49840 id: 0
-[12:05:08] [connection] incoming connection: 127.0.0.1:49841 id: 0
-[12:05:08] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[12:05:15] [chat] [Jasin_Refiku]: .
-[12:05:18] [death] Jasin_Refiku died 255
-[12:05:42] [part] Jasin_Refiku has left the server (0:1)
-[12:05:42] [connection] incoming connection: 127.0.0.1:49846 id: 0
-[12:05:42] [join] Asd_Test has joined the server (0:127.0.0.1)
-[12:05:47] [chat] [Asd_Test]: a
+[19:52:54] Gamemode successfully loaded.
+[19:52:54] Number of vehicle models: 0
+Console input: kill
 
 ----------
 Loaded log file: "server_log.txt".
@@ -3824,1450 +815,56 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[12:11:07] 
-[12:11:07] Server Plugins
-[12:11:07] --------------
-[12:11:07]  Loading plugin: sscanf.dll
-[12:11:07] 
-
-[12:11:07]  ===============================
-
-[12:11:07]       sscanf plugin loaded.     
-
-[12:11:07]          Version:  2.8.2        
-
-[12:11:07]    (c) 2012 Alex "Y_Less" Cole  
-
-[12:11:07]  ===============================
-
-[12:11:07]   Loaded.
-[12:11:07]  Loading plugin: crashdetect.dll
-[12:11:07]   CrashDetect v4.15.1 is OK.
-[12:11:07]   Loaded.
-[12:11:07]  Loading plugin: streamer.dll
-[12:11:07] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[12:11:07]   Loaded.
-[12:11:07]  Loading plugin: mysql.dll
-[12:11:07]  >> plugin.mysql: R39-6 successfully loaded.
-[12:11:07]   Loaded.
-[12:11:07]  Loading plugin: Encrypt.dll
-[12:11:07] 
-
-[12:11:07] ______________________________________
-
-[12:11:07]  Encrypt Plugin v0.1 loaded
-[12:11:07] ______________________________________
-
-[12:11:07]  By: Fro (c) Copyright <TBG> 2009-2010
-[12:11:07] ______________________________________
-
-[12:11:07]   Loaded.
-[12:11:07]  Loading plugin: nativechecker.dll
-[12:11:07]   Loaded.
-[12:11:07]  Loaded 6 plugins.
-
-[12:11:07] 
-[12:11:07] Ban list
-[12:11:07] --------
-[12:11:07]  Loaded: samp.ban
-[12:11:07] 
-[12:11:07] 
-[12:11:07] Filterscripts
-[12:11:07] ---------------
-[12:11:07]   Loaded 0 filterscripts.
-
-[12:11:07] Number of vehicle models: 0
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[12:11:50] 
-[12:11:50] Server Plugins
-[12:11:50] --------------
-[12:11:50]  Loading plugin: sscanf.dll
-[12:11:50] 
-
-[12:11:50]  ===============================
-
-[12:11:50]       sscanf plugin loaded.     
-
-[12:11:50]          Version:  2.8.2        
-
-[12:11:50]    (c) 2012 Alex "Y_Less" Cole  
-
-[12:11:50]  ===============================
-
-[12:11:50]   Loaded.
-[12:11:50]  Loading plugin: crashdetect.dll
-[12:11:50]   CrashDetect v4.15.1 is OK.
-[12:11:50]   Loaded.
-[12:11:50]  Loading plugin: streamer.dll
-[12:11:50] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[12:11:50]   Loaded.
-[12:11:50]  Loading plugin: mysql.dll
-[12:11:50]  >> plugin.mysql: R39-6 successfully loaded.
-[12:11:50]   Loaded.
-[12:11:50]  Loading plugin: nativechecker.dll
-[12:11:50]   Loaded.
-[12:11:50]  Loaded 5 plugins.
-
-[12:11:50] 
-[12:11:50] Ban list
-[12:11:50] --------
-[12:11:50]  Loaded: samp.ban
-[12:11:50] 
-[12:11:50] 
-[12:11:50] Filterscripts
-[12:11:50] ---------------
-[12:11:50]   Loaded 0 filterscripts.
-
-[12:11:50] Number of vehicle models: 0
-[12:11:58] [connection] incoming connection: 127.0.0.1:56478 id: 0
-[12:12:14] [connection] incoming connection: 127.0.0.1:57387 id: 0
-[12:12:14] [join] Asd_Test has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[12:46:32] 
-[12:46:32] Server Plugins
-[12:46:32] --------------
-[12:46:32]  Loading plugin: sscanf.dll
-[12:46:33] 
-
-[12:46:33]  ===============================
-
-[12:46:33]       sscanf plugin loaded.     
-
-[12:46:33]          Version:  2.8.2        
-
-[12:46:33]    (c) 2012 Alex "Y_Less" Cole  
-
-[12:46:33]  ===============================
-
-[12:46:33]   Loaded.
-[12:46:33]  Loading plugin: crashdetect.dll
-[12:46:33]   CrashDetect v4.15.1 is OK.
-[12:46:33]   Loaded.
-[12:46:33]  Loading plugin: streamer.dll
-[12:46:33] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[12:46:33]   Loaded.
-[12:46:33]  Loading plugin: mysql.dll
-[12:46:33]  >> plugin.mysql: R39-6 successfully loaded.
-[12:46:33]   Loaded.
-[12:46:33]  Loading plugin: nativechecker.dll
-[12:46:33]   Loaded.
-[12:46:33]  Loaded 5 plugins.
-
-[12:46:34] 
-[12:46:34] Ban list
-[12:46:34] --------
-[12:46:34]  Loaded: samp.ban
-[12:46:34] 
-[12:46:34] 
-[12:46:34] Filterscripts
-[12:46:34] ---------------
-[12:46:34]   Loaded 0 filterscripts.
-
-[12:46:34] Number of vehicle models: 0
-[12:47:38] [connection] incoming connection: 127.0.0.1:60680 id: 0
-[12:47:48] [connection] incoming connection: 127.0.0.1:60683 id: 0
-[12:47:48] [join] Asd_Test has joined the server (0:127.0.0.1)
-[12:47:54] [chat] [Asd_Test]: a
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[12:48:49] 
-[12:48:49] Server Plugins
-[12:48:49] --------------
-[12:48:49]  Loading plugin: sscanf.dll
-[12:48:49] 
-
-[12:48:49]  ===============================
-
-[12:48:49]       sscanf plugin loaded.     
-
-[12:48:49]          Version:  2.8.2        
-
-[12:48:49]    (c) 2012 Alex "Y_Less" Cole  
-
-[12:48:49]  ===============================
-
-[12:48:49]   Loaded.
-[12:48:49]  Loading plugin: crashdetect.dll
-[12:48:49]   CrashDetect v4.15.1 is OK.
-[12:48:49]   Loaded.
-[12:48:49]  Loading plugin: streamer.dll
-[12:48:49] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[12:48:49]   Loaded.
-[12:48:49]  Loading plugin: mysql.dll
-[12:48:49]  >> plugin.mysql: R39-6 successfully loaded.
-[12:48:49]   Loaded.
-[12:48:49]  Loading plugin: nativechecker.dll
-[12:48:49]   Loaded.
-[12:48:49]  Loaded 5 plugins.
-
-[12:48:49] 
-[12:48:49] Ban list
-[12:48:49] --------
-[12:48:49]  Loaded: samp.ban
-[12:48:49] 
-[12:48:49] 
-[12:48:49] Filterscripts
-[12:48:49] ---------------
-[12:48:49]   Loaded 0 filterscripts.
-
-[12:48:49] Number of vehicle models: 0
-[12:49:08] [connection] incoming connection: 127.0.0.1:62268 id: 0
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[12:49:20] 
-[12:49:20] Server Plugins
-[12:49:20] --------------
-[12:49:20]  Loading plugin: sscanf.dll
-[12:49:20] 
-
-[12:49:20]  ===============================
-
-[12:49:20]       sscanf plugin loaded.     
-
-[12:49:20]          Version:  2.8.2        
-
-[12:49:20]    (c) 2012 Alex "Y_Less" Cole  
-
-[12:49:20]  ===============================
-
-[12:49:20]   Loaded.
-[12:49:20]  Loading plugin: crashdetect.dll
-[12:49:20]   CrashDetect v4.15.1 is OK.
-[12:49:20]   Loaded.
-[12:49:20]  Loading plugin: streamer.dll
-[12:49:20] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[12:49:20]   Loaded.
-[12:49:20]  Loading plugin: mysql.dll
-[12:49:20]  >> plugin.mysql: R39-6 successfully loaded.
-[12:49:20]   Loaded.
-[12:49:20]  Loading plugin: nativechecker.dll
-[12:49:20]   Loaded.
-[12:49:20]  Loaded 5 plugins.
-
-[12:49:20] 
-[12:49:20] Ban list
-[12:49:20] --------
-[12:49:20]  Loaded: samp.ban
-[12:49:20] 
-[12:49:20] 
-[12:49:20] Filterscripts
-[12:49:20] ---------------
-[12:49:20]   Loaded 0 filterscripts.
-
-[12:49:20] Number of vehicle models: 0
-[12:49:23] [connection] incoming connection: 127.0.0.1:62269 id: 0
-[12:49:23] [join] Asd_Test has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[12:54:44] 
-[12:54:44] Server Plugins
-[12:54:44] --------------
-[12:54:44]  Loading plugin: sscanf.dll
-[12:54:44] 
-
-[12:54:44]  ===============================
-
-[12:54:44]       sscanf plugin loaded.     
-
-[12:54:44]          Version:  2.8.2        
-
-[12:54:44]    (c) 2012 Alex "Y_Less" Cole  
-
-[12:54:44]  ===============================
-
-[12:54:44]   Loaded.
-[12:54:44]  Loading plugin: crashdetect.dll
-[12:54:44]   CrashDetect v4.15.1 is OK.
-[12:54:44]   Loaded.
-[12:54:44]  Loading plugin: streamer.dll
-[12:54:44] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[12:54:44]   Loaded.
-[12:54:44]  Loading plugin: mysql.dll
-[12:54:44]  >> plugin.mysql: R39-6 successfully loaded.
-[12:54:44]   Loaded.
-[12:54:44]  Loading plugin: nativechecker.dll
-[12:54:44]   Loaded.
-[12:54:44]  Loaded 5 plugins.
-
-[12:54:44] 
-[12:54:44] Ban list
-[12:54:44] --------
-[12:54:44]  Loaded: samp.ban
-[12:54:44] 
-[12:54:44] I couldn't load any gamemode scripts. Please verify your server.cfg
-[12:54:44] It needs a gamemode0 line at the very least.
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[12:55:45] 
-[12:55:45] Server Plugins
-[12:55:45] --------------
-[12:55:45]  Loading plugin: sscanf.dll
-[12:55:45] 
-
-[12:55:45]  ===============================
-
-[12:55:45]       sscanf plugin loaded.     
-
-[12:55:45]          Version:  2.8.2        
-
-[12:55:45]    (c) 2012 Alex "Y_Less" Cole  
-
-[12:55:45]  ===============================
-
-[12:55:45]   Loaded.
-[12:55:45]  Loading plugin: crashdetect.dll
-[12:55:45]   CrashDetect v4.15.1 is OK.
-[12:55:45]   Loaded.
-[12:55:45]  Loading plugin: streamer.dll
-[12:55:45] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[12:55:45]   Loaded.
-[12:55:45]  Loading plugin: mysql.dll
-[12:55:45]  >> plugin.mysql: R39-6 successfully loaded.
-[12:55:45]   Loaded.
-[12:55:45]  Loading plugin: nativechecker.dll
-[12:55:45]   Loaded.
-[12:55:45]  Loaded 5 plugins.
-
-[12:55:45] 
-[12:55:45] Ban list
-[12:55:45] --------
-[12:55:45]  Loaded: samp.ban
-[12:55:45] 
-[12:55:45] 
-[12:55:45] Filterscripts
-[12:55:45] ---------------
-[12:55:45]   Loaded 0 filterscripts.
-
-[12:55:45] Number of vehicle models: 0
-[12:55:48] [connection] incoming connection: 127.0.0.1:55986 id: 0
-[12:55:58] [connection] incoming connection: 127.0.0.1:55987 id: 0
-[12:55:58] [join] Asd_Test has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[12:57:16] 
-[12:57:16] Server Plugins
-[12:57:16] --------------
-[12:57:16]  Loading plugin: sscanf.dll
-[12:57:16] 
-
-[12:57:16]  ===============================
-
-[12:57:16]       sscanf plugin loaded.     
-
-[12:57:16]          Version:  2.8.2        
-
-[12:57:16]    (c) 2012 Alex "Y_Less" Cole  
-
-[12:57:16]  ===============================
-
-[12:57:16]   Loaded.
-[12:57:16]  Loading plugin: crashdetect.dll
-[12:57:16]   CrashDetect v4.15.1 is OK.
-[12:57:16]   Loaded.
-[12:57:16]  Loading plugin: streamer.dll
-[12:57:16] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[12:57:16]   Loaded.
-[12:57:16]  Loading plugin: mysql.dll
-[12:57:16]  >> plugin.mysql: R39-6 successfully loaded.
-[12:57:16]   Loaded.
-[12:57:16]  Loading plugin: nativechecker.dll
-[12:57:16]   Loaded.
-[12:57:16]  Loaded 5 plugins.
-
-[12:57:16] 
-[12:57:16] Ban list
-[12:57:16] --------
-[12:57:16]  Loaded: samp.ban
-[12:57:16] 
-[12:57:16] 
-[12:57:16] Filterscripts
-[12:57:16] ---------------
-[12:57:16]   Loaded 0 filterscripts.
-
-[12:57:16] Number of vehicle models: 0
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[12:57:29] 
-[12:57:29] Server Plugins
-[12:57:29] --------------
-[12:57:29]  Loading plugin: sscanf.dll
-[12:57:29] 
-
-[12:57:29]  ===============================
-
-[12:57:29]       sscanf plugin loaded.     
-
-[12:57:29]          Version:  2.8.2        
-
-[12:57:29]    (c) 2012 Alex "Y_Less" Cole  
-
-[12:57:29]  ===============================
-
-[12:57:29]   Loaded.
-[12:57:29]  Loading plugin: crashdetect.dll
-[12:57:29]   CrashDetect v4.15.1 is OK.
-[12:57:29]   Loaded.
-[12:57:29]  Loading plugin: streamer.dll
-[12:57:29] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[12:57:29]   Loaded.
-[12:57:29]  Loading plugin: mysql.dll
-[12:57:29]  >> plugin.mysql: R39-6 successfully loaded.
-[12:57:29]   Loaded.
-[12:57:29]  Loading plugin: nativechecker.dll
-[12:57:29]   Loaded.
-[12:57:29]  Loaded 5 plugins.
-
-[12:57:29] 
-[12:57:29] Ban list
-[12:57:29] --------
-[12:57:29]  Loaded: samp.ban
-[12:57:29] 
-[12:57:29] 
-[12:57:29] Filterscripts
-[12:57:29] ---------------
-[12:57:29]   Loaded 0 filterscripts.
-
-[12:57:29] Number of vehicle models: 0
-[12:57:32] [connection] incoming connection: 127.0.0.1:58215 id: 0
-[12:57:42] [connection] incoming connection: 127.0.0.1:58218 id: 0
-[12:57:43] [join] Asd_Test has joined the server (0:127.0.0.1)
-[12:57:53] [part] Asd_Test has left the server (0:1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[12:58:40] 
-[12:58:40] Server Plugins
-[12:58:40] --------------
-[12:58:40]  Loading plugin: sscanf.dll
-[12:58:40] 
-
-[12:58:40]  ===============================
-
-[12:58:40]       sscanf plugin loaded.     
-
-[12:58:40]          Version:  2.8.2        
-
-[12:58:40]    (c) 2012 Alex "Y_Less" Cole  
-
-[12:58:40]  ===============================
-
-[12:58:40]   Loaded.
-[12:58:40]  Loading plugin: crashdetect.dll
-[12:58:40]   CrashDetect v4.15.1 is OK.
-[12:58:40]   Loaded.
-[12:58:40]  Loading plugin: streamer.dll
-[12:58:40] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[12:58:40]   Loaded.
-[12:58:40]  Loading plugin: mysql.dll
-[12:58:40]  >> plugin.mysql: R39-6 successfully loaded.
-[12:58:40]   Loaded.
-[12:58:40]  Loading plugin: nativechecker.dll
-[12:58:40]   Loaded.
-[12:58:40]  Loaded 5 plugins.
-
-[12:58:40] 
-[12:58:40] Ban list
-[12:58:40] --------
-[12:58:40]  Loaded: samp.ban
-[12:58:40] 
-[12:58:40] 
-[12:58:40] Filterscripts
-[12:58:40] ---------------
-[12:58:40]   Loaded 0 filterscripts.
-
-[12:58:40] Number of vehicle models: 0
-[13:00:54] [connection] incoming connection: 127.0.0.1:61825 id: 0
-[13:00:55] [connection] incoming connection: 127.0.0.1:61826 id: 0
-[13:00:55] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[13:01:15] [chat] [Jasin_Refiku]: a
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[13:02:29] 
-[13:02:29] Server Plugins
-[13:02:29] --------------
-[13:02:29]  Loading plugin: sscanf.dll
-[13:02:29] 
-
-[13:02:29]  ===============================
-
-[13:02:29]       sscanf plugin loaded.     
-
-[13:02:29]          Version:  2.8.2        
-
-[13:02:29]    (c) 2012 Alex "Y_Less" Cole  
-
-[13:02:29]  ===============================
-
-[13:02:29]   Loaded.
-[13:02:29]  Loading plugin: crashdetect.dll
-[13:02:29]   CrashDetect v4.15.1 is OK.
-[13:02:29]   Loaded.
-[13:02:29]  Loading plugin: streamer.dll
-[13:02:29] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[13:02:29]   Loaded.
-[13:02:29]  Loading plugin: mysql.dll
-[13:02:29]  >> plugin.mysql: R39-6 successfully loaded.
-[13:02:29]   Loaded.
-[13:02:29]  Loading plugin: nativechecker.dll
-[13:02:29]   Loaded.
-[13:02:29]  Loaded 5 plugins.
-
-[13:02:29] 
-[13:02:29] Ban list
-[13:02:29] --------
-[13:02:29]  Loaded: samp.ban
-[13:02:29] 
-[13:02:29] 
-[13:02:29] Filterscripts
-[13:02:29] ---------------
-[13:02:29]   Loaded 0 filterscripts.
-
-[13:02:29] Number of vehicle models: 0
-[13:02:40] [connection] incoming connection: 127.0.0.1:59948 id: 0
-[13:02:50] [connection] incoming connection: 127.0.0.1:62898 id: 0
-[13:02:50] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[13:05:08] 
-[13:05:08] Server Plugins
-[13:05:08] --------------
-[13:05:08]  Loading plugin: crashdetect
-[13:05:08]   CrashDetect v4.15.1 is OK.
-[13:05:08]   Loaded.
-[13:05:08]  Loading plugin: mysql
-[13:05:08]  >> plugin.mysql: R39-6 successfully loaded.
-[13:05:08]   Loaded.
-[13:05:08]  Loading plugin: streamer
-[13:05:08] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[13:05:08]   Loaded.
-[13:05:08]  Loading plugin: sscanf
-[13:05:08] 
-
-[13:05:08]  ===============================
-
-[13:05:08]       sscanf plugin loaded.     
-
-[13:05:08]          Version:  2.8.2        
-
-[13:05:08]    (c) 2012 Alex "Y_Less" Cole  
-
-[13:05:08]  ===============================
-
-[13:05:08]   Loaded.
-[13:05:08]  Loaded 4 plugins.
-
-[13:05:08] 
-[13:05:08] Ban list
-[13:05:08] --------
-[13:05:08]  Loaded: samp.ban
-[13:05:08] 
-[13:05:08] 
-[13:05:08] Filterscripts
-[13:05:08] ---------------
-[13:05:08]   Loaded 0 filterscripts.
-
-[13:05:08] Number of vehicle models: 0
-[13:05:19] [connection] incoming connection: 127.0.0.1:58617 id: 0
-[13:05:29] [connection] incoming connection: 127.0.0.1:58619 id: 0
-[13:05:30] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[13:11:49] 
-[13:11:49] Server Plugins
-[13:11:49] --------------
-[13:11:49]  Loading plugin: crashdetect
-[13:11:49]   CrashDetect v4.15.1 is OK.
-[13:11:49]   Loaded.
-[13:11:49]  Loading plugin: mysql
-[13:11:49]  >> plugin.mysql: R39-6 successfully loaded.
-[13:11:49]   Loaded.
-[13:11:49]  Loading plugin: streamer
-[13:11:49] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[13:11:49]   Loaded.
-[13:11:49]  Loading plugin: sscanf
-[13:11:49] 
-
-[13:11:49]  ===============================
-
-[13:11:49]       sscanf plugin loaded.     
-
-[13:11:49]          Version:  2.8.2        
-
-[13:11:49]    (c) 2012 Alex "Y_Less" Cole  
-
-[13:11:49]  ===============================
-
-[13:11:49]   Loaded.
-[13:11:49]  Loaded 4 plugins.
-
-[13:11:49] 
-[13:11:49] Ban list
-[13:11:49] --------
-[13:11:49]  Loaded: samp.ban
-[13:11:49] 
-[13:11:49] 
-[13:11:49] Filterscripts
-[13:11:49] ---------------
-[13:11:49]   Loaded 0 filterscripts.
-
-[13:11:49] [debug] Run time error 20: "Invalid index parameter (bad entry point)"
-[13:11:49] Script[gamemodes/test.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
-[13:11:49] Number of vehicle models: 0
-[13:12:18] [connection] incoming connection: 127.0.0.1:54523 id: 0
-[13:12:28] [connection] incoming connection: 127.0.0.1:54547 id: 0
-[13:12:28] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[13:16:04] 
-[13:16:04] Server Plugins
-[13:16:04] --------------
-[13:16:04]  Loading plugin: crashdetect
-[13:16:04]   CrashDetect v4.15.1 is OK.
-[13:16:04]   Loaded.
-[13:16:04]  Loading plugin: mysql
-[13:16:04]  >> plugin.mysql: R39-6 successfully loaded.
-[13:16:04]   Loaded.
-[13:16:04]  Loading plugin: streamer
-[13:16:04] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[13:16:04]   Loaded.
-[13:16:04]  Loading plugin: sscanf
-[13:16:04] 
-
-[13:16:04]  ===============================
-
-[13:16:04]       sscanf plugin loaded.     
-
-[13:16:04]          Version:  2.8.2        
-
-[13:16:04]    (c) 2012 Alex "Y_Less" Cole  
-
-[13:16:04]  ===============================
-
-[13:16:04]   Loaded.
-[13:16:04]  Loaded 4 plugins.
-
-[13:16:04] 
-[13:16:04] Ban list
-[13:16:04] --------
-[13:16:04]  Loaded: samp.ban
-[13:16:04] 
-[13:16:04] 
-[13:16:04] Filterscripts
-[13:16:04] ---------------
-[13:16:04]   Loaded 0 filterscripts.
-
-[13:16:04] Number of vehicle models: 0
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[13:17:15] 
-[13:17:15] Server Plugins
-[13:17:15] --------------
-[13:17:15]  Loading plugin: crashdetect
-[13:17:15]   CrashDetect v4.15.1 is OK.
-[13:17:15]   Loaded.
-[13:17:15]  Loading plugin: mysql
-[13:17:15]  >> plugin.mysql: R39-6 successfully loaded.
-[13:17:15]   Loaded.
-[13:17:15]  Loading plugin: streamer
-[13:17:15] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[13:17:15]   Loaded.
-[13:17:15]  Loading plugin: sscanf
-[13:17:15] 
-
-[13:17:15]  ===============================
-
-[13:17:15]       sscanf plugin loaded.     
-
-[13:17:15]          Version:  2.8.2        
-
-[13:17:15]    (c) 2012 Alex "Y_Less" Cole  
-
-[13:17:15]  ===============================
-
-[13:17:15]   Loaded.
-[13:17:15]  Loaded 4 plugins.
-
-[13:17:15] 
-[13:17:15] Ban list
-[13:17:15] --------
-[13:17:15]  Loaded: samp.ban
-[13:17:15] 
-[13:17:15] 
-[13:17:15] Filterscripts
-[13:17:15] ---------------
-[13:17:15]   Loaded 0 filterscripts.
-
-[13:17:15] [debug] Run time error 20: "Invalid index parameter (bad entry point)"
-[13:17:15] Script[gamemodes/test.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
-[13:17:15] Number of vehicle models: 0
-[13:18:00] [connection] incoming connection: 127.0.0.1:58499 id: 0
-[13:18:10] [connection] incoming connection: 127.0.0.1:58500 id: 0
-[13:18:10] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[13:21:22] 
-[13:21:22] Server Plugins
-[13:21:22] --------------
-[13:21:22]  Loading plugin: crashdetect
-[13:21:22]   CrashDetect v4.15.1 is OK.
-[13:21:22]   Loaded.
-[13:21:22]  Loading plugin: mysql
-[13:21:22]  >> plugin.mysql: R39-6 successfully loaded.
-[13:21:22]   Loaded.
-[13:21:22]  Loading plugin: streamer
-[13:21:22] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[13:21:22]   Loaded.
-[13:21:22]  Loading plugin: sscanf
-[13:21:22] 
-
-[13:21:22]  ===============================
-
-[13:21:22]       sscanf plugin loaded.     
-
-[13:21:22]          Version:  2.8.2        
-
-[13:21:22]    (c) 2012 Alex "Y_Less" Cole  
-
-[13:21:22]  ===============================
-
-[13:21:22]   Loaded.
-[13:21:22]  Loaded 4 plugins.
-
-[13:21:22] 
-[13:21:22] Ban list
-[13:21:22] --------
-[13:21:22]  Loaded: samp.ban
-[13:21:22] 
-[13:21:22] 
-[13:21:22] Filterscripts
-[13:21:22] ---------------
-[13:21:22]   Loaded 0 filterscripts.
-
-[13:21:22] [debug] Run time error 20: "Invalid index parameter (bad entry point)"
-[13:21:22] Script[gamemodes/test.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
-[13:21:22] Number of vehicle models: 0
-[13:23:08] [connection] incoming connection: 127.0.0.1:53339 id: 0
-[13:23:19] [connection] incoming connection: 127.0.0.1:53340 id: 0
-[13:23:19] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[13:24:13] 
-[13:24:13] Server Plugins
-[13:24:13] --------------
-[13:24:13]  Loading plugin: crashdetect
-[13:24:13]   CrashDetect v4.15.1 is OK.
-[13:24:13]   Loaded.
-[13:24:13]  Loading plugin: mysql
-[13:24:13]  >> plugin.mysql: R39-6 successfully loaded.
-[13:24:13]   Loaded.
-[13:24:13]  Loading plugin: streamer
-[13:24:13] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[13:24:13]   Loaded.
-[13:24:13]  Loading plugin: sscanf
-[13:24:13] 
-
-[13:24:13]  ===============================
-
-[13:24:13]       sscanf plugin loaded.     
-
-[13:24:13]          Version:  2.8.2        
-
-[13:24:13]    (c) 2012 Alex "Y_Less" Cole  
-
-[13:24:13]  ===============================
-
-[13:24:13]   Loaded.
-[13:24:13]  Loaded 4 plugins.
-
-[13:24:13] 
-[13:24:13] Ban list
-[13:24:13] --------
-[13:24:13]  Loaded: samp.ban
-[13:24:13] 
-[13:24:13] 
-[13:24:13] Filterscripts
-[13:24:13] ---------------
-[13:24:13]   Loaded 0 filterscripts.
-
-[13:24:13] [debug] Run time error 20: "Invalid index parameter (bad entry point)"
-[13:24:13] Script[gamemodes/test.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
-[13:24:13] Number of vehicle models: 0
-[13:24:24] [connection] incoming connection: 127.0.0.1:56500 id: 0
-[13:24:34] [connection] incoming connection: 127.0.0.1:56501 id: 0
-[13:24:34] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[13:24:55] [part] Jasin_Refiku has left the server (0:1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[13:25:19] 
-[13:25:19] Server Plugins
-[13:25:19] --------------
-[13:25:19]  Loading plugin: crashdetect
-[13:25:19]   CrashDetect v4.15.1 is OK.
-[13:25:19]   Loaded.
-[13:25:19]  Loading plugin: mysql
-[13:25:19]  >> plugin.mysql: R39-6 successfully loaded.
-[13:25:19]   Loaded.
-[13:25:19]  Loading plugin: streamer
-[13:25:19] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[13:25:19]   Loaded.
-[13:25:19]  Loading plugin: sscanf
-[13:25:19] 
-
-[13:25:19]  ===============================
-
-[13:25:19]       sscanf plugin loaded.     
-
-[13:25:19]          Version:  2.8.2        
-
-[13:25:19]    (c) 2012 Alex "Y_Less" Cole  
-
-[13:25:19]  ===============================
-
-[13:25:19]   Loaded.
-[13:25:19]  Loaded 4 plugins.
-
-[13:25:19] 
-[13:25:19] Ban list
-[13:25:19] --------
-[13:25:19]  Loaded: samp.ban
-[13:25:19] 
-[13:25:19] 
-[13:25:19] Filterscripts
-[13:25:19] ---------------
-[13:25:19]   Loaded 0 filterscripts.
-
-[13:25:19] [debug] Run time error 20: "Invalid index parameter (bad entry point)"
-[13:25:19] Script[gamemodes/test.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
-[13:25:19] Number of vehicle models: 0
-[13:25:56] [connection] incoming connection: 127.0.0.1:52303 id: 0
-[13:25:56] [connection] incoming connection: 127.0.0.1:52304 id: 0
-[13:25:57] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[15:57:28] 
-[15:57:28] Server Plugins
-[15:57:28] --------------
-[15:57:28]  Loading plugin: crashdetect.dll
-[15:57:28]   CrashDetect v4.15.1 is OK.
-[15:57:28]   Loaded.
-[15:57:28]  Loading plugin: streamer.dll
-[15:57:28] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[15:57:28]   Loaded.
-[15:57:28]  Loading plugin: mysql.dll
-[15:57:28]  >> plugin.mysql: R39-6 successfully loaded.
-[15:57:28]   Loaded.
-[15:57:28]  Loading plugin: nativechecker.dll
-[15:57:28]   Loaded.
-[15:57:28]  Loaded 4 plugins.
-
-[15:57:28] 
-[15:57:28] Ban list
-[15:57:28] --------
-[15:57:28]  Loaded: samp.ban
-[15:57:28] 
-[15:57:28] 
-[15:57:28] Filterscripts
-[15:57:28] ---------------
-[15:57:28]   Loading filterscript 'tstudio.amx'...
-[15:57:28]   Unable to load filterscript 'tstudio.amx'.
-[15:57:28]   Loaded 0 filterscripts.
-
-[15:57:28]    Error: Function not registered: 'SSCANF_Init'
-[15:57:28]    Error: Function not registered: 'SSCANF_IsConnected'
-[15:57:28]    Error: Function not registered: 'SSCANF_Join'
-[15:57:28]    Error: Function not registered: 'SSCANF_Leave'
-[15:57:28] [debug] Run time error 19: "File or function is not found"
-[15:57:28] [debug]  SSCANF_Init
-[15:57:28] [debug]  SSCANF_IsConnected
-[15:57:28] [debug]  SSCANF_Join
-[15:57:28] [debug]  SSCANF_Leave
-[15:57:28] [debug] Run time error 19: "File or function is not found"
-[15:57:28] [debug]  SSCANF_Init
-[15:57:28] [debug]  SSCANF_IsConnected
-[15:57:28] [debug]  SSCANF_Join
-[15:57:28] [debug]  SSCANF_Leave
-[15:57:28] Script[gamemodes/test.amx]: Run time error 19: "File or function is not found"
-[15:57:28] Number of vehicle models: 0
-[15:58:09] --- Server Shutting Down.
-[15:58:09] [debug] Run time error 19: "File or function is not found"
-[15:58:09] [debug]  SSCANF_Init
-[15:58:09] [debug]  SSCANF_IsConnected
-[15:58:09] [debug]  SSCANF_Join
-[15:58:09] [debug]  SSCANF_Leave
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[15:58:48] 
-[15:58:48] Server Plugins
-[15:58:48] --------------
-[15:58:48]  Loading plugin: crashdetect
-[15:58:48]   CrashDetect v4.15.1 is OK.
-[15:58:48]   Loaded.
-[15:58:48]  Loading plugin: streamer
-[15:58:48] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[15:58:48]   Loaded.
-[15:58:48]  Loading plugin: mysql
-[15:58:48]  >> plugin.mysql: R39-6 successfully loaded.
-[15:58:48]   Loaded.
-[15:58:48]  Loading plugin: sscanf
-[15:58:48] 
-
-[15:58:48]  ===============================
-
-[15:58:48]       sscanf plugin loaded.     
-
-[15:58:48]          Version:  2.8.2        
-
-[15:58:48]    (c) 2012 Alex "Y_Less" Cole  
-
-[15:58:48]  ===============================
-
-[15:58:48]   Loaded.
-[15:58:48]  Loading plugin: nativechecker
-[15:58:48]   Loaded.
-[15:58:48]  Loaded 5 plugins.
-
-[15:58:48] 
-[15:58:48] Ban list
-[15:58:48] --------
-[15:58:48]  Loaded: samp.ban
-[15:58:48] 
-[15:58:48] 
-[15:58:48] Filterscripts
-[15:58:48] ---------------
-[15:58:48]   Loading filterscript 'tstudio.amx'...
-[15:58:48]   Unable to load filterscript 'tstudio.amx'.
-[15:58:48]   Loaded 0 filterscripts.
-
-[15:58:49] Number of vehicle models: 0
-[15:59:23] [connection] incoming connection: 127.0.0.1:53689 id: 0
-[15:59:33] [connection] incoming connection: 127.0.0.1:53691 id: 0
-[15:59:33] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:05:58] 
-[16:05:58] Server Plugins
-[16:05:58] --------------
-[16:05:58]  Loading plugin: crashdetect
-[16:05:58]   CrashDetect v4.15.1 is OK.
-[16:05:58]   Loaded.
-[16:05:58]  Loading plugin: streamer
-[16:05:58] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[16:05:58]   Loaded.
-[16:05:58]  Loading plugin: mysql
-[16:05:58]  >> plugin.mysql: R39-6 successfully loaded.
-[16:05:58]   Loaded.
-[16:05:58]  Loading plugin: sscanf
-[16:05:58] 
-
-[16:05:58]  ===============================
-
-[16:05:58]       sscanf plugin loaded.     
-
-[16:05:58]          Version:  2.8.2        
-
-[16:05:58]    (c) 2012 Alex "Y_Less" Cole  
-
-[16:05:58]  ===============================
-
-[16:05:58]   Loaded.
-[16:05:58]  Loading plugin: nativechecker
-[16:05:58]   Loaded.
-[16:05:58]  Loaded 5 plugins.
-
-[16:05:58] 
-[16:05:58] Ban list
-[16:05:58] --------
-[16:05:58]  Loaded: samp.ban
-[16:05:58] 
-[16:05:59] 
-[16:05:59] Filterscripts
-[16:05:59] ---------------
-[16:05:59]   Loaded 0 filterscripts.
-
-[16:05:59] Number of vehicle models: 0
-[16:06:06] [connection] incoming connection: 127.0.0.1:63776 id: 0
-[16:06:07] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:07:29] 
-[16:07:29] Server Plugins
-[16:07:29] --------------
-[16:07:29]  Loading plugin: crashdetect
-[16:07:29]   CrashDetect v4.15.1 is OK.
-[16:07:29]   Loaded.
-[16:07:29]  Loading plugin: streamer
-[16:07:29] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[16:07:29]   Loaded.
-[16:07:29]  Loading plugin: mysql
-[16:07:29]  >> plugin.mysql: R39-6 successfully loaded.
-[16:07:29]   Loaded.
-[16:07:29]  Loading plugin: sscanf
-[16:07:29] 
-
-[16:07:29]  ===============================
-
-[16:07:29]       sscanf plugin loaded.     
-
-[16:07:29]          Version:  2.8.2        
-
-[16:07:29]    (c) 2012 Alex "Y_Less" Cole  
-
-[16:07:29]  ===============================
-
-[16:07:29]   Loaded.
-[16:07:29]  Loading plugin: nativechecker
-[16:07:29]   Loaded.
-[16:07:29]  Loaded 5 plugins.
-
-[16:07:29] 
-[16:07:29] Ban list
-[16:07:29] --------
-[16:07:29]  Loaded: samp.ban
-[16:07:29] 
-[16:07:29] 
-[16:07:29] Filterscripts
-[16:07:29] ---------------
-[16:07:29]   Loaded 0 filterscripts.
-
-[16:07:29] Number of vehicle models: 0
-[16:07:41] [connection] incoming connection: 127.0.0.1:57787 id: 0
-[16:07:51] [connection] incoming connection: 127.0.0.1:59811 id: 0
-[16:07:51] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:08:49] 
-[16:08:49] Server Plugins
-[16:08:49] --------------
-[16:08:49]  Loading plugin: crashdetect
-[16:08:49]   CrashDetect v4.15.1 is OK.
-[16:08:49]   Loaded.
-[16:08:49]  Loading plugin: streamer
-[16:08:49] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[16:08:49]   Loaded.
-[16:08:49]  Loading plugin: mysql
-[16:08:49]  >> plugin.mysql: R39-6 successfully loaded.
-[16:08:49]   Loaded.
-[16:08:49]  Loading plugin: sscanf
-[16:08:49] 
-
-[16:08:49]  ===============================
-
-[16:08:49]       sscanf plugin loaded.     
-
-[16:08:49]          Version:  2.8.2        
-
-[16:08:49]    (c) 2012 Alex "Y_Less" Cole  
-
-[16:08:49]  ===============================
-
-[16:08:49]   Loaded.
-[16:08:49]  Loading plugin: nativechecker
-[16:08:49]   Loaded.
-[16:08:49]  Loaded 5 plugins.
-
-[16:08:49] 
-[16:08:49] Ban list
-[16:08:49] --------
-[16:08:49]  Loaded: samp.ban
-[16:08:49] 
-[16:08:49] 
-[16:08:49] Filterscripts
-[16:08:49] ---------------
-[16:08:49]   Loaded 0 filterscripts.
-
-[16:08:49] Number of vehicle models: 0
-[16:09:00] [connection] incoming connection: 127.0.0.1:62636 id: 0
-[16:09:10] [connection] incoming connection: 127.0.0.1:62637 id: 0
-[16:09:10] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:10:04] 
-[16:10:04] Server Plugins
-[16:10:04] --------------
-[16:10:04]  Loading plugin: crashdetect
-[16:10:04]   CrashDetect v4.15.1 is OK.
-[16:10:04]   Loaded.
-[16:10:04]  Loading plugin: streamer
-[16:10:04] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[16:10:04]   Loaded.
-[16:10:04]  Loading plugin: mysql
-[16:10:04]  >> plugin.mysql: R39-6 successfully loaded.
-[16:10:04]   Loaded.
-[16:10:04]  Loading plugin: sscanf
-[16:10:04] 
-
-[16:10:04]  ===============================
-
-[16:10:04]       sscanf plugin loaded.     
-
-[16:10:04]          Version:  2.8.2        
-
-[16:10:04]    (c) 2012 Alex "Y_Less" Cole  
-
-[16:10:04]  ===============================
-
-[16:10:04]   Loaded.
-[16:10:04]  Loading plugin: nativechecker
-[16:10:04]   Loaded.
-[16:10:04]  Loaded 5 plugins.
-
-[16:10:04] 
-[16:10:04] Ban list
-[16:10:04] --------
-[16:10:04]  Loaded: samp.ban
-[16:10:04] 
-[16:10:04] 
-[16:10:04] Filterscripts
-[16:10:04] ---------------
-[16:10:04]   Loaded 0 filterscripts.
-
-[16:10:04] Number of vehicle models: 0
-[16:10:12] [connection] incoming connection: 127.0.0.1:63034 id: 0
-[16:10:22] [connection] incoming connection: 127.0.0.1:63035 id: 0
-[16:10:22] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:39:39] 
-[16:39:39] Server Plugins
-[16:39:39] --------------
-[16:39:39]  Loading plugin: crashdetect
-[16:39:39]   CrashDetect v4.15.1 is OK.
-[16:39:39]   Loaded.
-[16:39:39]  Loading plugin: streamer
-[16:39:39] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[16:39:39]   Loaded.
-[16:39:39]  Loading plugin: mysql
-[16:39:39]  >> plugin.mysql: R39-6 successfully loaded.
-[16:39:39]   Loaded.
-[16:39:39]  Loading plugin: sscanf
-[16:39:39] 
-
-[16:39:39]  ===============================
-
-[16:39:39]       sscanf plugin loaded.     
-
-[16:39:39]          Version:  2.8.2        
-
-[16:39:39]    (c) 2012 Alex "Y_Less" Cole  
-
-[16:39:39]  ===============================
-
-[16:39:39]   Loaded.
-[16:39:39]  Loading plugin: nativechecker
-[16:39:39]   Loaded.
-[16:39:39]  Loaded 5 plugins.
-
-[16:39:39] 
-[16:39:39] Ban list
-[16:39:39] --------
-[16:39:39]  Loaded: samp.ban
-[16:39:39] 
-[16:39:39] 
-[16:39:39] Filterscripts
-[16:39:39] ---------------
-[16:39:39]   Loaded 0 filterscripts.
-
-[16:39:39] Number of vehicle models: 0
-[16:39:45] [connection] incoming connection: 127.0.0.1:49757 id: 0
-[16:39:45] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[18:40:36] 
-[18:40:36] Server Plugins
-[18:40:36] --------------
-[18:40:36]  Loading plugin: crashdetect
-[18:40:36]   CrashDetect v4.15.1 is OK.
-[18:40:36]   Loaded.
-[18:40:36]  Loading plugin: streamer
-[18:40:36] 
-
-*** Streamer Plugin v2.9.0 by Incognito loaded ***
-
-[18:40:36]   Loaded.
-[18:40:36]  Loading plugin: mysql
-[18:40:36]  >> plugin.mysql: R39-6 successfully loaded.
-[18:40:36]   Loaded.
-[18:40:36]  Loading plugin: sscanf
-[18:40:36] 
-
-[18:40:36]  ===============================
-
-[18:40:36]       sscanf plugin loaded.     
-
-[18:40:36]          Version:  2.8.2        
-
-[18:40:36]    (c) 2012 Alex "Y_Less" Cole  
-
-[18:40:36]  ===============================
-
-[18:40:36]   Loaded.
-[18:40:36]  Loading plugin: nativechecker
-[18:40:36]   Loaded.
-[18:40:36]  Loaded 5 plugins.
-
-[18:40:36] 
-[18:40:36] Ban list
-[18:40:36] --------
-[18:40:36]  Loaded: samp.ban
-[18:40:36] 
-[18:40:36] 
-[18:40:36] Filterscripts
-[18:40:36] ---------------
-[18:40:36]   Loaded 0 filterscripts.
-
-[18:40:37] Number of vehicle models: 0
-[18:41:53] [connection] incoming connection: 127.0.0.1:64364 id: 0
-[18:41:55] [connection] incoming connection: 127.0.0.1:64365 id: 0
-[18:42:00] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
-[19:21:48] --- Server Shutting Down.
+[19:58:57] 
+[19:58:57] Server Plugins
+[19:58:57] --------------
+[19:58:57]  Loading plugin: crashdetect
+[19:58:57]   CrashDetect plugin 4.19.4
+[19:58:57]   Loaded.
+[19:58:57]  Loading plugin: streamer
+[19:58:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:58:57]   Loaded.
+[19:58:57]  Loading plugin: mysql
+[19:58:57]  >> plugin.mysql: R41-4 successfully loaded.
+[19:58:57]   Loaded.
+[19:58:57]  Loading plugin: sscanf
+[19:58:57] 
+
+[19:58:57]  ===============================
+
+[19:58:57]       sscanf plugin loaded.     
+
+[19:58:57]          Version:  2.8.3        
+
+[19:58:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:58:57]  ===============================
+
+[19:58:57]   Loaded.
+[19:58:57]  Loading plugin: nativechecker
+[19:58:57]   Loaded.
+[19:58:57]  Loaded 5 plugins.
+
+[19:58:58] 
+[19:58:58] Filterscripts
+[19:58:58] ---------------
+[19:58:58]   Loaded 0 filterscripts.
+
+[19:58:58] Gamemode successfully loaded.
+[19:58:58] Number of vehicle models: 0
+[19:59:02] [connection] incoming connection: 127.0.0.1:62181 id: 0
+[19:59:02] [join] Test_1233 has joined the server (0:127.0.0.1)
+[19:59:08] [debug] Run time error 4: "Array index out of bounds"
+[19:59:08] [debug]  Attempted to read/write array element at index 26900 in array of size 1000
+[19:59:08] [debug] AMX backtrace:
+[19:59:08] [debug] #0 0000959c in ?? (26900, 0, 226149016, 134950567, 37683392, 44653488, 0, 0, 0, 0, ... <9565 more arguments>) at ../gamemodes/Includes/Publics.pwn:25
+[19:59:08] [debug] #1 0001a1b8 in public SQL_OnLoadAccount () at C:\Users\jasin\Desktop\SARP\gamemodes\test.pwn:89
+[19:59:22] [part] Test_1233 has left the server (0:1)
+[19:59:22] [connection] incoming connection: 127.0.0.1:50924 id: 0
+[19:59:22] [join] Test_1233 has joined the server (0:127.0.0.1)
+[19:59:31] [part] Test_1233 has left the server (0:1)
+[19:59:31] [connection] incoming connection: 127.0.0.1:62244 id: 0
+[19:59:31] [join] Jasin_Refiku has joined the server (0:127.0.0.1)

@@ -6,8 +6,8 @@ Server:SQL_OnAccountLogin(playerid)
     }
 
     SendClientMessage(playerid, COLOR_WHITE, "You have successfully logged in to the server.");
-    PlayerData[playerid][pSQLID] = cache_get_field_content_int(0, "id", sqlConnection);
-    PlayerData[playerid][pAdminLevel] = cache_get_field_content_int(0, "AdminLevel", sqlConnection);
+    PlayerData[playerid][pSQLID] = cache_get_value_name(0, "id");
+    PlayerData[playerid][pAdminLevel] = cache_get_value_name(0, "AdminLevel");
 
     LoadPlayerData(playerid);
     return true;    
@@ -17,18 +17,18 @@ Server:SQL_OnLoadAccount(playerid)
 {
     LoggedIn[playerid] = true;
 
-    PlayerData[playerid][pAdminLevel] = cache_get_field_content_int(0, "AdminLevel", sqlConnection);
-    PlayerData[playerid][pCash] = cache_get_field_content_int(0, "Cash", sqlConnection);
-    PlayerData[playerid][pLevel] = cache_get_field_content_int(0, "Level", sqlConnection);
-    PlayerData[playerid][pRespect] = cache_get_field_content_int(0, "Respect", sqlConnection);
+    PlayerData[playerid][pAdminLevel] = cache_get_value_name(0, "AdminLevel");
+    PlayerData[playerid][pCash] = cache_get_value_name(0, "Cash");
+    PlayerData[playerid][pLevel] = cache_get_value_name(0, "Level");
+    PlayerData[playerid][pRespect] = cache_get_value_name(0, "Respect");
 
-    PlayerData[playerid][pLastPos][0] = cache_get_field_content_float(0, "LastX", sqlConnection);
-    PlayerData[playerid][pLastPos][1] = cache_get_field_content_float(0, "LastY", sqlConnection);
-    PlayerData[playerid][pLastPos][2] = cache_get_field_content_float(0, "LastZ", sqlConnection);
-    PlayerData[playerid][pLastPos][3] = cache_get_field_content_float(0, "LastRot", sqlConnection);
+    PlayerData[playerid][pLastPos][0] = cache_get_value_name(0, "LastX");
+    PlayerData[playerid][pLastPos][1] = cache_get_value_name(0, "LastY");
+    PlayerData[playerid][pLastPos][2] = cache_get_value_name(0, "LastZ");
+    PlayerData[playerid][pLastPos][3] = cache_get_value_name(0, "LastRot");
 
-    PlayerData[playerid][pLastInt] = cache_get_field_content_int(0, "Interior", sqlConnection);
-    PlayerData[playerid][pLastVW] = cache_get_field_content_int(0, "VW", sqlConnection);
+    PlayerData[playerid][pLastInt] = cache_get_value_name(0, "Interior");
+    PlayerData[playerid][pLastVW] = cache_get_value_name(0, "VW");
 
     SetPlayerScore(playerid, PlayerData[playerid][pLevel]);
 
@@ -141,7 +141,7 @@ Server:SQL_DoesPlayerExist(playerid)
 
 }
 
-Server:ShowLoginDialog(playerid, error[])
+Server:ShowLoginDialog(playerid, const error[])
 {
     if(LoggedIn[playerid])return true;
 
@@ -152,7 +152,7 @@ Server:ShowLoginDialog(playerid, error[])
     return true;
 }
 
-Server:ShowRegisterDialog(playerid, error[])
+Server:ShowRegisterDialog(playerid, const error[])
 {
     if(LoggedIn[playerid]) return true;
 
