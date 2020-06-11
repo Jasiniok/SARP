@@ -1677,3 +1677,529 @@ v0.3.DL-R1, (C)2005-2018 SA-MP Team
 [22:48:11] Number of vehicle models: 0
 [22:48:35] [connection] incoming connection: 127.0.0.1:56067 id: 0
 [22:48:35] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[23:06:02] [part] Jasin_Refiku has left the server (0:1)
+[23:06:03] [connection] incoming connection: 127.0.0.1:54678 id: 0
+[23:06:03] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[23:06:11] [part] Jasin_Refiku has left the server (0:1)
+[23:06:11] [connection] incoming connection: 127.0.0.1:54685 id: 0
+[23:06:12] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[23:06:16] [part] Jasin_Refiku has left the server (0:1)
+[23:06:16] [connection] incoming connection: 127.0.0.1:54688 id: 0
+[23:06:16] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[23:06:23] [part] Jasin_Refiku has left the server (0:1)
+[23:06:23] [connection] incoming connection: 127.0.0.1:50960 id: 0
+[23:06:23] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[23:06:29] [part] Jasin_Refiku has left the server (0:1)
+[23:06:29] [connection] incoming connection: 127.0.0.1:50963 id: 0
+[23:06:29] [join] Jasin_Refik has joined the server (0:127.0.0.1)
+[23:06:32] [part] Jasin_Refik has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[23:29:31] 
+[23:29:31] Server Plugins
+[23:29:31] --------------
+[23:29:31]  Loading plugin: crashdetect
+[23:29:31]   CrashDetect plugin 4.19.4
+[23:29:31]   Loaded.
+[23:29:31]  Loading plugin: streamer
+[23:29:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:29:31]   Loaded.
+[23:29:31]  Loading plugin: mysql
+[23:29:31]  >> plugin.mysql: R41-4 successfully loaded.
+[23:29:31]   Loaded.
+[23:29:31]  Loading plugin: sscanf
+[23:29:31] 
+
+[23:29:31]  ===============================
+
+[23:29:31]       sscanf plugin loaded.     
+
+[23:29:31]          Version:  2.8.3        
+
+[23:29:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:29:31]  ===============================
+
+[23:29:31]   Loaded.
+[23:29:31]  Loading plugin: nativechecker
+[23:29:31]   Loaded.
+[23:29:31]  Loaded 5 plugins.
+
+[23:29:32] 
+[23:29:32] Filterscripts
+[23:29:32] ---------------
+[23:29:32]   Loaded 0 filterscripts.
+
+[23:29:33] Gamemode successfully loaded.
+[23:29:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:16:05] 
+[13:16:05] Server Plugins
+[13:16:05] --------------
+[13:16:05]  Loading plugin: crashdetect
+[13:16:05]   CrashDetect plugin 4.19.4
+[13:16:05]   Loaded.
+[13:16:05]  Loading plugin: streamer
+[13:16:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:16:06]   Loaded.
+[13:16:06]  Loading plugin: mysql
+[13:16:06]  >> plugin.mysql: R41-4 successfully loaded.
+[13:16:06]   Loaded.
+[13:16:06]  Loading plugin: sscanf
+[13:16:06] 
+
+[13:16:06]  ===============================
+
+[13:16:06]       sscanf plugin loaded.     
+
+[13:16:06]          Version:  2.8.3        
+
+[13:16:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:16:06]  ===============================
+
+[13:16:06]   Loaded.
+[13:16:06]  Loading plugin: nativechecker
+[13:16:07]   Loaded.
+[13:16:07]  Loaded 5 plugins.
+
+[13:16:07] 
+[13:16:07] Filterscripts
+[13:16:07] ---------------
+[13:16:07]   Loaded 0 filterscripts.
+
+[13:16:23] Gamemode successfully loaded.
+[13:16:23] Number of vehicle models: 0
+Console input: exit
+[13:16:24] --- Server Shutting Down.
+[13:16:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[13:16:25] plugin.mysql: Unloading plugin...
+[13:16:27] plugin.mysql: Plugin unloaded.
+[13:16:27] 
+
+[13:16:27]  ===============================
+
+[13:16:27]      sscanf plugin unloaded.    
+
+[13:16:27]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:16:29] 
+[13:16:29] Server Plugins
+[13:16:29] --------------
+[13:16:29]  Loading plugin: crashdetect
+[13:16:29]   CrashDetect plugin 4.19.4
+[13:16:29]   Loaded.
+[13:16:29]  Loading plugin: streamer
+[13:16:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:16:29]   Loaded.
+[13:16:29]  Loading plugin: mysql
+[13:16:29]  >> plugin.mysql: R41-4 successfully loaded.
+[13:16:29]   Loaded.
+[13:16:29]  Loading plugin: sscanf
+[13:16:29] 
+
+[13:16:29]  ===============================
+
+[13:16:29]       sscanf plugin loaded.     
+
+[13:16:29]          Version:  2.8.3        
+
+[13:16:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:16:29]  ===============================
+
+[13:16:29]   Loaded.
+[13:16:29]  Loading plugin: nativechecker
+[13:16:29]   Loaded.
+[13:16:29]  Loaded 5 plugins.
+
+[13:16:30] 
+[13:16:30] Filterscripts
+[13:16:30] ---------------
+[13:16:30]   Loaded 0 filterscripts.
+
+[13:16:46] Gamemode successfully loaded.
+[13:16:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:17:51] 
+[13:17:51] Server Plugins
+[13:17:51] --------------
+[13:17:51]  Loading plugin: crashdetect
+[13:17:51]   CrashDetect plugin 4.19.4
+[13:17:51]   Loaded.
+[13:17:51]  Loading plugin: streamer
+[13:17:51] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:17:51]   Loaded.
+[13:17:51]  Loading plugin: mysql
+[13:17:51]  >> plugin.mysql: R41-4 successfully loaded.
+[13:17:51]   Loaded.
+[13:17:51]  Loading plugin: sscanf
+[13:17:51] 
+
+[13:17:51]  ===============================
+
+[13:17:51]       sscanf plugin loaded.     
+
+[13:17:51]          Version:  2.8.3        
+
+[13:17:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:17:51]  ===============================
+
+[13:17:51]   Loaded.
+[13:17:51]  Loading plugin: nativechecker
+[13:17:51]   Loaded.
+[13:17:51]  Loaded 5 plugins.
+
+[13:17:52] 
+[13:17:52] Filterscripts
+[13:17:52] ---------------
+[13:17:52]   Loaded 0 filterscripts.
+
+[13:17:53] Gamemode successfully loaded.
+[13:17:53] Number of vehicle models: 0
+[13:19:17] [connection] incoming connection: 127.0.0.1:63600 id: 0
+[13:19:18] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[13:19:53] [chat] [Jasin_Refiku]: .
+Console input: exit
+[13:21:42] --- Server Shutting Down.
+[13:21:43] [part] Jasin_Refiku has left the server (0:0)
+[13:21:43] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[13:21:43] plugin.mysql: Unloading plugin...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:22:40] 
+[13:22:40] Server Plugins
+[13:22:40] --------------
+[13:22:40]  Loading plugin: crashdetect
+[13:22:40]   CrashDetect plugin 4.19.4
+[13:22:40]   Loaded.
+[13:22:40]  Loading plugin: streamer
+[13:22:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:22:40]   Loaded.
+[13:22:40]  Loading plugin: mysql
+[13:22:40]  >> plugin.mysql: R41-4 successfully loaded.
+[13:22:40]   Loaded.
+[13:22:40]  Loading plugin: sscanf
+[13:22:40] 
+
+[13:22:40]  ===============================
+
+[13:22:40]       sscanf plugin loaded.     
+
+[13:22:40]          Version:  2.8.3        
+
+[13:22:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:22:40]  ===============================
+
+[13:22:40]   Loaded.
+[13:22:40]  Loading plugin: nativechecker
+[13:22:40]   Loaded.
+[13:22:40]  Loaded 5 plugins.
+
+[13:22:41] 
+[13:22:41] Filterscripts
+[13:22:41] ---------------
+[13:22:41]   Loaded 0 filterscripts.
+
+[13:22:41] Gamemode successfully loaded.
+[13:22:41] Number of vehicle models: 0
+[13:23:01] [connection] incoming connection: 127.0.0.1:53997 id: 0
+[13:23:01] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[13:23:06] [chat] [Jasin_Refiku]: .
+Console input: exit
+[13:33:14] --- Server Shutting Down.
+[13:33:15] [part] Jasin_Refiku has left the server (0:0)
+[13:33:15] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[13:33:15] plugin.mysql: Unloading plugin...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:33:34] 
+[13:33:34] Server Plugins
+[13:33:34] --------------
+[13:33:34]  Loading plugin: crashdetect
+[13:33:34]   CrashDetect plugin 4.19.4
+[13:33:34]   Loaded.
+[13:33:34]  Loading plugin: streamer
+[13:33:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:33:34]   Loaded.
+[13:33:34]  Loading plugin: mysql
+[13:33:34]  >> plugin.mysql: R41-4 successfully loaded.
+[13:33:34]   Loaded.
+[13:33:34]  Loading plugin: sscanf
+[13:33:34] 
+
+[13:33:34]  ===============================
+
+[13:33:34]       sscanf plugin loaded.     
+
+[13:33:34]          Version:  2.8.3        
+
+[13:33:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:33:34]  ===============================
+
+[13:33:34]   Loaded.
+[13:33:34]  Loading plugin: nativechecker
+[13:33:34]   Loaded.
+[13:33:34]  Loaded 5 plugins.
+
+[13:33:34] 
+[13:33:34] Filterscripts
+[13:33:34] ---------------
+[13:33:34]   Loaded 0 filterscripts.
+
+[13:33:35] Gamemode successfully loaded.
+[13:33:35] Number of vehicle models: 0
+[13:33:41] [connection] incoming connection: 127.0.0.1:61958 id: 0
+[13:33:41] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[13:33:45] [chat] [Jasin_Refiku]: .
+[13:34:00] [part] Jasin_Refiku has left the server (0:1)
+[13:34:01] [connection] incoming connection: 127.0.0.1:52841 id: 0
+[13:34:01] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[13:34:05] [chat] [Jasin_Refiku]: test
+[13:34:10] [part] Jasin_Refiku has left the server (0:1)
+[13:34:10] [connection] incoming connection: 127.0.0.1:52842 id: 0
+[13:34:10] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:35:13] 
+[13:35:13] Server Plugins
+[13:35:13] --------------
+[13:35:13]  Loading plugin: crashdetect
+[13:35:13]   CrashDetect plugin 4.19.4
+[13:35:13]   Loaded.
+[13:35:13]  Loading plugin: streamer
+[13:35:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:35:13]   Loaded.
+[13:35:13]  Loading plugin: mysql
+[13:35:13]  >> plugin.mysql: R41-4 successfully loaded.
+[13:35:13]   Loaded.
+[13:35:13]  Loading plugin: sscanf
+[13:35:13] 
+
+[13:35:13]  ===============================
+
+[13:35:13]       sscanf plugin loaded.     
+
+[13:35:13]          Version:  2.8.3        
+
+[13:35:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:35:13]  ===============================
+
+[13:35:13]   Loaded.
+[13:35:13]  Loading plugin: nativechecker
+[13:35:13]   Loaded.
+[13:35:13]  Loaded 5 plugins.
+
+[13:35:13] 
+[13:35:13] Filterscripts
+[13:35:13] ---------------
+[13:35:13]   Loaded 0 filterscripts.
+
+[13:35:15] Gamemode successfully loaded.
+[13:35:15] Number of vehicle models: 0
+[13:35:20] [connection] incoming connection: 127.0.0.1:54329 id: 0
+[13:35:20] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[13:35:27] [chat] [Jasin_Refiku]: test
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:47:11] 
+[13:47:11] Server Plugins
+[13:47:11] --------------
+[13:47:11]  Loading plugin: crashdetect
+[13:47:11]   CrashDetect plugin 4.19.4
+[13:47:11]   Loaded.
+[13:47:11]  Loading plugin: streamer
+[13:47:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:47:11]   Loaded.
+[13:47:11]  Loading plugin: mysql
+[13:47:11]  >> plugin.mysql: R41-4 successfully loaded.
+[13:47:11]   Loaded.
+[13:47:11]  Loading plugin: sscanf
+[13:47:11] 
+
+[13:47:11]  ===============================
+
+[13:47:11]       sscanf plugin loaded.     
+
+[13:47:11]          Version:  2.8.3        
+
+[13:47:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:47:11]  ===============================
+
+[13:47:11]   Loaded.
+[13:47:11]  Loading plugin: nativechecker
+[13:47:11]   Loaded.
+[13:47:11]  Loaded 5 plugins.
+
+[13:47:11] 
+[13:47:11] Filterscripts
+[13:47:11] ---------------
+[13:47:11]   Loaded 0 filterscripts.
+
+[13:47:13] Gamemode successfully loaded.
+[13:47:13] Number of vehicle models: 0
+[13:47:15] [connection] incoming connection: 127.0.0.1:58949 id: 0
+[13:47:15] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[13:47:19] [chat] [Jasin_Refiku]: a
+[13:47:26] [chat] [Jasin_Refiku]: a
+[13:47:32] [part] Jasin_Refiku has left the server (0:1)
+[13:47:33] [connection] incoming connection: 127.0.0.1:58189 id: 0
+[13:47:33] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[13:47:37] [chat] [Jasin_Refiku]: a
+[13:48:01] [part] Jasin_Refiku has left the server (0:1)
+[13:48:01] [connection] incoming connection: 127.0.0.1:58192 id: 0
+[13:48:01] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[13:48:06] [chat] [Jasin_Refiku]: a
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:59:19] 
+[13:59:19] Server Plugins
+[13:59:19] --------------
+[13:59:19]  Loading plugin: crashdetect
+[13:59:19]   CrashDetect plugin 4.19.4
+[13:59:19]   Loaded.
+[13:59:19]  Loading plugin: streamer
+[13:59:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:59:19]   Loaded.
+[13:59:19]  Loading plugin: mysql
+[13:59:19]  >> plugin.mysql: R41-4 successfully loaded.
+[13:59:19]   Loaded.
+[13:59:19]  Loading plugin: sscanf
+[13:59:19] 
+
+[13:59:19]  ===============================
+
+[13:59:19]       sscanf plugin loaded.     
+
+[13:59:19]          Version:  2.8.3        
+
+[13:59:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:59:19]  ===============================
+
+[13:59:19]   Loaded.
+[13:59:19]  Loading plugin: nativechecker
+[13:59:19]   Loaded.
+[13:59:19]  Loaded 5 plugins.
+
+[13:59:19] 
+[13:59:19] Filterscripts
+[13:59:19] ---------------
+[13:59:19]   Loaded 0 filterscripts.
+
+[13:59:21] Gamemode successfully loaded.
+[13:59:21] Number of vehicle models: 0
+[13:59:28] [connection] incoming connection: 127.0.0.1:50420 id: 0
+[13:59:29] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[13:59:29] [part] Jasin_Refiku has left the server (0:1)
+[13:59:30] [connection] incoming connection: 127.0.0.1:50421 id: 0
+[13:59:30] [join] Jasin_Refiku has joined the server (0:127.0.0.1)
+[13:59:34] [chat] [Jasin_Refiku]: a

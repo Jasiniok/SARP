@@ -138,6 +138,7 @@ Server:SQL_DoesPlayerExist(playerid)
     {
         ShowRegisterDialog(playerid, "");
     }
+
     return true;
 }
 

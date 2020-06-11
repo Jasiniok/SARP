@@ -13,6 +13,8 @@
 #include "../gamemodes/Includes/Commands/General.pwn"
 #include "../gamemodes/Includes/Commands/Account.pwn"
 
+#include "../gamemodes/Includes/Admin/AdmCmd.pwn"
+
 main(){
 
 }
@@ -38,6 +40,8 @@ public OnPlayerConnect(playerid)
 {
     DoesPlayerExist(playerid);
     DefaultPlayerValues(playerid);
+    SetPlayerColor(playerid, -1);
+    ShowPlayerMarkers(0);
     return true;
 }
 
@@ -78,6 +82,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 public OnPlayerDisconnect(playerid, reason)
 {
     DefaultPlayerValues(playerid);
+    LoggedIn[playerid] = false;
     return true;
 }
 public OnPlayerDeath(playerid, killerid, reason)
@@ -89,16 +94,27 @@ public OnPlayerUpdate(playerid)
     return true;
 }
 
-CMD:skin(playerid,params[])
-{
-    new skinnumber, skinid, string[128];
-    if(sscanf(params, "d", skinid)) SendClientMessage(playerid, -1, "{ffff00}=USAGE=: {ffffff}/skin <skinid>");
-    else
-    {
-        SetPlayerSkin(playerid, skinid);
-        skinnumber = GetPlayerSkin(playerid);
-        format(string, sizeof(string), "{ffff00}=INFO=: {ffffff}You have changed your skin to %d", skinnumber);
-        SendClientMessage(playerid, -1, string);
-    }
+public OnPlayerCommandPerformed(playerid, cmdtext[], success)
+{	
+    if(LoggedIn[playerid] == false)
+        {
+            SendClientMessage(playerid, -1, "You have to be logged in to type in a command.");
+            return 0;
+        }
+    if(!success) SendClientMessage(playerid, COLOR_WHITE, "That command doesn't exist, try using '/(h)elp' or '/(n)ewbie' for any questions.");
     return 1;
+}
+
+public OnPlayerText(playerid, text[])
+{
+    new message[128];
+    if(LoggedIn[playerid] == false){
+        SendClientMessage(playerid, -1, "You have to be logged in to talk.");
+        return 0;
+    }
+    else {
+    format(message, sizeof(message), "%s says: %s", NameRP(playerid), text);
+    SendLocalMessage(playerid, COLOR_WHITE, message);
+    }
+    return 0;
 }
