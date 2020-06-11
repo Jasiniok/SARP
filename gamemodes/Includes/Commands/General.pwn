@@ -133,3 +133,20 @@ CMD:try(playerid, params[])
     SendLocalMessage(playerid, COLOR_EMOTE, string);
     return true;
 }
+
+CMD:injuries(playerid, params[])
+{
+    if(!LoggedIn[playerid])return true;
+
+    new id;
+    if(sscanf(params, "u", id))return SendClientMessage(playerid, COLOR_WHITE, "USAGE: /injuries [Player ID or NAME]");
+    {
+        if(!IsPlayerConnected(id))return SendClientMessage(playerid, COLOR_WHITE, "That player is not connected.");
+        if(!LoggedIn[id])return SendClientMessage(playerid, COLOR_WHITE, "That player has not logged in.");
+
+        if(!GetDistanceBetweenPlayers(playerid, id, 5.0))return SendClientMessage(playerid, COLOR_WHITE, "That player is not close enough to you.");
+
+        DisplayDamageData(id, playerid);
+    }
+    return true;
+}

@@ -35,6 +35,7 @@ Server:SQL_OnLoadAccount(playerid)
 
     ResetPlayerMoney(playerid); GivePlayerMoney(playerid, PlayerData[playerid][pCash]);
 
+    TogglePlayerSpectating(playerid, false);
     SetPlayerSpawn(playerid);
     return true;
 }
@@ -117,6 +118,8 @@ Server:DefaultPlayerValues(playerid)
     PlayerData[playerid][pCash] = 0;
     PlayerData[playerid][pBank] = 0;
     PlayerData[playerid][pRespect] = 0;
+
+    ResetDamageData(playerid);
     return true;
 }
 
@@ -139,6 +142,19 @@ Server:SQL_DoesPlayerExist(playerid)
         ShowRegisterDialog(playerid, "");
     }
 
+    SetPlayerPos(playerid, 1481.1636, -1758.3107, 17.5313);
+    SetPlayerCameraLookAt(playerid, 1481.1636, -1758.3107, 17.5313);
+    SetPlayerCameraPos(playerid, 1475.2010, -1700.4648, 53.6622);
+
+    TogglePlayerSpectating(playerid, true);
+    return true;
+}
+
+Server:TIMER_SetCameraPos(playerid)
+{
+    SetPlayerPos(playerid, 1481.1636, -1758.3107, 17.5313);
+    SetPlayerCameraLookAt(playerid, 1481.1636, -1758.3107, 17.5313);
+    SetPlayerCameraPos(playerid, 1475.2010, -1700.4648, 53.6622);
     return true;
 }
 
@@ -209,5 +225,84 @@ Server:SendLocalMessageEx(playerid, color,  msg[], Float:distance)
             }
         }
     }
+    return true;
+}
+
+GetDamageType(weaponid)
+{
+    new damageType[25] = EOS;
+
+    switch(weaponid)
+    {
+        case 0 .. 3, 5 .. 7, 10 .. 15:damageType = "Blunt Trauma";
+        case 4, 8, 9:damageType = "Stab Wound";
+        case 22 .. 34:damageType = "Gunshot Wound";
+        case 16, 18, 35, 36, 37, 39, 40:damageType = "Explosive/Burn Wound";
+        default:damageType = "Unknown";
+    }
+    return damageType;
+}
+
+Server:ResetDamageData(playerid)
+{
+    for(new i = 0; i < MAX_DAMAGES; i++){
+        if(DamageData[i][DamagePlayerID] == playerid){
+            DamageData[i][DamagePlayerID] = INVALID_PLAYER_ID;
+            DamageData[i][DamageWeapon] = INVALID_WEAPON_ID;
+            DamageData[i][DamageBodypart] = 0;
+            DamageData[i][DamageAmount] = 0.0;
+        }
+    }
+    return true;
+}
+
+Server:SaveDamageData(playerid, weaponid, bodypart, Float:amount)
+{
+    totalDamages ++;
+    new i = totalDamages;
+
+    DamageData[i][DamagePlayerID] = playerid;
+    DamageData[i][DamageWeapon] = weaponid;
+    DamageData[i][DamageBodypart] = bodypart;
+    DamageData[i][DamageAmount] = amount;
+    return true;
+}
+
+GetBoneDamaged(bodypart)
+{
+    new bodypartR[20] = EOS;
+    switch(bodypart)
+    {
+        case BODY_PART_TORSO:bodypartR = "Chest";
+        case BODY_PART_GROIN:bodypartR = "Groin";
+        case BODY_PART_LEFT_ARM:bodypartR = "Left Arm";
+        case BODY_PART_RIGHT_ARM:bodypartR = "Right Arm";
+        case BODY_PART_LEFT_LEG:bodypartR = "Left Leg";
+        case BODY_PART_RIGHT_LEG:bodypartR = "Right Leg";
+        case BODY_PART_HEAD:bodypartR = "Head"; 
+    }
+    return bodypartR;
+}
+
+Server:DisplayDamageData(playerid, forplayerid)
+{
+    new count = 0;
+    for(new i = 0; i < MAX_DAMAGES; i++){
+        if(DamageData[i][DamagePlayerID] == playerid){
+            count++;
+        }
+    }
+    
+    if(!count)return SendClientMessage(forplayerid, COLOR_WHITE, "That player hasn't been injured/wounded.");
+
+    new longstr[512] = EOS, weaponname[20] = EOS;
+    for(new i = 0; i < MAX_DAMAGES; i++){
+        if(DamageData[i][DamagePlayerID] == playerid){
+            GetWeaponName(DamageData[i][DamageWeapon], weaponname, sizeof(weaponname));
+            format(longstr, sizeof(longstr), "%s{FFFFFF} (%s - %s) %s\n", longstr, GetDamageType(DamageData[i][DamageWeapon]), GetBoneDamaged(DamageData[i][DamageBodypart]), weaponname);
+        }
+    }
+
+    ShowPlayerDialog(playerid, DIALOG_UNUSED, DIALOG_STYLE_LIST, "Damage Information", longstr, "Close", "");
     return true;
 }

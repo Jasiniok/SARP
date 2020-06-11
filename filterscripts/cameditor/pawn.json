@@ -1,0 +1,9 @@
+{
+	"user": "Jasiniok",
+	"repo": "cameditor",
+	"entry": "cameditor.pwn",
+	"output": "../cameditor.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}

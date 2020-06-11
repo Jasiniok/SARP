@@ -21,6 +21,7 @@ main(){
 
 public OnGameModeInit()
 {
+    SetGameModeText(""SHORT_GAMEMODE_TEXT" v"VERSION_TEXT"");
     mysql_log(ALL);
     sqlConnection = mysql_connect(SQL_HOST, SQL_USER, SQL_PASSWORD, SQL_DATABASE);
     OneSecondTimer = SetTimer("TIMER_OneSecondTimer", 999, true);
@@ -38,10 +39,26 @@ public OnGameModeExit()
 
 public OnPlayerConnect(playerid)
 {
-    DoesPlayerExist(playerid);
     DefaultPlayerValues(playerid);
+    DoesPlayerExist(playerid);
+
     SetPlayerColor(playerid, -1);
     ShowPlayerMarkers(0);
+
+    SetTimerEx("TIMER_SetCameraPos", 1000, false, "i", playerid);
+    return true;
+}
+
+public OnPlayerSpawn(playerid)
+{
+    ResetDamageData(playerid);
+    return true;
+}
+
+public OnPlayerDisconnect(playerid, reason)
+{
+    DefaultPlayerValues(playerid);
+    LoggedIn[playerid] = false;
     return true;
 }
 
@@ -79,12 +96,15 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
     return false;
 }
 
-public OnPlayerDisconnect(playerid, reason)
-{
-    DefaultPlayerValues(playerid);
-    LoggedIn[playerid] = false;
+public OnPlayerTakeDamage(playerid, issuerid, Float:amount, weaponid, bodypart)
+{   
+    if(issuerid != INVALID_PLAYER_ID)
+        SaveDamageData(playerid, weaponid, bodypart, amount);
     return true;
 }
+
+
+
 public OnPlayerDeath(playerid, killerid, reason)
 {
     return true;
