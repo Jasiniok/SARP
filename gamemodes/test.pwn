@@ -15,6 +15,8 @@
 
 #include "../gamemodes/Includes/Admin/AdmCmd.pwn"
 
+#include "../gamemodes/Includes/Properties/Houses.pwn"
+
 main(){
 
 }
@@ -26,6 +28,8 @@ public OnGameModeInit()
     sqlConnection = mysql_connect(SQL_HOST, SQL_USER, SQL_PASSWORD, SQL_DATABASE);
     OneSecondTimer = SetTimer("TIMER_OneSecondTimer", 999, true);
     printf("Gamemode successfully loaded.");
+
+    LoadServerHouses();
     return true;
 }
 
@@ -75,7 +79,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
             return true;
             }
             
-            new query[128];
+            new query[256];
             mysql_format(sqlConnection, query, sizeof(query), "INSERT into players (Name, Password, RegIP) VALUES('%e', sha1('%e'), '%e')", GetName(playerid), inputtext, GetIP(playerid));
             mysql_pquery(sqlConnection, query, "SQL_OnAccountRegister", "i", playerid);
         }
@@ -88,7 +92,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
             return true;
             }
 
-            new query[128];
+            new query[256];
             mysql_format(sqlConnection, query, sizeof(query), "SELECT id from players WHERE Name = '%e' AND Password = sha1('%e') LIMIT 1", GetName(playerid), inputtext);
             mysql_pquery(sqlConnection, query, "SQL_OnAccountLogin", "i", playerid);
         }

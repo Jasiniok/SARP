@@ -66,7 +66,7 @@ Server:SavePlayerPosition(playerid, bool:save)
     PlayerData[playerid][pLastVW] = GetPlayerVirtualWorld(playerid);
 
     if (save) {
-        new query[123];
+        new query[256];
         mysql_format(sqlConnection, query, sizeof(query), "UPDATE players SET LastX = %f, LastY = %f, LastZ = %f, LastRot = %f, Interior = %i, VW = %i WHERE id = %i LIMIT 1",
         PlayerData[playerid][pLastPos][0], PlayerData[playerid][pLastPos][1], PlayerData[playerid][pLastPos][2], PlayerData[playerid][pLastPos][3], 
         PlayerData[playerid][pLastInt], PlayerData[playerid][pLastVW], PlayerData[playerid][pSQLID]);
@@ -306,3 +306,4 @@ Server:DisplayDamageData(playerid, forplayerid)
     ShowPlayerDialog(playerid, DIALOG_UNUSED, DIALOG_STYLE_LIST, "Damage Information", longstr, "Close", "");
     return true;
 }
+
