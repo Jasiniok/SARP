@@ -103,7 +103,7 @@ Server:SQL_OnAccountRegister(playerid)
     return true;
 }
 
-Server:SaveSQLInt(sqlid, table[], row[], value)
+SaveSQLInt(sqlid, const table[], const row[], value)
 {
     new query[256];
     mysql_format(sqlConnection, query, sizeof(query), "UPDATE %e SET %e = %i WHERE id = %i", table, row, value, sqlid);
@@ -112,6 +112,8 @@ Server:SaveSQLInt(sqlid, table[], row[], value)
 }
 Server:DefaultPlayerValues(playerid)
 {
+    LoggedIn[playerid] = false;
+
     PlayerData[playerid][pSQLID] = 0;
     PlayerData[playerid][pLevel] = 1;
     PlayerData[playerid][pAdminLevel] = 0;
@@ -307,3 +309,43 @@ Server:DisplayDamageData(playerid, forplayerid)
     return true;
 }
 
+stock ReturnAdminRank(rankid)
+{
+    new string[20];
+
+    switch(rankid){
+        case 1: string = "Trial Moderator";
+        case 2: string = "Moderator";
+        case 3: string = "Game Administrator";
+        case 4: string = "Senior Administrator";
+        case 5: string = "Head Administrator";
+        case 6: string = "Management";
+    }
+}
+
+GiveCash(playerid, amount)
+{
+    PlayerData[playerid][pCash] += amount;
+
+    ResetPlayerMoney(playerid);
+    GivePlayerMoney(playerid, PlayerData[playerid][pCash]);
+    
+    SaveSQLInt(PlayerData[playerid][pSQLID], "players", "Cash", PlayerData[playerid][pCash]);
+    return true;
+}
+
+CountPlayerHouses(playerid)
+{
+    new count = 0;
+
+    for(new i = 0; i < MAX_HOUSES; i++)
+    {
+        if(HouseData[i][HouseID]){
+            if(HouseData[i][HouseOwnerSQL] == PlayerData[playerid][pSQLID]){
+                count++;
+            }
+        }
+    }
+
+    return count;
+}

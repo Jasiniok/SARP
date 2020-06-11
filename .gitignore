@@ -23,6 +23,8 @@ pawn.lock
 # but make sure the `rcon_password` field is set externally
 # you can use the environment variable `SAMP_RCON_PASSWORD` to do this.
 server.cfg
+*.log
+*.txt
 
 # Plugins directory
 plugins/
@@ -48,3 +50,7 @@ samp.ban
 #
 
 *.sublime-workspace
+logs/plugins/mysql.log
+crashinfo.txt
+server_log.txt
+logs/plugins/mysql.log

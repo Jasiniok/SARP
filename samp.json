@@ -9,9 +9,6 @@
 		"sscanf",
 		"nativechecker"
 	],
-	"filterscripts": [
-		"cameditor"
-	],
 	"rcon_password": "test12333",
 	"port": 7777,
 	"hostname": "Test Server1",

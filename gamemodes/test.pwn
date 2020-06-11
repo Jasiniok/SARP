@@ -14,8 +14,8 @@
 #include "../gamemodes/Includes/Commands/Account.pwn"
 
 #include "../gamemodes/Includes/Admin/AdmCmd.pwn"
-
 #include "../gamemodes/Includes/Properties/Houses.pwn"
+
 
 main(){
 
@@ -24,7 +24,7 @@ main(){
 public OnGameModeInit()
 {
     SetGameModeText(""SHORT_GAMEMODE_TEXT" v"VERSION_TEXT"");
-    mysql_log(ALL);
+    mysql_log(ERROR);
     sqlConnection = mysql_connect(SQL_HOST, SQL_USER, SQL_PASSWORD, SQL_DATABASE);
     OneSecondTimer = SetTimer("TIMER_OneSecondTimer", 999, true);
     printf("Gamemode successfully loaded.");
@@ -62,7 +62,6 @@ public OnPlayerSpawn(playerid)
 public OnPlayerDisconnect(playerid, reason)
 {
     DefaultPlayerValues(playerid);
-    LoggedIn[playerid] = false;
     return true;
 }
 
